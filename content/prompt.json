@@ -1,0 +1,135 @@
+{
+  "word": "prompt",
+  "pron": "/prɒmpt/",
+  "category": "ai",
+  "tr": {
+    "pos": "isim / fiil", "title": "prompt ne demek?",
+    "metaDesc": "prompt ne demek? Yapay zekaya verilen komut. Anlamları, örnek cümleler ve AI kalıpları — LinguaBattle.",
+    "lede": "<b>prompt</b>, yapay zeka çağıyla popülerleşti. Bir yapay zekaya (ChatGPT, Gemini) verdiğin <b>komut/yönlendirme</b> demektir. Ayrıca “hızlı/vakitlice” ve “teşvik etmek” anlamları da var.",
+    "means": [
+      {"def": "komut, yönlendirme (yapay zekaya verilen)", "en": "Write a clear prompt for better results.", "t": "Daha iyi sonuç için net bir komut yaz."},
+      {"def": "teşvik etmek, harekete geçirmek (fiil)", "en": "The error prompted a quick fix.", "t": "Hata, hızlı bir düzeltmeyi tetikledi."},
+      {"def": "hızlı, vakitlice (sıfat)", "en": "Thank you for your prompt reply.", "t": "Hızlı yanıtınız için teşekkürler."}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["prompt vs command", "generate", "refine"],
+    "idiomTitle": "AI kalıpları", "idioms": ["write a prompt", "prompt engineering", "in the style of..."],
+    "quizQ": "AI bağlamında “prompt” nedir?", "quizA": ["Yapay zekaya verilen komut", "Bir hata türü", "Bir dosya formatı"], "quizOk": 0
+  },
+  "en": {
+    "pos": "noun / verb", "title": "What does prompt mean?",
+    "metaDesc": "What does prompt mean? The instruction you give an AI. Meanings, examples and AI phrases — LinguaBattle.",
+    "lede": "<b>prompt</b> became popular with AI. It means the <b>instruction</b> you give an AI (ChatGPT, Gemini). It also means “quick/timely” and “to trigger”.",
+    "means": [
+      {"def": "instruction given to an AI", "en": "Write a clear prompt for better results.", "t": "(AI instruction)"},
+      {"def": "to trigger / cause (verb)", "en": "The error prompted a quick fix.", "t": "(to cause)"},
+      {"def": "quick, timely (adjective)", "en": "Thank you for your prompt reply.", "t": "(quick)"}
+    ],
+    "relTitle": "Often confused", "rel": ["prompt vs command", "generate", "refine"],
+    "idiomTitle": "AI phrases", "idioms": ["write a prompt", "prompt engineering", "in the style of..."],
+    "quizQ": "In AI, what is a “prompt”?", "quizA": ["An instruction you give the AI", "A type of error", "A file format"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Substantiv / Verb", "title": "Was bedeutet prompt?",
+    "metaDesc": "Was bedeutet prompt? Die Anweisung an eine KI. Bedeutungen, Beispiele und KI-Ausdrücke — LinguaBattle.",
+    "lede": "<b>prompt</b> wurde durch KI populär. Es bedeutet die <b>Anweisung</b>, die man einer KI (ChatGPT, Gemini) gibt. Außerdem „schnell/zeitnah“ und „auslösen“.",
+    "means": [
+      {"def": "Anweisung an eine KI", "en": "Write a clear prompt for better results.", "t": "(KI-Anweisung)"},
+      {"def": "auslösen / veranlassen (Verb)", "en": "The error prompted a quick fix.", "t": "(auslösen)"},
+      {"def": "schnell, prompt (Adjektiv)", "en": "Thank you for your prompt reply.", "t": "(schnell)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["prompt vs command", "generate", "refine"],
+    "idiomTitle": "KI-Ausdrücke", "idioms": ["write a prompt", "prompt engineering", "in the style of..."],
+    "quizQ": "Was ist ein „prompt“ bei KI?", "quizA": ["Eine Anweisung an die KI", "Ein Fehlertyp", "Ein Dateiformat"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "nom / verbe", "title": "Que signifie prompt ?",
+    "metaDesc": "Que signifie prompt ? L'instruction donnée à une IA. Sens, exemples et expressions IA — LinguaBattle.",
+    "lede": "<b>prompt</b> s'est popularisé avec l'IA. C'est l'<b>instruction</b> donnée à une IA (ChatGPT, Gemini). Signifie aussi « rapide » et « déclencher ».",
+    "means": [
+      {"def": "instruction donnée à une IA", "en": "Write a clear prompt for better results.", "t": "(instruction IA)"},
+      {"def": "déclencher / provoquer (verbe)", "en": "The error prompted a quick fix.", "t": "(provoquer)"},
+      {"def": "rapide, prompt (adjectif)", "en": "Thank you for your prompt reply.", "t": "(rapide)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["prompt vs command", "generate", "refine"],
+    "idiomTitle": "Expressions IA", "idioms": ["write a prompt", "prompt engineering", "in the style of..."],
+    "quizQ": "En IA, qu'est-ce qu'un « prompt » ?", "quizA": ["Une instruction donnée à l'IA", "Un type d'erreur", "Un format de fichier"], "quizOk": 0
+  },
+  "es": {
+    "pos": "sustantivo / verbo", "title": "¿Qué significa prompt?",
+    "metaDesc": "¿Qué significa prompt? La instrucción que le das a una IA. Significados, ejemplos y frases de IA — LinguaBattle.",
+    "lede": "<b>prompt</b> se popularizó con la IA. Es la <b>instrucción</b> que le das a una IA (ChatGPT, Gemini). También significa «rápido» y «provocar».",
+    "means": [
+      {"def": "instrucción dada a una IA", "en": "Write a clear prompt for better results.", "t": "(instrucción IA)"},
+      {"def": "provocar / desencadenar (verbo)", "en": "The error prompted a quick fix.", "t": "(provocar)"},
+      {"def": "rápido, pronto (adjetivo)", "en": "Thank you for your prompt reply.", "t": "(rápido)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["prompt vs command", "generate", "refine"],
+    "idiomTitle": "Frases de IA", "idioms": ["write a prompt", "prompt engineering", "in the style of..."],
+    "quizQ": "En IA, ¿qué es un «prompt»?", "quizA": ["Una instrucción que le das a la IA", "Un tipo de error", "Un formato de archivo"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "اسم / فعل", "title": "ماذا تعني prompt؟",
+    "metaDesc": "ماذا تعني prompt؟ التعليمة التي تعطيها للذكاء الاصطناعي. المعاني والأمثلة وعبارات AI — LinguaBattle.",
+    "lede": "<b>prompt</b> انتشرت مع الذكاء الاصطناعي. تعني <b>التعليمة</b> التي تعطيها للذكاء الاصطناعي (ChatGPT، Gemini). وتعني أيضًا «سريع» و«يحفّز».",
+    "means": [
+      {"def": "تعليمة تُعطى للذكاء الاصطناعي", "en": "Write a clear prompt for better results.", "t": "(تعليمة AI)"},
+      {"def": "يحفّز / يسبّب (فعل)", "en": "The error prompted a quick fix.", "t": "(يسبّب)"},
+      {"def": "سريع، فوري (صفة)", "en": "Thank you for your prompt reply.", "t": "(سريع)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["prompt vs command", "generate", "refine"],
+    "idiomTitle": "عبارات الذكاء الاصطناعي", "idioms": ["write a prompt", "prompt engineering", "in the style of..."],
+    "quizQ": "في الذكاء الاصطناعي، ما هو «prompt»؟", "quizA": ["تعليمة تعطيها للذكاء الاصطناعي", "نوع من الأخطاء", "صيغة ملف"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "संज्ञा / क्रिया", "title": "prompt का क्या मतलब है?",
+    "metaDesc": "prompt का क्या मतलब है? AI को दिया गया निर्देश। अर्थ, उदाहरण और AI वाक्यांश — LinguaBattle.",
+    "lede": "<b>prompt</b> AI के साथ लोकप्रिय हुआ। इसका मतलब है वह <b>निर्देश</b> जो आप AI (ChatGPT, Gemini) को देते हैं। साथ ही «तेज़» और «प्रेरित करना» भी।",
+    "means": [
+      {"def": "AI को दिया गया निर्देश", "en": "Write a clear prompt for better results.", "t": "(AI निर्देश)"},
+      {"def": "प्रेरित करना / उकसाना (क्रिया)", "en": "The error prompted a quick fix.", "t": "(कारण बनना)"},
+      {"def": "तेज़, त्वरित (विशेषण)", "en": "Thank you for your prompt reply.", "t": "(तेज़)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["prompt vs command", "generate", "refine"],
+    "idiomTitle": "AI वाक्यांश", "idioms": ["write a prompt", "prompt engineering", "in the style of..."],
+    "quizQ": "AI में “prompt” क्या है?", "quizA": ["AI को दिया गया निर्देश", "एक प्रकार की त्रुटि", "एक फ़ाइल प्रारूप"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "сущ. / глагол", "title": "Что значит prompt?",
+    "metaDesc": "Что значит prompt? Инструкция, которую вы даёте ИИ. Значения, примеры и выражения ИИ — LinguaBattle.",
+    "lede": "<b>prompt</b> стал популярен с ИИ. Это <b>инструкция</b>, которую вы даёте ИИ (ChatGPT, Gemini). Также «быстрый» и «побуждать».",
+    "means": [
+      {"def": "инструкция, даваемая ИИ", "en": "Write a clear prompt for better results.", "t": "(инструкция ИИ)"},
+      {"def": "побуждать / вызывать (глагол)", "en": "The error prompted a quick fix.", "t": "(вызывать)"},
+      {"def": "быстрый, своевременный (прил.)", "en": "Thank you for your prompt reply.", "t": "(быстрый)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["prompt vs command", "generate", "refine"],
+    "idiomTitle": "Выражения ИИ", "idioms": ["write a prompt", "prompt engineering", "in the style of..."],
+    "quizQ": "Что такое «prompt» в ИИ?", "quizA": ["Инструкция, которую вы даёте ИИ", "Тип ошибки", "Формат файла"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "substantivo / verbo", "title": "O que significa prompt?",
+    "metaDesc": "O que significa prompt? A instrução que você dá a uma IA. Significados, exemplos e frases de IA — LinguaBattle.",
+    "lede": "<b>prompt</b> ficou popular com a IA. Significa a <b>instrução</b> que você dá a uma IA (ChatGPT, Gemini). Também significa «rápido» e «provocar».",
+    "means": [
+      {"def": "instrução dada a uma IA", "en": "Write a clear prompt for better results.", "t": "(instrução IA)"},
+      {"def": "provocar / desencadear (verbo)", "en": "The error prompted a quick fix.", "t": "(provocar)"},
+      {"def": "rápido, imediato (adjetivo)", "en": "Thank you for your prompt reply.", "t": "(rápido)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["prompt vs command", "generate", "refine"],
+    "idiomTitle": "Frases de IA", "idioms": ["write a prompt", "prompt engineering", "in the style of..."],
+    "quizQ": "Em IA, o que é um «prompt»?", "quizA": ["Uma instrução que você dá à IA", "Um tipo de erro", "Um formato de arquivo"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "名詞 / 動詞", "title": "promptの意味は？",
+    "metaDesc": "promptの意味は？AIに与える指示。意味・例文・AIフレーズ — LinguaBattle.",
+    "lede": "<b>prompt</b> はAIで広まった。AI（ChatGPT、Gemini）に与える<b>指示</b>のこと。また「迅速な」「促す」の意味もある。",
+    "means": [
+      {"def": "AIに与える指示", "en": "Write a clear prompt for better results.", "t": "（AIへの指示）"},
+      {"def": "促す / 引き起こす（動詞）", "en": "The error prompted a quick fix.", "t": "（引き起こす）"},
+      {"def": "迅速な、即座の（形容詞）", "en": "Thank you for your prompt reply.", "t": "（迅速な）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["prompt vs command", "generate", "refine"],
+    "idiomTitle": "AIフレーズ", "idioms": ["write a prompt", "prompt engineering", "in the style of..."],
+    "quizQ": "AIにおける「prompt」とは？", "quizA": ["AIに与える指示", "エラーの種類", "ファイル形式"], "quizOk": 0
+  }
+}

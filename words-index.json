@@ -1,0 +1,86 @@
+[
+  {
+    "word": "delulu",
+    "category": "genz",
+    "paths": {
+      "tr": "/tr/kelime/delulu",
+      "en": "/en/word/delulu",
+      "de": "/de/wort/delulu",
+      "fr": "/fr/mot/delulu",
+      "es": "/es/palabra/delulu",
+      "ar": "/ar/kalima/delulu",
+      "hi": "/hi/shabd/delulu",
+      "ru": "/ru/slovo/delulu",
+      "pt": "/pt/palavra/delulu",
+      "ja": "/ja/tango/delulu"
+    },
+    "desc": {
+      "tr": "Hayalperest, gerçeklikten kopuk (sevimli/şakacı)",
+      "en": "Unrealistic, out of touch with reality (playful)",
+      "de": "Unrealistisch, realitätsfern (scherzhaft)",
+      "fr": "Irréaliste, déconnecté de la réalité (avec humour)",
+      "es": "Poco realista, desconectado de la realidad (en broma)",
+      "ar": "غير واقعي، منفصل عن الواقع (مزاحًا)",
+      "hi": "अवास्तविक, हकीकत से कटा हुआ (मज़ाक में)",
+      "ru": "Нереалистичный, оторванный от реальности (в шутку)",
+      "pt": "Irrealista, fora da realidade (de brincadeira)",
+      "ja": "非現実的、現実離れ（冗談っぽく）"
+    }
+  },
+  {
+    "word": "get",
+    "category": "verb",
+    "paths": {
+      "tr": "/tr/kelime/get",
+      "en": "/en/word/get",
+      "de": "/de/wort/get",
+      "fr": "/fr/mot/get",
+      "es": "/es/palabra/get",
+      "ar": "/ar/kalima/get",
+      "hi": "/hi/shabd/get",
+      "ru": "/ru/slovo/get",
+      "pt": "/pt/palavra/get",
+      "ja": "/ja/tango/get"
+    },
+    "desc": {
+      "tr": "almak / edinmek",
+      "en": "to obtain / receive",
+      "de": "bekommen / erhalten",
+      "fr": "obtenir / recevoir",
+      "es": "obtener / recibir",
+      "ar": "يحصل على / يستلم",
+      "hi": "पाना / प्राप्त करना",
+      "ru": "получать / доставать",
+      "pt": "obter / receber",
+      "ja": "手に入れる / 受け取る"
+    }
+  },
+  {
+    "word": "prompt",
+    "category": "ai",
+    "paths": {
+      "tr": "/tr/kelime/prompt",
+      "en": "/en/word/prompt",
+      "de": "/de/wort/prompt",
+      "fr": "/fr/mot/prompt",
+      "es": "/es/palabra/prompt",
+      "ar": "/ar/kalima/prompt",
+      "hi": "/hi/shabd/prompt",
+      "ru": "/ru/slovo/prompt",
+      "pt": "/pt/palavra/prompt",
+      "ja": "/ja/tango/prompt"
+    },
+    "desc": {
+      "tr": "komut, yönlendirme (yapay zekaya verilen)",
+      "en": "instruction given to an AI",
+      "de": "Anweisung an eine KI",
+      "fr": "instruction donnée à une IA",
+      "es": "instrucción dada a una IA",
+      "ar": "تعليمة تُعطى للذكاء الاصطناعي",
+      "hi": "AI को दिया गया निर्देश",
+      "ru": "инструкция, даваемая ИИ",
+      "pt": "instrução dada a uma IA",
+      "ja": "AIに与える指示"
+    }
+  }
+]

@@ -1,0 +1,147 @@
+{
+  "word": "get",
+  "pron": "/ɡet/",
+  "category": "verb",
+  "conj": ["get", "got", "got / gotten"],
+  "tr": {
+    "pos": "fiil",
+    "title": "get ne demek?",
+    "metaDesc": "get ne demek? 4 anlamı, örnek cümleler ve get/got/gotten çekimi. İngilizcenin en çok karıştırılan fiili — LinguaBattle.",
+    "lede": "<b>get</b>, İngilizcenin en çok kullanılan ve en çok karıştırılan fiilidir. Anlamı cümleye göre değişir; düzensiz fiildir: get → got → gotten.",
+    "means": [
+      {"def": "almak / edinmek", "en": "I got a new phone.", "t": "Yeni bir telefon aldım."},
+      {"def": "ulaşmak / varmak", "en": "What time do you get home?", "t": "Eve kaçta varıyorsun?"},
+      {"def": "anlamak", "en": "I get it now.", "t": "Şimdi anladım."},
+      {"def": "olmak / -leşmek (durum değişimi)", "en": "It's getting cold.", "t": "Hava soğuyor."}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["get vs take", "get vs become", "got vs gotten"],
+    "idiomTitle": "Günlük kalıplar", "idioms": ["get up (kalkmak)", "get along (geçinmek)", "get rid of (kurtulmak)"],
+    "quizQ": "“I get it.” ne demek?", "quizA": ["Anladım.", "Aldım onu.", "Gidiyorum."], "quizOk": 0
+  },
+  "en": {
+    "pos": "verb", "title": "What does get mean?",
+    "metaDesc": "What does get mean? 4 meanings, examples and get/got/gotten conjugation. The most confusing English verb — LinguaBattle.",
+    "lede": "<b>get</b> is the most used — and most confusing — English verb. Its meaning depends on context. It's irregular: get → got → gotten.",
+    "means": [
+      {"def": "to obtain / receive", "en": "I got a new phone.", "t": "(obtain)"},
+      {"def": "to arrive / reach", "en": "What time do you get home?", "t": "(arrive)"},
+      {"def": "to understand", "en": "I get it now.", "t": "(understand)"},
+      {"def": "to become (change of state)", "en": "It's getting cold.", "t": "(become)"}
+    ],
+    "relTitle": "Often confused", "rel": ["get vs take", "get vs become", "got vs gotten"],
+    "idiomTitle": "Phrasal verbs", "idioms": ["get up", "get along", "get rid of"],
+    "quizQ": "What does “I get it” mean?", "quizA": ["I understand.", "I take it.", "I leave."], "quizOk": 0
+  },
+  "de": {
+    "pos": "Verb", "title": "Was bedeutet get?",
+    "metaDesc": "Was bedeutet get? 4 Bedeutungen, Beispiele und get/got/gotten. Das verwirrendste englische Verb — LinguaBattle.",
+    "lede": "<b>get</b> ist das meistgenutzte — und verwirrendste — englische Verb. Die Bedeutung hängt vom Kontext ab. Unregelmäßig: get → got → gotten.",
+    "means": [
+      {"def": "bekommen / erhalten", "en": "I got a new phone.", "t": "(bekommen)"},
+      {"def": "ankommen / erreichen", "en": "What time do you get home?", "t": "(ankommen)"},
+      {"def": "verstehen", "en": "I get it now.", "t": "(verstehen)"},
+      {"def": "werden (Zustandsänderung)", "en": "It's getting cold.", "t": "(werden)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["get vs take", "get vs become", "got vs gotten"],
+    "idiomTitle": "Phrasal Verbs", "idioms": ["get up", "get along", "get rid of"],
+    "quizQ": "Was bedeutet „I get it“?", "quizA": ["Ich verstehe.", "Ich nehme es.", "Ich gehe."], "quizOk": 0
+  },
+  "fr": {
+    "pos": "verbe", "title": "Que signifie get ?",
+    "metaDesc": "Que signifie get ? 4 sens, exemples et get/got/gotten. Le verbe anglais le plus déroutant — LinguaBattle.",
+    "lede": "<b>get</b> est le verbe anglais le plus utilisé — et le plus déroutant. Son sens dépend du contexte. Irrégulier : get → got → gotten.",
+    "means": [
+      {"def": "obtenir / recevoir", "en": "I got a new phone.", "t": "(obtenir)"},
+      {"def": "arriver / atteindre", "en": "What time do you get home?", "t": "(arriver)"},
+      {"def": "comprendre", "en": "I get it now.", "t": "(comprendre)"},
+      {"def": "devenir (changement d'état)", "en": "It's getting cold.", "t": "(devenir)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["get vs take", "get vs become", "got vs gotten"],
+    "idiomTitle": "Verbes à particule", "idioms": ["get up", "get along", "get rid of"],
+    "quizQ": "Que veut dire « I get it » ?", "quizA": ["Je comprends.", "Je le prends.", "Je pars."], "quizOk": 0
+  },
+  "es": {
+    "pos": "verbo", "title": "¿Qué significa get?",
+    "metaDesc": "¿Qué significa get? 4 significados, ejemplos y get/got/gotten. El verbo inglés más confuso — LinguaBattle.",
+    "lede": "<b>get</b> es el verbo inglés más usado — y más confuso. Su significado depende del contexto. Es irregular: get → got → gotten.",
+    "means": [
+      {"def": "obtener / recibir", "en": "I got a new phone.", "t": "(obtener)"},
+      {"def": "llegar", "en": "What time do you get home?", "t": "(llegar)"},
+      {"def": "entender", "en": "I get it now.", "t": "(entender)"},
+      {"def": "volverse (cambio de estado)", "en": "It's getting cold.", "t": "(volverse)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["get vs take", "get vs become", "got vs gotten"],
+    "idiomTitle": "Verbos compuestos", "idioms": ["get up", "get along", "get rid of"],
+    "quizQ": "¿Qué significa «I get it»?", "quizA": ["Lo entiendo.", "Lo tomo.", "Me voy."], "quizOk": 0
+  },
+  "ar": {
+    "pos": "فعل", "title": "ماذا تعني get؟",
+    "metaDesc": "ماذا تعني get؟ 4 معانٍ وأمثلة وتصريف get/got/gotten. أكثر فعل إنجليزي إرباكًا — LinguaBattle.",
+    "lede": "<b>get</b> هو الفعل الإنجليزي الأكثر استخدامًا — والأكثر إرباكًا. معناه يعتمد على السياق. وهو فعل شاذ: get → got → gotten.",
+    "means": [
+      {"def": "يحصل على / يستلم", "en": "I got a new phone.", "t": "(يحصل)"},
+      {"def": "يصل", "en": "What time do you get home?", "t": "(يصل)"},
+      {"def": "يفهم", "en": "I get it now.", "t": "(يفهم)"},
+      {"def": "يصبح (تغيّر حالة)", "en": "It's getting cold.", "t": "(يصبح)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["get vs take", "get vs become", "got vs gotten"],
+    "idiomTitle": "أفعال مركّبة", "idioms": ["get up", "get along", "get rid of"],
+    "quizQ": "ماذا تعني «I get it»؟", "quizA": ["فهمت.", "أخذته.", "سأذهب."], "quizOk": 0
+  },
+  "hi": {
+    "pos": "क्रिया", "title": "get का क्या मतलब है?",
+    "metaDesc": "get का क्या मतलब है? 4 अर्थ, उदाहरण और get/got/gotten। सबसे भ्रमित करने वाली अंग्रेज़ी क्रिया — LinguaBattle.",
+    "lede": "<b>get</b> सबसे ज़्यादा इस्तेमाल होने वाली — और सबसे भ्रमित करने वाली — अंग्रेज़ी क्रिया है। अर्थ संदर्भ पर निर्भर करता है। अनियमित: get → got → gotten.",
+    "means": [
+      {"def": "पाना / प्राप्त करना", "en": "I got a new phone.", "t": "(पाना)"},
+      {"def": "पहुँचना", "en": "What time do you get home?", "t": "(पहुँचना)"},
+      {"def": "समझना", "en": "I get it now.", "t": "(समझना)"},
+      {"def": "होना (स्थिति बदलना)", "en": "It's getting cold.", "t": "(होना)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["get vs take", "get vs become", "got vs gotten"],
+    "idiomTitle": "वाक्यांश क्रिया", "idioms": ["get up", "get along", "get rid of"],
+    "quizQ": "“I get it” का क्या अर्थ है?", "quizA": ["मैं समझ गया।", "मैं इसे लेता हूँ।", "मैं जाता हूँ।"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "глагол", "title": "Что значит get?",
+    "metaDesc": "Что значит get? 4 значения, примеры и get/got/gotten. Самый запутанный английский глагол — LinguaBattle.",
+    "lede": "<b>get</b> — самый используемый и самый запутанный английский глагол. Значение зависит от контекста. Неправильный: get → got → gotten.",
+    "means": [
+      {"def": "получать / доставать", "en": "I got a new phone.", "t": "(получать)"},
+      {"def": "добираться / приходить", "en": "What time do you get home?", "t": "(добираться)"},
+      {"def": "понимать", "en": "I get it now.", "t": "(понимать)"},
+      {"def": "становиться (изменение состояния)", "en": "It's getting cold.", "t": "(становиться)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["get vs take", "get vs become", "got vs gotten"],
+    "idiomTitle": "Фразовые глаголы", "idioms": ["get up", "get along", "get rid of"],
+    "quizQ": "Что значит «I get it»?", "quizA": ["Я понимаю.", "Я беру это.", "Я ухожу."], "quizOk": 0
+  },
+  "pt": {
+    "pos": "verbo", "title": "O que significa get?",
+    "metaDesc": "O que significa get? 4 significados, exemplos e get/got/gotten. O verbo inglês mais confuso — LinguaBattle.",
+    "lede": "<b>get</b> é o verbo inglês mais usado — e mais confuso. O significado depende do contexto. É irregular: get → got → gotten.",
+    "means": [
+      {"def": "obter / receber", "en": "I got a new phone.", "t": "(obter)"},
+      {"def": "chegar", "en": "What time do you get home?", "t": "(chegar)"},
+      {"def": "entender", "en": "I get it now.", "t": "(entender)"},
+      {"def": "ficar / tornar-se (mudança de estado)", "en": "It's getting cold.", "t": "(tornar-se)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["get vs take", "get vs become", "got vs gotten"],
+    "idiomTitle": "Verbos frasais", "idioms": ["get up", "get along", "get rid of"],
+    "quizQ": "O que significa «I get it»?", "quizA": ["Entendi.", "Eu pego.", "Eu vou."], "quizOk": 0
+  },
+  "ja": {
+    "pos": "動詞", "title": "getの意味は？",
+    "metaDesc": "getの意味は？4つの意味、例文、get/got/gottenの活用。最も紛らわしい英語の動詞 — LinguaBattle.",
+    "lede": "<b>get</b> は最もよく使われ、最も紛らわしい英語の動詞。意味は文脈で変わる。不規則動詞： get → got → gotten。",
+    "means": [
+      {"def": "手に入れる / 受け取る", "en": "I got a new phone.", "t": "（手に入れる）"},
+      {"def": "着く / 到着する", "en": "What time do you get home?", "t": "（着く）"},
+      {"def": "理解する", "en": "I get it now.", "t": "（わかる）"},
+      {"def": "〜になる（状態変化）", "en": "It's getting cold.", "t": "（〜になる）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["get vs take", "get vs become", "got vs gotten"],
+    "idiomTitle": "句動詞", "idioms": ["get up", "get along", "get rid of"],
+    "quizQ": "「I get it」の意味は？", "quizA": ["わかった。", "それをもらう。", "行きます。"], "quizOk": 0
+  }
+}

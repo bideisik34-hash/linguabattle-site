@@ -1,0 +1,135 @@
+{
+  "word": "delulu",
+  "pron": "/dɪˈluːluː/",
+  "category": "genz",
+  "tr": {
+    "pos": "argo (sıfat)",
+    "title": "delulu ne demek?",
+    "metaDesc": "delulu ne demek? Gen Z argosu, “delusional” kısaltması. Anlamı, örnek cümleler ve kalıplar — LinguaBattle.",
+    "lede": "<b>delulu</b>, “delusional” (hayalperest) kelimesinin Gen Z kısaltması. Gerçekçi olmayan, kafasında kurduğu hayale inanan kişi için kullanılır — genelde şakacı, sevimli bir tonla.",
+    "means": [
+      {"def": "Hayalperest, gerçeklikten kopuk (sevimli/şakacı)", "en": "She's so delulu, she thinks he'll text back.", "t": "O kadar hayalperest ki, ona geri yazacağını sanıyor."},
+      {"def": "Kendi hayaline aşırı inanan (motivasyon olarak da)", "en": "Stay delulu, it keeps you motivated.", "t": "Hayalperest kal, motive tutuyor."}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["delusional vs delulu", "manifesting", "copium"],
+    "idiomTitle": "Kalıplar", "idioms": ["delulu is the solulu", "go delulu", "big delulu energy"],
+    "quizQ": "“Stay delulu” ne anlama gelir?", "quizA": ["Hayalini koru / inanmaya devam et", "Üzgün kalmaya devam et", "Sessiz ol"], "quizOk": 0
+  },
+  "en": {
+    "pos": "slang (adj)",
+    "title": "What does delulu mean?",
+    "metaDesc": "What does delulu mean? Gen Z slang short for “delusional”. Meaning, examples and phrases — LinguaBattle.",
+    "lede": "<b>delulu</b> is Gen Z slang, a shortening of “delusional”. It describes someone unrealistically optimistic or lost in their own fantasy — usually said playfully.",
+    "means": [
+      {"def": "Unrealistic, out of touch with reality (playful)", "en": "She's so delulu, she thinks he'll text back.", "t": "(she really believes it)"},
+      {"def": "Over-believing in your own dream (as motivation)", "en": "Stay delulu, it keeps you motivated.", "t": "(positive self-belief)"}
+    ],
+    "relTitle": "Often confused", "rel": ["delusional vs delulu", "manifesting", "copium"],
+    "idiomTitle": "Phrases", "idioms": ["delulu is the solulu", "go delulu", "big delulu energy"],
+    "quizQ": "What does “Stay delulu” mean?", "quizA": ["Keep believing in your dream", "Stay sad", "Be quiet"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Slang (Adj.)",
+    "title": "Was bedeutet delulu?",
+    "metaDesc": "Was bedeutet delulu? Gen-Z-Slang, Kurzform von „delusional“. Bedeutung, Beispiele und Redewendungen — LinguaBattle.",
+    "lede": "<b>delulu</b> ist Gen-Z-Slang, eine Kurzform von „delusional“ (wahnhaft). Es beschreibt jemanden, der unrealistisch optimistisch ist — meist scherzhaft gemeint.",
+    "means": [
+      {"def": "Unrealistisch, realitätsfern (scherzhaft)", "en": "She's so delulu, she thinks he'll text back.", "t": "(sie glaubt es wirklich)"},
+      {"def": "Übermäßiger Glaube an den eigenen Traum (als Motivation)", "en": "Stay delulu, it keeps you motivated.", "t": "(positiver Selbstglaube)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["delusional vs delulu", "manifesting", "copium"],
+    "idiomTitle": "Redewendungen", "idioms": ["delulu is the solulu", "go delulu", "big delulu energy"],
+    "quizQ": "Was bedeutet „Stay delulu“?", "quizA": ["Glaub weiter an deinen Traum", "Bleib traurig", "Sei still"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "argot (adj.)",
+    "title": "Que signifie delulu ?",
+    "metaDesc": "Que signifie delulu ? Argot Gen Z, abréviation de « delusional ». Sens, exemples et expressions — LinguaBattle.",
+    "lede": "<b>delulu</b> est de l'argot Gen Z, une abréviation de « delusional » (délirant). Décrit quelqu'un d'irréaliste ou perdu dans son fantasme — souvent dit avec humour.",
+    "means": [
+      {"def": "Irréaliste, déconnecté de la réalité (avec humour)", "en": "She's so delulu, she thinks he'll text back.", "t": "(elle y croit vraiment)"},
+      {"def": "Croire excessivement en son rêve (comme motivation)", "en": "Stay delulu, it keeps you motivated.", "t": "(auto-conviction positive)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["delusional vs delulu", "manifesting", "copium"],
+    "idiomTitle": "Expressions", "idioms": ["delulu is the solulu", "go delulu", "big delulu energy"],
+    "quizQ": "Que veut dire « Stay delulu » ?", "quizA": ["Continue à croire en ton rêve", "Reste triste", "Sois silencieux"], "quizOk": 0
+  },
+  "es": {
+    "pos": "jerga (adj.)",
+    "title": "¿Qué significa delulu?",
+    "metaDesc": "¿Qué significa delulu? Jerga Gen Z, abreviatura de «delusional». Significado, ejemplos y expresiones — LinguaBattle.",
+    "lede": "<b>delulu</b> es jerga de la Generación Z, abreviatura de «delusional» (delirante). Describe a alguien poco realista o perdido en su fantasía — normalmente con tono de broma.",
+    "means": [
+      {"def": "Poco realista, desconectado de la realidad (en broma)", "en": "She's so delulu, she thinks he'll text back.", "t": "(de verdad se lo cree)"},
+      {"def": "Creer demasiado en tu propio sueño (como motivación)", "en": "Stay delulu, it keeps you motivated.", "t": "(autoconfianza positiva)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["delusional vs delulu", "manifesting", "copium"],
+    "idiomTitle": "Expresiones", "idioms": ["delulu is the solulu", "go delulu", "big delulu energy"],
+    "quizQ": "¿Qué significa «Stay delulu»?", "quizA": ["Sigue creyendo en tu sueño", "Quédate triste", "Cállate"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "عامية (صفة)",
+    "title": "ماذا تعني delulu؟",
+    "metaDesc": "ماذا تعني delulu؟ عامية الجيل Z، اختصار لكلمة delusional. المعنى والأمثلة والعبارات — LinguaBattle.",
+    "lede": "<b>delulu</b> هي عامية الجيل Z، اختصار لكلمة «delusional» (واهم). تصف شخصًا غير واقعي أو غارقًا في خياله — وتُقال عادةً على سبيل المزاح.",
+    "means": [
+      {"def": "غير واقعي، منفصل عن الواقع (مزاحًا)", "en": "She's so delulu, she thinks he'll text back.", "t": "(تصدّق ذلك حقًا)"},
+      {"def": "الإفراط في الإيمان بحلمك (كتحفيز)", "en": "Stay delulu, it keeps you motivated.", "t": "(ثقة إيجابية بالنفس)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["delusional vs delulu", "manifesting", "copium"],
+    "idiomTitle": "عبارات", "idioms": ["delulu is the solulu", "go delulu", "big delulu energy"],
+    "quizQ": "ماذا تعني «Stay delulu»؟", "quizA": ["استمر في الإيمان بحلمك", "ابقَ حزينًا", "اصمت"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "स्लैंग (विशेषण)",
+    "title": "delulu का क्या मतलब है?",
+    "metaDesc": "delulu का क्या मतलब है? जेन Z स्लैंग, delusional का संक्षिप्त रूप। अर्थ, उदाहरण और वाक्यांश — LinguaBattle.",
+    "lede": "<b>delulu</b> जेन Z स्लैंग है, “delusional” का संक्षिप्त रूप। यह किसी अवास्तविक या अपनी कल्पना में खोए व्यक्ति को बताता है — आमतौर पर मज़ाक में।",
+    "means": [
+      {"def": "अवास्तविक, हकीकत से कटा हुआ (मज़ाक में)", "en": "She's so delulu, she thinks he'll text back.", "t": "(वह सच में मानती है)"},
+      {"def": "अपने सपने पर हद से ज़्यादा भरोसा (प्रेरणा के रूप में)", "en": "Stay delulu, it keeps you motivated.", "t": "(सकारात्मक आत्मविश्वास)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["delusional vs delulu", "manifesting", "copium"],
+    "idiomTitle": "वाक्यांश", "idioms": ["delulu is the solulu", "go delulu", "big delulu energy"],
+    "quizQ": "“Stay delulu” का क्या अर्थ है?", "quizA": ["अपने सपने पर भरोसा बनाए रखो", "उदास रहो", "चुप रहो"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "сленг (прил.)",
+    "title": "Что значит delulu?",
+    "metaDesc": "Что значит delulu? Сленг поколения Z, сокращение от delusional. Значение, примеры и выражения — LinguaBattle.",
+    "lede": "<b>delulu</b> — сленг поколения Z, сокращение от «delusional» (заблуждающийся). Описывает человека, оторванного от реальности, — обычно в шутку.",
+    "means": [
+      {"def": "Нереалистичный, оторванный от реальности (в шутку)", "en": "She's so delulu, she thinks he'll text back.", "t": "(она правда в это верит)"},
+      {"def": "Чрезмерная вера в свою мечту (как мотивация)", "en": "Stay delulu, it keeps you motivated.", "t": "(позитивная вера в себя)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["delusional vs delulu", "manifesting", "copium"],
+    "idiomTitle": "Выражения", "idioms": ["delulu is the solulu", "go delulu", "big delulu energy"],
+    "quizQ": "Что значит «Stay delulu»?", "quizA": ["Продолжай верить в мечту", "Оставайся грустным", "Молчи"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "gíria (adj.)",
+    "title": "O que significa delulu?",
+    "metaDesc": "O que significa delulu? Gíria Gen Z, abreviação de delusional. Significado, exemplos e expressões — LinguaBattle.",
+    "lede": "<b>delulu</b> é gíria da Geração Z, abreviação de «delusional» (iludido). Descreve alguém irrealista ou perdido na própria fantasia — normalmente em tom de brincadeira.",
+    "means": [
+      {"def": "Irrealista, fora da realidade (de brincadeira)", "en": "She's so delulu, she thinks he'll text back.", "t": "(ela realmente acredita)"},
+      {"def": "Acreditar demais no próprio sonho (como motivação)", "en": "Stay delulu, it keeps you motivated.", "t": "(autoconfiança positiva)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["delusional vs delulu", "manifesting", "copium"],
+    "idiomTitle": "Expressões", "idioms": ["delulu is the solulu", "go delulu", "big delulu energy"],
+    "quizQ": "O que significa «Stay delulu»?", "quizA": ["Continue acreditando no seu sonho", "Fique triste", "Fique quieto"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "スラング (形容詞)",
+    "title": "deluluの意味は？",
+    "metaDesc": "deluluの意味は？Z世代スラング、delusionalの略。意味・例文・フレーズ — LinguaBattle.",
+    "lede": "<b>delulu</b> はZ世代のスラングで、「delusional（妄想的）」の略。非現実的で自分の空想に浸っている人を指す — たいてい冗談めかして使う。",
+    "means": [
+      {"def": "非現実的、現実離れ（冗談っぽく）", "en": "She's so delulu, she thinks he'll text back.", "t": "（本気で信じている）"},
+      {"def": "自分の夢を信じすぎる（モチベーションとして）", "en": "Stay delulu, it keeps you motivated.", "t": "（前向きな自己信頼）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["delusional vs delulu", "manifesting", "copium"],
+    "idiomTitle": "フレーズ", "idioms": ["delulu is the solulu", "go delulu", "big delulu energy"],
+    "quizQ": "「Stay delulu」の意味は？", "quizA": ["夢を信じ続けろ", "悲しいままでいろ", "静かにしろ"], "quizOk": 0
+  }
+}
