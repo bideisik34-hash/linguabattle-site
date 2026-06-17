@@ -282,16 +282,16 @@ function speak(t){{if('speechSynthesis'in window){{var u=new SpeechSynthesisUtte
 
 # Dil ana sayfası metinleri (her dil için)
 HOME = {
- "tr":{"tagline":"İngilizcenin en çok <span class='g'>karıştırılan</span> kelimeleri","sub":"Anlamları, örnekleri ve çekimleriyle. Sonra uygulamada düelloyla pekiştir.","search":"🔍 Bir kelime ara…","popular":"Kelimeler","all":"Tüm konular"},
- "en":{"tagline":"The most <span class='g'>confusing</span> English words","sub":"Meanings, examples and forms. Then lock them in with a duel in the app.","search":"🔍 Search a word…","popular":"Words","all":"All topics"},
- "de":{"tagline":"Die <span class='g'>verwirrendsten</span> englischen Wörter","sub":"Bedeutungen, Beispiele und Formen. Dann im App-Duell festigen.","search":"🔍 Wort suchen…","popular":"Wörter","all":"Alle Themen"},
- "fr":{"tagline":"Les mots anglais les plus <span class='g'>déroutants</span>","sub":"Sens, exemples et formes. Puis ancrez-les avec un duel dans l'app.","search":"🔍 Chercher un mot…","popular":"Mots","all":"Tous les sujets"},
- "es":{"tagline":"Las palabras inglesas más <span class='g'>confusas</span>","sub":"Significados, ejemplos y formas. Luego fíjalas con un duelo en la app.","search":"🔍 Buscar una palabra…","popular":"Palabras","all":"Todos los temas"},
- "ar":{"tagline":"أكثر الكلمات الإنجليزية <span class='g'>إرباكًا</span>","sub":"المعاني والأمثلة والصيغ. ثم ثبّتها بمبارزة في التطبيق.","search":"🔍 ابحث عن كلمة…","popular":"كلمات","all":"كل المواضيع"},
- "hi":{"tagline":"सबसे <span class='g'>भ्रमित करने वाले</span> अंग्रेज़ी शब्द","sub":"अर्थ, उदाहरण और रूप। फिर ऐप में डुएल से पक्का करें।","search":"🔍 कोई शब्द खोजें…","popular":"शब्द","all":"सभी विषय"},
- "ru":{"tagline":"Самые <span class='g'>путаемые</span> английские слова","sub":"Значения, примеры и формы. Затем закрепите их в дуэли в приложении.","search":"🔍 Найти слово…","popular":"Слова","all":"Все темы"},
- "pt":{"tagline":"As palavras inglesas mais <span class='g'>confusas</span>","sub":"Significados, exemplos e formas. Depois fixe-as com um duelo no app.","search":"🔍 Buscar uma palavra…","popular":"Palavras","all":"Todos os tópicos"},
- "ja":{"tagline":"最も<span class='g'>紛らわしい</span>英単語","sub":"意味・例文・活用。そしてアプリのデュエルで定着。","search":"🔍 単語を検索…","popular":"単語","all":"すべてのトピック"},
+ "tr":{"title":"İngilizce Kelime Anlamları, Örnekler ve Çekimler","metaDesc":"İngilizcenin en çok karıştırılan kelimeleri: anlamları, örnek cümleler ve fiil çekimleri. get, exit, embarrassed ve yüzlerce kelime — sonra uygulamada düelloyla pekiştir.","tagline":"İngilizcenin en çok <span class='g'>karıştırılan</span> kelimeleri","sub":"Anlamları, örnekleri ve çekimleriyle. Sonra uygulamada düelloyla pekiştir.","search":"🔍 Bir kelime ara…","popular":"Kelimeler","all":"Tüm konular"},
+ "en":{"title":"English Word Meanings, Examples & Forms — LinguaBattle","metaDesc":"The most confusing English words explained: meanings, example sentences and verb forms. get, exit, embarrassed and hundreds more — then lock them in with a duel in the app.","tagline":"The most <span class='g'>confusing</span> English words","sub":"Meanings, examples and forms. Then lock them in with a duel in the app.","search":"🔍 Search a word…","popular":"Words","all":"All topics"},
+ "de":{"title":"Englische Wörter: Bedeutungen, Beispiele & Formen","metaDesc":"Die verwirrendsten englischen Wörter erklärt: Bedeutungen, Beispielsätze und Verbformen. get, exit, embarrassed und Hunderte mehr — dann im App-Duell festigen.","tagline":"Die <span class='g'>verwirrendsten</span> englischen Wörter","sub":"Bedeutungen, Beispiele und Formen. Dann im App-Duell festigen.","search":"🔍 Wort suchen…","popular":"Wörter","all":"Alle Themen"},
+ "fr":{"title":"Mots anglais : sens, exemples et formes — LinguaBattle","metaDesc":"Les mots anglais les plus déroutants expliqués : sens, phrases d'exemple et formes verbales. get, exit, embarrassed et des centaines d'autres — puis ancrez-les avec un duel dans l'app.","tagline":"Les mots anglais les plus <span class='g'>déroutants</span>","sub":"Sens, exemples et formes. Puis ancrez-les avec un duel dans l'app.","search":"🔍 Chercher un mot…","popular":"Mots","all":"Tous les sujets"},
+ "es":{"title":"Palabras en inglés: significados, ejemplos y formas","metaDesc":"Las palabras inglesas más confusas explicadas: significados, frases de ejemplo y formas verbales. get, exit, embarrassed y cientos más — luego fíjalas con un duelo en la app.","tagline":"Las palabras inglesas más <span class='g'>confusas</span>","sub":"Significados, ejemplos y formas. Luego fíjalas con un duelo en la app.","search":"🔍 Buscar una palabra…","popular":"Palabras","all":"Todos los temas"},
+ "ar":{"title":"كلمات إنجليزية: المعاني والأمثلة والصيغ — LinguaBattle","metaDesc":"شرح أكثر الكلمات الإنجليزية إرباكًا: المعاني وجُمل الأمثلة وصيغ الأفعال. get وexit وembarrassed والمئات غيرها — ثم ثبّتها بمبارزة في التطبيق.","tagline":"أكثر الكلمات الإنجليزية <span class='g'>إرباكًا</span>","sub":"المعاني والأمثلة والصيغ. ثم ثبّتها بمبارزة في التطبيق.","search":"🔍 ابحث عن كلمة…","popular":"كلمات","all":"كل المواضيع"},
+ "hi":{"title":"अंग्रेज़ी शब्द: अर्थ, उदाहरण और रूप — LinguaBattle","metaDesc":"सबसे भ्रमित करने वाले अंग्रेज़ी शब्दों की व्याख्या: अर्थ, उदाहरण वाक्य और क्रिया रूप। get, exit, embarrassed और सैकड़ों और — फिर ऐप में डुएल से पक्का करें।","tagline":"सबसे <span class='g'>भ्रमित करने वाले</span> अंग्रेज़ी शब्द","sub":"अर्थ, उदाहरण और रूप। फिर ऐप में डुएल से पक्का करें।","search":"🔍 कोई शब्द खोजें…","popular":"शब्द","all":"सभी विषय"},
+ "ru":{"title":"Английские слова: значения, примеры и формы","metaDesc":"Самые путаемые английские слова с объяснением: значения, примеры предложений и формы глаголов. get, exit, embarrassed и сотни других — затем закрепите их в дуэли в приложении.","tagline":"Самые <span class='g'>путаемые</span> английские слова","sub":"Значения, примеры и формы. Затем закрепите их в дуэли в приложении.","search":"🔍 Найти слово…","popular":"Слова","all":"Все темы"},
+ "pt":{"title":"Palavras em inglês: significados, exemplos e formas","metaDesc":"As palavras inglesas mais confusas explicadas: significados, frases de exemplo e formas verbais. get, exit, embarrassed e centenas mais — depois fixe-as com um duelo no app.","tagline":"As palavras inglesas mais <span class='g'>confusas</span>","sub":"Significados, exemplos e formas. Depois fixe-as com um duelo no app.","search":"🔍 Buscar uma palavra…","popular":"Palavras","all":"Todos os tópicos"},
+ "ja":{"title":"英単語の意味・例文・活用 — LinguaBattle","metaDesc":"最も紛らわしい英単語を解説：意味、例文、活用形。get、exit、embarrassed など数百語 — そしてアプリのデュエルで定着。","tagline":"最も<span class='g'>紛らわしい</span>英単語","sub":"意味・例文・活用。そしてアプリのデュエルで定着。","search":"🔍 単語を検索…","popular":"単語","all":"すべてのトピック"},
 }
 
 def build_home(lang, entries):
@@ -311,12 +311,12 @@ def build_home(lang, entries):
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>LinguaBattle — {esc(h['popular'])}</title>
-<meta name="description" content="{esc(h['sub'])}">
+<title>{esc(h['title'])}</title>
+<meta name="description" content="{esc(h['metaDesc'])}">
 <link rel="canonical" href="{SITE}/{lang}/">
 {alts}
-<meta property="og:title" content="LinguaBattle">
-<meta property="og:description" content="{esc(h['sub'])}">
+<meta property="og:title" content="{esc(h['title'])}">
+<meta property="og:description" content="{esc(h['metaDesc'])}">
 <meta property="og:image" content="{SITE}/assets/logo-icon.png">
 <link rel="icon" type="image/png" href="/assets/logo-icon.png">
 <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Be+Vietnam+Pro:wght@300;400;500&display=swap" rel="stylesheet">
