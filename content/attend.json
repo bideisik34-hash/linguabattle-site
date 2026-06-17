@@ -1,0 +1,145 @@
+{
+  "word": "attend",
+  "pron": "/əˈtend/",
+  "category": "confusing",
+  "tr": {
+    "pos": "fiil", "title": "attend ne demek? (tuzak)",
+    "metaDesc": "attend ne demek? 'Beklemek' değil, 'katılmak'. Fransızca attendre (=beklemek) ile karıştırılan tuzak — LinguaBattle.",
+    "lede": "<b>attend</b> bir tuzaktır: Fransızca <i>attendre</i> (“beklemek”) sanılır ama aslında <b>“katılmak, gitmek (toplantıya/derse)”</b> demektir. (“Beklemek” = wait.)",
+    "means": [
+      {"def": "katılmak (toplantı, ders, etkinlik)", "en": "I have to attend a meeting at 3.", "t": "Saat 3'te bir toplantıya katılmam gerek."},
+      {"def": "düzenli gitmek (okula vb.)", "en": "She attends a private school.", "t": "Özel bir okula gidiyor."},
+      {"def": "attend to: ilgilenmek, bakmak", "en": "The nurse attended to the patient.", "t": "Hemşire hastayla ilgilendi."},
+      {"def": "TUZAK: 'beklemek' DEĞİL → wait", "en": "Wait for me here. (NOT attend)", "t": "Beni burada bekle. (attend değil, wait)"}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["attend vs wait", "attendance", "participate", "join"],
+    "idiomTitle": "Kalıplar", "idioms": ["attend a meeting", "attend school", "attend to (something)"],
+    "quizQ": "“attend a meeting” ne demek?", "quizA": ["Toplantıya katılmak", "Toplantıyı beklemek", "Toplantıyı ertelemek"], "quizOk": 0
+  },
+  "en": {
+    "pos": "verb", "title": "What does attend mean? (trap)",
+    "metaDesc": "What does attend mean? Not 'to wait' — it means 'to go to / be present at'. False friend with French attendre — LinguaBattle.",
+    "lede": "<b>attend</b> is a trap for French speakers: it looks like <i>attendre</i> (“to wait”) but means <b>“to go to, to be present at”</b>. (For “to wait” use wait.)",
+    "means": [
+      {"def": "to be present at, go to", "en": "I have to attend a meeting at 3.", "t": "(be present at)"},
+      {"def": "to go regularly (school)", "en": "She attends a private school.", "t": "(go to regularly)"},
+      {"def": "attend to: deal with, care for", "en": "The nurse attended to the patient.", "t": "(care for)"},
+      {"def": "TRAP: NOT 'to wait' → use wait", "en": "Wait for me here. (NOT attend)", "t": "(wait ≠ attend)"}
+    ],
+    "relTitle": "Often confused", "rel": ["attend vs wait", "attendance", "participate", "join"],
+    "idiomTitle": "Phrases", "idioms": ["attend a meeting", "attend school", "attend to (something)"],
+    "quizQ": "What does “attend a meeting” mean?", "quizA": ["Go to a meeting", "Wait for a meeting", "Postpone a meeting"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Verb", "title": "Was bedeutet attend? (Falle)",
+    "metaDesc": "Was bedeutet attend? Nicht 'warten' — sondern 'teilnehmen / besuchen'. False Friend mit attendre — LinguaBattle.",
+    "lede": "<b>attend</b> ist eine Falle: ähnelt dem französischen <i>attendre</i> („warten“), bedeutet aber <b>„teilnehmen, besuchen, anwesend sein“</b>. (Für „warten“ → wait.)",
+    "means": [
+      {"def": "teilnehmen, besuchen", "en": "I have to attend a meeting at 3.", "t": "(teilnehmen)"},
+      {"def": "regelmäßig besuchen (Schule)", "en": "She attends a private school.", "t": "(besuchen)"},
+      {"def": "attend to: sich kümmern um", "en": "The nurse attended to the patient.", "t": "(sich kümmern um)"},
+      {"def": "FALLE: NICHT 'warten' → wait", "en": "Wait for me here. (NOT attend)", "t": "(warten = wait)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["attend vs wait", "attendance", "participate", "join"],
+    "idiomTitle": "Wendungen", "idioms": ["attend a meeting", "attend school", "attend to (something)"],
+    "quizQ": "Was bedeutet „attend a meeting“?", "quizA": ["An einer Besprechung teilnehmen", "Auf eine Besprechung warten", "Eine Besprechung verschieben"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "verbe", "title": "Que signifie attend ? (faux ami)",
+    "metaDesc": "Que signifie attend ? Pas 'attendre' — mais 'assister à / participer'. Le faux ami classique avec attendre — LinguaBattle.",
+    "lede": "<b>attend</b> est un faux ami classique : il ressemble à <i>attendre</i> mais signifie <b>« assister à, participer à, être présent »</b>. (Pour « attendre » → wait.)",
+    "means": [
+      {"def": "assister à, être présent à", "en": "I have to attend a meeting at 3.", "t": "(assister à)"},
+      {"def": "fréquenter (une école)", "en": "She attends a private school.", "t": "(fréquenter)"},
+      {"def": "attend to : s'occuper de", "en": "The nurse attended to the patient.", "t": "(s'occuper de)"},
+      {"def": "FAUX AMI : PAS 'attendre' → wait", "en": "Wait for me here. (NOT attend)", "t": "(attendre = wait)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["attend vs wait", "attendance", "participate", "join"],
+    "idiomTitle": "Expressions", "idioms": ["attend a meeting", "attend school", "attend to (something)"],
+    "quizQ": "Que veut dire « attend a meeting » ?", "quizA": ["Assister à une réunion", "Attendre une réunion", "Reporter une réunion"], "quizOk": 0
+  },
+  "es": {
+    "pos": "verbo", "title": "¿Qué significa attend? (falso amigo)",
+    "metaDesc": "¿Qué significa attend? No 'atender (esperar)' — sino 'asistir a'. Falso amigo con el francés attendre — LinguaBattle.",
+    "lede": "<b>attend</b> es un falso amigo: parece el francés <i>attendre</i> («esperar»), pero significa <b>«asistir a, estar presente en»</b>. (Para «esperar» → wait.)",
+    "means": [
+      {"def": "asistir a, estar presente en", "en": "I have to attend a meeting at 3.", "t": "(asistir a)"},
+      {"def": "asistir con regularidad (escuela)", "en": "She attends a private school.", "t": "(asistir a)"},
+      {"def": "attend to: ocuparse de, atender", "en": "The nurse attended to the patient.", "t": "(atender a)"},
+      {"def": "FALSO AMIGO: NO 'esperar' → wait", "en": "Wait for me here. (NOT attend)", "t": "(esperar = wait)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["attend vs wait", "attendance", "participate", "join"],
+    "idiomTitle": "Expresiones", "idioms": ["attend a meeting", "attend school", "attend to (something)"],
+    "quizQ": "¿Qué significa «attend a meeting»?", "quizA": ["Asistir a una reunión", "Esperar una reunión", "Aplazar una reunión"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "فعل", "title": "ماذا تعني attend؟ (فخّ)",
+    "metaDesc": "ماذا تعني attend؟ ليست 'ينتظر' — بل 'يحضر / يشارك'. خطأ شائع مع الفرنسية attendre — LinguaBattle.",
+    "lede": "<b>attend</b> فخّ: تشبه الفرنسية <i>attendre</i> («ينتظر») لكنها تعني <b>«يحضر، يشارك، يكون حاضرًا»</b>. (لـ«ينتظر» → wait.)",
+    "means": [
+      {"def": "يحضر، يكون حاضرًا", "en": "I have to attend a meeting at 3.", "t": "(يحضر)"},
+      {"def": "يداوم (على مدرسة)", "en": "She attends a private school.", "t": "(يداوم)"},
+      {"def": "attend to: يعتني بـ، يهتم بـ", "en": "The nurse attended to the patient.", "t": "(يعتني بـ)"},
+      {"def": "فخّ: ليست 'ينتظر' → wait", "en": "Wait for me here. (NOT attend)", "t": "(ينتظر = wait)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["attend vs wait", "attendance", "participate", "join"],
+    "idiomTitle": "عبارات", "idioms": ["attend a meeting", "attend school", "attend to (something)"],
+    "quizQ": "ماذا تعني «attend a meeting»؟", "quizA": ["يحضر اجتماعًا", "ينتظر اجتماعًا", "يؤجّل اجتماعًا"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "क्रिया", "title": "attend का क्या मतलब है? (ग़लती)",
+    "metaDesc": "attend का क्या मतलब है? 'इंतज़ार करना' नहीं — बल्कि 'उपस्थित होना / शामिल होना'। फ़्रेंच attendre से जुड़ी ग़लती — LinguaBattle.",
+    "lede": "<b>attend</b> एक जाल है: यह फ़्रेंच <i>attendre</i> ('इंतज़ार करना') जैसा दिखता है पर इसका मतलब है <b>'उपस्थित होना, शामिल होना, जाना'</b>। ('इंतज़ार करना' के लिए → wait।)",
+    "means": [
+      {"def": "उपस्थित होना, शामिल होना", "en": "I have to attend a meeting at 3.", "t": "(उपस्थित होना)"},
+      {"def": "नियमित जाना (स्कूल)", "en": "She attends a private school.", "t": "(जाना)"},
+      {"def": "attend to: देखभाल करना, ध्यान देना", "en": "The nurse attended to the patient.", "t": "(देखभाल करना)"},
+      {"def": "जाल: 'इंतज़ार' नहीं → wait", "en": "Wait for me here. (NOT attend)", "t": "(इंतज़ार = wait)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["attend vs wait", "attendance", "participate", "join"],
+    "idiomTitle": "वाक्यांश", "idioms": ["attend a meeting", "attend school", "attend to (something)"],
+    "quizQ": "“attend a meeting” का क्या अर्थ है?", "quizA": ["मीटिंग में शामिल होना", "मीटिंग का इंतज़ार करना", "मीटिंग टालना"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "глагол", "title": "Что значит attend? (ловушка)",
+    "metaDesc": "Что значит attend? Не 'ждать' — а 'посещать / присутствовать'. Ложный друг с французским attendre — LinguaBattle.",
+    "lede": "<b>attend</b> — ловушка: похоже на французское <i>attendre</i> («ждать»), но значит <b>«посещать, присутствовать, ходить»</b>. (Для «ждать» → wait.)",
+    "means": [
+      {"def": "присутствовать, посещать", "en": "I have to attend a meeting at 3.", "t": "(присутствовать)"},
+      {"def": "регулярно посещать (школу)", "en": "She attends a private school.", "t": "(посещать)"},
+      {"def": "attend to: заниматься, ухаживать", "en": "The nurse attended to the patient.", "t": "(ухаживать за)"},
+      {"def": "ЛОВУШКА: НЕ 'ждать' → wait", "en": "Wait for me here. (NOT attend)", "t": "(ждать = wait)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["attend vs wait", "attendance", "participate", "join"],
+    "idiomTitle": "Выражения", "idioms": ["attend a meeting", "attend school", "attend to (something)"],
+    "quizQ": "Что значит «attend a meeting»?", "quizA": ["Посетить собрание", "Ждать собрание", "Отложить собрание"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "verbo", "title": "O que significa attend? (armadilha)",
+    "metaDesc": "O que significa attend? Não 'esperar/atender' — mas 'comparecer a / participar'. Falso cognato com attendre — LinguaBattle.",
+    "lede": "<b>attend</b> é uma armadilha: parece o francês <i>attendre</i> («esperar»), mas significa <b>«comparecer a, participar de, frequentar»</b>. (Para «esperar» → wait.)",
+    "means": [
+      {"def": "comparecer a, estar presente", "en": "I have to attend a meeting at 3.", "t": "(comparecer a)"},
+      {"def": "frequentar (escola)", "en": "She attends a private school.", "t": "(frequentar)"},
+      {"def": "attend to: cuidar de, atender", "en": "The nurse attended to the patient.", "t": "(cuidar de)"},
+      {"def": "ARMADILHA: NÃO 'esperar' → wait", "en": "Wait for me here. (NOT attend)", "t": "(esperar = wait)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["attend vs wait", "attendance", "participate", "join"],
+    "idiomTitle": "Expressões", "idioms": ["attend a meeting", "attend school", "attend to (something)"],
+    "quizQ": "O que significa «attend a meeting»?", "quizA": ["Comparecer a uma reunião", "Esperar uma reunião", "Adiar uma reunião"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "動詞", "title": "attendの意味は？（罠）",
+    "metaDesc": "attendの意味は？「待つ」ではなく「出席する・参加する」。フランス語attendreと混同される誤用 — LinguaBattle.",
+    "lede": "<b>attend</b> は罠：フランス語の <i>attendre</i>（「待つ」）に似ているが、意味は<b>「出席する、参加する、通う」</b>。（「待つ」は wait。）",
+    "means": [
+      {"def": "出席する、参加する", "en": "I have to attend a meeting at 3.", "t": "（出席する）"},
+      {"def": "（学校に）通う", "en": "She attends a private school.", "t": "（通う）"},
+      {"def": "attend to: 対応する、世話をする", "en": "The nurse attended to the patient.", "t": "（世話をする）"},
+      {"def": "罠：「待つ」ではない → wait", "en": "Wait for me here. (NOT attend)", "t": "（待つ = wait）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["attend vs wait", "attendance", "participate", "join"],
+    "idiomTitle": "フレーズ", "idioms": ["attend a meeting", "attend school", "attend to (something)"],
+    "quizQ": "「attend a meeting」の意味は？", "quizA": ["会議に出席する", "会議を待つ", "会議を延期する"], "quizOk": 0
+  }
+}

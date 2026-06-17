@@ -1,0 +1,146 @@
+{
+  "word": "hold",
+  "pron": "/hoʊld/",
+  "category": "verb",
+  "conj": ["hold", "held", "held"],
+  "tr": {
+    "pos": "fiil", "title": "hold ne demek? (4 anlamı)",
+    "metaDesc": "hold ne demek? 4 anlamı: tutmak, düzenlemek, beklemek (telefon), alacak kapasitesi. hold/held/held — LinguaBattle.",
+    "lede": "<b>hold</b> çok anlamlı bir İngilizce fiildir. Temel anlamı “tutmak” ama düzenlemekten beklemeye uzanır. Düzensiz: hold → held → held.",
+    "means": [
+      {"def": "tutmak (elinde)", "en": "Hold my hand.", "t": "Elimi tut."},
+      {"def": "düzenlemek (etkinlik, toplantı)", "en": "They held a meeting.", "t": "Bir toplantı düzenlediler."},
+      {"def": "beklemek (telefonda: hold on)", "en": "Please hold.", "t": "Lütfen bekleyin (hatta kalın)."},
+      {"def": "almak, içine sığdırmak (kapasite)", "en": "This bottle holds 1 liter.", "t": "Bu şişe 1 litre alır."}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["hold vs keep", "hold vs carry", "held vs hold"],
+    "idiomTitle": "Günlük kalıplar", "idioms": ["hold on (bekle)", "hold up (geciktirmek)", "hold back (tutmak/çekinmek)"],
+    "quizQ": "“Please hold” (telefonda) ne demek?", "quizA": ["Lütfen bekleyin", "Lütfen tutun", "Lütfen kapatın"], "quizOk": 0
+  },
+  "en": {
+    "pos": "verb", "title": "What does hold mean? (4 meanings)",
+    "metaDesc": "What does hold mean? 4 meanings: to hold, to hold (an event), to wait (phone), to contain. hold/held/held — LinguaBattle.",
+    "lede": "<b>hold</b> is a multi-meaning English verb. The core is “to grip”, but it ranges from organizing to waiting. Irregular: hold → held → held.",
+    "means": [
+      {"def": "to hold, grip (in your hand)", "en": "Hold my hand.", "t": "(grip)"},
+      {"def": "to hold (an event, meeting)", "en": "They held a meeting.", "t": "(organize)"},
+      {"def": "to wait (on the phone: hold on)", "en": "Please hold.", "t": "(stay on the line)"},
+      {"def": "to contain (capacity)", "en": "This bottle holds 1 liter.", "t": "(contain)"}
+    ],
+    "relTitle": "Often confused", "rel": ["hold vs keep", "hold vs carry", "held vs hold"],
+    "idiomTitle": "Phrasal verbs", "idioms": ["hold on", "hold up", "hold back"],
+    "quizQ": "What does “Please hold” (on the phone) mean?", "quizA": ["Please wait", "Please grip", "Please hang up"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Verb", "title": "Was bedeutet hold? (4 Bedeutungen)",
+    "metaDesc": "Was bedeutet hold? 4 Bedeutungen: halten, abhalten (Event), warten (Telefon), fassen. hold/held/held — LinguaBattle.",
+    "lede": "<b>hold</b> ist ein vieldeutiges englisches Verb. Der Kern ist „halten“, reicht aber von veranstalten bis warten. Unregelmäßig: hold → held → held.",
+    "means": [
+      {"def": "halten (in der Hand)", "en": "Hold my hand.", "t": "(halten)"},
+      {"def": "abhalten (Event, Meeting)", "en": "They held a meeting.", "t": "(abhalten)"},
+      {"def": "warten (am Telefon: hold on)", "en": "Please hold.", "t": "(am Apparat bleiben)"},
+      {"def": "fassen (Kapazität)", "en": "This bottle holds 1 liter.", "t": "(fassen)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["hold vs keep", "hold vs carry", "held vs hold"],
+    "idiomTitle": "Phrasal Verbs", "idioms": ["hold on", "hold up", "hold back"],
+    "quizQ": "Was bedeutet „Please hold“ (am Telefon)?", "quizA": ["Bitte warten", "Bitte festhalten", "Bitte auflegen"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "verbe", "title": "Que signifie hold ? (4 sens)",
+    "metaDesc": "Que signifie hold ? 4 sens : tenir, organiser (événement), patienter (téléphone), contenir. hold/held/held — LinguaBattle.",
+    "lede": "<b>hold</b> est un verbe anglais à sens multiples. Le cœur est « tenir », mais cela va d'organiser à patienter. Irrégulier : hold → held → held.",
+    "means": [
+      {"def": "tenir (dans la main)", "en": "Hold my hand.", "t": "(tenir)"},
+      {"def": "organiser (événement, réunion)", "en": "They held a meeting.", "t": "(organiser)"},
+      {"def": "patienter (au téléphone : hold on)", "en": "Please hold.", "t": "(rester en ligne)"},
+      {"def": "contenir (capacité)", "en": "This bottle holds 1 liter.", "t": "(contenir)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["hold vs keep", "hold vs carry", "held vs hold"],
+    "idiomTitle": "Verbes à particule", "idioms": ["hold on", "hold up", "hold back"],
+    "quizQ": "Que veut dire « Please hold » (au téléphone) ?", "quizA": ["Veuillez patienter", "Veuillez tenir", "Veuillez raccrocher"], "quizOk": 0
+  },
+  "es": {
+    "pos": "verbo", "title": "¿Qué significa hold? (4 significados)",
+    "metaDesc": "¿Qué significa hold? 4 significados: sostener, celebrar (evento), esperar (teléfono), contener. hold/held/held — LinguaBattle.",
+    "lede": "<b>hold</b> es un verbo inglés con varios significados. El núcleo es «sostener», pero va de organizar a esperar. Irregular: hold → held → held.",
+    "means": [
+      {"def": "sostener, agarrar (en la mano)", "en": "Hold my hand.", "t": "(sostener)"},
+      {"def": "celebrar (evento, reunión)", "en": "They held a meeting.", "t": "(celebrar)"},
+      {"def": "esperar (al teléfono: hold on)", "en": "Please hold.", "t": "(no colgar)"},
+      {"def": "contener (capacidad)", "en": "This bottle holds 1 liter.", "t": "(contener)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["hold vs keep", "hold vs carry", "held vs hold"],
+    "idiomTitle": "Verbos compuestos", "idioms": ["hold on", "hold up", "hold back"],
+    "quizQ": "¿Qué significa «Please hold» (al teléfono)?", "quizA": ["Por favor espere", "Por favor sostenga", "Por favor cuelgue"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "فعل", "title": "ماذا تعني hold؟ (4 معانٍ)",
+    "metaDesc": "ماذا تعني hold؟ 4 معانٍ: يمسك، يعقد (فعالية)، ينتظر (هاتف)، يتّسع. hold/held/held — LinguaBattle.",
+    "lede": "<b>hold</b> فعل إنجليزي متعدد المعاني. الأساس «يمسك»، لكنه يمتد من التنظيم إلى الانتظار. شاذ: hold → held → held.",
+    "means": [
+      {"def": "يمسك (باليد)", "en": "Hold my hand.", "t": "(يمسك)"},
+      {"def": "يعقد، يقيم (فعالية، اجتماع)", "en": "They held a meeting.", "t": "(يعقد)"},
+      {"def": "ينتظر (على الهاتف: hold on)", "en": "Please hold.", "t": "(ابقَ على الخط)"},
+      {"def": "يتّسع لـ (سعة)", "en": "This bottle holds 1 liter.", "t": "(يتّسع)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["hold vs keep", "hold vs carry", "held vs hold"],
+    "idiomTitle": "أفعال مركّبة", "idioms": ["hold on", "hold up", "hold back"],
+    "quizQ": "ماذا تعني «Please hold» (على الهاتف)؟", "quizA": ["يرجى الانتظار", "يرجى الإمساك", "يرجى الإغلاق"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "क्रिया", "title": "hold का क्या मतलब है? (4 अर्थ)",
+    "metaDesc": "hold का क्या मतलब है? 4 अर्थ: पकड़ना, आयोजित करना, इंतज़ार करना (फ़ोन), समाना। hold/held/held — LinguaBattle.",
+    "lede": "<b>hold</b> कई अर्थों वाली अंग्रेज़ी क्रिया है। मूल अर्थ “पकड़ना” है, पर यह आयोजित करने से इंतज़ार तक फैला है। अनियमित: hold → held → held.",
+    "means": [
+      {"def": "पकड़ना (हाथ में)", "en": "Hold my hand.", "t": "(पकड़ना)"},
+      {"def": "आयोजित करना (कार्यक्रम, मीटिंग)", "en": "They held a meeting.", "t": "(आयोजित करना)"},
+      {"def": "इंतज़ार करना (फ़ोन पर: hold on)", "en": "Please hold.", "t": "(लाइन पर रहें)"},
+      {"def": "समाना (क्षमता)", "en": "This bottle holds 1 liter.", "t": "(समाना)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["hold vs keep", "hold vs carry", "held vs hold"],
+    "idiomTitle": "वाक्यांश क्रिया", "idioms": ["hold on", "hold up", "hold back"],
+    "quizQ": "“Please hold” (फ़ोन पर) का क्या अर्थ है?", "quizA": ["कृपया प्रतीक्षा करें", "कृपया पकड़ें", "कृपया फ़ोन रखें"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "глагол", "title": "Что значит hold? (4 значения)",
+    "metaDesc": "Что значит hold? 4 значения: держать, проводить (мероприятие), ждать (телефон), вмещать. hold/held/held — LinguaBattle.",
+    "lede": "<b>hold</b> — многозначный английский глагол. Основа — «держать», но значения от проведения до ожидания. Неправильный: hold → held → held.",
+    "means": [
+      {"def": "держать (в руке)", "en": "Hold my hand.", "t": "(держать)"},
+      {"def": "проводить (мероприятие, встречу)", "en": "They held a meeting.", "t": "(проводить)"},
+      {"def": "ждать (по телефону: hold on)", "en": "Please hold.", "t": "(оставаться на линии)"},
+      {"def": "вмещать (объём)", "en": "This bottle holds 1 liter.", "t": "(вмещать)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["hold vs keep", "hold vs carry", "held vs hold"],
+    "idiomTitle": "Фразовые глаголы", "idioms": ["hold on", "hold up", "hold back"],
+    "quizQ": "Что значит «Please hold» (по телефону)?", "quizA": ["Пожалуйста, подождите", "Пожалуйста, держите", "Пожалуйста, повесьте трубку"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "verbo", "title": "O que significa hold? (4 significados)",
+    "metaDesc": "O que significa hold? 4 significados: segurar, realizar (evento), aguardar (telefone), comportar. hold/held/held — LinguaBattle.",
+    "lede": "<b>hold</b> é um verbo inglês com vários significados. O núcleo é «segurar», mas vai de realizar a aguardar. Irregular: hold → held → held.",
+    "means": [
+      {"def": "segurar (na mão)", "en": "Hold my hand.", "t": "(segurar)"},
+      {"def": "realizar (evento, reunião)", "en": "They held a meeting.", "t": "(realizar)"},
+      {"def": "aguardar (no telefone: hold on)", "en": "Please hold.", "t": "(ficar na linha)"},
+      {"def": "comportar (capacidade)", "en": "This bottle holds 1 liter.", "t": "(comportar)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["hold vs keep", "hold vs carry", "held vs hold"],
+    "idiomTitle": "Verbos frasais", "idioms": ["hold on", "hold up", "hold back"],
+    "quizQ": "O que significa «Please hold» (no telefone)?", "quizA": ["Por favor, aguarde", "Por favor, segure", "Por favor, desligue"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "動詞", "title": "holdの意味は？（4つの意味）",
+    "metaDesc": "holdの意味は？4つの意味：持つ、開催する、待つ（電話）、収容する。hold/held/held — LinguaBattle.",
+    "lede": "<b>hold</b> は多義の英語動詞。基本は「持つ・握る」だが、開催から待機まで幅広い。不規則：hold → held → held。",
+    "means": [
+      {"def": "持つ、握る（手で）", "en": "Hold my hand.", "t": "（握る）"},
+      {"def": "開催する（イベント・会議）", "en": "They held a meeting.", "t": "（開催する）"},
+      {"def": "待つ（電話で：hold on）", "en": "Please hold.", "t": "（切らずにお待ちを）"},
+      {"def": "収容する（容量）", "en": "This bottle holds 1 liter.", "t": "（入る）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["hold vs keep", "hold vs carry", "held vs hold"],
+    "idiomTitle": "句動詞", "idioms": ["hold on", "hold up", "hold back"],
+    "quizQ": "「Please hold」（電話で）の意味は？", "quizA": ["少々お待ちください", "握ってください", "電話を切ってください"], "quizOk": 0
+  }
+}

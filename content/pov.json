@@ -1,0 +1,125 @@
+{
+  "word": "POV",
+  "pron": "/ˌpiː oʊ ˈviː/",
+  "category": "genz",
+  "tr": {
+    "pos": "kısaltma", "title": "POV ne demek?",
+    "metaDesc": "POV ne demek? Point of View — bakış açısı. Sosyal medyadaki kullanımı, örneklerle — LinguaBattle.",
+    "lede": "<b>POV</b>, “Point of View” yani <b>bakış açısı</b> demektir. Sosyal medyada (TikTok/Instagram) “sen o durumdaymışsın gibi” videoların başında çok kullanılır.",
+    "means": [
+      {"def": "bakış açısı (Point of View açılımı)", "en": "What's your POV on this?", "t": "Bu konudaki bakış açın ne?"},
+      {"def": "sosyal medya: “sen şu durumdasın” kurgusu", "en": "POV: you just woke up late.", "t": "Bakış açın: az önce geç uyandın (sen o anı yaşıyorsun gibi)."}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["POV vs opinion", "first person", "point of view"],
+    "idiomTitle": "Kalıplar", "idioms": ["POV:", "from my POV", "change my POV"],
+    "quizQ": "POV neyin kısaltması?", "quizA": ["Point of View (bakış açısı)", "Power of Voice", "Point of Value"], "quizOk": 0
+  },
+  "en": {
+    "pos": "abbreviation", "title": "What does POV mean?",
+    "metaDesc": "What does POV mean? Point of View. Its use on social media, with examples — LinguaBattle.",
+    "lede": "<b>POV</b> stands for “Point of View”. On social media (TikTok/Instagram) it's used at the start of videos to mean “imagine you're in this situation”.",
+    "means": [
+      {"def": "point of view (the full form)", "en": "What's your POV on this?", "t": "(your view)"},
+      {"def": "social media: 'you are in this scene' framing", "en": "POV: you just woke up late.", "t": "(you're living it)"}
+    ],
+    "relTitle": "Often confused", "rel": ["POV vs opinion", "first person", "point of view"],
+    "idiomTitle": "Phrases", "idioms": ["POV:", "from my POV", "change my POV"],
+    "quizQ": "What does POV stand for?", "quizA": ["Point of View", "Power of Voice", "Point of Value"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Abkürzung", "title": "Was bedeutet POV?",
+    "metaDesc": "Was bedeutet POV? Point of View — Perspektive. Nutzung in sozialen Medien, mit Beispielen — LinguaBattle.",
+    "lede": "<b>POV</b> steht für „Point of View“ (Perspektive). In sozialen Medien (TikTok/Instagram) am Anfang von Videos: „stell dir vor, du bist in dieser Situation“.",
+    "means": [
+      {"def": "Perspektive (die volle Form)", "en": "What's your POV on this?", "t": "(deine Sicht)"},
+      {"def": "Social Media: 'du bist in der Szene'", "en": "POV: you just woke up late.", "t": "(du erlebst es)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["POV vs opinion", "first person", "point of view"],
+    "idiomTitle": "Redewendungen", "idioms": ["POV:", "from my POV", "change my POV"],
+    "quizQ": "Wofür steht POV?", "quizA": ["Point of View", "Power of Voice", "Point of Value"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "abréviation", "title": "Que signifie POV ?",
+    "metaDesc": "Que signifie POV ? Point of View — point de vue. Son usage sur les réseaux, avec exemples — LinguaBattle.",
+    "lede": "<b>POV</b> signifie « Point of View » (point de vue). Sur les réseaux (TikTok/Instagram), au début des vidéos : « imagine que tu es dans cette situation ».",
+    "means": [
+      {"def": "point de vue (la forme complète)", "en": "What's your POV on this?", "t": "(ton point de vue)"},
+      {"def": "réseaux : 'tu es dans la scène'", "en": "POV: you just woke up late.", "t": "(tu le vis)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["POV vs opinion", "first person", "point of view"],
+    "idiomTitle": "Expressions", "idioms": ["POV:", "from my POV", "change my POV"],
+    "quizQ": "Que signifie l'abréviation POV ?", "quizA": ["Point of View", "Power of Voice", "Point of Value"], "quizOk": 0
+  },
+  "es": {
+    "pos": "abreviatura", "title": "¿Qué significa POV?",
+    "metaDesc": "¿Qué significa POV? Point of View — punto de vista. Su uso en redes sociales, con ejemplos — LinguaBattle.",
+    "lede": "<b>POV</b> significa «Point of View» (punto de vista). En redes (TikTok/Instagram), al inicio de los videos: «imagina que estás en esta situación».",
+    "means": [
+      {"def": "punto de vista (la forma completa)", "en": "What's your POV on this?", "t": "(tu punto de vista)"},
+      {"def": "redes: 'estás en la escena'", "en": "POV: you just woke up late.", "t": "(lo estás viviendo)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["POV vs opinion", "first person", "point of view"],
+    "idiomTitle": "Expresiones", "idioms": ["POV:", "from my POV", "change my POV"],
+    "quizQ": "¿Qué significa la sigla POV?", "quizA": ["Point of View", "Power of Voice", "Point of Value"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "اختصار", "title": "ماذا تعني POV؟",
+    "metaDesc": "ماذا تعني POV؟ Point of View — وجهة نظر. استخدامها في وسائل التواصل، مع أمثلة — LinguaBattle.",
+    "lede": "<b>POV</b> اختصار لـ «Point of View» أي <b>وجهة نظر</b>. في وسائل التواصل (تيك توك/إنستغرام) تُستخدم في بداية الفيديوهات: «تخيّل أنك في هذا الموقف».",
+    "means": [
+      {"def": "وجهة نظر (الصيغة الكاملة)", "en": "What's your POV on this?", "t": "(وجهة نظرك)"},
+      {"def": "تواصل اجتماعي: 'أنت في المشهد'", "en": "POV: you just woke up late.", "t": "(كأنك تعيشه)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["POV vs opinion", "first person", "point of view"],
+    "idiomTitle": "عبارات", "idioms": ["POV:", "from my POV", "change my POV"],
+    "quizQ": "ماذا يعني اختصار POV؟", "quizA": ["Point of View", "Power of Voice", "Point of Value"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "संक्षेप", "title": "POV का क्या मतलब है?",
+    "metaDesc": "POV का क्या मतलब है? Point of View — नज़रिया। सोशल मीडिया में इस्तेमाल, उदाहरणों सहित — LinguaBattle.",
+    "lede": "<b>POV</b> का मतलब है “Point of View” यानी <b>नज़रिया</b>। सोशल मीडिया (TikTok/Instagram) पर वीडियो की शुरुआत में: “मान लो तुम इस स्थिति में हो”।",
+    "means": [
+      {"def": "नज़रिया (पूरा रूप)", "en": "What's your POV on this?", "t": "(तुम्हारा नज़रिया)"},
+      {"def": "सोशल मीडिया: 'तुम इस दृश्य में हो'", "en": "POV: you just woke up late.", "t": "(तुम इसे जी रहे हो)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["POV vs opinion", "first person", "point of view"],
+    "idiomTitle": "वाक्यांश", "idioms": ["POV:", "from my POV", "change my POV"],
+    "quizQ": "POV किसका संक्षेप है?", "quizA": ["Point of View", "Power of Voice", "Point of Value"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "аббревиатура", "title": "Что значит POV?",
+    "metaDesc": "Что значит POV? Point of View — точка зрения. Использование в соцсетях, с примерами — LinguaBattle.",
+    "lede": "<b>POV</b> — сокращение от «Point of View» (точка зрения). В соцсетях (TikTok/Instagram) в начале видео: «представь, что ты в этой ситуации».",
+    "means": [
+      {"def": "точка зрения (полная форма)", "en": "What's your POV on this?", "t": "(твоя точка зрения)"},
+      {"def": "соцсети: 'ты в этой сцене'", "en": "POV: you just woke up late.", "t": "(ты это проживаешь)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["POV vs opinion", "first person", "point of view"],
+    "idiomTitle": "Выражения", "idioms": ["POV:", "from my POV", "change my POV"],
+    "quizQ": "Что означает аббревиатура POV?", "quizA": ["Point of View", "Power of Voice", "Point of Value"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "abreviatura", "title": "O que significa POV?",
+    "metaDesc": "O que significa POV? Point of View — ponto de vista. Seu uso nas redes sociais, com exemplos — LinguaBattle.",
+    "lede": "<b>POV</b> significa «Point of View» (ponto de vista). Nas redes (TikTok/Instagram), no início dos vídeos: «imagine que você está nesta situação».",
+    "means": [
+      {"def": "ponto de vista (a forma completa)", "en": "What's your POV on this?", "t": "(seu ponto de vista)"},
+      {"def": "redes: 'você está na cena'", "en": "POV: you just woke up late.", "t": "(você está vivendo)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["POV vs opinion", "first person", "point of view"],
+    "idiomTitle": "Expressões", "idioms": ["POV:", "from my POV", "change my POV"],
+    "quizQ": "O que significa a sigla POV?", "quizA": ["Point of View", "Power of Voice", "Point of Value"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "略語", "title": "POVの意味は？",
+    "metaDesc": "POVの意味は？Point of View — 視点。SNSでの使い方、例文付き — LinguaBattle.",
+    "lede": "<b>POV</b> は「Point of View」＝<b>視点</b>の略。SNS（TikTok/Instagram）では動画の冒頭で「あなたがこの状況にいると想像して」という意味で使う。",
+    "means": [
+      {"def": "視点（正式な形）", "en": "What's your POV on this?", "t": "（あなたの視点）"},
+      {"def": "SNS：'あなたがその場面にいる'設定", "en": "POV: you just woke up late.", "t": "（あなたが体験している風）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["POV vs opinion", "first person", "point of view"],
+    "idiomTitle": "フレーズ", "idioms": ["POV:", "from my POV", "change my POV"],
+    "quizQ": "POVは何の略？", "quizA": ["Point of View", "Power of Voice", "Point of Value"], "quizOk": 0
+  }
+}

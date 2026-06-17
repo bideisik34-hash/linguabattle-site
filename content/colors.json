@@ -1,0 +1,165 @@
+{
+  "word": "colors",
+  "pron": "/ˈkʌləz/",
+  "category": "basics",
+  "tr": {
+    "pos": "kelime listesi", "title": "İngilizce renkler",
+    "metaDesc": "İngilizce renkler: temel renklerin İngilizcesi, okunuşu ve Türkçesi. Liste + örnekler — LinguaBattle.",
+    "lede": "İngilizce <b>renkler</b> (colors) okunuşları ve Türkçeleriyle. Not: Amerikan İngilizcesinde “color”, İngiliz İngilizcesinde “colour” yazılır.",
+    "means": [
+      {"def": "red /red/", "en": "red", "t": "kırmızı"},
+      {"def": "blue /bluː/", "en": "blue", "t": "mavi"},
+      {"def": "green /ɡriːn/", "en": "green", "t": "yeşil"},
+      {"def": "yellow /ˈjeloʊ/", "en": "yellow", "t": "sarı"},
+      {"def": "black /blæk/, white /waɪt/", "en": "black, white", "t": "siyah, beyaz"},
+      {"def": "orange, purple, pink, brown, gray", "en": "orange, purple, pink, brown, gray", "t": "turuncu, mor, pembe, kahverengi, gri"}
+    ],
+    "relTitle": "İlgili konular", "rel": ["sayılar (numbers)", "aylar (months)", "şekiller (shapes)"],
+    "idiomTitle": "Kalıplar", "idioms": ["favorite color (en sevdiğin renk)", "light blue (açık mavi)", "dark green (koyu yeşil)"],
+    "quizQ": "“green” İngilizcede hangi renk?", "quizA": ["yeşil", "mavi", "sarı"], "quizOk": 0
+  },
+  "en": {
+    "pos": "word list", "title": "Colors in English",
+    "metaDesc": "Colors in English: basic colors with pronunciation. List + examples — LinguaBattle.",
+    "lede": "The basic <b>colors</b> in English with pronunciation. Note: it's spelled “color” in American English and “colour” in British English.",
+    "means": [
+      {"def": "red /red/", "en": "red", "t": "(primary)"},
+      {"def": "blue /bluː/", "en": "blue", "t": "(primary)"},
+      {"def": "green /ɡriːn/", "en": "green", "t": "(secondary)"},
+      {"def": "yellow /ˈjeloʊ/", "en": "yellow", "t": "(primary)"},
+      {"def": "black /blæk/, white /waɪt/", "en": "black, white", "t": "(neutral)"},
+      {"def": "orange, purple, pink, brown, gray", "en": "orange, purple, pink, brown, gray", "t": "(more colors)"}
+    ],
+    "relTitle": "Related topics", "rel": ["numbers", "months", "shapes"],
+    "idiomTitle": "Phrases", "idioms": ["favorite color", "light blue", "dark green"],
+    "quizQ": "What color is “green”?", "quizA": ["green (the color)", "blue", "yellow"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Wortliste", "title": "Farben auf Englisch",
+    "metaDesc": "Farben auf Englisch: die Grundfarben mit Aussprache. Liste + Beispiele — LinguaBattle.",
+    "lede": "Die <b>Farben</b> auf Englisch mit Aussprache. Hinweis: „color“ (amerikanisch), „colour“ (britisch).",
+    "means": [
+      {"def": "red /red/", "en": "red", "t": "rot"},
+      {"def": "blue /bluː/", "en": "blue", "t": "blau"},
+      {"def": "green /ɡriːn/", "en": "green", "t": "grün"},
+      {"def": "yellow /ˈjeloʊ/", "en": "yellow", "t": "gelb"},
+      {"def": "black /blæk/, white /waɪt/", "en": "black, white", "t": "schwarz, weiß"},
+      {"def": "orange, purple, pink, brown, gray", "en": "orange, purple, pink, brown, gray", "t": "orange, lila, rosa, braun, grau"}
+    ],
+    "relTitle": "Verwandte Themen", "rel": ["Zahlen", "Monate", "Formen"],
+    "idiomTitle": "Wendungen", "idioms": ["favorite color", "light blue", "dark green"],
+    "quizQ": "Welche Farbe ist „green“?", "quizA": ["grün", "blau", "gelb"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "liste de mots", "title": "Les couleurs en anglais",
+    "metaDesc": "Les couleurs en anglais : les couleurs de base avec prononciation. Liste + exemples — LinguaBattle.",
+    "lede": "Les <b>couleurs</b> de base en anglais avec prononciation. Note : « color » (américain), « colour » (britannique).",
+    "means": [
+      {"def": "red /red/", "en": "red", "t": "rouge"},
+      {"def": "blue /bluː/", "en": "blue", "t": "bleu"},
+      {"def": "green /ɡriːn/", "en": "green", "t": "vert"},
+      {"def": "yellow /ˈjeloʊ/", "en": "yellow", "t": "jaune"},
+      {"def": "black /blæk/, white /waɪt/", "en": "black, white", "t": "noir, blanc"},
+      {"def": "orange, purple, pink, brown, gray", "en": "orange, purple, pink, brown, gray", "t": "orange, violet, rose, marron, gris"}
+    ],
+    "relTitle": "Sujets liés", "rel": ["nombres", "mois", "formes"],
+    "idiomTitle": "Expressions", "idioms": ["favorite color", "light blue", "dark green"],
+    "quizQ": "Quelle couleur est « green » ?", "quizA": ["vert", "bleu", "jaune"], "quizOk": 0
+  },
+  "es": {
+    "pos": "lista de palabras", "title": "Los colores en inglés",
+    "metaDesc": "Los colores en inglés: los colores básicos con pronunciación. Lista + ejemplos — LinguaBattle.",
+    "lede": "Los <b>colores</b> básicos en inglés con pronunciación. Nota: se escribe «color» (americano) y «colour» (británico).",
+    "means": [
+      {"def": "red /red/", "en": "red", "t": "rojo"},
+      {"def": "blue /bluː/", "en": "blue", "t": "azul"},
+      {"def": "green /ɡriːn/", "en": "green", "t": "verde"},
+      {"def": "yellow /ˈjeloʊ/", "en": "yellow", "t": "amarillo"},
+      {"def": "black /blæk/, white /waɪt/", "en": "black, white", "t": "negro, blanco"},
+      {"def": "orange, purple, pink, brown, gray", "en": "orange, purple, pink, brown, gray", "t": "naranja, morado, rosa, marrón, gris"}
+    ],
+    "relTitle": "Temas relacionados", "rel": ["números", "meses", "formas"],
+    "idiomTitle": "Expresiones", "idioms": ["favorite color", "light blue", "dark green"],
+    "quizQ": "¿Qué color es «green»?", "quizA": ["verde", "azul", "amarillo"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "قائمة كلمات", "title": "الألوان بالإنجليزية",
+    "metaDesc": "الألوان بالإنجليزية: الألوان الأساسية مع النطق. قائمة + أمثلة — LinguaBattle.",
+    "lede": "<b>الألوان</b> الأساسية بالإنجليزية مع النطق. ملاحظة: تُكتب «color» (أمريكي) و«colour» (بريطاني).",
+    "means": [
+      {"def": "red /red/", "en": "red", "t": "أحمر"},
+      {"def": "blue /bluː/", "en": "blue", "t": "أزرق"},
+      {"def": "green /ɡriːn/", "en": "green", "t": "أخضر"},
+      {"def": "yellow /ˈjeloʊ/", "en": "yellow", "t": "أصفر"},
+      {"def": "black /blæk/, white /waɪt/", "en": "black, white", "t": "أسود، أبيض"},
+      {"def": "orange, purple, pink, brown, gray", "en": "orange, purple, pink, brown, gray", "t": "برتقالي، بنفسجي، وردي، بنّي، رمادي"}
+    ],
+    "relTitle": "مواضيع ذات صلة", "rel": ["الأرقام", "الأشهر", "الأشكال"],
+    "idiomTitle": "عبارات", "idioms": ["favorite color", "light blue", "dark green"],
+    "quizQ": "ما لون «green»؟", "quizA": ["أخضر", "أزرق", "أصفر"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "शब्द सूची", "title": "अंग्रेज़ी में रंग",
+    "metaDesc": "अंग्रेज़ी में रंग: बुनियादी रंग उच्चारण के साथ। सूची + उदाहरण — LinguaBattle.",
+    "lede": "अंग्रेज़ी में बुनियादी <b>रंग</b> उच्चारण और हिन्दी अर्थ के साथ। नोट: अमेरिकी में “color”, ब्रिटिश में “colour” लिखा जाता है।",
+    "means": [
+      {"def": "red /red/", "en": "red", "t": "लाल"},
+      {"def": "blue /bluː/", "en": "blue", "t": "नीला"},
+      {"def": "green /ɡriːn/", "en": "green", "t": "हरा"},
+      {"def": "yellow /ˈjeloʊ/", "en": "yellow", "t": "पीला"},
+      {"def": "black /blæk/, white /waɪt/", "en": "black, white", "t": "काला, सफ़ेद"},
+      {"def": "orange, purple, pink, brown, gray", "en": "orange, purple, pink, brown, gray", "t": "नारंगी, बैंगनी, गुलाबी, भूरा, धूसर"}
+    ],
+    "relTitle": "संबंधित विषय", "rel": ["संख्याएँ", "महीने", "आकार"],
+    "idiomTitle": "वाक्यांश", "idioms": ["favorite color", "light blue", "dark green"],
+    "quizQ": "“green” कौन सा रंग है?", "quizA": ["हरा", "नीला", "पीला"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "список слов", "title": "Цвета на английском",
+    "metaDesc": "Цвета на английском: основные цвета с произношением. Список + примеры — LinguaBattle.",
+    "lede": "Основные <b>цвета</b> на английском с произношением. Примечание: пишется «color» (амер.) и «colour» (брит.).",
+    "means": [
+      {"def": "red /red/", "en": "red", "t": "красный"},
+      {"def": "blue /bluː/", "en": "blue", "t": "синий"},
+      {"def": "green /ɡriːn/", "en": "green", "t": "зелёный"},
+      {"def": "yellow /ˈjeloʊ/", "en": "yellow", "t": "жёлтый"},
+      {"def": "black /blæk/, white /waɪt/", "en": "black, white", "t": "чёрный, белый"},
+      {"def": "orange, purple, pink, brown, gray", "en": "orange, purple, pink, brown, gray", "t": "оранжевый, фиолетовый, розовый, коричневый, серый"}
+    ],
+    "relTitle": "Связанные темы", "rel": ["числа", "месяцы", "формы"],
+    "idiomTitle": "Выражения", "idioms": ["favorite color", "light blue", "dark green"],
+    "quizQ": "Какой цвет «green»?", "quizA": ["зелёный", "синий", "жёлтый"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "lista de palavras", "title": "As cores em inglês",
+    "metaDesc": "As cores em inglês: as cores básicas com pronúncia. Lista + exemplos — LinguaBattle.",
+    "lede": "As <b>cores</b> básicas em inglês com pronúncia. Nota: escreve-se «color» (americano) e «colour» (britânico).",
+    "means": [
+      {"def": "red /red/", "en": "red", "t": "vermelho"},
+      {"def": "blue /bluː/", "en": "blue", "t": "azul"},
+      {"def": "green /ɡriːn/", "en": "green", "t": "verde"},
+      {"def": "yellow /ˈjeloʊ/", "en": "yellow", "t": "amarelo"},
+      {"def": "black /blæk/, white /waɪt/", "en": "black, white", "t": "preto, branco"},
+      {"def": "orange, purple, pink, brown, gray", "en": "orange, purple, pink, brown, gray", "t": "laranja, roxo, rosa, marrom, cinza"}
+    ],
+    "relTitle": "Tópicos relacionados", "rel": ["números", "meses", "formas"],
+    "idiomTitle": "Expressões", "idioms": ["favorite color", "light blue", "dark green"],
+    "quizQ": "Que cor é «green»?", "quizA": ["verde", "azul", "amarelo"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "単語リスト", "title": "英語の色（colors）",
+    "metaDesc": "英語の色：基本の色を発音付きで。リスト＋例文 — LinguaBattle.",
+    "lede": "英語の基本の<b>色</b>を発音と日本語訳付きで。メモ：アメリカ式は「color」、イギリス式は「colour」。",
+    "means": [
+      {"def": "red /red/", "en": "red", "t": "赤"},
+      {"def": "blue /bluː/", "en": "blue", "t": "青"},
+      {"def": "green /ɡriːn/", "en": "green", "t": "緑"},
+      {"def": "yellow /ˈjeloʊ/", "en": "yellow", "t": "黄"},
+      {"def": "black /blæk/, white /waɪt/", "en": "black, white", "t": "黒、白"},
+      {"def": "orange, purple, pink, brown, gray", "en": "orange, purple, pink, brown, gray", "t": "オレンジ、紫、ピンク、茶、灰"}
+    ],
+    "relTitle": "関連トピック", "rel": ["数字", "月", "形"],
+    "idiomTitle": "フレーズ", "idioms": ["favorite color", "light blue", "dark green"],
+    "quizQ": "「green」は何色？", "quizA": ["緑", "青", "黄"], "quizOk": 0
+  }
+}

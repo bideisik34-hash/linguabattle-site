@@ -1,0 +1,135 @@
+{
+  "word": "realize",
+  "pron": "/ˈriːəlaɪz/",
+  "category": "confusing",
+  "tr": {
+    "pos": "fiil", "title": "realize ne demek? (yaygın tuzak)",
+    "metaDesc": "realize ne demek? 'Gerçekleştirmek' değil, 'fark etmek, farkına varmak'. Yaygın hata — LinguaBattle.",
+    "lede": "<b>realize</b> bir tuzaktır: “gerçekleştirmek/yapmak” sanılır ama aslında <b>“fark etmek, farkına varmak, kavramak”</b> demektir. (“Gerçekleştirmek” = carry out / achieve.)",
+    "means": [
+      {"def": "fark etmek, farkına varmak", "en": "I realized my mistake.", "t": "Hatamı fark ettim."},
+      {"def": "kavramak, anlamak (birden)", "en": "She realized he was right.", "t": "Onun haklı olduğunu kavradı."},
+      {"def": "TUZAK: 'gerçekleştirmek' DEĞİL → achieve", "en": "He achieved his dream. (NOT realized)", "t": "Hayalini gerçekleştirdi. (genelde achieve)"}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["realize vs achieve", "realize vs notice", "realise vs realize"],
+    "idiomTitle": "Kalıplar", "idioms": ["I realized that...", "suddenly realize", "didn't realize"],
+    "quizQ": "“I realized my mistake” ne demek?", "quizA": ["Hatamı fark ettim", "Hatamı yaptım", "Hatamı gerçekleştirdim"], "quizOk": 0
+  },
+  "en": {
+    "pos": "verb", "title": "What does realize mean? (common trap)",
+    "metaDesc": "What does realize mean? Not 'carry out' — it means 'to become aware, notice'. A common mistake — LinguaBattle.",
+    "lede": "<b>realize</b> is a trap: it usually does NOT mean “carry out/make happen”. It means <b>“to become aware of, to notice, to grasp”</b>. (To make happen → achieve / carry out.)",
+    "means": [
+      {"def": "to become aware of, notice", "en": "I realized my mistake.", "t": "(become aware)"},
+      {"def": "to suddenly understand", "en": "She realized he was right.", "t": "(grasp)"},
+      {"def": "TRAP: NOT 'carry out' → use achieve", "en": "He achieved his dream. (NOT realized)", "t": "(achieve = make happen)"}
+    ],
+    "relTitle": "Often confused", "rel": ["realize vs achieve", "realize vs notice", "realise vs realize"],
+    "idiomTitle": "Phrases", "idioms": ["I realized that...", "suddenly realize", "didn't realize"],
+    "quizQ": "What does “I realized my mistake” mean?", "quizA": ["I became aware of my mistake", "I made my mistake", "I carried out my mistake"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Verb", "title": "Was bedeutet realize? (häufige Falle)",
+    "metaDesc": "Was bedeutet realize? Nicht 'realisieren/umsetzen' — sondern 'bemerken, erkennen'. False Friend — LinguaBattle.",
+    "lede": "<b>realize</b> ist eine Falle: es heißt meist NICHT „umsetzen“! Es bedeutet <b>„bemerken, erkennen, sich bewusst werden“</b>. (Umsetzen → achieve / carry out.)",
+    "means": [
+      {"def": "bemerken, sich bewusst werden", "en": "I realized my mistake.", "t": "(bemerken)"},
+      {"def": "plötzlich erkennen", "en": "She realized he was right.", "t": "(erkennen)"},
+      {"def": "FALLE: NICHT 'umsetzen' → achieve", "en": "He achieved his dream. (NOT realized)", "t": "(umsetzen = achieve)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["realize vs achieve", "realize vs notice", "realise vs realize"],
+    "idiomTitle": "Wendungen", "idioms": ["I realized that...", "suddenly realize", "didn't realize"],
+    "quizQ": "Was bedeutet „I realized my mistake“?", "quizA": ["Ich bemerkte meinen Fehler", "Ich machte meinen Fehler", "Ich setzte meinen Fehler um"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "verbe", "title": "Que signifie realize ? (piège courant)",
+    "metaDesc": "Que signifie realize ? Pas 'réaliser (faire)' — mais 'se rendre compte'. Faux ami — LinguaBattle.",
+    "lede": "<b>realize</b> est un faux ami : il ne veut généralement PAS dire « réaliser (faire) » ! Il signifie <b>« se rendre compte, remarquer, comprendre »</b>. (Réaliser un projet → achieve / carry out.)",
+    "means": [
+      {"def": "se rendre compte, remarquer", "en": "I realized my mistake.", "t": "(se rendre compte)"},
+      {"def": "comprendre soudain", "en": "She realized he was right.", "t": "(comprendre)"},
+      {"def": "PIÈGE : PAS 'réaliser (faire)' → achieve", "en": "He achieved his dream. (NOT realized)", "t": "(réaliser = achieve)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["realize vs achieve", "realize vs notice", "realise vs realize"],
+    "idiomTitle": "Expressions", "idioms": ["I realized that...", "suddenly realize", "didn't realize"],
+    "quizQ": "Que veut dire « I realized my mistake » ?", "quizA": ["Je me suis rendu compte de mon erreur", "J'ai fait mon erreur", "J'ai réalisé mon erreur (concrétisé)"], "quizOk": 0
+  },
+  "es": {
+    "pos": "verbo", "title": "¿Qué significa realize? (trampa común)",
+    "metaDesc": "¿Qué significa realize? No 'realizar (hacer)' — sino 'darse cuenta'. Falso amigo — LinguaBattle.",
+    "lede": "<b>realize</b> es un falso amigo: normalmente NO significa «realizar (hacer)». Significa <b>«darse cuenta, percatarse, comprender»</b>. (Realizar un proyecto → achieve / carry out.)",
+    "means": [
+      {"def": "darse cuenta, percatarse", "en": "I realized my mistake.", "t": "(darse cuenta)"},
+      {"def": "comprender de repente", "en": "She realized he was right.", "t": "(comprender)"},
+      {"def": "TRAMPA: NO 'realizar (hacer)' → achieve", "en": "He achieved his dream. (NOT realized)", "t": "(realizar = achieve)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["realize vs achieve", "realize vs notice", "realise vs realize"],
+    "idiomTitle": "Expresiones", "idioms": ["I realized that...", "suddenly realize", "didn't realize"],
+    "quizQ": "¿Qué significa «I realized my mistake»?", "quizA": ["Me di cuenta de mi error", "Hice mi error", "Realicé mi error (lo concreté)"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "فعل", "title": "ماذا تعني realize؟ (فخّ شائع)",
+    "metaDesc": "ماذا تعني realize؟ ليست 'يحقّق/ينفّذ' — بل 'يدرك، ينتبه'. خطأ شائع — LinguaBattle.",
+    "lede": "<b>realize</b> فخّ: لا تعني عادةً «يحقّق/ينفّذ»! بل تعني <b>«يدرك، ينتبه إلى، يستوعب»</b>. (يحقّق مشروعًا → achieve / carry out.)",
+    "means": [
+      {"def": "يدرك، ينتبه إلى", "en": "I realized my mistake.", "t": "(يدرك)"},
+      {"def": "يستوعب فجأة", "en": "She realized he was right.", "t": "(يستوعب)"},
+      {"def": "فخّ: ليست 'يحقّق' → achieve", "en": "He achieved his dream. (NOT realized)", "t": "(يحقّق = achieve)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["realize vs achieve", "realize vs notice", "realise vs realize"],
+    "idiomTitle": "عبارات", "idioms": ["I realized that...", "suddenly realize", "didn't realize"],
+    "quizQ": "ماذا تعني «I realized my mistake»؟", "quizA": ["أدركتُ خطئي", "ارتكبتُ خطئي", "حقّقتُ خطئي"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "क्रिया", "title": "realize का क्या मतलब है? (आम ग़लती)",
+    "metaDesc": "realize का क्या मतलब है? 'पूरा करना' नहीं — बल्कि 'एहसास होना, महसूस करना'। आम भ्रम — LinguaBattle.",
+    "lede": "<b>realize</b> एक जाल है: इसका मतलब आमतौर पर 'पूरा करना' नहीं! इसका मतलब है <b>'एहसास होना, महसूस करना, समझ आना'</b>। ('पूरा करना' → achieve।)",
+    "means": [
+      {"def": "एहसास होना, महसूस करना", "en": "I realized my mistake.", "t": "(एहसास होना)"},
+      {"def": "अचानक समझ आना", "en": "She realized he was right.", "t": "(समझना)"},
+      {"def": "जाल: 'पूरा करना' नहीं → achieve", "en": "He achieved his dream. (NOT realized)", "t": "(पूरा करना = achieve)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["realize vs achieve", "realize vs notice", "realise vs realize"],
+    "idiomTitle": "वाक्यांश", "idioms": ["I realized that...", "suddenly realize", "didn't realize"],
+    "quizQ": "“I realized my mistake” का क्या अर्थ है?", "quizA": ["मुझे अपनी ग़लती का एहसास हुआ", "मैंने अपनी ग़लती की", "मैंने अपनी ग़लती पूरी की"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "глагол", "title": "Что значит realize? (частая ловушка)",
+    "metaDesc": "Что значит realize? Не 'осуществить' — а 'осознать, заметить'. Частая ошибка — LinguaBattle.",
+    "lede": "<b>realize</b> — ловушка: обычно оно НЕ значит «осуществить/сделать». Оно значит <b>«осознать, понять, заметить»</b>. (Осуществить → achieve / carry out.)",
+    "means": [
+      {"def": "осознать, заметить", "en": "I realized my mistake.", "t": "(осознать)"},
+      {"def": "внезапно понять", "en": "She realized he was right.", "t": "(понять)"},
+      {"def": "ЛОВУШКА: НЕ 'осуществить' → achieve", "en": "He achieved his dream. (NOT realized)", "t": "(осуществить = achieve)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["realize vs achieve", "realize vs notice", "realise vs realize"],
+    "idiomTitle": "Выражения", "idioms": ["I realized that...", "suddenly realize", "didn't realize"],
+    "quizQ": "Что значит «I realized my mistake»?", "quizA": ["Я осознал свою ошибку", "Я сделал свою ошибку", "Я осуществил свою ошибку"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "verbo", "title": "O que significa realize? (armadilha comum)",
+    "metaDesc": "O que significa realize? Não 'realizar (fazer)' — mas 'perceber, dar-se conta'. Falso cognato — LinguaBattle.",
+    "lede": "<b>realize</b> é um falso cognato: normalmente NÃO significa «realizar (fazer)». Significa <b>«perceber, dar-se conta, compreender»</b>. (Realizar um projeto → achieve / carry out.)",
+    "means": [
+      {"def": "perceber, dar-se conta", "en": "I realized my mistake.", "t": "(perceber)"},
+      {"def": "compreender de repente", "en": "She realized he was right.", "t": "(compreender)"},
+      {"def": "ARMADILHA: NÃO 'realizar (fazer)' → achieve", "en": "He achieved his dream. (NOT realized)", "t": "(realizar = achieve)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["realize vs achieve", "realize vs notice", "realise vs realize"],
+    "idiomTitle": "Expressões", "idioms": ["I realized that...", "suddenly realize", "didn't realize"],
+    "quizQ": "O que significa «I realized my mistake»?", "quizA": ["Percebi o meu erro", "Cometi o meu erro", "Realizei o meu erro (concretizei)"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "動詞", "title": "realizeの意味は？（よくある罠）",
+    "metaDesc": "realizeの意味は？「実現する」ではなく「気づく、悟る」。よくある誤用 — LinguaBattle.",
+    "lede": "<b>realize</b> は罠：たいてい「実現する」ではない！意味は<b>「気づく、悟る、理解する」</b>。（実現する → achieve / carry out。）",
+    "means": [
+      {"def": "気づく、自覚する", "en": "I realized my mistake.", "t": "（気づく）"},
+      {"def": "突然理解する", "en": "She realized he was right.", "t": "（悟る）"},
+      {"def": "罠：「実現する」ではない → achieve", "en": "He achieved his dream. (NOT realized)", "t": "（実現する = achieve）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["realize vs achieve", "realize vs notice", "realise vs realize"],
+    "idiomTitle": "フレーズ", "idioms": ["I realized that...", "suddenly realize", "didn't realize"],
+    "quizQ": "「I realized my mistake」の意味は？", "quizA": ["自分の間違いに気づいた", "自分の間違いをした", "自分の間違いを実現した"], "quizOk": 0
+  }
+}

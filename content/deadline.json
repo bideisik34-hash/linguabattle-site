@@ -1,0 +1,125 @@
+{
+  "word": "deadline",
+  "pron": "/ˈdedlaɪn/",
+  "category": "work",
+  "tr": {
+    "pos": "isim", "title": "deadline ne demek?",
+    "metaDesc": "deadline ne demek? Son teslim tarihi, son tarih. İş İngilizcesinde kullanımı, örneklerle — LinguaBattle.",
+    "lede": "<b>deadline</b>, bir işin tamamlanması gereken <b>son teslim tarihi/son süre</b> demektir. İş hayatında çok kullanılır.",
+    "means": [
+      {"def": "son teslim tarihi, son süre", "en": "The deadline is Friday.", "t": "Son teslim tarihi Cuma."},
+      {"def": "yetiştirme baskısı (meet/miss the deadline)", "en": "We met the deadline.", "t": "Son tarihe yetiştirdik."}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["deadline vs due date", "meet vs miss", "ASAP"],
+    "idiomTitle": "İş kalıpları", "idioms": ["meet the deadline (yetiştirmek)", "miss the deadline (kaçırmak)", "tight deadline (sıkı süre)"],
+    "quizQ": "“We met the deadline” ne demek?", "quizA": ["Son tarihe yetiştirdik", "Son tarihi kaçırdık", "Tarihi belirledik"], "quizOk": 0
+  },
+  "en": {
+    "pos": "noun", "title": "What does deadline mean?",
+    "metaDesc": "What does deadline mean? The latest time to finish something. Use in work English, with examples — LinguaBattle.",
+    "lede": "<b>deadline</b> means the <b>latest date or time</b> by which something must be finished. Very common at work.",
+    "means": [
+      {"def": "the final due date/time", "en": "The deadline is Friday.", "t": "(due date)"},
+      {"def": "meeting/missing it (meet/miss the deadline)", "en": "We met the deadline.", "t": "(finished in time)"}
+    ],
+    "relTitle": "Often confused", "rel": ["deadline vs due date", "meet vs miss", "ASAP"],
+    "idiomTitle": "Work phrases", "idioms": ["meet the deadline", "miss the deadline", "tight deadline"],
+    "quizQ": "What does “We met the deadline” mean?", "quizA": ["We finished in time", "We missed it", "We set the date"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Substantiv", "title": "Was bedeutet deadline?",
+    "metaDesc": "Was bedeutet deadline? Abgabetermin, Frist. Nutzung im Business-Englisch, mit Beispielen — LinguaBattle.",
+    "lede": "<b>deadline</b> bedeutet der <b>letzte Termin/die Frist</b>, bis zu der etwas fertig sein muss. Sehr häufig im Beruf.",
+    "means": [
+      {"def": "Abgabetermin, Frist", "en": "The deadline is Friday.", "t": "(Frist)"},
+      {"def": "einhalten/verpassen (meet/miss the deadline)", "en": "We met the deadline.", "t": "(rechtzeitig fertig)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["deadline vs due date", "meet vs miss", "ASAP"],
+    "idiomTitle": "Arbeitsausdrücke", "idioms": ["meet the deadline", "miss the deadline", "tight deadline"],
+    "quizQ": "Was bedeutet „We met the deadline“?", "quizA": ["Wir wurden rechtzeitig fertig", "Wir haben sie verpasst", "Wir setzten den Termin"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "nom", "title": "Que signifie deadline ?",
+    "metaDesc": "Que signifie deadline ? Date limite, échéance. Usage en anglais pro, avec exemples — LinguaBattle.",
+    "lede": "<b>deadline</b> signifie la <b>date limite/l'échéance</b> avant laquelle quelque chose doit être terminé. Très courant au travail.",
+    "means": [
+      {"def": "date limite, échéance", "en": "The deadline is Friday.", "t": "(échéance)"},
+      {"def": "respecter/manquer (meet/miss the deadline)", "en": "We met the deadline.", "t": "(fini à temps)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["deadline vs due date", "meet vs miss", "ASAP"],
+    "idiomTitle": "Expressions de travail", "idioms": ["meet the deadline", "miss the deadline", "tight deadline"],
+    "quizQ": "Que veut dire « We met the deadline » ?", "quizA": ["Nous avons fini à temps", "Nous l'avons manquée", "Nous avons fixé la date"], "quizOk": 0
+  },
+  "es": {
+    "pos": "sustantivo", "title": "¿Qué significa deadline?",
+    "metaDesc": "¿Qué significa deadline? Fecha límite, plazo. Uso en inglés laboral, con ejemplos — LinguaBattle.",
+    "lede": "<b>deadline</b> significa la <b>fecha límite/el plazo</b> antes del cual algo debe terminarse. Muy común en el trabajo.",
+    "means": [
+      {"def": "fecha límite, plazo", "en": "The deadline is Friday.", "t": "(plazo)"},
+      {"def": "cumplir/incumplir (meet/miss the deadline)", "en": "We met the deadline.", "t": "(terminado a tiempo)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["deadline vs due date", "meet vs miss", "ASAP"],
+    "idiomTitle": "Expresiones de trabajo", "idioms": ["meet the deadline", "miss the deadline", "tight deadline"],
+    "quizQ": "¿Qué significa «We met the deadline»?", "quizA": ["Terminamos a tiempo", "La incumplimos", "Fijamos la fecha"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "اسم", "title": "ماذا تعني deadline؟",
+    "metaDesc": "ماذا تعني deadline؟ الموعد النهائي. استخدامها في إنجليزية العمل، مع أمثلة — LinguaBattle.",
+    "lede": "<b>deadline</b> تعني <b>الموعد النهائي/المهلة</b> التي يجب إنجاز العمل قبلها. شائعة جدًا في العمل.",
+    "means": [
+      {"def": "الموعد النهائي، المهلة", "en": "The deadline is Friday.", "t": "(مهلة)"},
+      {"def": "الالتزام/التأخّر (meet/miss the deadline)", "en": "We met the deadline.", "t": "(أنجزنا في الوقت)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["deadline vs due date", "meet vs miss", "ASAP"],
+    "idiomTitle": "عبارات العمل", "idioms": ["meet the deadline", "miss the deadline", "tight deadline"],
+    "quizQ": "ماذا تعني «We met the deadline»؟", "quizA": ["أنجزنا في الموعد", "تأخّرنا عنه", "حدّدنا التاريخ"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "संज्ञा", "title": "deadline का क्या मतलब है?",
+    "metaDesc": "deadline का क्या मतलब है? अंतिम तिथि, समय-सीमा। ऑफिस इंग्लिश में इस्तेमाल, उदाहरणों सहित — LinguaBattle.",
+    "lede": "<b>deadline</b> का मतलब है वह <b>अंतिम तिथि/समय-सीमा</b> जब तक कोई काम पूरा होना चाहिए। काम में बहुत आम।",
+    "means": [
+      {"def": "अंतिम तिथि, समय-सीमा", "en": "The deadline is Friday.", "t": "(समय-सीमा)"},
+      {"def": "पूरा करना/चूकना (meet/miss the deadline)", "en": "We met the deadline.", "t": "(समय पर पूरा)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["deadline vs due date", "meet vs miss", "ASAP"],
+    "idiomTitle": "काम के वाक्यांश", "idioms": ["meet the deadline", "miss the deadline", "tight deadline"],
+    "quizQ": "“We met the deadline” का क्या अर्थ है?", "quizA": ["हमने समय पर पूरा किया", "हम चूक गए", "हमने तारीख तय की"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "существительное", "title": "Что значит deadline?",
+    "metaDesc": "Что значит deadline? Крайний срок. Использование в деловом английском, с примерами — LinguaBattle.",
+    "lede": "<b>deadline</b> означает <b>крайний срок</b>, к которому что-то должно быть готово. Очень частое на работе.",
+    "means": [
+      {"def": "крайний срок", "en": "The deadline is Friday.", "t": "(срок)"},
+      {"def": "уложиться/пропустить (meet/miss the deadline)", "en": "We met the deadline.", "t": "(успели вовремя)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["deadline vs due date", "meet vs miss", "ASAP"],
+    "idiomTitle": "Рабочие выражения", "idioms": ["meet the deadline", "miss the deadline", "tight deadline"],
+    "quizQ": "Что значит «We met the deadline»?", "quizA": ["Мы успели вовремя", "Мы его пропустили", "Мы назначили дату"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "substantivo", "title": "O que significa deadline?",
+    "metaDesc": "O que significa deadline? Prazo final. Uso no inglês de trabalho, com exemplos — LinguaBattle.",
+    "lede": "<b>deadline</b> significa o <b>prazo final</b> até o qual algo deve ser concluído. Muito comum no trabalho.",
+    "means": [
+      {"def": "prazo final", "en": "The deadline is Friday.", "t": "(prazo)"},
+      {"def": "cumprir/perder (meet/miss the deadline)", "en": "We met the deadline.", "t": "(concluído a tempo)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["deadline vs due date", "meet vs miss", "ASAP"],
+    "idiomTitle": "Expressões de trabalho", "idioms": ["meet the deadline", "miss the deadline", "tight deadline"],
+    "quizQ": "O que significa «We met the deadline»?", "quizA": ["Concluímos a tempo", "Nós o perdemos", "Definimos a data"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "名詞", "title": "deadlineの意味は？",
+    "metaDesc": "deadlineの意味は？締め切り。ビジネス英語での使い方、例文付き — LinguaBattle.",
+    "lede": "<b>deadline</b> は、何かを終わらせるべき<b>締め切り・期限</b>のこと。職場で非常によく使う。",
+    "means": [
+      {"def": "締め切り、期限", "en": "The deadline is Friday.", "t": "（締め切り）"},
+      {"def": "間に合う/逃す（meet/miss the deadline）", "en": "We met the deadline.", "t": "（間に合った）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["deadline vs due date", "meet vs miss", "ASAP"],
+    "idiomTitle": "仕事のフレーズ", "idioms": ["meet the deadline", "miss the deadline", "tight deadline"],
+    "quizQ": "「We met the deadline」の意味は？", "quizA": ["締め切りに間に合った", "締め切りを逃した", "日付を決めた"], "quizOk": 0
+  }
+}

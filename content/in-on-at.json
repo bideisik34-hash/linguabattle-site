@@ -1,0 +1,145 @@
+{
+  "word": "in / on / at",
+  "pron": "/ɪn, ɒn, æt/",
+  "category": "grammar",
+  "tr": {
+    "pos": "gramer (edatlar)", "title": "in, on, at farkı (yer ve zaman)",
+    "metaDesc": "in on at farkı: yer ve zaman edatları ne zaman kullanılır? Kurallar ve örneklerle — LinguaBattle.",
+    "lede": "<b>in, on, at</b> hem yer hem zaman için kullanılan, en çok karıştırılan edatlardır. Kural: genelden özele → <b>in</b> (büyük/içinde), <b>on</b> (yüzey/gün), <b>at</b> (nokta/saat).",
+    "means": [
+      {"def": "ZAMAN — in: ay, yıl, mevsim", "en": "in May, in 2026, in summer", "t": "Mayıs'ta, 2026'da, yazın"},
+      {"def": "ZAMAN — on: gün, tarih", "en": "on Monday, on May 5th", "t": "Pazartesi, 5 Mayıs'ta"},
+      {"def": "ZAMAN — at: saat, an", "en": "at 7 o'clock, at noon", "t": "saat 7'de, öğlen"},
+      {"def": "YER — in (içinde), on (üstünde), at (noktada)", "en": "in the room, on the table, at the door", "t": "odada, masanın üstünde, kapıda"}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["in vs on", "on vs at", "edatlar (prepositions)"],
+    "idiomTitle": "Kurallar", "idioms": ["in → büyük/ay/yıl", "on → gün/yüzey", "at → saat/nokta"],
+    "quizQ": "“___ Monday” hangisi?", "quizA": ["on Monday", "in Monday", "at Monday"], "quizOk": 0
+  },
+  "en": {
+    "pos": "grammar (prepositions)", "title": "In, on, at (place & time)",
+    "metaDesc": "In on at difference: when to use these place and time prepositions? Rules and examples — LinguaBattle.",
+    "lede": "<b>in, on, at</b> are the most confused prepositions, used for both place and time. Rule: general to specific → <b>in</b> (big/inside), <b>on</b> (surface/day), <b>at</b> (point/time).",
+    "means": [
+      {"def": "TIME — in: month, year, season", "en": "in May, in 2026, in summer", "t": "(larger periods)"},
+      {"def": "TIME — on: day, date", "en": "on Monday, on May 5th", "t": "(days)"},
+      {"def": "TIME — at: clock time, moment", "en": "at 7 o'clock, at noon", "t": "(exact time)"},
+      {"def": "PLACE — in (inside), on (surface), at (point)", "en": "in the room, on the table, at the door", "t": "(place)"}
+    ],
+    "relTitle": "Often confused", "rel": ["in vs on", "on vs at", "prepositions"],
+    "idiomTitle": "Rules", "idioms": ["in → big/month/year", "on → day/surface", "at → time/point"],
+    "quizQ": "Which is correct: “___ Monday”?", "quizA": ["on Monday", "in Monday", "at Monday"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Grammatik (Präpositionen)", "title": "In, on, at (Ort & Zeit)",
+    "metaDesc": "Unterschied in on at: Wann diese Orts- und Zeitpräpositionen? Regeln und Beispiele — LinguaBattle.",
+    "lede": "<b>in, on, at</b> sind die am häufigsten verwechselten Präpositionen, für Ort und Zeit. Regel: allgemein zu spezifisch → <b>in</b> (groß/innen), <b>on</b> (Fläche/Tag), <b>at</b> (Punkt/Uhrzeit).",
+    "means": [
+      {"def": "ZEIT — in: Monat, Jahr, Jahreszeit", "en": "in May, in 2026, in summer", "t": "(größere Zeiträume)"},
+      {"def": "ZEIT — on: Tag, Datum", "en": "on Monday, on May 5th", "t": "(Tage)"},
+      {"def": "ZEIT — at: Uhrzeit, Moment", "en": "at 7 o'clock, at noon", "t": "(genaue Zeit)"},
+      {"def": "ORT — in (innen), on (Fläche), at (Punkt)", "en": "in the room, on the table, at the door", "t": "(Ort)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["in vs on", "on vs at", "Präpositionen"],
+    "idiomTitle": "Regeln", "idioms": ["in → groß/Monat/Jahr", "on → Tag/Fläche", "at → Zeit/Punkt"],
+    "quizQ": "Was ist korrekt: „___ Monday“?", "quizA": ["on Monday", "in Monday", "at Monday"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "grammaire (prépositions)", "title": "In, on, at (lieu et temps)",
+    "metaDesc": "Différence in on at : quand utiliser ces prépositions de lieu et de temps ? Règles et exemples — LinguaBattle.",
+    "lede": "<b>in, on, at</b> sont les prépositions les plus confondues, pour le lieu et le temps. Règle : du général au précis → <b>in</b> (grand/dedans), <b>on</b> (surface/jour), <b>at</b> (point/heure).",
+    "means": [
+      {"def": "TEMPS — in : mois, année, saison", "en": "in May, in 2026, in summer", "t": "(grandes périodes)"},
+      {"def": "TEMPS — on : jour, date", "en": "on Monday, on May 5th", "t": "(jours)"},
+      {"def": "TEMPS — at : heure, moment", "en": "at 7 o'clock, at noon", "t": "(heure précise)"},
+      {"def": "LIEU — in (dedans), on (surface), at (point)", "en": "in the room, on the table, at the door", "t": "(lieu)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["in vs on", "on vs at", "prépositions"],
+    "idiomTitle": "Règles", "idioms": ["in → grand/mois/an", "on → jour/surface", "at → heure/point"],
+    "quizQ": "Lequel est correct : « ___ Monday » ?", "quizA": ["on Monday", "in Monday", "at Monday"], "quizOk": 0
+  },
+  "es": {
+    "pos": "gramática (preposiciones)", "title": "In, on, at (lugar y tiempo)",
+    "metaDesc": "Diferencia in on at: ¿cuándo usar estas preposiciones de lugar y tiempo? Reglas y ejemplos — LinguaBattle.",
+    "lede": "<b>in, on, at</b> son las preposiciones más confundidas, para lugar y tiempo. Regla: de lo general a lo concreto → <b>in</b> (grande/dentro), <b>on</b> (superficie/día), <b>at</b> (punto/hora).",
+    "means": [
+      {"def": "TIEMPO — in: mes, año, estación", "en": "in May, in 2026, in summer", "t": "(períodos grandes)"},
+      {"def": "TIEMPO — on: día, fecha", "en": "on Monday, on May 5th", "t": "(días)"},
+      {"def": "TIEMPO — at: hora, momento", "en": "at 7 o'clock, at noon", "t": "(hora exacta)"},
+      {"def": "LUGAR — in (dentro), on (superficie), at (punto)", "en": "in the room, on the table, at the door", "t": "(lugar)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["in vs on", "on vs at", "preposiciones"],
+    "idiomTitle": "Reglas", "idioms": ["in → grande/mes/año", "on → día/superficie", "at → hora/punto"],
+    "quizQ": "¿Cuál es correcto: «___ Monday»?", "quizA": ["on Monday", "in Monday", "at Monday"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "قواعد (حروف الجر)", "title": "الفرق بين in و on و at (المكان والزمان)",
+    "metaDesc": "الفرق بين in on at: متى نستخدم حروف الجر هذه للمكان والزمان؟ قواعد وأمثلة — LinguaBattle.",
+    "lede": "<b>in, on, at</b> أكثر حروف الجر التي يُخلط بينها، للمكان والزمان. القاعدة: من العام إلى الخاص → <b>in</b> (كبير/داخل)، <b>on</b> (سطح/يوم)، <b>at</b> (نقطة/ساعة).",
+    "means": [
+      {"def": "الزمان — in: شهر، سنة، فصل", "en": "in May, in 2026, in summer", "t": "(فترات كبيرة)"},
+      {"def": "الزمان — on: يوم، تاريخ", "en": "on Monday, on May 5th", "t": "(أيام)"},
+      {"def": "الزمان — at: ساعة، لحظة", "en": "at 7 o'clock, at noon", "t": "(وقت محدّد)"},
+      {"def": "المكان — in (داخل)، on (سطح)، at (نقطة)", "en": "in the room, on the table, at the door", "t": "(مكان)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["in vs on", "on vs at", "حروف الجر"],
+    "idiomTitle": "قواعد", "idioms": ["in → كبير/شهر/سنة", "on → يوم/سطح", "at → ساعة/نقطة"],
+    "quizQ": "أيّها صحيح: «___ Monday»؟", "quizA": ["on Monday", "in Monday", "at Monday"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "व्याकरण (पूर्वसर्ग)", "title": "in, on, at में अंतर (स्थान और समय)",
+    "metaDesc": "in on at अंतर: ये स्थान और समय के पूर्वसर्ग कब इस्तेमाल करें? नियम और उदाहरण — LinguaBattle.",
+    "lede": "<b>in, on, at</b> सबसे ज़्यादा भ्रमित करने वाले पूर्वसर्ग हैं, स्थान और समय दोनों के लिए। नियम: सामान्य से विशिष्ट → <b>in</b> (बड़ा/अंदर), <b>on</b> (सतह/दिन), <b>at</b> (बिंदु/समय)।",
+    "means": [
+      {"def": "समय — in: महीना, साल, मौसम", "en": "in May, in 2026, in summer", "t": "(बड़े काल)"},
+      {"def": "समय — on: दिन, तारीख", "en": "on Monday, on May 5th", "t": "(दिन)"},
+      {"def": "समय — at: घड़ी का समय, क्षण", "en": "at 7 o'clock, at noon", "t": "(सटीक समय)"},
+      {"def": "स्थान — in (अंदर), on (सतह), at (बिंदु)", "en": "in the room, on the table, at the door", "t": "(स्थान)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["in vs on", "on vs at", "पूर्वसर्ग"],
+    "idiomTitle": "नियम", "idioms": ["in → बड़ा/महीना/साल", "on → दिन/सतह", "at → समय/बिंदु"],
+    "quizQ": "कौन सा सही है: “___ Monday”?", "quizA": ["on Monday", "in Monday", "at Monday"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "грамматика (предлоги)", "title": "In, on, at (место и время)",
+    "metaDesc": "Разница in on at: когда использовать эти предлоги места и времени? Правила и примеры — LinguaBattle.",
+    "lede": "<b>in, on, at</b> — самые путаемые предлоги, для места и времени. Правило: от общего к частному → <b>in</b> (большое/внутри), <b>on</b> (поверхность/день), <b>at</b> (точка/время).",
+    "means": [
+      {"def": "ВРЕМЯ — in: месяц, год, сезон", "en": "in May, in 2026, in summer", "t": "(большие периоды)"},
+      {"def": "ВРЕМЯ — on: день, дата", "en": "on Monday, on May 5th", "t": "(дни)"},
+      {"def": "ВРЕМЯ — at: время, момент", "en": "at 7 o'clock, at noon", "t": "(точное время)"},
+      {"def": "МЕСТО — in (внутри), on (поверхность), at (точка)", "en": "in the room, on the table, at the door", "t": "(место)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["in vs on", "on vs at", "предлоги"],
+    "idiomTitle": "Правила", "idioms": ["in → большое/месяц/год", "on → день/поверхность", "at → время/точка"],
+    "quizQ": "Что правильно: «___ Monday»?", "quizA": ["on Monday", "in Monday", "at Monday"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "gramática (preposições)", "title": "In, on, at (lugar e tempo)",
+    "metaDesc": "Diferença in on at: quando usar estas preposições de lugar e tempo? Regras e exemplos — LinguaBattle.",
+    "lede": "<b>in, on, at</b> são as preposições mais confundidas, para lugar e tempo. Regra: do geral ao específico → <b>in</b> (grande/dentro), <b>on</b> (superfície/dia), <b>at</b> (ponto/hora).",
+    "means": [
+      {"def": "TEMPO — in: mês, ano, estação", "en": "in May, in 2026, in summer", "t": "(períodos grandes)"},
+      {"def": "TEMPO — on: dia, data", "en": "on Monday, on May 5th", "t": "(dias)"},
+      {"def": "TEMPO — at: hora, momento", "en": "at 7 o'clock, at noon", "t": "(hora exata)"},
+      {"def": "LUGAR — in (dentro), on (superfície), at (ponto)", "en": "in the room, on the table, at the door", "t": "(lugar)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["in vs on", "on vs at", "preposições"],
+    "idiomTitle": "Regras", "idioms": ["in → grande/mês/ano", "on → dia/superfície", "at → hora/ponto"],
+    "quizQ": "Qual está correto: «___ Monday»?", "quizA": ["on Monday", "in Monday", "at Monday"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "文法 (前置詞)", "title": "in, on, at の違い（場所と時間）",
+    "metaDesc": "in on at の違い：場所と時間の前置詞はいつ使う？ルールと例文 — LinguaBattle.",
+    "lede": "<b>in, on, at</b> は最も混同されやすい前置詞で、場所にも時間にも使う。ルール：大きい→小さい → <b>in</b>（大/中）、<b>on</b>（面/日）、<b>at</b>（点/時刻）。",
+    "means": [
+      {"def": "時間 — in：月・年・季節", "en": "in May, in 2026, in summer", "t": "（大きな期間）"},
+      {"def": "時間 — on：日・日付", "en": "on Monday, on May 5th", "t": "（日）"},
+      {"def": "時間 — at：時刻・瞬間", "en": "at 7 o'clock, at noon", "t": "（正確な時刻）"},
+      {"def": "場所 — in（中）、on（面）、at（点）", "en": "in the room, on the table, at the door", "t": "（場所）"}
+    ],
+    "relTitle": "混同しやすい点", "rel": ["in vs on", "on vs at", "前置詞"],
+    "idiomTitle": "ルール", "idioms": ["in → 大/月/年", "on → 日/面", "at → 時刻/点"],
+    "quizQ": "正しいのは：「___ Monday」？", "quizA": ["on Monday", "in Monday", "at Monday"], "quizOk": 0
+  }
+}

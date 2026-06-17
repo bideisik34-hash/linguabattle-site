@@ -1,0 +1,145 @@
+{
+  "word": "light",
+  "pron": "/laɪt/",
+  "category": "verb",
+  "tr": {
+    "pos": "isim / sıfat / fiil", "title": "light ne demek? (4 anlamı)",
+    "metaDesc": "light ne demek? 4 anlamı: ışık, hafif, açık (renk), yakmak. Örneklerle — LinguaBattle.",
+    "lede": "<b>light</b> çok anlamlı bir İngilizce kelimedir — isim, sıfat ve fiil olabilir. Işıktan hafife, açık renkten yakmaya uzanır; işte en sık 4 anlamı.",
+    "means": [
+      {"def": "ışık (isim)", "en": "Turn on the light.", "t": "Işığı aç."},
+      {"def": "hafif (ağır değil, sıfat)", "en": "This bag is very light.", "t": "Bu çanta çok hafif."},
+      {"def": "açık (renk, sıfat)", "en": "She has light blue eyes.", "t": "Açık mavi gözleri var."},
+      {"def": "yakmak (ateş, fiil)", "en": "He lit a candle.", "t": "Bir mum yaktı."}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["light vs heavy", "light vs dark", "lit vs lighted"],
+    "idiomTitle": "Günlük kalıplar", "idioms": ["light up (aydınlanmak)", "green light (onay)", "make light of (hafife almak)"],
+    "quizQ": "“This bag is light” ne demek?", "quizA": ["Bu çanta hafif", "Bu çanta parlak", "Bu çanta açık renk"], "quizOk": 0
+  },
+  "en": {
+    "pos": "noun / adj / verb", "title": "What does light mean? (4 meanings)",
+    "metaDesc": "What does light mean? 4 meanings: light, lightweight, pale (color), to light. With examples — LinguaBattle.",
+    "lede": "<b>light</b> is a multi-meaning English word — noun, adjective and verb. From light to lightweight, from pale to lighting a fire; here are the 4 most common.",
+    "means": [
+      {"def": "light (noun)", "en": "Turn on the light.", "t": "(lamp/brightness)"},
+      {"def": "lightweight, not heavy (adj)", "en": "This bag is very light.", "t": "(not heavy)"},
+      {"def": "pale (color, adj)", "en": "She has light blue eyes.", "t": "(pale color)"},
+      {"def": "to light, set on fire (verb)", "en": "He lit a candle.", "t": "(light up)"}
+    ],
+    "relTitle": "Often confused", "rel": ["light vs heavy", "light vs dark", "lit vs lighted"],
+    "idiomTitle": "Phrasal verbs", "idioms": ["light up", "green light", "make light of"],
+    "quizQ": "What does “This bag is light” mean?", "quizA": ["This bag is not heavy", "This bag is shiny", "This bag is pale"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Subst. / Adj. / Verb", "title": "Was bedeutet light? (4 Bedeutungen)",
+    "metaDesc": "Was bedeutet light? 4 Bedeutungen: Licht, leicht, hell (Farbe), anzünden. Mit Beispielen — LinguaBattle.",
+    "lede": "<b>light</b> ist ein vieldeutiges englisches Wort — Substantiv, Adjektiv und Verb. Von Licht zu leicht, von hell zu anzünden; hier die 4 häufigsten.",
+    "means": [
+      {"def": "Licht (Subst.)", "en": "Turn on the light.", "t": "(Licht)"},
+      {"def": "leicht, nicht schwer (Adj.)", "en": "This bag is very light.", "t": "(leicht)"},
+      {"def": "hell (Farbe, Adj.)", "en": "She has light blue eyes.", "t": "(hell)"},
+      {"def": "anzünden (Feuer, Verb)", "en": "He lit a candle.", "t": "(anzünden)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["light vs heavy", "light vs dark", "lit vs lighted"],
+    "idiomTitle": "Phrasal Verbs", "idioms": ["light up", "green light", "make light of"],
+    "quizQ": "Was bedeutet „This bag is light“?", "quizA": ["Diese Tasche ist leicht", "Diese Tasche glänzt", "Diese Tasche ist hell"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "nom / adj. / verbe", "title": "Que signifie light ? (4 sens)",
+    "metaDesc": "Que signifie light ? 4 sens : lumière, léger, clair (couleur), allumer. Avec exemples — LinguaBattle.",
+    "lede": "<b>light</b> est un mot anglais à sens multiples — nom, adjectif et verbe. De la lumière au léger, du clair à allumer ; voici les 4 plus courants.",
+    "means": [
+      {"def": "lumière (nom)", "en": "Turn on the light.", "t": "(lumière)"},
+      {"def": "léger, pas lourd (adj.)", "en": "This bag is very light.", "t": "(léger)"},
+      {"def": "clair (couleur, adj.)", "en": "She has light blue eyes.", "t": "(clair)"},
+      {"def": "allumer (feu, verbe)", "en": "He lit a candle.", "t": "(allumer)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["light vs heavy", "light vs dark", "lit vs lighted"],
+    "idiomTitle": "Verbes à particule", "idioms": ["light up", "green light", "make light of"],
+    "quizQ": "Que veut dire « This bag is light » ?", "quizA": ["Ce sac est léger", "Ce sac brille", "Ce sac est clair"], "quizOk": 0
+  },
+  "es": {
+    "pos": "sust. / adj. / verbo", "title": "¿Qué significa light? (4 significados)",
+    "metaDesc": "¿Qué significa light? 4 significados: luz, ligero, claro (color), encender. Con ejemplos — LinguaBattle.",
+    "lede": "<b>light</b> es una palabra inglesa con varios significados — sustantivo, adjetivo y verbo. De la luz a ligero, de claro a encender; aquí los 4 más comunes.",
+    "means": [
+      {"def": "luz (sust.)", "en": "Turn on the light.", "t": "(luz)"},
+      {"def": "ligero, no pesado (adj.)", "en": "This bag is very light.", "t": "(ligero)"},
+      {"def": "claro (color, adj.)", "en": "She has light blue eyes.", "t": "(claro)"},
+      {"def": "encender (fuego, verbo)", "en": "He lit a candle.", "t": "(encender)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["light vs heavy", "light vs dark", "lit vs lighted"],
+    "idiomTitle": "Verbos compuestos", "idioms": ["light up", "green light", "make light of"],
+    "quizQ": "¿Qué significa «This bag is light»?", "quizA": ["Esta bolsa es ligera", "Esta bolsa brilla", "Esta bolsa es clara"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "اسم / صفة / فعل", "title": "ماذا تعني light؟ (4 معانٍ)",
+    "metaDesc": "ماذا تعني light؟ 4 معانٍ: ضوء، خفيف، فاتح (لون)، يُشعل. مع أمثلة — LinguaBattle.",
+    "lede": "<b>light</b> كلمة إنجليزية متعددة المعاني — اسم وصفة وفعل. من الضوء إلى الخفيف، ومن الفاتح إلى الإشعال؛ إليك أكثر 4 معانٍ شيوعًا.",
+    "means": [
+      {"def": "ضوء (اسم)", "en": "Turn on the light.", "t": "(ضوء)"},
+      {"def": "خفيف، غير ثقيل (صفة)", "en": "This bag is very light.", "t": "(خفيف)"},
+      {"def": "فاتح (لون، صفة)", "en": "She has light blue eyes.", "t": "(فاتح)"},
+      {"def": "يُشعل (نارًا، فعل)", "en": "He lit a candle.", "t": "(يُشعل)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["light vs heavy", "light vs dark", "lit vs lighted"],
+    "idiomTitle": "أفعال مركّبة", "idioms": ["light up", "green light", "make light of"],
+    "quizQ": "ماذا تعني «This bag is light»؟", "quizA": ["هذه الحقيبة خفيفة", "هذه الحقيبة لامعة", "هذه الحقيبة فاتحة اللون"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "संज्ञा / विशेषण / क्रिया", "title": "light का क्या मतलब है? (4 अर्थ)",
+    "metaDesc": "light का क्या मतलब है? 4 अर्थ: रोशनी, हल्का, हल्का (रंग), जलाना। उदाहरणों सहित — LinguaBattle.",
+    "lede": "<b>light</b> कई अर्थों वाला अंग्रेज़ी शब्द है — संज्ञा, विशेषण और क्रिया। रोशनी से हल्के तक, हल्के रंग से जलाने तक; यहाँ 4 सबसे आम अर्थ।",
+    "means": [
+      {"def": "रोशनी, प्रकाश (संज्ञा)", "en": "Turn on the light.", "t": "(रोशनी)"},
+      {"def": "हल्का, भारी नहीं (विशेषण)", "en": "This bag is very light.", "t": "(हल्का)"},
+      {"def": "हल्का (रंग, विशेषण)", "en": "She has light blue eyes.", "t": "(हल्का रंग)"},
+      {"def": "जलाना (आग, क्रिया)", "en": "He lit a candle.", "t": "(जलाना)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["light vs heavy", "light vs dark", "lit vs lighted"],
+    "idiomTitle": "वाक्यांश क्रिया", "idioms": ["light up", "green light", "make light of"],
+    "quizQ": "“This bag is light” का क्या अर्थ है?", "quizA": ["यह बैग हल्का है", "यह बैग चमकीला है", "यह बैग हल्के रंग का है"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "сущ. / прил. / глагол", "title": "Что значит light? (4 значения)",
+    "metaDesc": "Что значит light? 4 значения: свет, лёгкий, светлый (цвет), зажигать. С примерами — LinguaBattle.",
+    "lede": "<b>light</b> — многозначное английское слово (сущ., прил. и глагол). От света к лёгкому, от светлого к зажиганию; вот 4 самых частых.",
+    "means": [
+      {"def": "свет (сущ.)", "en": "Turn on the light.", "t": "(свет)"},
+      {"def": "лёгкий, не тяжёлый (прил.)", "en": "This bag is very light.", "t": "(лёгкий)"},
+      {"def": "светлый (цвет, прил.)", "en": "She has light blue eyes.", "t": "(светлый)"},
+      {"def": "зажигать (огонь, глагол)", "en": "He lit a candle.", "t": "(зажигать)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["light vs heavy", "light vs dark", "lit vs lighted"],
+    "idiomTitle": "Фразовые глаголы", "idioms": ["light up", "green light", "make light of"],
+    "quizQ": "Что значит «This bag is light»?", "quizA": ["Эта сумка лёгкая", "Эта сумка блестящая", "Эта сумка светлая"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "subst. / adj. / verbo", "title": "O que significa light? (4 significados)",
+    "metaDesc": "O que significa light? 4 significados: luz, leve, claro (cor), acender. Com exemplos — LinguaBattle.",
+    "lede": "<b>light</b> é uma palavra inglesa com vários significados — substantivo, adjetivo e verbo. Da luz ao leve, do claro a acender; aqui os 4 mais comuns.",
+    "means": [
+      {"def": "luz (subst.)", "en": "Turn on the light.", "t": "(luz)"},
+      {"def": "leve, não pesado (adj.)", "en": "This bag is very light.", "t": "(leve)"},
+      {"def": "claro (cor, adj.)", "en": "She has light blue eyes.", "t": "(claro)"},
+      {"def": "acender (fogo, verbo)", "en": "He lit a candle.", "t": "(acender)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["light vs heavy", "light vs dark", "lit vs lighted"],
+    "idiomTitle": "Verbos frasais", "idioms": ["light up", "green light", "make light of"],
+    "quizQ": "O que significa «This bag is light»?", "quizA": ["Esta bolsa é leve", "Esta bolsa é brilhante", "Esta bolsa é clara"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "名詞 / 形容詞 / 動詞", "title": "lightの意味は？（4つの意味）",
+    "metaDesc": "lightの意味は？4つの意味：光、軽い、淡い（色）、火をつける。例文付き — LinguaBattle.",
+    "lede": "<b>light</b> は多義の英単語 — 名詞・形容詞・動詞。光から軽い、淡い色から火をつけるまで；よく使う4つを紹介。",
+    "means": [
+      {"def": "光、明かり（名詞）", "en": "Turn on the light.", "t": "（明かり）"},
+      {"def": "軽い、重くない（形容詞）", "en": "This bag is very light.", "t": "（軽い）"},
+      {"def": "淡い（色、形容詞）", "en": "She has light blue eyes.", "t": "（淡い）"},
+      {"def": "火をつける（動詞）", "en": "He lit a candle.", "t": "（火をつける）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["light vs heavy", "light vs dark", "lit vs lighted"],
+    "idiomTitle": "句動詞", "idioms": ["light up", "green light", "make light of"],
+    "quizQ": "「This bag is light」の意味は？", "quizA": ["このバッグは軽い", "このバッグは光る", "このバッグは淡い色"], "quizOk": 0
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "word": "break",
+  "pron": "/breɪk/",
+  "category": "verb",
+  "conj": ["break", "broke", "broken"],
+  "tr": {
+    "pos": "fiil / isim", "title": "break ne demek? (5 anlamı)",
+    "metaDesc": "break ne demek? 5 anlamı: kırmak, mola, bozulmak, ara vermek, (haber) duyurmak. break/broke/broken — LinguaBattle.",
+    "lede": "<b>break</b> çok anlamlı bir İngilizce kelimedir — fiil ve isim. Temel anlamı “kırmak” ama moladan haber duyurmaya uzanır. Düzensiz: break → broke → broken.",
+    "means": [
+      {"def": "kırmak, kırılmak", "en": "I broke my phone.", "t": "Telefonumu kırdım."},
+      {"def": "mola, ara (isim)", "en": "Let's take a break.", "t": "Bir mola verelim."},
+      {"def": "bozulmak (cihaz)", "en": "The printer broke again.", "t": "Yazıcı yine bozuldu."},
+      {"def": "(kural/söz) çiğnemek, bozmak", "en": "Don't break the rules.", "t": "Kuralları çiğneme."},
+      {"def": "(haber) ilk duyurmak", "en": "The news just broke.", "t": "Haber az önce patladı/duyuruldu."}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["break vs broke", "break vs brake", "broke vs broken"],
+    "idiomTitle": "Günlük kalıplar", "idioms": ["take a break (mola vermek)", "break up (ayrılmak)", "break down (bozulmak)"],
+    "quizQ": "“Let's take a break” ne demek?", "quizA": ["Bir mola verelim", "Bir şey kıralım", "Kuralı bozalım"], "quizOk": 0
+  },
+  "en": {
+    "pos": "verb / noun", "title": "What does break mean? (5 meanings)",
+    "metaDesc": "What does break mean? 5 meanings: to break, a break, to stop working, to break rules, (news) to break. break/broke/broken — LinguaBattle.",
+    "lede": "<b>break</b> is a multi-meaning English word — verb and noun. The core is “to break apart”, but it ranges from a rest to breaking news. Irregular: break → broke → broken.",
+    "means": [
+      {"def": "to break, smash", "en": "I broke my phone.", "t": "(smash)"},
+      {"def": "a break, rest (noun)", "en": "Let's take a break.", "t": "(rest)"},
+      {"def": "to stop working (device)", "en": "The printer broke again.", "t": "(stop working)"},
+      {"def": "to break (rule/promise)", "en": "Don't break the rules.", "t": "(violate)"},
+      {"def": "(news) to be announced first", "en": "The news just broke.", "t": "(break out)"}
+    ],
+    "relTitle": "Often confused", "rel": ["break vs broke", "break vs brake", "broke vs broken"],
+    "idiomTitle": "Phrasal verbs", "idioms": ["take a break", "break up", "break down"],
+    "quizQ": "What does “Let's take a break” mean?", "quizA": ["Let's rest for a bit", "Let's smash something", "Let's break a rule"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Verb / Subst.", "title": "Was bedeutet break? (5 Bedeutungen)",
+    "metaDesc": "Was bedeutet break? 5 Bedeutungen: brechen, Pause, kaputtgehen, brechen (Regel), (Nachricht) bekannt werden. break/broke/broken — LinguaBattle.",
+    "lede": "<b>break</b> ist ein vieldeutiges englisches Wort — Verb und Substantiv. Der Kern ist „zerbrechen“, reicht aber von einer Pause bis zu Eilmeldungen. Unregelmäßig: break → broke → broken.",
+    "means": [
+      {"def": "brechen, zerbrechen", "en": "I broke my phone.", "t": "(zerbrechen)"},
+      {"def": "Pause (Subst.)", "en": "Let's take a break.", "t": "(Pause)"},
+      {"def": "kaputtgehen (Gerät)", "en": "The printer broke again.", "t": "(kaputtgehen)"},
+      {"def": "brechen (Regel/Versprechen)", "en": "Don't break the rules.", "t": "(brechen)"},
+      {"def": "(Nachricht) bekannt werden", "en": "The news just broke.", "t": "(bekannt werden)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["break vs broke", "break vs brake", "broke vs broken"],
+    "idiomTitle": "Phrasal Verbs", "idioms": ["take a break", "break up", "break down"],
+    "quizQ": "Was bedeutet „Let's take a break“?", "quizA": ["Machen wir eine Pause", "Zerbrechen wir etwas", "Brechen wir eine Regel"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "verbe / nom", "title": "Que signifie break ? (5 sens)",
+    "metaDesc": "Que signifie break ? 5 sens : casser, pause, tomber en panne, enfreindre, (nouvelle) éclater. break/broke/broken — LinguaBattle.",
+    "lede": "<b>break</b> est un mot anglais à sens multiples — verbe et nom. Le cœur est « casser », mais cela va d'une pause aux dernières nouvelles. Irrégulier : break → broke → broken.",
+    "means": [
+      {"def": "casser, briser", "en": "I broke my phone.", "t": "(casser)"},
+      {"def": "une pause (nom)", "en": "Let's take a break.", "t": "(pause)"},
+      {"def": "tomber en panne (appareil)", "en": "The printer broke again.", "t": "(tomber en panne)"},
+      {"def": "enfreindre (règle/promesse)", "en": "Don't break the rules.", "t": "(enfreindre)"},
+      {"def": "(nouvelle) éclater, sortir", "en": "The news just broke.", "t": "(éclater)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["break vs broke", "break vs brake", "broke vs broken"],
+    "idiomTitle": "Verbes à particule", "idioms": ["take a break", "break up", "break down"],
+    "quizQ": "Que veut dire « Let's take a break » ?", "quizA": ["Faisons une pause", "Cassons quelque chose", "Enfreignons une règle"], "quizOk": 0
+  },
+  "es": {
+    "pos": "verbo / sust.", "title": "¿Qué significa break? (5 significados)",
+    "metaDesc": "¿Qué significa break? 5 significados: romper, descanso, averiarse, romper (regla), (noticia) saltar. break/broke/broken — LinguaBattle.",
+    "lede": "<b>break</b> es una palabra inglesa con varios significados — verbo y sustantivo. El núcleo es «romper», pero va de un descanso a una noticia de última hora. Irregular: break → broke → broken.",
+    "means": [
+      {"def": "romper, romperse", "en": "I broke my phone.", "t": "(romper)"},
+      {"def": "un descanso (sust.)", "en": "Let's take a break.", "t": "(descanso)"},
+      {"def": "averiarse (dispositivo)", "en": "The printer broke again.", "t": "(averiarse)"},
+      {"def": "romper (regla/promesa)", "en": "Don't break the rules.", "t": "(infringir)"},
+      {"def": "(noticia) saltar, conocerse", "en": "The news just broke.", "t": "(saltar)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["break vs broke", "break vs brake", "broke vs broken"],
+    "idiomTitle": "Verbos compuestos", "idioms": ["take a break", "break up", "break down"],
+    "quizQ": "¿Qué significa «Let's take a break»?", "quizA": ["Tomemos un descanso", "Rompamos algo", "Rompamos una regla"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "فعل / اسم", "title": "ماذا تعني break؟ (5 معانٍ)",
+    "metaDesc": "ماذا تعني break؟ 5 معانٍ: يكسر، استراحة، يتعطّل، يخالف، (خبر) ينتشر. break/broke/broken — LinguaBattle.",
+    "lede": "<b>break</b> كلمة إنجليزية متعددة المعاني — فعل واسم. الأساس «يكسر»، لكنه يمتد من الاستراحة إلى الأخبار العاجلة. شاذ: break → broke → broken.",
+    "means": [
+      {"def": "يكسر، ينكسر", "en": "I broke my phone.", "t": "(يكسر)"},
+      {"def": "استراحة (اسم)", "en": "Let's take a break.", "t": "(استراحة)"},
+      {"def": "يتعطّل (جهاز)", "en": "The printer broke again.", "t": "(يتعطّل)"},
+      {"def": "يخالف (قاعدة/وعدًا)", "en": "Don't break the rules.", "t": "(يخالف)"},
+      {"def": "(خبر) ينتشر لأول مرة", "en": "The news just broke.", "t": "(ينتشر)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["break vs broke", "break vs brake", "broke vs broken"],
+    "idiomTitle": "أفعال مركّبة", "idioms": ["take a break", "break up", "break down"],
+    "quizQ": "ماذا تعني «Let's take a break»؟", "quizA": ["لنأخذ استراحة", "لنكسر شيئًا", "لنخالف قاعدة"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "क्रिया / संज्ञा", "title": "break का क्या मतलब है? (5 अर्थ)",
+    "metaDesc": "break का क्या मतलब है? 5 अर्थ: तोड़ना, ब्रेक, खराब होना, नियम तोड़ना, (खबर) फूटना। break/broke/broken — LinguaBattle.",
+    "lede": "<b>break</b> कई अर्थों वाला अंग्रेज़ी शब्द है — क्रिया और संज्ञा। मूल अर्थ “तोड़ना” है, पर यह ब्रेक से ब्रेकिंग न्यूज़ तक फैला है। अनियमित: break → broke → broken.",
+    "means": [
+      {"def": "तोड़ना, टूटना", "en": "I broke my phone.", "t": "(तोड़ना)"},
+      {"def": "ब्रेक, विराम (संज्ञा)", "en": "Let's take a break.", "t": "(ब्रेक)"},
+      {"def": "खराब होना (डिवाइस)", "en": "The printer broke again.", "t": "(खराब होना)"},
+      {"def": "(नियम/वादा) तोड़ना", "en": "Don't break the rules.", "t": "(तोड़ना)"},
+      {"def": "(खबर) पहली बार फूटना", "en": "The news just broke.", "t": "(फूटना)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["break vs broke", "break vs brake", "broke vs broken"],
+    "idiomTitle": "वाक्यांश क्रिया", "idioms": ["take a break", "break up", "break down"],
+    "quizQ": "“Let's take a break” का क्या अर्थ है?", "quizA": ["चलो थोड़ा विराम लें", "चलो कुछ तोड़ें", "चलो नियम तोड़ें"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "глагол / сущ.", "title": "Что значит break? (5 значений)",
+    "metaDesc": "Что значит break? 5 значений: ломать, перерыв, ломаться, нарушать, (новость) появиться. break/broke/broken — LinguaBattle.",
+    "lede": "<b>break</b> — многозначное английское слово (глагол и существительное). Основа — «ломать», но значения от перерыва до срочной новости. Неправильный: break → broke → broken.",
+    "means": [
+      {"def": "ломать, разбивать", "en": "I broke my phone.", "t": "(разбить)"},
+      {"def": "перерыв (сущ.)", "en": "Let's take a break.", "t": "(перерыв)"},
+      {"def": "ломаться (устройство)", "en": "The printer broke again.", "t": "(сломаться)"},
+      {"def": "нарушать (правило/обещание)", "en": "Don't break the rules.", "t": "(нарушать)"},
+      {"def": "(новость) появиться первой", "en": "The news just broke.", "t": "(появиться)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["break vs broke", "break vs brake", "broke vs broken"],
+    "idiomTitle": "Фразовые глаголы", "idioms": ["take a break", "break up", "break down"],
+    "quizQ": "Что значит «Let's take a break»?", "quizA": ["Давайте сделаем перерыв", "Давайте что-нибудь сломаем", "Давайте нарушим правило"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "verbo / subst.", "title": "O que significa break? (5 significados)",
+    "metaDesc": "O que significa break? 5 significados: quebrar, pausa, estragar, quebrar (regra), (notícia) surgir. break/broke/broken — LinguaBattle.",
+    "lede": "<b>break</b> é uma palavra inglesa com vários significados — verbo e substantivo. O núcleo é «quebrar», mas vai de uma pausa a notícias de última hora. Irregular: break → broke → broken.",
+    "means": [
+      {"def": "quebrar, partir", "en": "I broke my phone.", "t": "(quebrar)"},
+      {"def": "uma pausa (subst.)", "en": "Let's take a break.", "t": "(pausa)"},
+      {"def": "estragar, avariar (aparelho)", "en": "The printer broke again.", "t": "(estragar)"},
+      {"def": "quebrar (regra/promessa)", "en": "Don't break the rules.", "t": "(infringir)"},
+      {"def": "(notícia) surgir primeiro", "en": "The news just broke.", "t": "(surgir)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["break vs broke", "break vs brake", "broke vs broken"],
+    "idiomTitle": "Verbos frasais", "idioms": ["take a break", "break up", "break down"],
+    "quizQ": "O que significa «Let's take a break»?", "quizA": ["Vamos fazer uma pausa", "Vamos quebrar algo", "Vamos quebrar uma regra"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "動詞 / 名詞", "title": "breakの意味は？（5つの意味）",
+    "metaDesc": "breakの意味は？5つの意味：壊す、休憩、故障する、（規則を）破る、（ニュースが）報じられる。break/broke/broken — LinguaBattle.",
+    "lede": "<b>break</b> は多義の英単語 — 動詞でも名詞でも使う。基本は「壊す」だが、休憩から速報まで幅広い。不規則：break → broke → broken。",
+    "means": [
+      {"def": "壊す、割れる", "en": "I broke my phone.", "t": "（壊す）"},
+      {"def": "休憩（名詞）", "en": "Let's take a break.", "t": "（休憩）"},
+      {"def": "故障する（機器）", "en": "The printer broke again.", "t": "（故障する）"},
+      {"def": "（規則・約束を）破る", "en": "Don't break the rules.", "t": "（破る）"},
+      {"def": "（ニュースが）報じられる", "en": "The news just broke.", "t": "（報じられた）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["break vs broke", "break vs brake", "broke vs broken"],
+    "idiomTitle": "句動詞", "idioms": ["take a break", "break up", "break down"],
+    "quizQ": "「Let's take a break」の意味は？", "quizA": ["少し休憩しよう", "何かを壊そう", "ルールを破ろう"], "quizOk": 0
+  }
+}

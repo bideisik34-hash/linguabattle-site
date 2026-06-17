@@ -1,0 +1,145 @@
+{
+  "word": "how much / how many",
+  "pron": "/haʊ mʌtʃ, haʊ ˈmeni/",
+  "category": "phrases",
+  "tr": {
+    "pos": "günlük kalıp / soru", "title": "“Ne kadar?” İngilizce: how much",
+    "metaDesc": "Ne kadar İngilizce: how much, how many ve alışveriş soruları. Okunuşu ve örneklerle — LinguaBattle.",
+    "lede": "Alışverişte “ne kadar?” diye sormak için <b>How much is it?</b> kullanılır. <b>how much</b> fiyat/sayılamayan, <b>how many</b> sayılabilen şeyler için.",
+    "means": [
+      {"def": "How much is it? (Bu ne kadar? — fiyat)", "en": "How much is it?", "t": "Bu ne kadar?"},
+      {"def": "how much = sayılamayan/fiyat", "en": "How much money?", "t": "Ne kadar para?"},
+      {"def": "how many = sayılabilen", "en": "How many tickets?", "t": "Kaç bilet?"},
+      {"def": "Cevap: It's 10 dollars.", "en": "It's 10 dollars.", "t": "10 dolar."}
+    ],
+    "relTitle": "İlgili konular", "rel": ["much vs many", "alışveriş kalıpları", "sayılar (numbers)"],
+    "idiomTitle": "Kalıplar", "idioms": ["How much is it?", "How much does it cost?", "How many?"],
+    "quizQ": "Fiyat sormak için hangisi?", "quizA": ["How much is it?", "How many is it?", "How long is it?"], "quizOk": 0
+  },
+  "en": {
+    "pos": "everyday phrase / question", "title": "How much / how many (asking prices)",
+    "metaDesc": "How much: ask prices and quantities in English (how much / how many). With examples — LinguaBattle.",
+    "lede": "To ask the price, use <b>How much is it?</b>. Use <b>how much</b> for price/uncountable things, and <b>how many</b> for countable things.",
+    "means": [
+      {"def": "How much is it? (asking the price)", "en": "How much is it?", "t": "(price)"},
+      {"def": "how much = uncountable/price", "en": "How much money?", "t": "(uncountable)"},
+      {"def": "how many = countable", "en": "How many tickets?", "t": "(countable)"},
+      {"def": "Reply: It's 10 dollars.", "en": "It's 10 dollars.", "t": "(answer)"}
+    ],
+    "relTitle": "Related topics", "rel": ["much vs many", "shopping phrases", "numbers"],
+    "idiomTitle": "Phrases", "idioms": ["How much is it?", "How much does it cost?", "How many?"],
+    "quizQ": "Which asks the price?", "quizA": ["How much is it?", "How many is it?", "How long is it?"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Alltagsfloskel / Frage", "title": "How much / how many (nach Preisen fragen)",
+    "metaDesc": "How much: nach Preisen und Mengen fragen (how much / how many). Mit Beispielen — LinguaBattle.",
+    "lede": "Um nach dem Preis zu fragen: <b>How much is it?</b>. <b>how much</b> für Preis/Unzählbares, <b>how many</b> für Zählbares.",
+    "means": [
+      {"def": "How much is it? (nach dem Preis)", "en": "How much is it?", "t": "(Preis)"},
+      {"def": "how much = unzählbar/Preis", "en": "How much money?", "t": "(unzählbar)"},
+      {"def": "how many = zählbar", "en": "How many tickets?", "t": "(zählbar)"},
+      {"def": "Antwort: It's 10 dollars.", "en": "It's 10 dollars.", "t": "(Antwort)"}
+    ],
+    "relTitle": "Verwandte Themen", "rel": ["much vs many", "Einkaufsfloskeln", "Zahlen"],
+    "idiomTitle": "Wendungen", "idioms": ["How much is it?", "How much does it cost?", "How many?"],
+    "quizQ": "Womit fragt man nach dem Preis?", "quizA": ["How much is it?", "How many is it?", "How long is it?"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "expression / question", "title": "How much / how many (demander les prix)",
+    "metaDesc": "How much : demander prix et quantités (how much / how many). Avec exemples — LinguaBattle.",
+    "lede": "Pour demander le prix : <b>How much is it?</b>. <b>how much</b> pour prix/indénombrable, <b>how many</b> pour dénombrable.",
+    "means": [
+      {"def": "How much is it? (demander le prix)", "en": "How much is it?", "t": "(prix)"},
+      {"def": "how much = indénombrable/prix", "en": "How much money?", "t": "(indénombrable)"},
+      {"def": "how many = dénombrable", "en": "How many tickets?", "t": "(dénombrable)"},
+      {"def": "Réponse : It's 10 dollars.", "en": "It's 10 dollars.", "t": "(réponse)"}
+    ],
+    "relTitle": "Sujets liés", "rel": ["much vs many", "expressions de shopping", "nombres"],
+    "idiomTitle": "Expressions", "idioms": ["How much is it?", "How much does it cost?", "How many?"],
+    "quizQ": "Lequel demande le prix ?", "quizA": ["How much is it?", "How many is it?", "How long is it?"], "quizOk": 0
+  },
+  "es": {
+    "pos": "expresión / pregunta", "title": "How much / how many (preguntar precios)",
+    "metaDesc": "How much: preguntar precios y cantidades (how much / how many). Con ejemplos — LinguaBattle.",
+    "lede": "Para preguntar el precio: <b>How much is it?</b>. <b>how much</b> para precio/incontable, <b>how many</b> para contable.",
+    "means": [
+      {"def": "How much is it? (preguntar el precio)", "en": "How much is it?", "t": "(precio)"},
+      {"def": "how much = incontable/precio", "en": "How much money?", "t": "(incontable)"},
+      {"def": "how many = contable", "en": "How many tickets?", "t": "(contable)"},
+      {"def": "Respuesta: It's 10 dollars.", "en": "It's 10 dollars.", "t": "(respuesta)"}
+    ],
+    "relTitle": "Temas relacionados", "rel": ["much vs many", "frases de compras", "números"],
+    "idiomTitle": "Expresiones", "idioms": ["How much is it?", "How much does it cost?", "How many?"],
+    "quizQ": "¿Cuál pregunta el precio?", "quizA": ["How much is it?", "How many is it?", "How long is it?"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "عبارة / سؤال", "title": "“بكم؟” بالإنجليزية: how much",
+    "metaDesc": "how much: السؤال عن الأسعار والكميات (how much / how many). مع أمثلة — LinguaBattle.",
+    "lede": "للسؤال عن السعر: <b>How much is it?</b>. <b>how much</b> للسعر/غير المعدود، <b>how many</b> للمعدود.",
+    "means": [
+      {"def": "How much is it? (السؤال عن السعر)", "en": "How much is it?", "t": "(السعر)"},
+      {"def": "how much = غير معدود/سعر", "en": "How much money?", "t": "(غير معدود)"},
+      {"def": "how many = معدود", "en": "How many tickets?", "t": "(معدود)"},
+      {"def": "الرد: It's 10 dollars.", "en": "It's 10 dollars.", "t": "(الرد)"}
+    ],
+    "relTitle": "مواضيع ذات صلة", "rel": ["much vs many", "عبارات التسوّق", "الأرقام"],
+    "idiomTitle": "عبارات", "idioms": ["How much is it?", "How much does it cost?", "How many?"],
+    "quizQ": "أيّها يسأل عن السعر؟", "quizA": ["How much is it?", "How many is it?", "How long is it?"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "वाक्यांश / प्रश्न", "title": "“कितने का?” अंग्रेज़ी में: how much",
+    "metaDesc": "how much: कीमत और मात्रा पूछना (how much / how many)। उदाहरणों सहित — LinguaBattle.",
+    "lede": "कीमत पूछने के लिए: <b>How much is it?</b>। <b>how much</b> कीमत/अगणनीय के लिए, <b>how many</b> गणनीय के लिए।",
+    "means": [
+      {"def": "How much is it? (कीमत पूछना)", "en": "How much is it?", "t": "(कीमत)"},
+      {"def": "how much = अगणनीय/कीमत", "en": "How much money?", "t": "(अगणनीय)"},
+      {"def": "how many = गणनीय", "en": "How many tickets?", "t": "(गणनीय)"},
+      {"def": "जवाब: It's 10 dollars.", "en": "It's 10 dollars.", "t": "(जवाब)"}
+    ],
+    "relTitle": "संबंधित विषय", "rel": ["much vs many", "खरीदारी वाक्यांश", "संख्याएँ"],
+    "idiomTitle": "वाक्यांश", "idioms": ["How much is it?", "How much does it cost?", "How many?"],
+    "quizQ": "कीमत कौन सा पूछता है?", "quizA": ["How much is it?", "How many is it?", "How long is it?"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "фраза / вопрос", "title": "«Сколько стоит?» по-английски: how much",
+    "metaDesc": "how much: спросить цену и количество (how much / how many). С примерами — LinguaBattle.",
+    "lede": "Чтобы спросить цену: <b>How much is it?</b>. <b>how much</b> для цены/неисчисляемого, <b>how many</b> для исчисляемого.",
+    "means": [
+      {"def": "How much is it? (спросить цену)", "en": "How much is it?", "t": "(цена)"},
+      {"def": "how much = неисчисляемое/цена", "en": "How much money?", "t": "(неисчисляемое)"},
+      {"def": "how many = исчисляемое", "en": "How many tickets?", "t": "(исчисляемое)"},
+      {"def": "Ответ: It's 10 dollars.", "en": "It's 10 dollars.", "t": "(ответ)"}
+    ],
+    "relTitle": "Связанные темы", "rel": ["much vs many", "фразы для покупок", "числа"],
+    "idiomTitle": "Выражения", "idioms": ["How much is it?", "How much does it cost?", "How many?"],
+    "quizQ": "Что спрашивает цену?", "quizA": ["How much is it?", "How many is it?", "How long is it?"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "expressão / pergunta", "title": "«Quanto custa?» em inglês: how much",
+    "metaDesc": "how much: perguntar preços e quantidades (how much / how many). Com exemplos — LinguaBattle.",
+    "lede": "Para perguntar o preço: <b>How much is it?</b>. <b>how much</b> para preço/incontável, <b>how many</b> para contável.",
+    "means": [
+      {"def": "How much is it? (perguntar o preço)", "en": "How much is it?", "t": "(preço)"},
+      {"def": "how much = incontável/preço", "en": "How much money?", "t": "(incontável)"},
+      {"def": "how many = contável", "en": "How many tickets?", "t": "(contável)"},
+      {"def": "Resposta: It's 10 dollars.", "en": "It's 10 dollars.", "t": "(resposta)"}
+    ],
+    "relTitle": "Tópicos relacionados", "rel": ["much vs many", "frases de compras", "números"],
+    "idiomTitle": "Expressões", "idioms": ["How much is it?", "How much does it cost?", "How many?"],
+    "quizQ": "Qual pergunta o preço?", "quizA": ["How much is it?", "How many is it?", "How long is it?"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "フレーズ / 質問", "title": "「いくら？」英語で：how much",
+    "metaDesc": "how much：値段と数を尋ねる（how much / how many）。例文付き — LinguaBattle.",
+    "lede": "値段を尋ねるには <b>How much is it?</b>。<b>how much</b> は値段・不可算、<b>how many</b> は可算に使う。",
+    "means": [
+      {"def": "How much is it?（値段を尋ねる）", "en": "How much is it?", "t": "（値段）"},
+      {"def": "how much = 不可算・値段", "en": "How much money?", "t": "（不可算）"},
+      {"def": "how many = 可算", "en": "How many tickets?", "t": "（可算）"},
+      {"def": "返答: It's 10 dollars.", "en": "It's 10 dollars.", "t": "（返答）"}
+    ],
+    "relTitle": "関連トピック", "rel": ["much vs many", "買い物フレーズ", "数字"],
+    "idiomTitle": "フレーズ", "idioms": ["How much is it?", "How much does it cost?", "How many?"],
+    "quizQ": "値段を尋ねるのはどれ？", "quizA": ["How much is it?", "How many is it?", "How long is it?"], "quizOk": 0
+  }
+}

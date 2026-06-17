@@ -1,0 +1,145 @@
+{
+  "word": "present perfect",
+  "pron": "/ˈpreznt ˈpɜːfɪkt/",
+  "category": "grammar",
+  "tr": {
+    "pos": "gramer (zaman)", "title": "Present Perfect nedir? (have/has + V3)",
+    "metaDesc": "Present Perfect nedir? have/has + 3. hal. Ne zaman kullanılır, past simple ile farkı — LinguaBattle.",
+    "lede": "<b>Present Perfect</b> (have/has + fiilin 3. hali), geçmişte olan ama şimdiyle bağlantısı olan durumlar için kullanılır. Kalıp: <b>have/has + V3</b>.",
+    "means": [
+      {"def": "Yapı: have/has + fiilin 3. hali (V3)", "en": "I have finished.", "t": "Bitirdim. (şimdi bitmiş durumda)"},
+      {"def": "Deneyim (hayatın herhangi bir anı)", "en": "I have been to London.", "t": "Londra'ya gittim (deneyimledim)."},
+      {"def": "Henüz biten / etkisi süren olay", "en": "She has just left.", "t": "Daha yeni gitti."},
+      {"def": "Past Simple farkı: belirli geçmiş zaman", "en": "I finished yesterday. (past simple)", "t": "Dün bitirdim. (belirli zaman → past simple)"}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["present perfect vs past simple", "have vs has", "for vs since"],
+    "idiomTitle": "Anahtar kelimeler", "idioms": ["just, already, yet", "ever, never", "for, since"],
+    "quizQ": "Hangisi Present Perfect?", "quizA": ["I have finished.", "I finished.", "I finish."], "quizOk": 0
+  },
+  "en": {
+    "pos": "grammar (tense)", "title": "What is the Present Perfect? (have/has + V3)",
+    "metaDesc": "What is the Present Perfect? have/has + past participle. When to use it, vs past simple — LinguaBattle.",
+    "lede": "The <b>Present Perfect</b> (have/has + past participle) links a past action to the present. Pattern: <b>have/has + V3</b>.",
+    "means": [
+      {"def": "Form: have/has + past participle (V3)", "en": "I have finished.", "t": "(done now)"},
+      {"def": "Experience (at some point in life)", "en": "I have been to London.", "t": "(experience)"},
+      {"def": "Recent action with present effect", "en": "She has just left.", "t": "(just now)"},
+      {"def": "vs Past Simple: a finished past time", "en": "I finished yesterday. (past simple)", "t": "(specific time → past simple)"}
+    ],
+    "relTitle": "Often confused", "rel": ["present perfect vs past simple", "have vs has", "for vs since"],
+    "idiomTitle": "Keywords", "idioms": ["just, already, yet", "ever, never", "for, since"],
+    "quizQ": "Which is Present Perfect?", "quizA": ["I have finished.", "I finished.", "I finish."], "quizOk": 0
+  },
+  "de": {
+    "pos": "Grammatik (Zeitform)", "title": "Was ist das Present Perfect? (have/has + V3)",
+    "metaDesc": "Was ist das Present Perfect? have/has + Partizip II. Wann benutzen, vs Past Simple — LinguaBattle.",
+    "lede": "Das <b>Present Perfect</b> (have/has + Partizip II) verbindet eine vergangene Handlung mit der Gegenwart. Muster: <b>have/has + V3</b>.",
+    "means": [
+      {"def": "Form: have/has + Partizip II (V3)", "en": "I have finished.", "t": "(jetzt fertig)"},
+      {"def": "Erfahrung (irgendwann im Leben)", "en": "I have been to London.", "t": "(Erfahrung)"},
+      {"def": "Kürzliche Handlung mit Gegenwartsbezug", "en": "She has just left.", "t": "(gerade eben)"},
+      {"def": "vs Past Simple: abgeschlossene Vergangenheit", "en": "I finished yesterday. (past simple)", "t": "(feste Zeit → Past Simple)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["present perfect vs past simple", "have vs has", "for vs since"],
+    "idiomTitle": "Signalwörter", "idioms": ["just, already, yet", "ever, never", "for, since"],
+    "quizQ": "Welches ist Present Perfect?", "quizA": ["I have finished.", "I finished.", "I finish."], "quizOk": 0
+  },
+  "fr": {
+    "pos": "grammaire (temps)", "title": "Qu'est-ce que le Present Perfect ? (have/has + V3)",
+    "metaDesc": "Qu'est-ce que le Present Perfect ? have/has + participe passé. Quand l'utiliser, vs past simple — LinguaBattle.",
+    "lede": "Le <b>Present Perfect</b> (have/has + participe passé) relie une action passée au présent. Schéma : <b>have/has + V3</b>.",
+    "means": [
+      {"def": "Forme : have/has + participe passé (V3)", "en": "I have finished.", "t": "(fini maintenant)"},
+      {"def": "Expérience (à un moment de la vie)", "en": "I have been to London.", "t": "(expérience)"},
+      {"def": "Action récente avec effet présent", "en": "She has just left.", "t": "(à l'instant)"},
+      {"def": "vs Past Simple : passé daté/terminé", "en": "I finished yesterday. (past simple)", "t": "(temps précis → past simple)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["present perfect vs past simple", "have vs has", "for vs since"],
+    "idiomTitle": "Mots-clés", "idioms": ["just, already, yet", "ever, never", "for, since"],
+    "quizQ": "Lequel est au Present Perfect ?", "quizA": ["I have finished.", "I finished.", "I finish."], "quizOk": 0
+  },
+  "es": {
+    "pos": "gramática (tiempo)", "title": "¿Qué es el Present Perfect? (have/has + V3)",
+    "metaDesc": "¿Qué es el Present Perfect? have/has + participio. Cuándo usarlo, vs past simple — LinguaBattle.",
+    "lede": "El <b>Present Perfect</b> (have/has + participio) une una acción pasada con el presente. Patrón: <b>have/has + V3</b>.",
+    "means": [
+      {"def": "Forma: have/has + participio (V3)", "en": "I have finished.", "t": "(hecho ahora)"},
+      {"def": "Experiencia (en algún momento de la vida)", "en": "I have been to London.", "t": "(experiencia)"},
+      {"def": "Acción reciente con efecto presente", "en": "She has just left.", "t": "(recién)"},
+      {"def": "vs Past Simple: pasado concreto/terminado", "en": "I finished yesterday. (past simple)", "t": "(tiempo concreto → past simple)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["present perfect vs past simple", "have vs has", "for vs since"],
+    "idiomTitle": "Palabras clave", "idioms": ["just, already, yet", "ever, never", "for, since"],
+    "quizQ": "¿Cuál es Present Perfect?", "quizA": ["I have finished.", "I finished.", "I finish."], "quizOk": 0
+  },
+  "ar": {
+    "pos": "قواعد (زمن)", "title": "ما هو Present Perfect؟ (have/has + V3)",
+    "metaDesc": "ما هو Present Perfect؟ have/has + التصريف الثالث. متى يُستخدم، مقابل past simple — LinguaBattle.",
+    "lede": "<b>Present Perfect</b> (have/has + التصريف الثالث) يربط حدثًا ماضيًا بالحاضر. الصيغة: <b>have/has + V3</b>.",
+    "means": [
+      {"def": "الصيغة: have/has + التصريف الثالث (V3)", "en": "I have finished.", "t": "(انتهى الآن)"},
+      {"def": "خبرة (في وقت ما من الحياة)", "en": "I have been to London.", "t": "(خبرة)"},
+      {"def": "حدث حديث له أثر في الحاضر", "en": "She has just left.", "t": "(للتو)"},
+      {"def": "مقابل Past Simple: زمن ماضٍ محدّد", "en": "I finished yesterday. (past simple)", "t": "(زمن محدّد → past simple)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["present perfect vs past simple", "have vs has", "for vs since"],
+    "idiomTitle": "كلمات مفتاحية", "idioms": ["just, already, yet", "ever, never", "for, since"],
+    "quizQ": "أيّها Present Perfect؟", "quizA": ["I have finished.", "I finished.", "I finish."], "quizOk": 0
+  },
+  "hi": {
+    "pos": "व्याकरण (काल)", "title": "Present Perfect क्या है? (have/has + V3)",
+    "metaDesc": "Present Perfect क्या है? have/has + तीसरा रूप। कब इस्तेमाल करें, past simple से अंतर — LinguaBattle.",
+    "lede": "<b>Present Perfect</b> (have/has + क्रिया का तीसरा रूप) किसी बीते काम को वर्तमान से जोड़ता है। पैटर्न: <b>have/has + V3</b>।",
+    "means": [
+      {"def": "रूप: have/has + तीसरा रूप (V3)", "en": "I have finished.", "t": "(अब हो चुका)"},
+      {"def": "अनुभव (जीवन के किसी समय)", "en": "I have been to London.", "t": "(अनुभव)"},
+      {"def": "हाल का काम, वर्तमान पर असर", "en": "She has just left.", "t": "(अभी-अभी)"},
+      {"def": "Past Simple से अंतर: निश्चित बीता समय", "en": "I finished yesterday. (past simple)", "t": "(निश्चित समय → past simple)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["present perfect vs past simple", "have vs has", "for vs since"],
+    "idiomTitle": "मुख्य शब्द", "idioms": ["just, already, yet", "ever, never", "for, since"],
+    "quizQ": "कौन सा Present Perfect है?", "quizA": ["I have finished.", "I finished.", "I finish."], "quizOk": 0
+  },
+  "ru": {
+    "pos": "грамматика (время)", "title": "Что такое Present Perfect? (have/has + V3)",
+    "metaDesc": "Что такое Present Perfect? have/has + причастие. Когда использовать, vs past simple — LinguaBattle.",
+    "lede": "<b>Present Perfect</b> (have/has + причастие) связывает прошлое действие с настоящим. Шаблон: <b>have/has + V3</b>.",
+    "means": [
+      {"def": "Форма: have/has + причастие (V3)", "en": "I have finished.", "t": "(уже сделано)"},
+      {"def": "Опыт (когда-то в жизни)", "en": "I have been to London.", "t": "(опыт)"},
+      {"def": "Недавнее действие с эффектом сейчас", "en": "She has just left.", "t": "(только что)"},
+      {"def": "vs Past Simple: конкретное прошлое", "en": "I finished yesterday. (past simple)", "t": "(конкретное время → past simple)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["present perfect vs past simple", "have vs has", "for vs since"],
+    "idiomTitle": "Ключевые слова", "idioms": ["just, already, yet", "ever, never", "for, since"],
+    "quizQ": "Что является Present Perfect?", "quizA": ["I have finished.", "I finished.", "I finish."], "quizOk": 0
+  },
+  "pt": {
+    "pos": "gramática (tempo)", "title": "O que é o Present Perfect? (have/has + V3)",
+    "metaDesc": "O que é o Present Perfect? have/has + particípio. Quando usar, vs past simple — LinguaBattle.",
+    "lede": "O <b>Present Perfect</b> (have/has + particípio) liga uma ação passada ao presente. Padrão: <b>have/has + V3</b>.",
+    "means": [
+      {"def": "Forma: have/has + particípio (V3)", "en": "I have finished.", "t": "(feito agora)"},
+      {"def": "Experiência (em algum momento da vida)", "en": "I have been to London.", "t": "(experiência)"},
+      {"def": "Ação recente com efeito no presente", "en": "She has just left.", "t": "(agora mesmo)"},
+      {"def": "vs Past Simple: passado específico/terminado", "en": "I finished yesterday. (past simple)", "t": "(tempo específico → past simple)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["present perfect vs past simple", "have vs has", "for vs since"],
+    "idiomTitle": "Palavras-chave", "idioms": ["just, already, yet", "ever, never", "for, since"],
+    "quizQ": "Qual é Present Perfect?", "quizA": ["I have finished.", "I finished.", "I finish."], "quizOk": 0
+  },
+  "ja": {
+    "pos": "文法 (時制)", "title": "Present Perfectとは？(have/has + V3)",
+    "metaDesc": "Present Perfectとは？have/has + 過去分詞。いつ使う、past simpleとの違い — LinguaBattle.",
+    "lede": "<b>Present Perfect</b>（have/has + 過去分詞）は、過去の動作を現在と結びつける。型：<b>have/has + V3</b>。",
+    "means": [
+      {"def": "形：have/has + 過去分詞（V3）", "en": "I have finished.", "t": "（今、終わった状態）"},
+      {"def": "経験（人生のどこかの時点）", "en": "I have been to London.", "t": "（経験）"},
+      {"def": "最近の動作で現在に影響", "en": "She has just left.", "t": "（ちょうど今）"},
+      {"def": "Past Simpleとの違い：明確な過去の時", "en": "I finished yesterday. (past simple)", "t": "（明確な時 → past simple）"}
+    ],
+    "relTitle": "混同しやすい点", "rel": ["present perfect vs past simple", "have vs has", "for vs since"],
+    "idiomTitle": "目印の語", "idioms": ["just, already, yet", "ever, never", "for, since"],
+    "quizQ": "どれがPresent Perfect？", "quizA": ["I have finished.", "I finished.", "I finish."], "quizOk": 0
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "word": "this / that / these / those",
+  "pron": "/ðɪs, ðæt, ðiːz, ðoʊz/",
+  "category": "grammar",
+  "tr": {
+    "pos": "gramer (işaret)", "title": "this, that, these, those farkı",
+    "metaDesc": "this that these those farkı: yakın/uzak ve tekil/çoğul işaret sıfatları. Örneklerle — LinguaBattle.",
+    "lede": "<b>this/that/these/those</b> işaret sıfatlarıdır. İki şey belirler: <b>yakınlık</b> (this/these = yakın, that/those = uzak) ve <b>sayı</b> (this/that = tekil, these/those = çoğul).",
+    "means": [
+      {"def": "this = bu (yakın, tekil)", "en": "this book", "t": "bu kitap (elimdeki)"},
+      {"def": "that = şu/o (uzak, tekil)", "en": "that car", "t": "şu araba (uzaktaki)"},
+      {"def": "these = bunlar (yakın, çoğul)", "en": "these shoes", "t": "bu ayakkabılar"},
+      {"def": "those = şunlar/onlar (uzak, çoğul)", "en": "those people", "t": "şu insanlar (uzaktaki)"}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["this vs that", "these vs those", "this vs these"],
+    "idiomTitle": "Kurallar", "idioms": ["yakın → this/these", "uzak → that/those", "çoğul → these/those"],
+    "quizQ": "Uzaktaki çok sayıda şey için hangisi?", "quizA": ["those", "this", "these"], "quizOk": 0
+  },
+  "en": {
+    "pos": "grammar (demonstratives)", "title": "This, that, these, those: the difference",
+    "metaDesc": "This that these those difference: near/far and singular/plural demonstratives. With examples — LinguaBattle.",
+    "lede": "<b>this/that/these/those</b> are demonstratives. They show two things: <b>distance</b> (this/these = near, that/those = far) and <b>number</b> (this/that = singular, these/those = plural).",
+    "means": [
+      {"def": "this = near, singular", "en": "this book", "t": "(near, one)"},
+      {"def": "that = far, singular", "en": "that car", "t": "(far, one)"},
+      {"def": "these = near, plural", "en": "these shoes", "t": "(near, many)"},
+      {"def": "those = far, plural", "en": "those people", "t": "(far, many)"}
+    ],
+    "relTitle": "Often confused", "rel": ["this vs that", "these vs those", "this vs these"],
+    "idiomTitle": "Rules", "idioms": ["near → this/these", "far → that/those", "plural → these/those"],
+    "quizQ": "Which for many things far away?", "quizA": ["those", "this", "these"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Grammatik (Demonstrativ)", "title": "This, that, these, those: der Unterschied",
+    "metaDesc": "Unterschied this that these those: nah/fern und Singular/Plural. Mit Beispielen — LinguaBattle.",
+    "lede": "<b>this/that/these/those</b> sind Demonstrativpronomen. Sie zeigen zwei Dinge: <b>Entfernung</b> (this/these = nah, that/those = fern) und <b>Zahl</b> (this/that = Singular, these/those = Plural).",
+    "means": [
+      {"def": "this = nah, Singular", "en": "this book", "t": "(nah, eins)"},
+      {"def": "that = fern, Singular", "en": "that car", "t": "(fern, eins)"},
+      {"def": "these = nah, Plural", "en": "these shoes", "t": "(nah, viele)"},
+      {"def": "those = fern, Plural", "en": "those people", "t": "(fern, viele)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["this vs that", "these vs those", "this vs these"],
+    "idiomTitle": "Regeln", "idioms": ["nah → this/these", "fern → that/those", "Plural → these/those"],
+    "quizQ": "Welches für viele Dinge in der Ferne?", "quizA": ["those", "this", "these"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "grammaire (démonstratifs)", "title": "This, that, these, those : la différence",
+    "metaDesc": "Différence this that these those : proche/loin et singulier/pluriel. Avec exemples — LinguaBattle.",
+    "lede": "<b>this/that/these/those</b> sont des démonstratifs. Ils indiquent deux choses : la <b>distance</b> (this/these = proche, that/those = loin) et le <b>nombre</b> (this/that = singulier, these/those = pluriel).",
+    "means": [
+      {"def": "this = proche, singulier", "en": "this book", "t": "(proche, un)"},
+      {"def": "that = loin, singulier", "en": "that car", "t": "(loin, un)"},
+      {"def": "these = proche, pluriel", "en": "these shoes", "t": "(proche, plusieurs)"},
+      {"def": "those = loin, pluriel", "en": "those people", "t": "(loin, plusieurs)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["this vs that", "these vs those", "this vs these"],
+    "idiomTitle": "Règles", "idioms": ["proche → this/these", "loin → that/those", "pluriel → these/those"],
+    "quizQ": "Lequel pour plusieurs choses au loin ?", "quizA": ["those", "this", "these"], "quizOk": 0
+  },
+  "es": {
+    "pos": "gramática (demostrativos)", "title": "This, that, these, those: la diferencia",
+    "metaDesc": "Diferencia this that these those: cerca/lejos y singular/plural. Con ejemplos — LinguaBattle.",
+    "lede": "<b>this/that/these/those</b> son demostrativos. Indican dos cosas: la <b>distancia</b> (this/these = cerca, that/those = lejos) y el <b>número</b> (this/that = singular, these/those = plural).",
+    "means": [
+      {"def": "this = cerca, singular", "en": "this book", "t": "(cerca, uno)"},
+      {"def": "that = lejos, singular", "en": "that car", "t": "(lejos, uno)"},
+      {"def": "these = cerca, plural", "en": "these shoes", "t": "(cerca, varios)"},
+      {"def": "those = lejos, plural", "en": "those people", "t": "(lejos, varios)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["this vs that", "these vs those", "this vs these"],
+    "idiomTitle": "Reglas", "idioms": ["cerca → this/these", "lejos → that/those", "plural → these/those"],
+    "quizQ": "¿Cuál para varias cosas lejos?", "quizA": ["those", "this", "these"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "قواعد (أسماء إشارة)", "title": "الفرق بين this و that و these و those",
+    "metaDesc": "الفرق بين this that these those: قريب/بعيد ومفرد/جمع. مع أمثلة — LinguaBattle.",
+    "lede": "<b>this/that/these/those</b> أسماء إشارة. تدلّ على شيئين: <b>المسافة</b> (this/these = قريب، that/those = بعيد) و<b>العدد</b> (this/that = مفرد، these/those = جمع).",
+    "means": [
+      {"def": "this = قريب، مفرد", "en": "this book", "t": "(قريب، واحد)"},
+      {"def": "that = بعيد، مفرد", "en": "that car", "t": "(بعيد، واحد)"},
+      {"def": "these = قريب، جمع", "en": "these shoes", "t": "(قريب، عدّة)"},
+      {"def": "those = بعيد، جمع", "en": "those people", "t": "(بعيد، عدّة)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["this vs that", "these vs those", "this vs these"],
+    "idiomTitle": "قواعد", "idioms": ["قريب → this/these", "بعيد → that/those", "جمع → these/those"],
+    "quizQ": "أيّها لأشياء كثيرة بعيدة؟", "quizA": ["those", "this", "these"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "व्याकरण (संकेतवाचक)", "title": "this, that, these, those में अंतर",
+    "metaDesc": "this that these those अंतर: पास/दूर और एकवचन/बहुवचन। उदाहरणों सहित — LinguaBattle.",
+    "lede": "<b>this/that/these/those</b> संकेतवाचक शब्द हैं। ये दो बातें बताते हैं: <b>दूरी</b> (this/these = पास, that/those = दूर) और <b>संख्या</b> (this/that = एकवचन, these/those = बहुवचन)।",
+    "means": [
+      {"def": "this = पास, एकवचन", "en": "this book", "t": "(पास, एक)"},
+      {"def": "that = दूर, एकवचन", "en": "that car", "t": "(दूर, एक)"},
+      {"def": "these = पास, बहुवचन", "en": "these shoes", "t": "(पास, कई)"},
+      {"def": "those = दूर, बहुवचन", "en": "those people", "t": "(दूर, कई)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["this vs that", "these vs those", "this vs these"],
+    "idiomTitle": "नियम", "idioms": ["पास → this/these", "दूर → that/those", "बहुवचन → these/those"],
+    "quizQ": "दूर की कई चीज़ों के लिए कौन सा?", "quizA": ["those", "this", "these"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "грамматика (указательные)", "title": "This, that, these, those: разница",
+    "metaDesc": "Разница this that these those: близко/далеко и ед./мн.число. С примерами — LinguaBattle.",
+    "lede": "<b>this/that/these/those</b> — указательные слова. Показывают две вещи: <b>расстояние</b> (this/these = близко, that/those = далеко) и <b>число</b> (this/that = ед.ч., these/those = мн.ч.).",
+    "means": [
+      {"def": "this = близко, ед.ч.", "en": "this book", "t": "(близко, один)"},
+      {"def": "that = далеко, ед.ч.", "en": "that car", "t": "(далеко, один)"},
+      {"def": "these = близко, мн.ч.", "en": "these shoes", "t": "(близко, много)"},
+      {"def": "those = далеко, мн.ч.", "en": "those people", "t": "(далеко, много)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["this vs that", "these vs those", "this vs these"],
+    "idiomTitle": "Правила", "idioms": ["близко → this/these", "далеко → that/those", "мн.ч. → these/those"],
+    "quizQ": "Что для многих вещей вдали?", "quizA": ["those", "this", "these"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "gramática (demonstrativos)", "title": "This, that, these, those: a diferença",
+    "metaDesc": "Diferença this that these those: perto/longe e singular/plural. Com exemplos — LinguaBattle.",
+    "lede": "<b>this/that/these/those</b> são demonstrativos. Indicam duas coisas: a <b>distância</b> (this/these = perto, that/those = longe) e o <b>número</b> (this/that = singular, these/those = plural).",
+    "means": [
+      {"def": "this = perto, singular", "en": "this book", "t": "(perto, um)"},
+      {"def": "that = longe, singular", "en": "that car", "t": "(longe, um)"},
+      {"def": "these = perto, plural", "en": "these shoes", "t": "(perto, vários)"},
+      {"def": "those = longe, plural", "en": "those people", "t": "(longe, vários)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["this vs that", "these vs those", "this vs these"],
+    "idiomTitle": "Regras", "idioms": ["perto → this/these", "longe → that/those", "plural → these/those"],
+    "quizQ": "Qual para várias coisas ao longe?", "quizA": ["those", "this", "these"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "文法 (指示詞)", "title": "this, that, these, those の違い",
+    "metaDesc": "this that these those の違い：近い/遠いと単数/複数。例文付き — LinguaBattle.",
+    "lede": "<b>this/that/these/those</b> は指示詞。2つを示す：<b>距離</b>（this/these = 近い、that/those = 遠い）と<b>数</b>（this/that = 単数、these/those = 複数）。",
+    "means": [
+      {"def": "this = 近い、単数", "en": "this book", "t": "（近い、1つ）"},
+      {"def": "that = 遠い、単数", "en": "that car", "t": "（遠い、1つ）"},
+      {"def": "these = 近い、複数", "en": "these shoes", "t": "（近い、複数）"},
+      {"def": "those = 遠い、複数", "en": "those people", "t": "（遠い、複数）"}
+    ],
+    "relTitle": "混同しやすい点", "rel": ["this vs that", "these vs those", "this vs these"],
+    "idiomTitle": "ルール", "idioms": ["近い → this/these", "遠い → that/those", "複数 → these/those"],
+    "quizQ": "遠くの複数のものにはどれ？", "quizA": ["those", "this", "these"], "quizOk": 0
+  }
+}

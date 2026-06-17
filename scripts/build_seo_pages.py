@@ -15,6 +15,31 @@ CONTENT = os.path.join(ROOT, "content")
 LANGS = ["tr", "en", "de", "fr", "es", "ar", "hi", "ru", "pt", "ja"]
 RTL = {"ar"}
 
+# Builder dışında üretilen statik sayfalar (seviye testi — build_level_test.py).
+# Sitemap'e dahil edilir. Slug'lar build_level_test.py'deki SLUG ile aynı olmalı.
+EXTRA_PAGES = [
+    "/tr/seviye-testi", "/en/english-level-test", "/de/englisch-niveau-test",
+    "/fr/test-de-niveau-anglais", "/es/test-de-nivel-ingles", "/ar/ikhtibar-mustawa",
+    "/hi/angrezi-level-test", "/ru/test-urovnya", "/pt/teste-de-nivel-ingles",
+    "/ja/eigo-level-test",
+]
+# Seviye testi yol+banner metni (build_level_test.py SLUG ile senkron)
+TEST_SLUG = {"tr":"seviye-testi","en":"english-level-test","de":"englisch-niveau-test",
+    "fr":"test-de-niveau-anglais","es":"test-de-nivel-ingles","ar":"ikhtibar-mustawa",
+    "hi":"angrezi-level-test","ru":"test-urovnya","pt":"teste-de-nivel-ingles","ja":"eigo-level-test"}
+TEST_BANNER = {
+ "tr":("📊 İngilizce Seviye Testi","20 soruda seviyeni öğren — ücretsiz, kayıt yok.","Teste başla →"),
+ "en":("📊 English Level Test","Find your level in 20 questions — free, no signup.","Start the test →"),
+ "de":("📊 Englisch Niveau-Test","Finde dein Niveau in 20 Fragen — kostenlos, ohne Anmeldung.","Test starten →"),
+ "fr":("📊 Test de Niveau d'Anglais","Trouve ton niveau en 20 questions — gratuit, sans inscription.","Commencer →"),
+ "es":("📊 Test de Nivel de Inglés","Descubre tu nivel en 20 preguntas — gratis, sin registro.","Empezar →"),
+ "ar":("📊 اختبار مستوى الإنجليزية","اعرف مستواك في 20 سؤالًا — مجاني، بدون تسجيل.","ابدأ الاختبار →"),
+ "hi":("📊 अंग्रेज़ी लेवल टेस्ट","20 सवालों में अपना स्तर जानें — मुफ़्त, बिना रजिस्ट्रेशन।","टेस्ट शुरू करें →"),
+ "ru":("📊 Тест на уровень английского","Узнай свой уровень за 20 вопросов — бесплатно, без регистрации.","Начать тест →"),
+ "pt":("📊 Teste de Nível de Inglês","Descubra seu nível em 20 perguntas — grátis, sem cadastro.","Começar →"),
+ "ja":("📊 英語レベルテスト","20問でレベルを判定 — 無料・登録不要。","テストを始める →"),
+}
+
 # Dile çevrili yol segmenti (URL): /tr/kelime/get , /de/wort/get ...
 SEG = {"tr":"kelime","en":"word","de":"wort","fr":"mot","es":"palabra",
        "ar":"kalima","hi":"shabd","ru":"slovo","pt":"palavra","ja":"tango"}
@@ -84,7 +109,8 @@ body{font-family:'Be Vietnam Pro',-apple-system,sans-serif;background:#000E23;co
 h1,h2,h3,.head{font-family:'Plus Jakarta Sans',sans-serif}
 a{color:#81ECFF;text-decoration:none}
 .topbar{position:sticky;top:0;z-index:20;display:flex;align-items:center;justify-content:space-between;padding:14px 24px;background:rgba(0,14,35,.85);backdrop-filter:blur(12px);border-bottom:1px solid #384962}
-.logo{font-family:'Plus Jakarta Sans';font-weight:800;font-size:1.15rem;background:linear-gradient(90deg,#A3FE00,#00E3FD);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.logo{display:flex;align-items:center;gap:9px;font-family:'Plus Jakarta Sans';font-weight:800;font-size:1.15rem;background:linear-gradient(90deg,#A3FE00,#00E3FD);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.logo img{height:30px;width:auto;display:block;filter:invert(1) brightness(1.6)}
 select{background:#04203E;color:#D9E6FF;border:1px solid #384962;border-radius:8px;padding:7px 10px;font-family:inherit;font-size:.85rem;cursor:pointer}
 .layout{max-width:1080px;margin:0 auto;padding:32px 24px;display:grid;grid-template-columns:1fr 300px;gap:32px;align-items:start}
 @media(max-width:860px){.layout{grid-template-columns:1fr;gap:24px}}
@@ -131,8 +157,16 @@ footer{max-width:1080px;margin:0 auto;padding:32px 24px;border-top:1px solid #38
 
 def esc(s): return html.escape(str(s), quote=True)
 
+import re
+def slugify(word):
+    # "brain rot" -> "brain-rot", "a / an / the" -> "a-an-the"
+    # (URL/dosya adı için; görünen 'word' değişmez)
+    s = word.strip().lower()
+    s = re.sub(r"[^a-z0-9]+", "-", s)   # harf/rakam dışını tire yap
+    return s.strip("-")                  # baş/sondaki tireleri at
+
 def url_for(lang, word):
-    return f"{SITE}/{lang}/{SEG[lang]}/{word}"
+    return f"{SITE}/{lang}/{SEG[lang]}/{slugify(word)}"
 
 def lang_switcher(word, cur):
     opts = []
@@ -202,7 +236,11 @@ def build_page(word, pron, conj, lang, d):
 <meta property="og:description" content="{esc(d["metaDesc"])}">
 <meta property="og:url" content="{url_for(lang, word)}">
 <meta property="og:site_name" content="LinguaBattle">
+<meta property="og:image" content="{SITE}/assets/logo-icon.png">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="{SITE}/assets/logo-icon.png">
+<link rel="icon" type="image/png" href="/assets/logo-icon.png">
+<link rel="apple-touch-icon" href="/assets/logo-icon.png">
 <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Be+Vietnam+Pro:wght@300;400;500&display=swap" rel="stylesheet">
 <style>{CSS}</style>
 <script type="application/ld+json">{ld_json}</script>
@@ -210,7 +248,7 @@ def build_page(word, pron, conj, lang, d):
 </head>
 <body>
 <div class="topbar">
-  <a class="logo" href="/{lang}/">⚔️ LinguaBattle</a>
+  <a class="logo" href="/{lang}/"><img src="/assets/logo.svg" alt="LinguaBattle" width="30" height="30"><span>LinguaBattle</span></a>
   {lang_switcher(word, lang)}
 </div>
 <div class="layout">
@@ -242,6 +280,109 @@ function speak(t){{if('speechSynthesis'in window){{var u=new SpeechSynthesisUtte
 </body>
 </html>"""
 
+# Dil ana sayfası metinleri (her dil için)
+HOME = {
+ "tr":{"tagline":"İngilizcenin en çok <span class='g'>karıştırılan</span> kelimeleri","sub":"Anlamları, örnekleri ve çekimleriyle. Sonra uygulamada düelloyla pekiştir.","search":"🔍 Bir kelime ara…","popular":"Kelimeler","all":"Tüm konular"},
+ "en":{"tagline":"The most <span class='g'>confusing</span> English words","sub":"Meanings, examples and forms. Then lock them in with a duel in the app.","search":"🔍 Search a word…","popular":"Words","all":"All topics"},
+ "de":{"tagline":"Die <span class='g'>verwirrendsten</span> englischen Wörter","sub":"Bedeutungen, Beispiele und Formen. Dann im App-Duell festigen.","search":"🔍 Wort suchen…","popular":"Wörter","all":"Alle Themen"},
+ "fr":{"tagline":"Les mots anglais les plus <span class='g'>déroutants</span>","sub":"Sens, exemples et formes. Puis ancrez-les avec un duel dans l'app.","search":"🔍 Chercher un mot…","popular":"Mots","all":"Tous les sujets"},
+ "es":{"tagline":"Las palabras inglesas más <span class='g'>confusas</span>","sub":"Significados, ejemplos y formas. Luego fíjalas con un duelo en la app.","search":"🔍 Buscar una palabra…","popular":"Palabras","all":"Todos los temas"},
+ "ar":{"tagline":"أكثر الكلمات الإنجليزية <span class='g'>إرباكًا</span>","sub":"المعاني والأمثلة والصيغ. ثم ثبّتها بمبارزة في التطبيق.","search":"🔍 ابحث عن كلمة…","popular":"كلمات","all":"كل المواضيع"},
+ "hi":{"tagline":"सबसे <span class='g'>भ्रमित करने वाले</span> अंग्रेज़ी शब्द","sub":"अर्थ, उदाहरण और रूप। फिर ऐप में डुएल से पक्का करें।","search":"🔍 कोई शब्द खोजें…","popular":"शब्द","all":"सभी विषय"},
+ "ru":{"tagline":"Самые <span class='g'>путаемые</span> английские слова","sub":"Значения, примеры и формы. Затем закрепите их в дуэли в приложении.","search":"🔍 Найти слово…","popular":"Слова","all":"Все темы"},
+ "pt":{"tagline":"As palavras inglesas mais <span class='g'>confusas</span>","sub":"Significados, exemplos e formas. Depois fixe-as com um duelo no app.","search":"🔍 Buscar uma palavra…","popular":"Palavras","all":"Todos os tópicos"},
+ "ja":{"tagline":"最も<span class='g'>紛らわしい</span>英単語","sub":"意味・例文・活用。そしてアプリのデュエルで定着。","search":"🔍 単語を検索…","popular":"単語","all":"すべてのトピック"},
+}
+
+def build_home(lang, entries):
+    ui = UI[lang]; h = HOME[lang]
+    rtl = lang in RTL
+    alts = "\n".join(f'<link rel="alternate" hreflang="{l}" href="{SITE}/{l}/">' for l in LANGS)
+    alts += f'\n<link rel="alternate" hreflang="x-default" href="{SITE}/en/">'
+    cards = ""
+    for e in entries:
+        if lang not in e["paths"]: continue
+        cards += (f'<a class="wcard" href="{e["paths"][lang]}">'
+                  f'<div class="w">{esc(e["word"])}</div>'
+                  f'<span class="cat">{esc(e.get("category",""))}</span>'
+                  f'<div class="d">{esc(e["desc"].get(lang,""))}</div></a>')
+    return f"""<!DOCTYPE html>
+<html lang="{lang}" dir="{'rtl' if rtl else 'ltr'}">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LinguaBattle — {esc(h['popular'])}</title>
+<meta name="description" content="{esc(h['sub'])}">
+<link rel="canonical" href="{SITE}/{lang}/">
+{alts}
+<meta property="og:title" content="LinguaBattle">
+<meta property="og:description" content="{esc(h['sub'])}">
+<meta property="og:image" content="{SITE}/assets/logo-icon.png">
+<link rel="icon" type="image/png" href="/assets/logo-icon.png">
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Be+Vietnam+Pro:wght@300;400;500&display=swap" rel="stylesheet">
+<style>{CSS}
+.hero{{max-width:820px;margin:0 auto;padding:56px 24px 24px;text-align:center}}
+.hero h1{{font-size:2.4rem;font-weight:800;line-height:1.15;margin-bottom:14px}}
+.hero h1 .g{{background:linear-gradient(90deg,#A3FE00,#00E3FD);-webkit-background-clip:text;-webkit-text-fill-color:transparent}}
+.hero p{{color:#9BACCA;font-size:1.1rem;max-width:540px;margin:0 auto 24px}}
+.searchwrap{{max-width:540px;margin:0 auto;position:relative;text-align:start}}
+#search{{width:100%;background:#011A36;border:1px solid #384962;color:#D9E6FF;border-radius:14px;padding:14px 18px;font-family:inherit;font-size:1.05rem}}
+#search:focus{{outline:none;border-color:#A3FE00}}
+#results{{position:absolute;left:0;right:0;top:60px;background:#04203E;border:1px solid #384962;border-radius:14px;overflow:hidden;z-index:30;display:none}}
+#results a{{display:flex;justify-content:space-between;gap:12px;padding:12px 16px;color:#D9E6FF;border-bottom:1px solid #072647}}
+#results a:hover{{background:#072647}}
+#results .rw{{font-family:'Plus Jakarta Sans';font-weight:700;color:#DDFFAF}}
+#results .rd{{color:#9BACCA;font-size:.85rem}}
+.section{{max-width:1000px;margin:0 auto;padding:32px 24px}}
+.section h2{{font-size:1.4rem;font-weight:700;margin-bottom:18px}}
+.grid{{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:16px}}
+.wcard{{display:block;background:#011A36;border:1px solid #384962;border-radius:16px;padding:20px;transition:.18s}}
+.wcard:hover{{border-color:#A3FE00;transform:translateY(-2px)}}
+.wcard .w{{font-family:'Plus Jakarta Sans';font-weight:800;font-size:1.4rem;background:linear-gradient(90deg,#A3FE00,#00E3FD);-webkit-background-clip:text;-webkit-text-fill-color:transparent}}
+.wcard .cat{{display:inline-block;margin-top:6px;font-size:.72rem;color:#81ECFF;background:#072647;border:1px solid #384962;border-radius:20px;padding:2px 10px}}
+.wcard .d{{margin-top:10px;color:#9BACCA;font-size:.9rem}}
+</style>
+</head>
+<body>
+<div class="topbar">
+  <a class="logo" href="/{lang}/"><img src="/assets/logo.svg" alt="LinguaBattle" width="30" height="30"><span>LinguaBattle</span></a>
+  {lang_home_switcher(lang)}
+</div>
+<div class="hero">
+  <h1>{h['tagline']}</h1>
+  <p>{esc(h['sub'])}</p>
+  <div class="searchwrap"><input id="search" type="text" autocomplete="off" placeholder="{esc(h['search'])}"><div id="results"></div></div>
+</div>
+<div class="section">
+  <a href="/{lang}/{TEST_SLUG[lang]}" style="display:block;background:linear-gradient(135deg,#04203E,#011A36);border:1px solid #A3FE00;border-radius:18px;padding:24px;text-align:center;box-shadow:0 0 32px rgba(163,254,0,.12)">
+    <div style="font-family:'Plus Jakarta Sans';font-weight:800;font-size:1.4rem;margin-bottom:6px">{TEST_BANNER[lang][0]}</div>
+    <div style="color:#9BACCA;margin-bottom:4px">{esc(TEST_BANNER[lang][1])}</div>
+    <div style="color:#A3FE00;font-weight:600">{esc(TEST_BANNER[lang][2])}</div>
+  </a>
+</div>
+<div class="section">
+  <h2>{esc(h['all'])}</h2>
+  <div class="grid">{cards}</div>
+</div>
+<footer>© 2026 LinguaBattle</footer>
+<script>
+const LANG='{lang}';let WORDS=[];
+fetch('/words-index.json').then(r=>r.json()).then(d=>{{WORDS=d;}}).catch(()=>{{}});
+const inp=document.getElementById('search'),box=document.getElementById('results');
+inp.addEventListener('input',()=>{{const q=inp.value.trim().toLowerCase();if(!q){{box.style.display='none';return;}}
+const hits=WORDS.filter(w=>w.word.toLowerCase().includes(q)).slice(0,8);
+if(!hits.length){{box.innerHTML='';box.style.display='none';return;}}
+box.innerHTML=hits.map(w=>{{const p=(w.paths&&w.paths[LANG])||(w.paths&&w.paths.en)||'#';const d=(w.desc&&w.desc[LANG])||'';return `<a href="${{p}}"><span class="rw">${{w.word}}</span><span class="rd">${{d}}</span></a>`;}}).join('');
+box.style.display='block';}});
+document.addEventListener('click',e=>{{if(!e.target.closest('.searchwrap'))box.style.display='none';}});
+</script>
+</body>
+</html>"""
+
+def lang_home_switcher(cur):
+    opts = [f'<option value="/{l}/"{" selected" if l==cur else ""}>{LANG_LABEL[l]}</option>' for l in LANGS]
+    return '<select onchange="location.href=this.value">' + "".join(opts) + '</select>'
+
 def main():
     files = sorted(glob.glob(os.path.join(CONTENT, "*.json")))
     urls = []
@@ -254,7 +395,7 @@ def main():
                 print(f"  ! {word}: {lang} eksik, atlandı"); continue
             out_dir = os.path.join(ROOT, lang, SEG[lang])
             os.makedirs(out_dir, exist_ok=True)
-            out = os.path.join(out_dir, word + ".html")
+            out = os.path.join(out_dir, slugify(word) + ".html")
             with open(out, "w", encoding="utf-8") as fp:
                 fp.write(build_page(word, pron, conj, lang, data[lang]))
             urls.append(url_for(lang, word))
@@ -290,13 +431,36 @@ def main():
         for lang in LANGS:
             if lang not in data:
                 continue
-            entry["paths"][lang] = f"/{lang}/{SEG[lang]}/{word}"
+            entry["paths"][lang] = f"/{lang}/{SEG[lang]}/{slugify(word)}"
             entry["desc"][lang] = data[lang]["means"][0]["def"]
         index.append(entry)
     open(os.path.join(ROOT, "words-index.json"), "w", encoding="utf-8").write(
         json.dumps(index, ensure_ascii=False, indent=2))
 
-    print(f"\n✅ {count} HTML üretildi · sitemap.xml + robots.txt + words-index.json yazıldı")
+    # Dil ana sayfaları: /tr/index.html, /de/index.html ...
+    home_count = 0
+    for lang in LANGS:
+        out_dir = os.path.join(ROOT, lang)
+        os.makedirs(out_dir, exist_ok=True)
+        with open(os.path.join(out_dir, "index.html"), "w", encoding="utf-8") as fp:
+            fp.write(build_home(lang, index))
+        home_count += 1
+
+    # sitemap'e dil ana sayfalarını da ekle
+    home_sm = []
+    for lang in LANGS:
+        home_sm.append(f"  <url><loc>{SITE}/{lang}/</loc>")
+        for l2 in LANGS:
+            home_sm.append(f'    <xhtml:link rel="alternate" hreflang="{l2}" href="{SITE}/{l2}/"/>')
+        home_sm.append("  </url>")
+    # builder dışında elle üretilen statik sayfalar (interaktif testler vb.)
+    for extra in EXTRA_PAGES:
+        home_sm.append(f"  <url><loc>{SITE}{extra}</loc></url>")
+    sm_content = open(os.path.join(ROOT, "sitemap.xml"), encoding="utf-8").read()
+    sm_content = sm_content.replace("</urlset>", "\n".join(home_sm) + "\n</urlset>")
+    open(os.path.join(ROOT, "sitemap.xml"), "w", encoding="utf-8").write(sm_content)
+
+    print(f"\n✅ {count} kelime sayfası + {home_count} dil ana sayfası · sitemap + robots + words-index yazıldı")
 
 if __name__ == "__main__":
     main()

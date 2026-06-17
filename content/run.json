@@ -1,0 +1,166 @@
+{
+  "word": "run",
+  "pron": "/rʌn/",
+  "category": "verb",
+  "conj": ["run", "ran", "run"],
+  "tr": {
+    "pos": "fiil", "title": "run ne demek? (6 anlamı)",
+    "metaDesc": "run ne demek? 6 anlamı: koşmak, işletmek, çalışmak, akmak, aday olmak, sürmek. run/ran/run — LinguaBattle.",
+    "lede": "<b>run</b> İngilizcenin en çok anlamı olan fiillerindendir. “Koşmak” temel anlamı ama cümleye göre işletmekten akmaya uzanır. Düzensiz: run → ran → run.",
+    "means": [
+      {"def": "koşmak", "en": "I run every morning.", "t": "Her sabah koşarım."},
+      {"def": "işletmek, yönetmek (iş)", "en": "She runs a small café.", "t": "Küçük bir kafe işletiyor."},
+      {"def": "çalışmak (makine/program)", "en": "The app runs on any phone.", "t": "Uygulama her telefonda çalışır."},
+      {"def": "akmak (su)", "en": "Don't leave the water running.", "t": "Suyu akar bırakma."},
+      {"def": "aday olmak (seçim)", "en": "He's running for president.", "t": "Başkanlığa aday oluyor."},
+      {"def": "sürmek, devam etmek (süre)", "en": "The show runs for two hours.", "t": "Gösteri iki saat sürer."}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["run vs walk", "run a business", "ran vs run"],
+    "idiomTitle": "Günlük kalıplar", "idioms": ["run out of (tükenmek)", "run late (geç kalmak)", "run into (rastlamak)"],
+    "quizQ": "“She runs a café” ne demek?", "quizA": ["Bir kafe işletiyor", "Kafede koşuyor", "Kafeye gidiyor"], "quizOk": 0
+  },
+  "en": {
+    "pos": "verb", "title": "What does run mean? (6 meanings)",
+    "metaDesc": "What does run mean? 6 meanings: to run, manage, operate, flow, run for office, last. run/ran/run — LinguaBattle.",
+    "lede": "<b>run</b> is one of the most multi-meaning English verbs. The core is “to move fast on foot”, but it ranges from managing to flowing. Irregular: run → ran → run.",
+    "means": [
+      {"def": "to run (on foot)", "en": "I run every morning.", "t": "(jog)"},
+      {"def": "to manage, operate (business)", "en": "She runs a small café.", "t": "(manage)"},
+      {"def": "to work (machine/program)", "en": "The app runs on any phone.", "t": "(operate)"},
+      {"def": "to flow (water)", "en": "Don't leave the water running.", "t": "(flow)"},
+      {"def": "to run for office (election)", "en": "He's running for president.", "t": "(be a candidate)"},
+      {"def": "to last (duration)", "en": "The show runs for two hours.", "t": "(last)"}
+    ],
+    "relTitle": "Often confused", "rel": ["run vs walk", "run a business", "ran vs run"],
+    "idiomTitle": "Phrasal verbs", "idioms": ["run out of", "run late", "run into"],
+    "quizQ": "What does “She runs a café” mean?", "quizA": ["She manages a café", "She jogs in a café", "She goes to a café"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Verb", "title": "Was bedeutet run? (6 Bedeutungen)",
+    "metaDesc": "Was bedeutet run? 6 Bedeutungen: laufen, leiten, funktionieren, fließen, kandidieren, dauern. run/ran/run — LinguaBattle.",
+    "lede": "<b>run</b> ist eines der vieldeutigsten englischen Verben. Der Kern ist „rennen“, reicht aber von leiten bis fließen. Unregelmäßig: run → ran → run.",
+    "means": [
+      {"def": "laufen, rennen", "en": "I run every morning.", "t": "(joggen)"},
+      {"def": "leiten, führen (Geschäft)", "en": "She runs a small café.", "t": "(leiten)"},
+      {"def": "laufen, funktionieren (Maschine)", "en": "The app runs on any phone.", "t": "(funktionieren)"},
+      {"def": "fließen (Wasser)", "en": "Don't leave the water running.", "t": "(fließen)"},
+      {"def": "kandidieren (Wahl)", "en": "He's running for president.", "t": "(kandidieren)"},
+      {"def": "dauern (Zeitraum)", "en": "The show runs for two hours.", "t": "(dauern)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["run vs walk", "run a business", "ran vs run"],
+    "idiomTitle": "Phrasal Verbs", "idioms": ["run out of", "run late", "run into"],
+    "quizQ": "Was bedeutet „She runs a café“?", "quizA": ["Sie leitet ein Café", "Sie joggt im Café", "Sie geht ins Café"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "verbe", "title": "Que signifie run ? (6 sens)",
+    "metaDesc": "Que signifie run ? 6 sens : courir, gérer, fonctionner, couler, se présenter, durer. run/ran/run — LinguaBattle.",
+    "lede": "<b>run</b> est l'un des verbes anglais aux sens les plus multiples. Le cœur est « courir », mais cela va de gérer à couler. Irrégulier : run → ran → run.",
+    "means": [
+      {"def": "courir", "en": "I run every morning.", "t": "(courir)"},
+      {"def": "gérer, diriger (entreprise)", "en": "She runs a small café.", "t": "(gérer)"},
+      {"def": "fonctionner (machine/programme)", "en": "The app runs on any phone.", "t": "(fonctionner)"},
+      {"def": "couler (eau)", "en": "Don't leave the water running.", "t": "(couler)"},
+      {"def": "se présenter (élection)", "en": "He's running for president.", "t": "(être candidat)"},
+      {"def": "durer (durée)", "en": "The show runs for two hours.", "t": "(durer)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["run vs walk", "run a business", "ran vs run"],
+    "idiomTitle": "Verbes à particule", "idioms": ["run out of", "run late", "run into"],
+    "quizQ": "Que veut dire « She runs a café » ?", "quizA": ["Elle gère un café", "Elle court dans un café", "Elle va au café"], "quizOk": 0
+  },
+  "es": {
+    "pos": "verbo", "title": "¿Qué significa run? (6 significados)",
+    "metaDesc": "¿Qué significa run? 6 significados: correr, dirigir, funcionar, correr (agua), presentarse, durar. run/ran/run — LinguaBattle.",
+    "lede": "<b>run</b> es uno de los verbos ingleses con más significados. El núcleo es «correr», pero va de dirigir a fluir. Irregular: run → ran → run.",
+    "means": [
+      {"def": "correr", "en": "I run every morning.", "t": "(correr)"},
+      {"def": "dirigir, llevar (negocio)", "en": "She runs a small café.", "t": "(dirigir)"},
+      {"def": "funcionar (máquina/programa)", "en": "The app runs on any phone.", "t": "(funcionar)"},
+      {"def": "correr, fluir (agua)", "en": "Don't leave the water running.", "t": "(fluir)"},
+      {"def": "presentarse (elección)", "en": "He's running for president.", "t": "(ser candidato)"},
+      {"def": "durar (duración)", "en": "The show runs for two hours.", "t": "(durar)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["run vs walk", "run a business", "ran vs run"],
+    "idiomTitle": "Verbos compuestos", "idioms": ["run out of", "run late", "run into"],
+    "quizQ": "¿Qué significa «She runs a café»?", "quizA": ["Dirige un café", "Corre en un café", "Va a un café"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "فعل", "title": "ماذا تعني run؟ (6 معانٍ)",
+    "metaDesc": "ماذا تعني run؟ 6 معانٍ: يجري، يدير، يعمل، يجري الماء، يترشّح، يستمر. run/ran/run — LinguaBattle.",
+    "lede": "<b>run</b> من أكثر الأفعال الإنجليزية تعدّدًا في المعنى. الأساس «يجري»، لكنه يمتد من الإدارة إلى الجريان. شاذ: run → ran → run.",
+    "means": [
+      {"def": "يجري، يركض", "en": "I run every morning.", "t": "(يجري)"},
+      {"def": "يدير (عملًا)", "en": "She runs a small café.", "t": "(يدير)"},
+      {"def": "يعمل (آلة/برنامج)", "en": "The app runs on any phone.", "t": "(يعمل)"},
+      {"def": "يجري، يسيل (ماء)", "en": "Don't leave the water running.", "t": "(يجري)"},
+      {"def": "يترشّح (انتخابات)", "en": "He's running for president.", "t": "(يترشّح)"},
+      {"def": "يستمر، يدوم (مدة)", "en": "The show runs for two hours.", "t": "(يستمر)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["run vs walk", "run a business", "ran vs run"],
+    "idiomTitle": "أفعال مركّبة", "idioms": ["run out of", "run late", "run into"],
+    "quizQ": "ماذا تعني «She runs a café»؟", "quizA": ["تدير مقهى", "تجري في مقهى", "تذهب إلى مقهى"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "क्रिया", "title": "run का क्या मतलब है? (6 अर्थ)",
+    "metaDesc": "run का क्या मतलब है? 6 अर्थ: दौड़ना, चलाना, काम करना, बहना, चुनाव लड़ना, चलना। run/ran/run — LinguaBattle.",
+    "lede": "<b>run</b> सबसे अधिक अर्थों वाली अंग्रेज़ी क्रियाओं में से एक है। मूल अर्थ “दौड़ना” है, पर यह चलाने से बहने तक फैला है। अनियमित: run → ran → run.",
+    "means": [
+      {"def": "दौड़ना", "en": "I run every morning.", "t": "(दौड़ना)"},
+      {"def": "चलाना, संचालित करना (व्यवसाय)", "en": "She runs a small café.", "t": "(चलाना)"},
+      {"def": "चलना, काम करना (मशीन/प्रोग्राम)", "en": "The app runs on any phone.", "t": "(चलना)"},
+      {"def": "बहना (पानी)", "en": "Don't leave the water running.", "t": "(बहना)"},
+      {"def": "चुनाव लड़ना", "en": "He's running for president.", "t": "(उम्मीदवार होना)"},
+      {"def": "चलना, जारी रहना (अवधि)", "en": "The show runs for two hours.", "t": "(चलना)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["run vs walk", "run a business", "ran vs run"],
+    "idiomTitle": "वाक्यांश क्रिया", "idioms": ["run out of", "run late", "run into"],
+    "quizQ": "“She runs a café” का क्या अर्थ है?", "quizA": ["वह कैफ़े चलाती है", "वह कैफ़े में दौड़ती है", "वह कैफ़े जाती है"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "глагол", "title": "Что значит run? (6 значений)",
+    "metaDesc": "Что значит run? 6 значений: бежать, управлять, работать, течь, баллотироваться, длиться. run/ran/run — LinguaBattle.",
+    "lede": "<b>run</b> — один из самых многозначных английских глаголов. Основа — «бежать», но значения от управлять до течь. Неправильный: run → ran → run.",
+    "means": [
+      {"def": "бежать", "en": "I run every morning.", "t": "(бежать)"},
+      {"def": "управлять, вести (бизнес)", "en": "She runs a small café.", "t": "(управлять)"},
+      {"def": "работать (машина/программа)", "en": "The app runs on any phone.", "t": "(работать)"},
+      {"def": "течь (вода)", "en": "Don't leave the water running.", "t": "(течь)"},
+      {"def": "баллотироваться (выборы)", "en": "He's running for president.", "t": "(быть кандидатом)"},
+      {"def": "длиться, идти (срок)", "en": "The show runs for two hours.", "t": "(длиться)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["run vs walk", "run a business", "ran vs run"],
+    "idiomTitle": "Фразовые глаголы", "idioms": ["run out of", "run late", "run into"],
+    "quizQ": "Что значит «She runs a café»?", "quizA": ["Она управляет кафе", "Она бегает в кафе", "Она идёт в кафе"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "verbo", "title": "O que significa run? (6 significados)",
+    "metaDesc": "O que significa run? 6 significados: correr, gerir, funcionar, correr (água), candidatar-se, durar. run/ran/run — LinguaBattle.",
+    "lede": "<b>run</b> é um dos verbos ingleses com mais significados. O núcleo é «correr», mas vai de gerir a fluir. Irregular: run → ran → run.",
+    "means": [
+      {"def": "correr", "en": "I run every morning.", "t": "(correr)"},
+      {"def": "gerir, administrar (negócio)", "en": "She runs a small café.", "t": "(gerir)"},
+      {"def": "funcionar (máquina/programa)", "en": "The app runs on any phone.", "t": "(funcionar)"},
+      {"def": "correr, fluir (água)", "en": "Don't leave the water running.", "t": "(fluir)"},
+      {"def": "candidatar-se (eleição)", "en": "He's running for president.", "t": "(ser candidato)"},
+      {"def": "durar (duração)", "en": "The show runs for two hours.", "t": "(durar)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["run vs walk", "run a business", "ran vs run"],
+    "idiomTitle": "Verbos frasais", "idioms": ["run out of", "run late", "run into"],
+    "quizQ": "O que significa «She runs a café»?", "quizA": ["Ela gere um café", "Ela corre num café", "Ela vai a um café"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "動詞", "title": "runの意味は？（6つの意味）",
+    "metaDesc": "runの意味は？6つの意味：走る、経営する、動作する、流れる、立候補する、続く。run/ran/run — LinguaBattle.",
+    "lede": "<b>run</b> は最も意味の多い英語動詞の一つ。基本は「走る」だが、経営する・流れるまで幅広い。不規則：run → ran → run。",
+    "means": [
+      {"def": "走る", "en": "I run every morning.", "t": "（走る）"},
+      {"def": "経営する、運営する（事業）", "en": "She runs a small café.", "t": "（経営する）"},
+      {"def": "動作する（機械・プログラム）", "en": "The app runs on any phone.", "t": "（動く）"},
+      {"def": "流れる（水）", "en": "Don't leave the water running.", "t": "（流れる）"},
+      {"def": "立候補する（選挙）", "en": "He's running for president.", "t": "（立候補）"},
+      {"def": "続く、上演される（期間）", "en": "The show runs for two hours.", "t": "（続く）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["run vs walk", "run a business", "ran vs run"],
+    "idiomTitle": "句動詞", "idioms": ["run out of", "run late", "run into"],
+    "quizQ": "「She runs a café」の意味は？", "quizA": ["カフェを経営している", "カフェで走っている", "カフェに行く"], "quizOk": 0
+  }
+}

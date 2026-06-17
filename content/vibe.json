@@ -1,0 +1,135 @@
+{
+  "word": "vibe",
+  "pron": "/vaɪb/",
+  "category": "genz",
+  "tr": {
+    "pos": "isim / fiil (argo)", "title": "vibe ne demek?",
+    "metaDesc": "vibe ne demek? Gen Z argosu: hava, atmosfer, enerji. Anlamı ve örnekler — LinguaBattle.",
+    "lede": "<b>vibe</b>, bir kişiden, yerden veya durumdan yayılan <b>hava/atmosfer/enerji</b> demektir. “vibration” (titreşim) kelimesinden gelir.",
+    "means": [
+      {"def": "hava, atmosfer, enerji (isim)", "en": "This café has a nice vibe.", "t": "Bu kafenin havası güzel."},
+      {"def": "birinin enerjisi/havası", "en": "I like her vibe.", "t": "Onun havasını/enerjisini seviyorum."},
+      {"def": "iyi anlaşmak, takılmak (fiil: vibe with)", "en": "We really vibe together.", "t": "Gerçekten iyi anlaşıyoruz/uyuyoruz."}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["vibe vs mood", "vibe check", "good vibes"],
+    "idiomTitle": "Kalıplar", "idioms": ["good vibes (iyi enerji)", "vibe check", "vibe with someone"],
+    "quizQ": "“This café has a nice vibe” ne demek?", "quizA": ["Bu kafenin havası güzel", "Bu kafe çok pahalı", "Bu kafe çok büyük"], "quizOk": 0
+  },
+  "en": {
+    "pos": "noun / verb (slang)", "title": "What does vibe mean?",
+    "metaDesc": "What does vibe mean? Gen Z slang: atmosphere, energy, mood. Meaning and examples — LinguaBattle.",
+    "lede": "<b>vibe</b> means the <b>atmosphere, energy or mood</b> a person, place or situation gives off. It comes from “vibration”.",
+    "means": [
+      {"def": "atmosphere, energy, mood (noun)", "en": "This café has a nice vibe.", "t": "(atmosphere)"},
+      {"def": "someone's energy/feel", "en": "I like her vibe.", "t": "(her energy)"},
+      {"def": "to get along, click (verb: vibe with)", "en": "We really vibe together.", "t": "(click together)"}
+    ],
+    "relTitle": "Often confused", "rel": ["vibe vs mood", "vibe check", "good vibes"],
+    "idiomTitle": "Phrases", "idioms": ["good vibes", "vibe check", "vibe with someone"],
+    "quizQ": "What does “This café has a nice vibe” mean?", "quizA": ["This café has a nice atmosphere", "This café is expensive", "This café is big"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Subst. / Verb (Slang)", "title": "Was bedeutet vibe?",
+    "metaDesc": "Was bedeutet vibe? Gen-Z-Slang: Atmosphäre, Energie, Stimmung. Bedeutung und Beispiele — LinguaBattle.",
+    "lede": "<b>vibe</b> bedeutet die <b>Atmosphäre, Energie oder Stimmung</b>, die eine Person, ein Ort oder eine Situation ausstrahlt. Von „vibration“.",
+    "means": [
+      {"def": "Atmosphäre, Energie, Stimmung (Subst.)", "en": "This café has a nice vibe.", "t": "(Atmosphäre)"},
+      {"def": "jemandes Energie/Ausstrahlung", "en": "I like her vibe.", "t": "(Ausstrahlung)"},
+      {"def": "sich verstehen, harmonieren (Verb: vibe with)", "en": "We really vibe together.", "t": "(harmonieren)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["vibe vs mood", "vibe check", "good vibes"],
+    "idiomTitle": "Redewendungen", "idioms": ["good vibes", "vibe check", "vibe with someone"],
+    "quizQ": "Was bedeutet „This café has a nice vibe“?", "quizA": ["Das Café hat eine nette Atmosphäre", "Das Café ist teuer", "Das Café ist groß"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "nom / verbe (argot)", "title": "Que signifie vibe ?",
+    "metaDesc": "Que signifie vibe ? Argot Gen Z : ambiance, énergie, atmosphère. Sens et exemples — LinguaBattle.",
+    "lede": "<b>vibe</b> désigne l'<b>ambiance, l'énergie ou l'atmosphère</b> qu'une personne, un lieu ou une situation dégage. Vient de « vibration ».",
+    "means": [
+      {"def": "ambiance, énergie (nom)", "en": "This café has a nice vibe.", "t": "(ambiance)"},
+      {"def": "l'énergie de quelqu'un", "en": "I like her vibe.", "t": "(son énergie)"},
+      {"def": "bien s'entendre, accrocher (verbe : vibe with)", "en": "We really vibe together.", "t": "(accrocher)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["vibe vs mood", "vibe check", "good vibes"],
+    "idiomTitle": "Expressions", "idioms": ["good vibes", "vibe check", "vibe with someone"],
+    "quizQ": "Que veut dire « This café has a nice vibe » ?", "quizA": ["Ce café a une belle ambiance", "Ce café est cher", "Ce café est grand"], "quizOk": 0
+  },
+  "es": {
+    "pos": "sust. / verbo (jerga)", "title": "¿Qué significa vibe?",
+    "metaDesc": "¿Qué significa vibe? Jerga Gen Z: ambiente, energía, onda. Significado y ejemplos — LinguaBattle.",
+    "lede": "<b>vibe</b> significa el <b>ambiente, la energía o la onda</b> que transmite una persona, lugar o situación. Viene de «vibration».",
+    "means": [
+      {"def": "ambiente, energía, onda (sust.)", "en": "This café has a nice vibe.", "t": "(ambiente)"},
+      {"def": "la energía de alguien", "en": "I like her vibe.", "t": "(su energía)"},
+      {"def": "congeniar, conectar (verbo: vibe with)", "en": "We really vibe together.", "t": "(congeniar)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["vibe vs mood", "vibe check", "good vibes"],
+    "idiomTitle": "Expresiones", "idioms": ["good vibes", "vibe check", "vibe with someone"],
+    "quizQ": "¿Qué significa «This café has a nice vibe»?", "quizA": ["Este café tiene buen ambiente", "Este café es caro", "Este café es grande"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "اسم / فعل (عامية)", "title": "ماذا تعني vibe؟",
+    "metaDesc": "ماذا تعني vibe؟ عامية الجيل Z: أجواء، طاقة، انطباع. المعنى والأمثلة — LinguaBattle.",
+    "lede": "<b>vibe</b> تعني <b>الأجواء أو الطاقة أو الانطباع</b> الذي يبثّه شخص أو مكان أو موقف. مشتقّة من «vibration» (اهتزاز).",
+    "means": [
+      {"def": "أجواء، طاقة، انطباع (اسم)", "en": "This café has a nice vibe.", "t": "(أجواء)"},
+      {"def": "طاقة شخص ما", "en": "I like her vibe.", "t": "(طاقتها)"},
+      {"def": "ينسجم، يتفاهم (فعل: vibe with)", "en": "We really vibe together.", "t": "(ننسجم)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["vibe vs mood", "vibe check", "good vibes"],
+    "idiomTitle": "عبارات", "idioms": ["good vibes", "vibe check", "vibe with someone"],
+    "quizQ": "ماذا تعني «This café has a nice vibe»؟", "quizA": ["لهذا المقهى أجواء جميلة", "هذا المقهى غالٍ", "هذا المقهى كبير"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "संज्ञा / क्रिया (स्लैंग)", "title": "vibe का क्या मतलब है?",
+    "metaDesc": "vibe का क्या मतलब है? जेन Z स्लैंग: माहौल, एनर्जी, फ़ील। अर्थ और उदाहरण — LinguaBattle.",
+    "lede": "<b>vibe</b> का मतलब है किसी व्यक्ति, जगह या स्थिति से आने वाला <b>माहौल, एनर्जी या फ़ील</b>। यह “vibration” से आया है।",
+    "means": [
+      {"def": "माहौल, एनर्जी, फ़ील (संज्ञा)", "en": "This café has a nice vibe.", "t": "(माहौल)"},
+      {"def": "किसी की एनर्जी/फ़ील", "en": "I like her vibe.", "t": "(उसकी एनर्जी)"},
+      {"def": "अच्छी पटरी बैठना (क्रिया: vibe with)", "en": "We really vibe together.", "t": "(पटरी बैठना)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["vibe vs mood", "vibe check", "good vibes"],
+    "idiomTitle": "वाक्यांश", "idioms": ["good vibes", "vibe check", "vibe with someone"],
+    "quizQ": "“This café has a nice vibe” का क्या अर्थ है?", "quizA": ["इस कैफ़े का माहौल अच्छा है", "यह कैफ़े महँगा है", "यह कैफ़े बड़ा है"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "сущ. / глагол (сленг)", "title": "Что значит vibe?",
+    "metaDesc": "Что значит vibe? Сленг поколения Z: атмосфера, энергия, настрой. Значение и примеры — LinguaBattle.",
+    "lede": "<b>vibe</b> — это <b>атмосфера, энергия или настрой</b>, которые исходят от человека, места или ситуации. От слова «vibration».",
+    "means": [
+      {"def": "атмосфера, энергия, настрой (сущ.)", "en": "This café has a nice vibe.", "t": "(атмосфера)"},
+      {"def": "чья-то энергия/аура", "en": "I like her vibe.", "t": "(её энергия)"},
+      {"def": "ладить, совпадать (глагол: vibe with)", "en": "We really vibe together.", "t": "(ладить)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["vibe vs mood", "vibe check", "good vibes"],
+    "idiomTitle": "Выражения", "idioms": ["good vibes", "vibe check", "vibe with someone"],
+    "quizQ": "Что значит «This café has a nice vibe»?", "quizA": ["У этого кафе приятная атмосфера", "Это кафе дорогое", "Это кафе большое"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "subst. / verbo (gíria)", "title": "O que significa vibe?",
+    "metaDesc": "O que significa vibe? Gíria Gen Z: clima, energia, atmosfera. Significado e exemplos — LinguaBattle.",
+    "lede": "<b>vibe</b> significa o <b>clima, a energia ou a atmosfera</b> que uma pessoa, lugar ou situação transmite. Vem de «vibration».",
+    "means": [
+      {"def": "clima, energia, atmosfera (subst.)", "en": "This café has a nice vibe.", "t": "(clima)"},
+      {"def": "a energia de alguém", "en": "I like her vibe.", "t": "(a energia dela)"},
+      {"def": "se dar bem, conectar (verbo: vibe with)", "en": "We really vibe together.", "t": "(conectar)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["vibe vs mood", "vibe check", "good vibes"],
+    "idiomTitle": "Expressões", "idioms": ["good vibes", "vibe check", "vibe with someone"],
+    "quizQ": "O que significa «This café has a nice vibe»?", "quizA": ["Este café tem um clima agradável", "Este café é caro", "Este café é grande"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "名詞 / 動詞 (スラング)", "title": "vibeの意味は？",
+    "metaDesc": "vibeの意味は？Z世代スラング：雰囲気、エネルギー、ムード。意味と例文 — LinguaBattle.",
+    "lede": "<b>vibe</b> は、人・場所・状況から伝わる<b>雰囲気・エネルギー・ムード</b>のこと。「vibration（振動）」から来ている。",
+    "means": [
+      {"def": "雰囲気、エネルギー、ムード（名詞）", "en": "This café has a nice vibe.", "t": "（雰囲気）"},
+      {"def": "誰かのエネルギー・雰囲気", "en": "I like her vibe.", "t": "（彼女の雰囲気）"},
+      {"def": "気が合う、馬が合う（動詞：vibe with）", "en": "We really vibe together.", "t": "（気が合う）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["vibe vs mood", "vibe check", "good vibes"],
+    "idiomTitle": "フレーズ", "idioms": ["good vibes", "vibe check", "vibe with someone"],
+    "quizQ": "「This café has a nice vibe」の意味は？", "quizA": ["このカフェはいい雰囲気だ", "このカフェは高い", "このカフェは広い"], "quizOk": 0
+  }
+}

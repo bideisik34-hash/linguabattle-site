@@ -1,0 +1,155 @@
+{
+  "word": "charge",
+  "pron": "/tʃɑːdʒ/",
+  "category": "verb",
+  "tr": {
+    "pos": "isim / fiil", "title": "charge ne demek? (5 anlamı)",
+    "metaDesc": "charge ne demek? 5 anlamı: ücret almak, şarj etmek, suçlamak, hücum, sorumluluk. Örneklerle — LinguaBattle.",
+    "lede": "<b>charge</b> İngilizcenin çok anlamlı kelimelerinden biridir — hem isim hem fiil. Bağlama göre ücretten şarja, suçlamadan hücuma uzanır; işte en sık 5 anlamı.",
+    "means": [
+      {"def": "ücret almak / ücret (para)", "en": "They charge $5 for delivery.", "t": "Teslimat için 5 dolar alıyorlar."},
+      {"def": "şarj etmek (cihaz)", "en": "I need to charge my phone.", "t": "Telefonumu şarj etmem lazım."},
+      {"def": "suçlamak (resmi/hukuki)", "en": "He was charged with theft.", "t": "Hırsızlıkla suçlandı."},
+      {"def": "hücum etmek, saldırmak (fiil)", "en": "The bull charged at us.", "t": "Boğa bize saldırdı."},
+      {"def": "sorumluluk, görev (isim: in charge)", "en": "She's in charge of the team.", "t": "Ekibin sorumlusu o."}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["charge vs cost", "charge vs accuse", "in charge of"],
+    "idiomTitle": "Kalıplar", "idioms": ["in charge of (sorumlusu)", "free of charge (ücretsiz)", "take charge (kontrolü ele almak)"],
+    "quizQ": "“I need to charge my phone” ne demek?", "quizA": ["Telefonumu şarj etmem lazım", "Telefonuma para yatırmalıyım", "Telefonumu suçlamalıyım"], "quizOk": 0
+  },
+  "en": {
+    "pos": "noun / verb", "title": "What does charge mean? (5 meanings)",
+    "metaDesc": "What does charge mean? 5 meanings: to bill, to charge a device, to accuse, to rush, responsibility. With examples — LinguaBattle.",
+    "lede": "<b>charge</b> is one of those multi-meaning English words — noun and verb. From a fee to charging a phone, from accusing to rushing; here are the 5 most common.",
+    "means": [
+      {"def": "to bill / a fee (money)", "en": "They charge $5 for delivery.", "t": "(fee)"},
+      {"def": "to charge (a device)", "en": "I need to charge my phone.", "t": "(power up)"},
+      {"def": "to accuse (formal/legal)", "en": "He was charged with theft.", "t": "(accuse)"},
+      {"def": "to rush, attack (verb)", "en": "The bull charged at us.", "t": "(rush at)"},
+      {"def": "responsibility (noun: in charge)", "en": "She's in charge of the team.", "t": "(responsible)"}
+    ],
+    "relTitle": "Often confused", "rel": ["charge vs cost", "charge vs accuse", "in charge of"],
+    "idiomTitle": "Phrases", "idioms": ["in charge of", "free of charge", "take charge"],
+    "quizQ": "What does “I need to charge my phone” mean?", "quizA": ["I need to power up my phone", "I need to add money to my phone", "I need to accuse my phone"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Subst. / Verb", "title": "Was bedeutet charge? (5 Bedeutungen)",
+    "metaDesc": "Was bedeutet charge? 5 Bedeutungen: berechnen, aufladen, anklagen, stürmen, Verantwortung. Mit Beispielen — LinguaBattle.",
+    "lede": "<b>charge</b> ist eines dieser vieldeutigen englischen Wörter — Substantiv und Verb. Von einer Gebühr bis zum Aufladen, vom Anklagen bis zum Stürmen; hier die 5 häufigsten.",
+    "means": [
+      {"def": "berechnen / Gebühr (Geld)", "en": "They charge $5 for delivery.", "t": "(Gebühr)"},
+      {"def": "aufladen (Gerät)", "en": "I need to charge my phone.", "t": "(aufladen)"},
+      {"def": "anklagen (formell/juristisch)", "en": "He was charged with theft.", "t": "(anklagen)"},
+      {"def": "stürmen, angreifen (Verb)", "en": "The bull charged at us.", "t": "(stürmen)"},
+      {"def": "Verantwortung (Subst.: in charge)", "en": "She's in charge of the team.", "t": "(verantwortlich)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["charge vs cost", "charge vs accuse", "in charge of"],
+    "idiomTitle": "Redewendungen", "idioms": ["in charge of", "free of charge", "take charge"],
+    "quizQ": "Was bedeutet „I need to charge my phone“?", "quizA": ["Ich muss mein Handy aufladen", "Ich muss Geld aufs Handy laden", "Ich muss mein Handy anklagen"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "nom / verbe", "title": "Que signifie charge ? (5 sens)",
+    "metaDesc": "Que signifie charge ? 5 sens : facturer, charger, accuser, foncer, responsabilité. Avec exemples — LinguaBattle.",
+    "lede": "<b>charge</b> est un de ces mots anglais à sens multiples — nom et verbe. D'un tarif à la recharge, de l'accusation à la charge ; voici les 5 plus courants.",
+    "means": [
+      {"def": "facturer / frais (argent)", "en": "They charge $5 for delivery.", "t": "(frais)"},
+      {"def": "charger (un appareil)", "en": "I need to charge my phone.", "t": "(recharger)"},
+      {"def": "accuser (formel/juridique)", "en": "He was charged with theft.", "t": "(accuser)"},
+      {"def": "foncer, charger (verbe)", "en": "The bull charged at us.", "t": "(foncer)"},
+      {"def": "responsabilité (nom : in charge)", "en": "She's in charge of the team.", "t": "(responsable)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["charge vs cost", "charge vs accuse", "in charge of"],
+    "idiomTitle": "Expressions", "idioms": ["in charge of", "free of charge", "take charge"],
+    "quizQ": "Que veut dire « I need to charge my phone » ?", "quizA": ["Je dois recharger mon téléphone", "Je dois ajouter de l'argent", "Je dois accuser mon téléphone"], "quizOk": 0
+  },
+  "es": {
+    "pos": "sust. / verbo", "title": "¿Qué significa charge? (5 significados)",
+    "metaDesc": "¿Qué significa charge? 5 significados: cobrar, cargar, acusar, embestir, responsabilidad. Con ejemplos — LinguaBattle.",
+    "lede": "<b>charge</b> es una de esas palabras inglesas con varios significados — sustantivo y verbo. De una tarifa a cargar el móvil, de acusar a embestir; aquí los 5 más comunes.",
+    "means": [
+      {"def": "cobrar / tarifa (dinero)", "en": "They charge $5 for delivery.", "t": "(tarifa)"},
+      {"def": "cargar (un dispositivo)", "en": "I need to charge my phone.", "t": "(cargar)"},
+      {"def": "acusar (formal/legal)", "en": "He was charged with theft.", "t": "(acusar)"},
+      {"def": "embestir, atacar (verbo)", "en": "The bull charged at us.", "t": "(embestir)"},
+      {"def": "responsabilidad (sust.: in charge)", "en": "She's in charge of the team.", "t": "(responsable)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["charge vs cost", "charge vs accuse", "in charge of"],
+    "idiomTitle": "Expresiones", "idioms": ["in charge of", "free of charge", "take charge"],
+    "quizQ": "¿Qué significa «I need to charge my phone»?", "quizA": ["Tengo que cargar mi móvil", "Tengo que añadir dinero al móvil", "Tengo que acusar a mi móvil"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "اسم / فعل", "title": "ماذا تعني charge؟ (5 معانٍ)",
+    "metaDesc": "ماذا تعني charge؟ 5 معانٍ: يتقاضى رسمًا، يشحن، يتّهم، يهاجم، مسؤولية. مع أمثلة — LinguaBattle.",
+    "lede": "<b>charge</b> من الكلمات الإنجليزية متعددة المعاني — اسم وفعل. من الرسوم إلى الشحن، ومن الاتهام إلى الهجوم؛ إليك أكثر 5 معانٍ شيوعًا.",
+    "means": [
+      {"def": "يتقاضى رسمًا / رسوم (مال)", "en": "They charge $5 for delivery.", "t": "(رسوم)"},
+      {"def": "يشحن (جهازًا)", "en": "I need to charge my phone.", "t": "(يشحن)"},
+      {"def": "يتّهم (رسمي/قانوني)", "en": "He was charged with theft.", "t": "(يتّهم)"},
+      {"def": "يهاجم، يندفع (فعل)", "en": "The bull charged at us.", "t": "(يهاجم)"},
+      {"def": "مسؤولية (اسم: in charge)", "en": "She's in charge of the team.", "t": "(مسؤولة)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["charge vs cost", "charge vs accuse", "in charge of"],
+    "idiomTitle": "عبارات", "idioms": ["in charge of", "free of charge", "take charge"],
+    "quizQ": "ماذا تعني «I need to charge my phone»؟", "quizA": ["عليّ شحن هاتفي", "عليّ إضافة رصيد لهاتفي", "عليّ اتهام هاتفي"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "संज्ञा / क्रिया", "title": "charge का क्या मतलब है? (5 अर्थ)",
+    "metaDesc": "charge का क्या मतलब है? 5 अर्थ: शुल्क लेना, चार्ज करना, आरोप लगाना, हमला, ज़िम्मेदारी। उदाहरणों सहित — LinguaBattle.",
+    "lede": "<b>charge</b> कई अर्थों वाला अंग्रेज़ी शब्द है — संज्ञा भी, क्रिया भी। शुल्क से चार्जिंग तक, आरोप से हमले तक; यहाँ 5 सबसे आम अर्थ।",
+    "means": [
+      {"def": "शुल्क लेना / शुल्क (पैसा)", "en": "They charge $5 for delivery.", "t": "(शुल्क)"},
+      {"def": "चार्ज करना (डिवाइस)", "en": "I need to charge my phone.", "t": "(चार्ज करना)"},
+      {"def": "आरोप लगाना (औपचारिक/कानूनी)", "en": "He was charged with theft.", "t": "(आरोप)"},
+      {"def": "हमला करना, झपटना (क्रिया)", "en": "The bull charged at us.", "t": "(झपटना)"},
+      {"def": "ज़िम्मेदारी (संज्ञा: in charge)", "en": "She's in charge of the team.", "t": "(ज़िम्मेदार)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["charge vs cost", "charge vs accuse", "in charge of"],
+    "idiomTitle": "वाक्यांश", "idioms": ["in charge of", "free of charge", "take charge"],
+    "quizQ": "“I need to charge my phone” का क्या अर्थ है?", "quizA": ["मुझे फ़ोन चार्ज करना है", "मुझे फ़ोन में पैसे डालने हैं", "मुझे फ़ोन पर आरोप लगाना है"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "сущ. / глагол", "title": "Что значит charge? (5 значений)",
+    "metaDesc": "Что значит charge? 5 значений: брать плату, заряжать, обвинять, атаковать, ответственность. С примерами — LinguaBattle.",
+    "lede": "<b>charge</b> — одно из многозначных английских слов (сущ. и глагол). От платы до зарядки, от обвинения до атаки; вот 5 самых частых.",
+    "means": [
+      {"def": "брать плату / плата (деньги)", "en": "They charge $5 for delivery.", "t": "(плата)"},
+      {"def": "заряжать (устройство)", "en": "I need to charge my phone.", "t": "(заряжать)"},
+      {"def": "обвинять (офиц./юр.)", "en": "He was charged with theft.", "t": "(обвинять)"},
+      {"def": "атаковать, бросаться (глагол)", "en": "The bull charged at us.", "t": "(бросился)"},
+      {"def": "ответственность (сущ.: in charge)", "en": "She's in charge of the team.", "t": "(ответственная)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["charge vs cost", "charge vs accuse", "in charge of"],
+    "idiomTitle": "Выражения", "idioms": ["in charge of", "free of charge", "take charge"],
+    "quizQ": "Что значит «I need to charge my phone»?", "quizA": ["Мне нужно зарядить телефон", "Мне нужно пополнить телефон", "Мне нужно обвинить телефон"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "subst. / verbo", "title": "O que significa charge? (5 significados)",
+    "metaDesc": "O que significa charge? 5 significados: cobrar, carregar, acusar, atacar, responsabilidade. Com exemplos — LinguaBattle.",
+    "lede": "<b>charge</b> é uma dessas palavras inglesas com vários significados — substantivo e verbo. De uma taxa a carregar o celular, de acusar a atacar; aqui os 5 mais comuns.",
+    "means": [
+      {"def": "cobrar / taxa (dinheiro)", "en": "They charge $5 for delivery.", "t": "(taxa)"},
+      {"def": "carregar (um aparelho)", "en": "I need to charge my phone.", "t": "(carregar)"},
+      {"def": "acusar (formal/legal)", "en": "He was charged with theft.", "t": "(acusar)"},
+      {"def": "atacar, investir (verbo)", "en": "The bull charged at us.", "t": "(atacar)"},
+      {"def": "responsabilidade (subst.: in charge)", "en": "She's in charge of the team.", "t": "(responsável)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["charge vs cost", "charge vs accuse", "in charge of"],
+    "idiomTitle": "Expressões", "idioms": ["in charge of", "free of charge", "take charge"],
+    "quizQ": "O que significa «I need to charge my phone»?", "quizA": ["Preciso carregar meu celular", "Preciso pôr crédito no celular", "Preciso acusar meu celular"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "名詞 / 動詞", "title": "chargeの意味は？（5つの意味）",
+    "metaDesc": "chargeの意味は？5つの意味：料金を取る、充電する、起訴する、突進する、責任。例文付き — LinguaBattle.",
+    "lede": "<b>charge</b> は多義の英単語 — 名詞でも動詞でも使う。料金から充電、起訴から突進まで；よく使う5つを紹介。",
+    "means": [
+      {"def": "料金を取る／料金（お金）", "en": "They charge $5 for delivery.", "t": "（料金）"},
+      {"def": "充電する（機器）", "en": "I need to charge my phone.", "t": "（充電する）"},
+      {"def": "起訴する・告発する（公式/法律）", "en": "He was charged with theft.", "t": "（起訴された）"},
+      {"def": "突進する、襲う（動詞）", "en": "The bull charged at us.", "t": "（突進した）"},
+      {"def": "責任・担当（名詞：in charge）", "en": "She's in charge of the team.", "t": "（担当）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["charge vs cost", "charge vs accuse", "in charge of"],
+    "idiomTitle": "フレーズ", "idioms": ["in charge of", "free of charge", "take charge"],
+    "quizQ": "「I need to charge my phone」の意味は？", "quizA": ["スマホを充電する必要がある", "スマホにお金を入れる必要がある", "スマホを起訴する必要がある"], "quizOk": 0
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "word": "days",
+  "pron": "/deɪz/",
+  "category": "basics",
+  "tr": {
+    "pos": "kelime listesi", "title": "İngilizce günler",
+    "metaDesc": "İngilizce günler: haftanın 7 gününün İngilizcesi, okunuşu ve Türkçesi. Liste + örnekler — LinguaBattle.",
+    "lede": "Haftanın <b>günleri</b> İngilizce, okunuşları ve Türkçeleriyle. İpucu: gün adları her zaman <b>büyük harfle</b> başlar ve genelde önlerine “on” gelir (on Monday).",
+    "means": [
+      {"def": "Monday /ˈmʌndeɪ/", "en": "Monday", "t": "Pazartesi"},
+      {"def": "Tuesday /ˈtjuːzdeɪ/", "en": "Tuesday", "t": "Salı"},
+      {"def": "Wednesday /ˈwenzdeɪ/", "en": "Wednesday", "t": "Çarşamba"},
+      {"def": "Thursday /ˈθɜːzdeɪ/", "en": "Thursday", "t": "Perşembe"},
+      {"def": "Friday /ˈfraɪdeɪ/", "en": "Friday", "t": "Cuma"},
+      {"def": "Saturday /ˈsætədeɪ/", "en": "Saturday", "t": "Cumartesi"},
+      {"def": "Sunday /ˈsʌndeɪ/", "en": "Sunday", "t": "Pazar"}
+    ],
+    "relTitle": "İlgili konular", "rel": ["aylar (months)", "sayılar (numbers)", "saat (time)"],
+    "idiomTitle": "Kalıplar", "idioms": ["on Monday (Pazartesi)", "every Friday (her Cuma)", "see you on Sunday"],
+    "quizQ": "“Çarşamba” İngilizcede nedir?", "quizA": ["Wednesday", "Thursday", "Tuesday"], "quizOk": 0
+  },
+  "en": {
+    "pos": "word list", "title": "Days of the week in English",
+    "metaDesc": "Days of the week in English: all 7 days with pronunciation. List + examples — LinguaBattle.",
+    "lede": "The <b>days</b> of the week in English, with pronunciation. Tip: day names always start with a <b>capital letter</b> and usually take “on” (on Monday).",
+    "means": [
+      {"def": "Monday /ˈmʌndeɪ/", "en": "Monday", "t": "(start of week)"},
+      {"def": "Tuesday /ˈtjuːzdeɪ/", "en": "Tuesday", "t": ""},
+      {"def": "Wednesday /ˈwenzdeɪ/ (silent 'd')", "en": "Wednesday", "t": "(tricky spelling)"},
+      {"def": "Thursday /ˈθɜːzdeɪ/", "en": "Thursday", "t": ""},
+      {"def": "Friday /ˈfraɪdeɪ/", "en": "Friday", "t": ""},
+      {"def": "Saturday /ˈsætədeɪ/", "en": "Saturday", "t": "(weekend)"},
+      {"def": "Sunday /ˈsʌndeɪ/", "en": "Sunday", "t": "(weekend)"}
+    ],
+    "relTitle": "Related topics", "rel": ["months", "numbers", "telling time"],
+    "idiomTitle": "Phrases", "idioms": ["on Monday", "every Friday", "see you on Sunday"],
+    "quizQ": "Which day is in the middle of the week?", "quizA": ["Wednesday", "Thursday", "Tuesday"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Wortliste", "title": "Wochentage auf Englisch",
+    "metaDesc": "Wochentage auf Englisch: alle 7 Tage mit Aussprache. Liste + Beispiele — LinguaBattle.",
+    "lede": "Die <b>Wochentage</b> auf Englisch, mit Aussprache. Tipp: Tagesnamen beginnen immer mit einem <b>Großbuchstaben</b> und stehen meist mit „on“ (on Monday).",
+    "means": [
+      {"def": "Monday /ˈmʌndeɪ/", "en": "Monday", "t": "Montag"},
+      {"def": "Tuesday /ˈtjuːzdeɪ/", "en": "Tuesday", "t": "Dienstag"},
+      {"def": "Wednesday /ˈwenzdeɪ/", "en": "Wednesday", "t": "Mittwoch"},
+      {"def": "Thursday /ˈθɜːzdeɪ/", "en": "Thursday", "t": "Donnerstag"},
+      {"def": "Friday /ˈfraɪdeɪ/", "en": "Friday", "t": "Freitag"},
+      {"def": "Saturday /ˈsætədeɪ/", "en": "Saturday", "t": "Samstag"},
+      {"def": "Sunday /ˈsʌndeɪ/", "en": "Sunday", "t": "Sonntag"}
+    ],
+    "relTitle": "Verwandte Themen", "rel": ["Monate", "Zahlen", "Uhrzeit"],
+    "idiomTitle": "Wendungen", "idioms": ["on Monday", "every Friday", "see you on Sunday"],
+    "quizQ": "Was ist „Mittwoch“ auf Englisch?", "quizA": ["Wednesday", "Thursday", "Tuesday"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "liste de mots", "title": "Les jours de la semaine en anglais",
+    "metaDesc": "Les jours de la semaine en anglais : les 7 jours avec prononciation. Liste + exemples — LinguaBattle.",
+    "lede": "Les <b>jours</b> de la semaine en anglais, avec prononciation. Astuce : les noms de jours prennent toujours une <b>majuscule</b> et sont souvent précédés de « on » (on Monday).",
+    "means": [
+      {"def": "Monday /ˈmʌndeɪ/", "en": "Monday", "t": "lundi"},
+      {"def": "Tuesday /ˈtjuːzdeɪ/", "en": "Tuesday", "t": "mardi"},
+      {"def": "Wednesday /ˈwenzdeɪ/", "en": "Wednesday", "t": "mercredi"},
+      {"def": "Thursday /ˈθɜːzdeɪ/", "en": "Thursday", "t": "jeudi"},
+      {"def": "Friday /ˈfraɪdeɪ/", "en": "Friday", "t": "vendredi"},
+      {"def": "Saturday /ˈsætədeɪ/", "en": "Saturday", "t": "samedi"},
+      {"def": "Sunday /ˈsʌndeɪ/", "en": "Sunday", "t": "dimanche"}
+    ],
+    "relTitle": "Sujets liés", "rel": ["mois", "nombres", "l'heure"],
+    "idiomTitle": "Expressions", "idioms": ["on Monday", "every Friday", "see you on Sunday"],
+    "quizQ": "Comment dit-on « mercredi » en anglais ?", "quizA": ["Wednesday", "Thursday", "Tuesday"], "quizOk": 0
+  },
+  "es": {
+    "pos": "lista de palabras", "title": "Los días de la semana en inglés",
+    "metaDesc": "Los días de la semana en inglés: los 7 días con pronunciación. Lista + ejemplos — LinguaBattle.",
+    "lede": "Los <b>días</b> de la semana en inglés, con pronunciación. Consejo: los nombres de los días van siempre con <b>mayúscula</b> y suelen llevar «on» (on Monday).",
+    "means": [
+      {"def": "Monday /ˈmʌndeɪ/", "en": "Monday", "t": "lunes"},
+      {"def": "Tuesday /ˈtjuːzdeɪ/", "en": "Tuesday", "t": "martes"},
+      {"def": "Wednesday /ˈwenzdeɪ/", "en": "Wednesday", "t": "miércoles"},
+      {"def": "Thursday /ˈθɜːzdeɪ/", "en": "Thursday", "t": "jueves"},
+      {"def": "Friday /ˈfraɪdeɪ/", "en": "Friday", "t": "viernes"},
+      {"def": "Saturday /ˈsætədeɪ/", "en": "Saturday", "t": "sábado"},
+      {"def": "Sunday /ˈsʌndeɪ/", "en": "Sunday", "t": "domingo"}
+    ],
+    "relTitle": "Temas relacionados", "rel": ["meses", "números", "la hora"],
+    "idiomTitle": "Expresiones", "idioms": ["on Monday", "every Friday", "see you on Sunday"],
+    "quizQ": "¿Cómo se dice «miércoles» en inglés?", "quizA": ["Wednesday", "Thursday", "Tuesday"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "قائمة كلمات", "title": "أيام الأسبوع بالإنجليزية",
+    "metaDesc": "أيام الأسبوع بالإنجليزية: الأيام السبعة مع النطق. قائمة + أمثلة — LinguaBattle.",
+    "lede": "<b>أيام</b> الأسبوع بالإنجليزية مع النطق والترجمة. ملاحظة: تبدأ أسماء الأيام دائمًا بحرف <b>كبير</b> وغالبًا يسبقها «on».",
+    "means": [
+      {"def": "Monday /ˈmʌndeɪ/", "en": "Monday", "t": "الإثنين"},
+      {"def": "Tuesday /ˈtjuːzdeɪ/", "en": "Tuesday", "t": "الثلاثاء"},
+      {"def": "Wednesday /ˈwenzdeɪ/", "en": "Wednesday", "t": "الأربعاء"},
+      {"def": "Thursday /ˈθɜːzdeɪ/", "en": "Thursday", "t": "الخميس"},
+      {"def": "Friday /ˈfraɪdeɪ/", "en": "Friday", "t": "الجمعة"},
+      {"def": "Saturday /ˈsætədeɪ/", "en": "Saturday", "t": "السبت"},
+      {"def": "Sunday /ˈsʌndeɪ/", "en": "Sunday", "t": "الأحد"}
+    ],
+    "relTitle": "مواضيع ذات صلة", "rel": ["الأشهر", "الأرقام", "الوقت"],
+    "idiomTitle": "عبارات", "idioms": ["on Monday", "every Friday", "see you on Sunday"],
+    "quizQ": "كيف نقول «الأربعاء» بالإنجليزية؟", "quizA": ["Wednesday", "Thursday", "Tuesday"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "शब्द सूची", "title": "अंग्रेज़ी में सप्ताह के दिन",
+    "metaDesc": "अंग्रेज़ी में दिन: सप्ताह के 7 दिन उच्चारण के साथ। सूची + उदाहरण — LinguaBattle.",
+    "lede": "सप्ताह के <b>दिन</b> अंग्रेज़ी में, उच्चारण और हिन्दी अर्थ के साथ। टिप: दिनों के नाम हमेशा <b>बड़े अक्षर</b> से शुरू होते हैं और अक्सर “on” के साथ आते हैं।",
+    "means": [
+      {"def": "Monday /ˈmʌndeɪ/", "en": "Monday", "t": "सोमवार"},
+      {"def": "Tuesday /ˈtjuːzdeɪ/", "en": "Tuesday", "t": "मंगलवार"},
+      {"def": "Wednesday /ˈwenzdeɪ/", "en": "Wednesday", "t": "बुधवार"},
+      {"def": "Thursday /ˈθɜːzdeɪ/", "en": "Thursday", "t": "गुरुवार"},
+      {"def": "Friday /ˈfraɪdeɪ/", "en": "Friday", "t": "शुक्रवार"},
+      {"def": "Saturday /ˈsætədeɪ/", "en": "Saturday", "t": "शनिवार"},
+      {"def": "Sunday /ˈsʌndeɪ/", "en": "Sunday", "t": "रविवार"}
+    ],
+    "relTitle": "संबंधित विषय", "rel": ["महीने", "संख्याएँ", "समय"],
+    "idiomTitle": "वाक्यांश", "idioms": ["on Monday", "every Friday", "see you on Sunday"],
+    "quizQ": "अंग्रेज़ी में “बुधवार” क्या है?", "quizA": ["Wednesday", "Thursday", "Tuesday"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "список слов", "title": "Дни недели на английском",
+    "metaDesc": "Дни недели на английском: все 7 дней с произношением. Список + примеры — LinguaBattle.",
+    "lede": "<b>Дни</b> недели на английском, с произношением. Совет: названия дней всегда пишутся с <b>заглавной буквы</b> и обычно идут с «on» (on Monday).",
+    "means": [
+      {"def": "Monday /ˈmʌndeɪ/", "en": "Monday", "t": "понедельник"},
+      {"def": "Tuesday /ˈtjuːzdeɪ/", "en": "Tuesday", "t": "вторник"},
+      {"def": "Wednesday /ˈwenzdeɪ/", "en": "Wednesday", "t": "среда"},
+      {"def": "Thursday /ˈθɜːzdeɪ/", "en": "Thursday", "t": "четверг"},
+      {"def": "Friday /ˈfraɪdeɪ/", "en": "Friday", "t": "пятница"},
+      {"def": "Saturday /ˈsætədeɪ/", "en": "Saturday", "t": "суббота"},
+      {"def": "Sunday /ˈsʌndeɪ/", "en": "Sunday", "t": "воскресенье"}
+    ],
+    "relTitle": "Связанные темы", "rel": ["месяцы", "числа", "время"],
+    "idiomTitle": "Выражения", "idioms": ["on Monday", "every Friday", "see you on Sunday"],
+    "quizQ": "Как будет «среда» по-английски?", "quizA": ["Wednesday", "Thursday", "Tuesday"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "lista de palavras", "title": "Os dias da semana em inglês",
+    "metaDesc": "Os dias da semana em inglês: os 7 dias com pronúncia. Lista + exemplos — LinguaBattle.",
+    "lede": "Os <b>dias</b> da semana em inglês, com pronúncia. Dica: os nomes dos dias começam sempre com <b>letra maiúscula</b> e costumam levar «on» (on Monday).",
+    "means": [
+      {"def": "Monday /ˈmʌndeɪ/", "en": "Monday", "t": "segunda-feira"},
+      {"def": "Tuesday /ˈtjuːzdeɪ/", "en": "Tuesday", "t": "terça-feira"},
+      {"def": "Wednesday /ˈwenzdeɪ/", "en": "Wednesday", "t": "quarta-feira"},
+      {"def": "Thursday /ˈθɜːzdeɪ/", "en": "Thursday", "t": "quinta-feira"},
+      {"def": "Friday /ˈfraɪdeɪ/", "en": "Friday", "t": "sexta-feira"},
+      {"def": "Saturday /ˈsætədeɪ/", "en": "Saturday", "t": "sábado"},
+      {"def": "Sunday /ˈsʌndeɪ/", "en": "Sunday", "t": "domingo"}
+    ],
+    "relTitle": "Tópicos relacionados", "rel": ["meses", "números", "as horas"],
+    "idiomTitle": "Expressões", "idioms": ["on Monday", "every Friday", "see you on Sunday"],
+    "quizQ": "Como se diz «quarta-feira» em inglês?", "quizA": ["Wednesday", "Thursday", "Tuesday"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "単語リスト", "title": "英語の曜日（days）",
+    "metaDesc": "英語の曜日：7曜日を発音付きで。リスト＋例文 — LinguaBattle.",
+    "lede": "英語の<b>曜日</b>を発音と日本語訳付きで。ヒント：曜日名は必ず<b>大文字</b>で始まり、たいてい「on」を伴う（on Monday）。",
+    "means": [
+      {"def": "Monday /ˈmʌndeɪ/", "en": "Monday", "t": "月曜日"},
+      {"def": "Tuesday /ˈtjuːzdeɪ/", "en": "Tuesday", "t": "火曜日"},
+      {"def": "Wednesday /ˈwenzdeɪ/", "en": "Wednesday", "t": "水曜日"},
+      {"def": "Thursday /ˈθɜːzdeɪ/", "en": "Thursday", "t": "木曜日"},
+      {"def": "Friday /ˈfraɪdeɪ/", "en": "Friday", "t": "金曜日"},
+      {"def": "Saturday /ˈsætədeɪ/", "en": "Saturday", "t": "土曜日"},
+      {"def": "Sunday /ˈsʌndeɪ/", "en": "Sunday", "t": "日曜日"}
+    ],
+    "relTitle": "関連トピック", "rel": ["月", "数字", "時間"],
+    "idiomTitle": "フレーズ", "idioms": ["on Monday", "every Friday", "see you on Sunday"],
+    "quizQ": "「水曜日」は英語で？", "quizA": ["Wednesday", "Thursday", "Tuesday"], "quizOk": 0
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "word": "embarrassed",
+  "pron": "/ɪmˈbærəst/",
+  "category": "confusing",
+  "tr": {
+    "pos": "sıfat", "title": "embarrassed ne demek? (meşhur tuzak)",
+    "metaDesc": "embarrassed ne demek? 'Hamile' değil, 'utanmış, mahcup'. İspanyolca embarazada ile karıştırılan en ünlü tuzak — LinguaBattle.",
+    "lede": "<b>embarrassed</b> ünlü bir tuzaktır: İspanyolca <i>embarazada</i> (“hamile”) sanılır ama aslında <b>“utanmış, mahcup, rezil olmuş”</b> demektir. (“Hamile” = pregnant.)",
+    "means": [
+      {"def": "utanmış, mahcup", "en": "I was so embarrassed when I forgot her name.", "t": "Adını unutunca çok utandım."},
+      {"def": "rezil/zor durumda kalmış", "en": "He felt embarrassed in front of everyone.", "t": "Herkesin önünde rezil oldu / mahcup oldu."},
+      {"def": "(para için) sıkıntıda", "en": "They were financially embarrassed.", "t": "Maddi sıkıntı içindeydiler."},
+      {"def": "TUZAK: 'hamile' DEĞİL → pregnant", "en": "She's pregnant. (NOT embarrassed)", "t": "O hamile. (embarrassed değil, pregnant)"}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["embarrassed vs pregnant", "ashamed", "awkward", "embarrassing"],
+    "idiomTitle": "Kalıplar", "idioms": ["be embarrassed about", "deeply embarrassed", "embarrassed to admit"],
+    "quizQ": "“I was embarrassed.” ne demek?", "quizA": ["Utandım / mahcup oldum", "Hamileydim", "Yorgundum"], "quizOk": 0
+  },
+  "en": {
+    "pos": "adjective", "title": "What does embarrassed mean? (famous trap)",
+    "metaDesc": "What does embarrassed mean? Not 'pregnant' — it means 'ashamed, awkward'. The classic false friend with Spanish embarazada — LinguaBattle.",
+    "lede": "<b>embarrassed</b> is a famous trap for Spanish speakers: it looks like <i>embarazada</i> (“pregnant”) but means <b>“ashamed, awkward, ill at ease”</b>. (For “pregnant” use pregnant.)",
+    "means": [
+      {"def": "ashamed, self-conscious", "en": "I was so embarrassed when I forgot her name.", "t": "(ashamed)"},
+      {"def": "made to look foolish", "en": "He felt embarrassed in front of everyone.", "t": "(humiliated)"},
+      {"def": "short of money (formal)", "en": "They were financially embarrassed.", "t": "(in financial trouble)"},
+      {"def": "TRAP: NOT 'pregnant' → use pregnant", "en": "She's pregnant. (NOT embarrassed)", "t": "(pregnant ≠ embarrassed)"}
+    ],
+    "relTitle": "Often confused", "rel": ["embarrassed vs pregnant", "ashamed", "awkward", "embarrassing"],
+    "idiomTitle": "Phrases", "idioms": ["be embarrassed about", "deeply embarrassed", "embarrassed to admit"],
+    "quizQ": "What does “I was embarrassed” mean?", "quizA": ["I felt ashamed/awkward", "I was pregnant", "I was tired"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Adjektiv", "title": "Was bedeutet embarrassed? (berühmte Falle)",
+    "metaDesc": "Was bedeutet embarrassed? Nicht 'schwanger' — sondern 'peinlich berührt, beschämt'. Der klassische False Friend — LinguaBattle.",
+    "lede": "<b>embarrassed</b> ist eine berühmte Falle: ähnelt dem spanischen <i>embarazada</i> („schwanger“), bedeutet aber <b>„peinlich berührt, beschämt, verlegen“</b>. (Für „schwanger“ → pregnant.)",
+    "means": [
+      {"def": "verlegen, beschämt", "en": "I was so embarrassed when I forgot her name.", "t": "(verlegen)"},
+      {"def": "bloßgestellt, gedemütigt", "en": "He felt embarrassed in front of everyone.", "t": "(bloßgestellt)"},
+      {"def": "in Geldnot (gehoben)", "en": "They were financially embarrassed.", "t": "(in Geldnot)"},
+      {"def": "FALLE: NICHT 'schwanger' → pregnant", "en": "She's pregnant. (NOT embarrassed)", "t": "(schwanger = pregnant)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["embarrassed vs pregnant", "ashamed", "awkward", "embarrassing"],
+    "idiomTitle": "Wendungen", "idioms": ["be embarrassed about", "deeply embarrassed", "embarrassed to admit"],
+    "quizQ": "Was bedeutet „I was embarrassed“?", "quizA": ["Mir war es peinlich", "Ich war schwanger", "Ich war müde"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "adjectif", "title": "Que signifie embarrassed ? (piège célèbre)",
+    "metaDesc": "Que signifie embarrassed ? Pas 'enceinte' — mais 'gêné, embarrassé'. Le faux ami classique avec l'espagnol embarazada — LinguaBattle.",
+    "lede": "<b>embarrassed</b> est un piège célèbre : il ressemble à l'espagnol <i>embarazada</i> (« enceinte ») mais signifie <b>« gêné, embarrassé, honteux »</b>. (Pour « enceinte » → pregnant.)",
+    "means": [
+      {"def": "gêné, embarrassé", "en": "I was so embarrassed when I forgot her name.", "t": "(gêné)"},
+      {"def": "humilié, mal à l'aise", "en": "He felt embarrassed in front of everyone.", "t": "(humilié)"},
+      {"def": "à court d'argent (soutenu)", "en": "They were financially embarrassed.", "t": "(dans la gêne financière)"},
+      {"def": "PIÈGE : PAS 'enceinte' → pregnant", "en": "She's pregnant. (NOT embarrassed)", "t": "(enceinte = pregnant)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["embarrassed vs pregnant", "ashamed", "awkward", "embarrassing"],
+    "idiomTitle": "Expressions", "idioms": ["be embarrassed about", "deeply embarrassed", "embarrassed to admit"],
+    "quizQ": "Que veut dire « I was embarrassed » ?", "quizA": ["J'étais gêné", "J'étais enceinte", "J'étais fatigué"], "quizOk": 0
+  },
+  "es": {
+    "pos": "adjetivo", "title": "¿Qué significa embarrassed? (falso amigo famoso)",
+    "metaDesc": "¿Qué significa embarrassed? ¡No 'embarazada'! Significa 'avergonzado'. El falso amigo más famoso del inglés — LinguaBattle.",
+    "lede": "<b>embarrassed</b> es EL falso amigo más famoso: parece <i>embarazada</i> pero significa <b>«avergonzado, apenado, incómodo»</b>. (Para «embarazada» → pregnant.)",
+    "means": [
+      {"def": "avergonzado, apenado", "en": "I was so embarrassed when I forgot her name.", "t": "(avergonzado)"},
+      {"def": "humillado, en ridículo", "en": "He felt embarrassed in front of everyone.", "t": "(en ridículo)"},
+      {"def": "sin dinero (formal)", "en": "They were financially embarrassed.", "t": "(en apuros económicos)"},
+      {"def": "TRAMPA: NO 'embarazada' → pregnant", "en": "She's pregnant. (NOT embarrassed)", "t": "(embarazada = pregnant)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["embarrassed vs pregnant", "ashamed", "awkward", "embarrassing"],
+    "idiomTitle": "Expresiones", "idioms": ["be embarrassed about", "deeply embarrassed", "embarrassed to admit"],
+    "quizQ": "¿Qué significa «I was embarrassed»?", "quizA": ["Estaba avergonzado", "Estaba embarazada", "Estaba cansado"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "صفة", "title": "ماذا تعني embarrassed؟ (فخّ شهير)",
+    "metaDesc": "ماذا تعني embarrassed؟ ليست 'حامل' — بل 'محرَج، خجلان'. أشهر خطأ شائع مع الإسبانية embarazada — LinguaBattle.",
+    "lede": "<b>embarrassed</b> فخّ شهير: تشبه الإسبانية <i>embarazada</i> («حامل») لكنها تعني <b>«محرَج، خجلان، في موقف حرج»</b>. (لـ«حامل» → pregnant.)",
+    "means": [
+      {"def": "محرَج، خجلان", "en": "I was so embarrassed when I forgot her name.", "t": "(محرَج)"},
+      {"def": "مُهان، في موقف محرج", "en": "He felt embarrassed in front of everyone.", "t": "(مُهان)"},
+      {"def": "في ضائقة مالية (فصيح)", "en": "They were financially embarrassed.", "t": "(في ضائقة مالية)"},
+      {"def": "فخّ: ليست 'حامل' → pregnant", "en": "She's pregnant. (NOT embarrassed)", "t": "(حامل = pregnant)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["embarrassed vs pregnant", "ashamed", "awkward", "embarrassing"],
+    "idiomTitle": "عبارات", "idioms": ["be embarrassed about", "deeply embarrassed", "embarrassed to admit"],
+    "quizQ": "ماذا تعني «I was embarrassed»؟", "quizA": ["كنت محرَجًا", "كنت حاملًا", "كنت متعبًا"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "विशेषण", "title": "embarrassed का क्या मतलब है? (मशहूर ग़लती)",
+    "metaDesc": "embarrassed का क्या मतलब है? 'गर्भवती' नहीं — बल्कि 'शर्मिंदा, असहज'। स्पैनिश embarazada से जुड़ी मशहूर ग़लती — LinguaBattle.",
+    "lede": "<b>embarrassed</b> एक मशहूर जाल है: यह स्पैनिश <i>embarazada</i> ('गर्भवती') जैसा दिखता है पर इसका मतलब है <b>'शर्मिंदा, लज्जित, असहज'</b>। ('गर्भवती' के लिए → pregnant।)",
+    "means": [
+      {"def": "शर्मिंदा, लज्जित", "en": "I was so embarrassed when I forgot her name.", "t": "(शर्मिंदा)"},
+      {"def": "अपमानित, असहज", "en": "He felt embarrassed in front of everyone.", "t": "(असहज)"},
+      {"def": "पैसे की तंगी में (औपचारिक)", "en": "They were financially embarrassed.", "t": "(आर्थिक तंगी में)"},
+      {"def": "जाल: 'गर्भवती' नहीं → pregnant", "en": "She's pregnant. (NOT embarrassed)", "t": "(गर्भवती = pregnant)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["embarrassed vs pregnant", "ashamed", "awkward", "embarrassing"],
+    "idiomTitle": "वाक्यांश", "idioms": ["be embarrassed about", "deeply embarrassed", "embarrassed to admit"],
+    "quizQ": "“I was embarrassed” का क्या अर्थ है?", "quizA": ["मैं शर्मिंदा था", "मैं गर्भवती थी", "मैं थका हुआ था"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "прилагательное", "title": "Что значит embarrassed? (знаменитая ловушка)",
+    "metaDesc": "Что значит embarrassed? Не 'беременная' — а 'смущённый'. Знаменитая ошибка с испанским embarazada — LinguaBattle.",
+    "lede": "<b>embarrassed</b> — знаменитая ловушка: похоже на испанское <i>embarazada</i> («беременная»), но значит <b>«смущённый, сконфуженный, в неловком положении»</b>. (Для «беременная» → pregnant.)",
+    "means": [
+      {"def": "смущённый, сконфуженный", "en": "I was so embarrassed when I forgot her name.", "t": "(смущённый)"},
+      {"def": "опозоренный, в неловком положении", "en": "He felt embarrassed in front of everyone.", "t": "(опозоренный)"},
+      {"def": "стеснённый в деньгах (книжн.)", "en": "They were financially embarrassed.", "t": "(в денежных затруднениях)"},
+      {"def": "ЛОВУШКА: НЕ 'беременная' → pregnant", "en": "She's pregnant. (NOT embarrassed)", "t": "(беременная = pregnant)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["embarrassed vs pregnant", "ashamed", "awkward", "embarrassing"],
+    "idiomTitle": "Выражения", "idioms": ["be embarrassed about", "deeply embarrassed", "embarrassed to admit"],
+    "quizQ": "Что значит «I was embarrassed»?", "quizA": ["Мне было неловко", "Я была беременна", "Я устал"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "adjetivo", "title": "O que significa embarrassed? (armadilha famosa)",
+    "metaDesc": "O que significa embarrassed? Não 'grávida' — mas 'envergonhado'. O falso cognato clássico com embarazada — LinguaBattle.",
+    "lede": "<b>embarrassed</b> é uma armadilha famosa: parece o espanhol <i>embarazada</i> («grávida»), mas significa <b>«envergonhado, constrangido, sem jeito»</b>. (Para «grávida» → pregnant.)",
+    "means": [
+      {"def": "envergonhado, constrangido", "en": "I was so embarrassed when I forgot her name.", "t": "(envergonhado)"},
+      {"def": "humilhado, sem jeito", "en": "He felt embarrassed in front of everyone.", "t": "(humilhado)"},
+      {"def": "sem dinheiro (formal)", "en": "They were financially embarrassed.", "t": "(em apuros financeiros)"},
+      {"def": "ARMADILHA: NÃO 'grávida' → pregnant", "en": "She's pregnant. (NOT embarrassed)", "t": "(grávida = pregnant)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["embarrassed vs pregnant", "ashamed", "awkward", "embarrassing"],
+    "idiomTitle": "Expressões", "idioms": ["be embarrassed about", "deeply embarrassed", "embarrassed to admit"],
+    "quizQ": "O que significa «I was embarrassed»?", "quizA": ["Fiquei envergonhado", "Eu estava grávida", "Eu estava cansado"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "形容詞", "title": "embarrassedの意味は？（有名な罠）",
+    "metaDesc": "embarrassedの意味は？「妊娠している」ではなく「恥ずかしい、気まずい」。スペイン語embarazadaと混同される有名な誤用 — LinguaBattle.",
+    "lede": "<b>embarrassed</b> は有名な罠：スペイン語の <i>embarazada</i>（「妊娠している」）に似ているが、意味は<b>「恥ずかしい、きまり悪い、気まずい」</b>。（「妊娠している」は pregnant。）",
+    "means": [
+      {"def": "恥ずかしい、きまり悪い", "en": "I was so embarrassed when I forgot her name.", "t": "（恥ずかしい）"},
+      {"def": "面目を失った、気まずい", "en": "He felt embarrassed in front of everyone.", "t": "（気まずい）"},
+      {"def": "金に困った（堅い語）", "en": "They were financially embarrassed.", "t": "（金銭的に困窮）"},
+      {"def": "罠：「妊娠」ではない → pregnant", "en": "She's pregnant. (NOT embarrassed)", "t": "（妊娠 = pregnant）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["embarrassed vs pregnant", "ashamed", "awkward", "embarrassing"],
+    "idiomTitle": "フレーズ", "idioms": ["be embarrassed about", "deeply embarrassed", "embarrassed to admit"],
+    "quizQ": "「I was embarrassed」の意味は？", "quizA": ["恥ずかしかった", "妊娠していた", "疲れていた"], "quizOk": 0
+  }
+}

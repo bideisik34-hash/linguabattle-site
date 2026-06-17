@@ -1,0 +1,145 @@
+{
+  "word": "how are you",
+  "pron": "/haʊ ɑːr juː/",
+  "category": "phrases",
+  "tr": {
+    "pos": "günlük kalıp", "title": "“Nasılsın” İngilizce nasıl denir?",
+    "metaDesc": "Nasılsın İngilizce: how are you ve diğer sorma/cevap kalıpları. Okunuşu ve örneklerle — LinguaBattle.",
+    "lede": "“Nasılsın?” İngilizcede en sık <b>How are you?</b> ile sorulur. İşte sorma ve cevap verme yolları — resmiden samimiye.",
+    "means": [
+      {"def": "How are you? (en yaygın, nötr)", "en": "How are you?", "t": "Nasılsın?"},
+      {"def": "How's it going? / How are you doing? (samimi)", "en": "How's it going?", "t": "Nasıl gidiyor?"},
+      {"def": "Cevap: I'm fine, thanks. And you?", "en": "I'm fine, thanks. And you?", "t": "İyiyim, teşekkürler. Sen?"},
+      {"def": "Samimi cevap: I'm good / Not bad", "en": "I'm good!", "t": "İyiyim!"}
+    ],
+    "relTitle": "İlgili kalıplar", "rel": ["teşekkür ederim (thank you)", "kendini tanıtma", "selamlaşma (greetings)"],
+    "idiomTitle": "Kalıplar", "idioms": ["How are you?", "How's it going?", "I'm fine, thanks"],
+    "quizQ": "“How are you?” sorusuna doğal bir cevap?", "quizA": ["I'm fine, thanks. And you?", "Yes, I am.", "I am here."], "quizOk": 0
+  },
+  "en": {
+    "pos": "everyday phrase", "title": "How to say and answer “How are you?”",
+    "metaDesc": "How are you: ways to ask how someone is and how to reply, with pronunciation and examples — LinguaBattle.",
+    "lede": "The most common way to ask how someone is doing is <b>How are you?</b>. Here are ways to ask and reply — from formal to casual.",
+    "means": [
+      {"def": "How are you? (most common, neutral)", "en": "How are you?", "t": "(neutral)"},
+      {"def": "How's it going? / How are you doing? (casual)", "en": "How's it going?", "t": "(casual)"},
+      {"def": "Reply: I'm fine, thanks. And you?", "en": "I'm fine, thanks. And you?", "t": "(polite reply)"},
+      {"def": "Casual reply: I'm good / Not bad", "en": "I'm good!", "t": "(casual reply)"}
+    ],
+    "relTitle": "Related phrases", "rel": ["thank you", "introduce yourself", "greetings"],
+    "idiomTitle": "Phrases", "idioms": ["How are you?", "How's it going?", "I'm fine, thanks"],
+    "quizQ": "A natural reply to “How are you?”", "quizA": ["I'm fine, thanks. And you?", "Yes, I am.", "I am here."], "quizOk": 0
+  },
+  "de": {
+    "pos": "Alltagsfloskel", "title": "„Wie geht's?“ auf Englisch sagen und antworten",
+    "metaDesc": "How are you: Wie man auf Englisch fragt, wie es jemandem geht, und antwortet. Mit Beispielen — LinguaBattle.",
+    "lede": "Am häufigsten fragt man mit <b>How are you?</b>, wie es jemandem geht. Hier sind Fragen und Antworten — von formell bis locker.",
+    "means": [
+      {"def": "How are you? (am häufigsten, neutral)", "en": "How are you?", "t": "(neutral)"},
+      {"def": "How's it going? (locker)", "en": "How's it going?", "t": "(locker)"},
+      {"def": "Antwort: I'm fine, thanks. And you?", "en": "I'm fine, thanks. And you?", "t": "(höfliche Antwort)"},
+      {"def": "Lockere Antwort: I'm good / Not bad", "en": "I'm good!", "t": "(locker)"}
+    ],
+    "relTitle": "Verwandte Floskeln", "rel": ["thank you", "sich vorstellen", "Begrüßungen"],
+    "idiomTitle": "Wendungen", "idioms": ["How are you?", "How's it going?", "I'm fine, thanks"],
+    "quizQ": "Eine natürliche Antwort auf „How are you?“", "quizA": ["I'm fine, thanks. And you?", "Yes, I am.", "I am here."], "quizOk": 0
+  },
+  "fr": {
+    "pos": "expression courante", "title": "Dire et répondre à « How are you ? »",
+    "metaDesc": "How are you : comment demander comment va quelqu'un et répondre en anglais. Avec exemples — LinguaBattle.",
+    "lede": "La façon la plus courante de demander comment va quelqu'un est <b>How are you?</b>. Voici comment demander et répondre — du formel au familier.",
+    "means": [
+      {"def": "How are you? (le plus courant, neutre)", "en": "How are you?", "t": "(neutre)"},
+      {"def": "How's it going? (familier)", "en": "How's it going?", "t": "(familier)"},
+      {"def": "Réponse : I'm fine, thanks. And you?", "en": "I'm fine, thanks. And you?", "t": "(réponse polie)"},
+      {"def": "Réponse familière : I'm good / Not bad", "en": "I'm good!", "t": "(familier)"}
+    ],
+    "relTitle": "Expressions liées", "rel": ["thank you", "se présenter", "salutations"],
+    "idiomTitle": "Expressions", "idioms": ["How are you?", "How's it going?", "I'm fine, thanks"],
+    "quizQ": "Une réponse naturelle à « How are you ? »", "quizA": ["I'm fine, thanks. And you?", "Yes, I am.", "I am here."], "quizOk": 0
+  },
+  "es": {
+    "pos": "expresión cotidiana", "title": "Cómo decir y responder «How are you?»",
+    "metaDesc": "How are you: cómo preguntar cómo está alguien y responder en inglés. Con ejemplos — LinguaBattle.",
+    "lede": "La forma más común de preguntar cómo está alguien es <b>How are you?</b>. Aquí van formas de preguntar y responder — de formal a informal.",
+    "means": [
+      {"def": "How are you? (la más común, neutra)", "en": "How are you?", "t": "(neutra)"},
+      {"def": "How's it going? (informal)", "en": "How's it going?", "t": "(informal)"},
+      {"def": "Respuesta: I'm fine, thanks. And you?", "en": "I'm fine, thanks. And you?", "t": "(respuesta cortés)"},
+      {"def": "Respuesta informal: I'm good / Not bad", "en": "I'm good!", "t": "(informal)"}
+    ],
+    "relTitle": "Expresiones relacionadas", "rel": ["thank you", "presentarse", "saludos"],
+    "idiomTitle": "Expresiones", "idioms": ["How are you?", "How's it going?", "I'm fine, thanks"],
+    "quizQ": "Una respuesta natural a «How are you?»", "quizA": ["I'm fine, thanks. And you?", "Yes, I am.", "I am here."], "quizOk": 0
+  },
+  "ar": {
+    "pos": "عبارة يومية", "title": "كيف تقول وتجيب «How are you?»",
+    "metaDesc": "How are you: كيف تسأل عن حال شخص وتجيب بالإنجليزية. مع أمثلة — LinguaBattle.",
+    "lede": "أكثر طريقة شيوعًا للسؤال عن حال شخص هي <b>How are you?</b>. إليك طرق السؤال والإجابة — من الرسمي إلى الودّي.",
+    "means": [
+      {"def": "How are you? (الأكثر شيوعًا، محايدة)", "en": "How are you?", "t": "(محايدة)"},
+      {"def": "How's it going? (ودّية)", "en": "How's it going?", "t": "(ودّية)"},
+      {"def": "الرد: I'm fine, thanks. And you?", "en": "I'm fine, thanks. And you?", "t": "(رد مهذّب)"},
+      {"def": "رد ودّي: I'm good / Not bad", "en": "I'm good!", "t": "(ودّي)"}
+    ],
+    "relTitle": "عبارات ذات صلة", "rel": ["thank you", "التعريف بالنفس", "التحيات"],
+    "idiomTitle": "عبارات", "idioms": ["How are you?", "How's it going?", "I'm fine, thanks"],
+    "quizQ": "رد طبيعي على «How are you?»", "quizA": ["I'm fine, thanks. And you?", "Yes, I am.", "I am here."], "quizOk": 0
+  },
+  "hi": {
+    "pos": "रोज़मर्रा वाक्यांश", "title": "“How are you?” कैसे कहें और जवाब दें",
+    "metaDesc": "How are you: किसी का हाल पूछना और जवाब देना अंग्रेज़ी में। उदाहरणों सहित — LinguaBattle.",
+    "lede": "किसी का हाल पूछने का सबसे आम तरीका है <b>How are you?</b>। यहाँ पूछने और जवाब देने के तरीके हैं — औपचारिक से अनौपचारिक तक।",
+    "means": [
+      {"def": "How are you? (सबसे आम, तटस्थ)", "en": "How are you?", "t": "(तटस्थ)"},
+      {"def": "How's it going? (अनौपचारिक)", "en": "How's it going?", "t": "(अनौपचारिक)"},
+      {"def": "जवाब: I'm fine, thanks. And you?", "en": "I'm fine, thanks. And you?", "t": "(विनम्र जवाब)"},
+      {"def": "अनौपचारिक जवाब: I'm good / Not bad", "en": "I'm good!", "t": "(अनौपचारिक)"}
+    ],
+    "relTitle": "संबंधित वाक्यांश", "rel": ["thank you", "अपना परिचय", "अभिवादन"],
+    "idiomTitle": "वाक्यांश", "idioms": ["How are you?", "How's it going?", "I'm fine, thanks"],
+    "quizQ": "“How are you?” का स्वाभाविक जवाब?", "quizA": ["I'm fine, thanks. And you?", "Yes, I am.", "I am here."], "quizOk": 0
+  },
+  "ru": {
+    "pos": "повседневная фраза", "title": "Как сказать и ответить «How are you?»",
+    "metaDesc": "How are you: как спросить, как дела, и ответить по-английски. С примерами — LinguaBattle.",
+    "lede": "Самый частый способ спросить, как дела, — <b>How are you?</b>. Вот как спросить и ответить — от формального до неформального.",
+    "means": [
+      {"def": "How are you? (самое частое, нейтральное)", "en": "How are you?", "t": "(нейтрально)"},
+      {"def": "How's it going? (неформально)", "en": "How's it going?", "t": "(неформально)"},
+      {"def": "Ответ: I'm fine, thanks. And you?", "en": "I'm fine, thanks. And you?", "t": "(вежливый ответ)"},
+      {"def": "Неформальный ответ: I'm good / Not bad", "en": "I'm good!", "t": "(неформально)"}
+    ],
+    "relTitle": "Связанные фразы", "rel": ["thank you", "представиться", "приветствия"],
+    "idiomTitle": "Выражения", "idioms": ["How are you?", "How's it going?", "I'm fine, thanks"],
+    "quizQ": "Естественный ответ на «How are you?»", "quizA": ["I'm fine, thanks. And you?", "Yes, I am.", "I am here."], "quizOk": 0
+  },
+  "pt": {
+    "pos": "expressão do dia a dia", "title": "Como dizer e responder «How are you?»",
+    "metaDesc": "How are you: como perguntar como alguém está e responder em inglês. Com exemplos — LinguaBattle.",
+    "lede": "A forma mais comum de perguntar como alguém está é <b>How are you?</b>. Veja como perguntar e responder — do formal ao informal.",
+    "means": [
+      {"def": "How are you? (a mais comum, neutra)", "en": "How are you?", "t": "(neutra)"},
+      {"def": "How's it going? (informal)", "en": "How's it going?", "t": "(informal)"},
+      {"def": "Resposta: I'm fine, thanks. And you?", "en": "I'm fine, thanks. And you?", "t": "(resposta educada)"},
+      {"def": "Resposta informal: I'm good / Not bad", "en": "I'm good!", "t": "(informal)"}
+    ],
+    "relTitle": "Expressões relacionadas", "rel": ["thank you", "apresentar-se", "saudações"],
+    "idiomTitle": "Expressões", "idioms": ["How are you?", "How's it going?", "I'm fine, thanks"],
+    "quizQ": "Uma resposta natural a «How are you?»", "quizA": ["I'm fine, thanks. And you?", "Yes, I am.", "I am here."], "quizOk": 0
+  },
+  "ja": {
+    "pos": "日常フレーズ", "title": "「How are you?」の言い方と返し方",
+    "metaDesc": "How are you：英語で相手の調子を尋ねる・答える言い方。例文付き — LinguaBattle.",
+    "lede": "相手の調子を尋ねる最も一般的な言い方は <b>How are you?</b>。フォーマルからカジュアルまで、尋ね方と返し方を紹介。",
+    "means": [
+      {"def": "How are you?（最も一般的・中立）", "en": "How are you?", "t": "（中立）"},
+      {"def": "How's it going?（カジュアル）", "en": "How's it going?", "t": "（カジュアル）"},
+      {"def": "返答: I'm fine, thanks. And you?", "en": "I'm fine, thanks. And you?", "t": "（丁寧な返答）"},
+      {"def": "カジュアルな返答: I'm good / Not bad", "en": "I'm good!", "t": "（カジュアル）"}
+    ],
+    "relTitle": "関連フレーズ", "rel": ["thank you", "自己紹介", "あいさつ"],
+    "idiomTitle": "フレーズ", "idioms": ["How are you?", "How's it going?", "I'm fine, thanks"],
+    "quizQ": "「How are you?」への自然な返答は？", "quizA": ["I'm fine, thanks. And you?", "Yes, I am.", "I am here."], "quizOk": 0
+  }
+}

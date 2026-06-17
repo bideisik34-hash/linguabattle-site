@@ -1,0 +1,135 @@
+{
+  "word": "generate",
+  "pron": "/ˈdʒen.ə.reɪt/",
+  "category": "ai",
+  "tr": {
+    "pos": "fiil", "title": "generate ne demek?",
+    "metaDesc": "generate ne demek? Üretmek, oluşturmak — yapay zekada çok kullanılır. Anlamı, örnek cümleler ve AI kalıpları — LinguaBattle.",
+    "lede": "<b>generate</b> “üretmek, oluşturmak” demektir. Yapay zeka çağıyla çok yaygınlaştı: bir AI'nin metin, görsel veya kod <b>üretmesi</b> için kullanılır.",
+    "means": [
+      {"def": "üretmek, oluşturmak (AI: içerik üretmek)", "en": "The AI can generate images from text.", "t": "Yapay zeka metinden görsel üretebilir."},
+      {"def": "ortaya çıkarmak, yaratmak (enerji, gelir vb.)", "en": "Solar panels generate electricity.", "t": "Güneş panelleri elektrik üretir."},
+      {"def": "yol açmak, doğurmak (ilgi, tartışma)", "en": "The post generated a lot of interest.", "t": "Gönderi büyük ilgi uyandırdı."}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["generate vs create", "prompt", "output"],
+    "idiomTitle": "AI kalıpları", "idioms": ["generate an image", "generate text", "auto-generate"],
+    "quizQ": "AI bağlamında “generate” ne demek?", "quizA": ["İçerik üretmek/oluşturmak", "Silmek", "Kopyalamak"], "quizOk": 0
+  },
+  "en": {
+    "pos": "verb", "title": "What does generate mean?",
+    "metaDesc": "What does generate mean? To produce or create — common in AI. Meaning, examples and AI phrases — LinguaBattle.",
+    "lede": "<b>generate</b> means “to produce or create”. It became very common with AI: used when an AI <b>produces</b> text, images or code.",
+    "means": [
+      {"def": "to produce, create (AI: produce content)", "en": "The AI can generate images from text.", "t": "(produce content)"},
+      {"def": "to produce (energy, income, etc.)", "en": "Solar panels generate electricity.", "t": "(produce energy)"},
+      {"def": "to cause, give rise to (interest, debate)", "en": "The post generated a lot of interest.", "t": "(gave rise to)"}
+    ],
+    "relTitle": "Often confused", "rel": ["generate vs create", "prompt", "output"],
+    "idiomTitle": "AI phrases", "idioms": ["generate an image", "generate text", "auto-generate"],
+    "quizQ": "In AI, what does “generate” mean?", "quizA": ["To produce/create content", "To delete", "To copy"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Verb", "title": "Was bedeutet generate?",
+    "metaDesc": "Was bedeutet generate? Erzeugen, erstellen — häufig bei KI. Bedeutung, Beispiele und KI-Ausdrücke — LinguaBattle.",
+    "lede": "<b>generate</b> bedeutet „erzeugen, erstellen“. Mit der KI wurde es sehr verbreitet: wenn eine KI Text, Bilder oder Code <b>erzeugt</b>.",
+    "means": [
+      {"def": "erzeugen, erstellen (KI: Inhalte erzeugen)", "en": "The AI can generate images from text.", "t": "(Inhalte erzeugen)"},
+      {"def": "erzeugen (Energie, Einkommen usw.)", "en": "Solar panels generate electricity.", "t": "(Energie erzeugen)"},
+      {"def": "auslösen, hervorrufen (Interesse, Debatte)", "en": "The post generated a lot of interest.", "t": "(hervorrufen)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["generate vs create", "prompt", "output"],
+    "idiomTitle": "KI-Ausdrücke", "idioms": ["generate an image", "generate text", "auto-generate"],
+    "quizQ": "Was bedeutet „generate“ bei KI?", "quizA": ["Inhalte erzeugen/erstellen", "Löschen", "Kopieren"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "verbe", "title": "Que signifie generate ?",
+    "metaDesc": "Que signifie generate ? Produire, créer — fréquent en IA. Sens, exemples et expressions IA — LinguaBattle.",
+    "lede": "<b>generate</b> signifie « produire, créer ». Très répandu avec l'IA : quand une IA <b>produit</b> du texte, des images ou du code.",
+    "means": [
+      {"def": "produire, créer (IA : produire du contenu)", "en": "The AI can generate images from text.", "t": "(produire du contenu)"},
+      {"def": "produire (énergie, revenu, etc.)", "en": "Solar panels generate electricity.", "t": "(produire de l'énergie)"},
+      {"def": "susciter, provoquer (intérêt, débat)", "en": "The post generated a lot of interest.", "t": "(a suscité)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["generate vs create", "prompt", "output"],
+    "idiomTitle": "Expressions IA", "idioms": ["generate an image", "generate text", "auto-generate"],
+    "quizQ": "En IA, que signifie « generate » ?", "quizA": ["Produire/créer du contenu", "Supprimer", "Copier"], "quizOk": 0
+  },
+  "es": {
+    "pos": "verbo", "title": "¿Qué significa generate?",
+    "metaDesc": "¿Qué significa generate? Producir, crear — común en IA. Significado, ejemplos y frases de IA — LinguaBattle.",
+    "lede": "<b>generate</b> significa «producir, crear». Se volvió muy común con la IA: cuando una IA <b>produce</b> texto, imágenes o código.",
+    "means": [
+      {"def": "producir, crear (IA: producir contenido)", "en": "The AI can generate images from text.", "t": "(producir contenido)"},
+      {"def": "producir (energía, ingresos, etc.)", "en": "Solar panels generate electricity.", "t": "(producir energía)"},
+      {"def": "suscitar, provocar (interés, debate)", "en": "The post generated a lot of interest.", "t": "(suscitó)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["generate vs create", "prompt", "output"],
+    "idiomTitle": "Frases de IA", "idioms": ["generate an image", "generate text", "auto-generate"],
+    "quizQ": "En IA, ¿qué significa «generate»?", "quizA": ["Producir/crear contenido", "Eliminar", "Copiar"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "فعل", "title": "ماذا تعني generate؟",
+    "metaDesc": "ماذا تعني generate؟ يُنتج، يُنشئ — شائع في الذكاء الاصطناعي. المعنى والأمثلة والعبارات — LinguaBattle.",
+    "lede": "<b>generate</b> تعني «يُنتج، يُنشئ». انتشرت كثيرًا مع الذكاء الاصطناعي: عندما يُنتج الذكاء الاصطناعي نصًا أو صورًا أو شيفرة.",
+    "means": [
+      {"def": "يُنتج، يُنشئ (AI: إنتاج محتوى)", "en": "The AI can generate images from text.", "t": "(إنتاج محتوى)"},
+      {"def": "يولّد (طاقة، دخل، إلخ)", "en": "Solar panels generate electricity.", "t": "(توليد طاقة)"},
+      {"def": "يثير، يسبّب (اهتمامًا، نقاشًا)", "en": "The post generated a lot of interest.", "t": "(أثار)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["generate vs create", "prompt", "output"],
+    "idiomTitle": "عبارات الذكاء الاصطناعي", "idioms": ["generate an image", "generate text", "auto-generate"],
+    "quizQ": "ماذا تعني «generate» في الذكاء الاصطناعي؟", "quizA": ["إنتاج/إنشاء محتوى", "حذف", "نسخ"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "क्रिया", "title": "generate का क्या मतलब है?",
+    "metaDesc": "generate का क्या मतलब है? उत्पन्न करना, बनाना — AI में आम। अर्थ, उदाहरण और AI वाक्यांश — LinguaBattle.",
+    "lede": "<b>generate</b> का मतलब है “उत्पन्न करना, बनाना”। AI के साथ यह बहुत आम हो गया: जब कोई AI टेक्स्ट, इमेज या कोड <b>बनाता</b> है।",
+    "means": [
+      {"def": "उत्पन्न करना, बनाना (AI: कंटेंट बनाना)", "en": "The AI can generate images from text.", "t": "(कंटेंट बनाना)"},
+      {"def": "पैदा करना (ऊर्जा, आय आदि)", "en": "Solar panels generate electricity.", "t": "(ऊर्जा पैदा करना)"},
+      {"def": "पैदा करना, जगाना (रुचि, बहस)", "en": "The post generated a lot of interest.", "t": "(रुचि जगाई)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["generate vs create", "prompt", "output"],
+    "idiomTitle": "AI वाक्यांश", "idioms": ["generate an image", "generate text", "auto-generate"],
+    "quizQ": "AI में “generate” का क्या अर्थ है?", "quizA": ["कंटेंट बनाना/उत्पन्न करना", "हटाना", "कॉपी करना"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "глагол", "title": "Что значит generate?",
+    "metaDesc": "Что значит generate? Создавать, производить — часто в ИИ. Значение, примеры и выражения ИИ — LinguaBattle.",
+    "lede": "<b>generate</b> означает «создавать, производить». Стало очень распространённым с ИИ: когда ИИ <b>создаёт</b> текст, изображения или код.",
+    "means": [
+      {"def": "создавать, производить (ИИ: создавать контент)", "en": "The AI can generate images from text.", "t": "(создавать контент)"},
+      {"def": "вырабатывать (энергию, доход и т.д.)", "en": "Solar panels generate electricity.", "t": "(вырабатывать энергию)"},
+      {"def": "вызывать, порождать (интерес, спор)", "en": "The post generated a lot of interest.", "t": "(вызвал)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["generate vs create", "prompt", "output"],
+    "idiomTitle": "Выражения ИИ", "idioms": ["generate an image", "generate text", "auto-generate"],
+    "quizQ": "Что значит «generate» в ИИ?", "quizA": ["Создавать/производить контент", "Удалять", "Копировать"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "verbo", "title": "O que significa generate?",
+    "metaDesc": "O que significa generate? Produzir, criar — comum em IA. Significado, exemplos e frases de IA — LinguaBattle.",
+    "lede": "<b>generate</b> significa «produzir, criar». Ficou muito comum com a IA: quando uma IA <b>produz</b> texto, imagens ou código.",
+    "means": [
+      {"def": "produzir, criar (IA: produzir conteúdo)", "en": "The AI can generate images from text.", "t": "(produzir conteúdo)"},
+      {"def": "gerar (energia, renda, etc.)", "en": "Solar panels generate electricity.", "t": "(gerar energia)"},
+      {"def": "suscitar, provocar (interesse, debate)", "en": "The post generated a lot of interest.", "t": "(suscitou)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["generate vs create", "prompt", "output"],
+    "idiomTitle": "Frases de IA", "idioms": ["generate an image", "generate text", "auto-generate"],
+    "quizQ": "Em IA, o que significa «generate»?", "quizA": ["Produzir/criar conteúdo", "Apagar", "Copiar"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "動詞", "title": "generateの意味は？",
+    "metaDesc": "generateの意味は？生成する、作り出す — AIで頻出。意味・例文・AIフレーズ — LinguaBattle.",
+    "lede": "<b>generate</b> は「生成する、作り出す」という意味。AIで非常に一般的になった：AIがテキスト・画像・コードを<b>生成する</b>ときに使う。",
+    "means": [
+      {"def": "生成する、作り出す（AI：コンテンツを生成）", "en": "The AI can generate images from text.", "t": "（コンテンツを生成）"},
+      {"def": "生み出す（エネルギー、収入など）", "en": "Solar panels generate electricity.", "t": "（電気を生み出す）"},
+      {"def": "引き起こす（関心、議論）", "en": "The post generated a lot of interest.", "t": "（関心を呼んだ）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["generate vs create", "prompt", "output"],
+    "idiomTitle": "AIフレーズ", "idioms": ["generate an image", "generate text", "auto-generate"],
+    "quizQ": "AIにおける「generate」の意味は？", "quizA": ["コンテンツを生成・作成する", "削除する", "コピーする"], "quizOk": 0
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "word": "sensible",
+  "pron": "/ˈsensəbl/",
+  "category": "confusing",
+  "tr": {
+    "pos": "sıfat", "title": "sensible ne demek? (yaygın tuzak)",
+    "metaDesc": "sensible ne demek? 'Hassas' değil, 'mantıklı, makul'. En çok karıştırılan kelime — LinguaBattle.",
+    "lede": "<b>sensible</b> bir tuzaktır: “hassas” sanılır ama aslında <b>“mantıklı, makul, aklı başında”</b> demektir. (“Hassas” = sensitive.)",
+    "means": [
+      {"def": "mantıklı, makul, aklı başında", "en": "That's a sensible decision.", "t": "Mantıklı bir karar bu."},
+      {"def": "pratik, işe yarar", "en": "Wear sensible shoes.", "t": "Rahat/pratik ayakkabı giy."},
+      {"def": "TUZAK: 'hassas' DEĞİL → sensitive", "en": "She's very sensitive. (NOT sensible)", "t": "O çok hassas. (sensible değil, sensitive)"}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["sensible vs sensitive", "reasonable", "practical"],
+    "idiomTitle": "Kalıplar", "idioms": ["a sensible choice", "be sensible", "sensible advice"],
+    "quizQ": "“a sensible decision” ne demek?", "quizA": ["Mantıklı bir karar", "Hassas bir karar", "Duygusal bir karar"], "quizOk": 0
+  },
+  "en": {
+    "pos": "adjective", "title": "What does sensible mean? (common trap)",
+    "metaDesc": "What does sensible mean? Not 'sensitive' — it means 'reasonable, practical'. A top false-friend — LinguaBattle.",
+    "lede": "<b>sensible</b> is a trap: it does NOT mean “sensitive”. It means <b>“reasonable, practical, level-headed”</b>. (For emotional “sensitive” use sensitive.)",
+    "means": [
+      {"def": "reasonable, practical, level-headed", "en": "That's a sensible decision.", "t": "(reasonable)"},
+      {"def": "practical, suitable", "en": "Wear sensible shoes.", "t": "(practical)"},
+      {"def": "TRAP: NOT 'sensitive' → use sensitive", "en": "She's very sensitive. (NOT sensible)", "t": "(sensitive ≠ sensible)"}
+    ],
+    "relTitle": "Often confused", "rel": ["sensible vs sensitive", "reasonable", "practical"],
+    "idiomTitle": "Phrases", "idioms": ["a sensible choice", "be sensible", "sensible advice"],
+    "quizQ": "What does “a sensible decision” mean?", "quizA": ["A reasonable decision", "A sensitive decision", "An emotional decision"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Adjektiv", "title": "Was bedeutet sensible? (häufige Falle)",
+    "metaDesc": "Was bedeutet sensible? Nicht 'sensibel' — sondern 'vernünftig, praktisch'. False Friend — LinguaBattle.",
+    "lede": "<b>sensible</b> ist eine Falle: es heißt NICHT „sensibel“! Es bedeutet <b>„vernünftig, praktisch, besonnen“</b>. (Für „sensibel“ → sensitive.)",
+    "means": [
+      {"def": "vernünftig, besonnen", "en": "That's a sensible decision.", "t": "(vernünftig)"},
+      {"def": "praktisch, zweckmäßig", "en": "Wear sensible shoes.", "t": "(praktisch)"},
+      {"def": "FALLE: NICHT 'sensibel' → sensitive", "en": "She's very sensitive. (NOT sensible)", "t": "(sensibel = sensitive)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["sensible vs sensitive", "reasonable", "practical"],
+    "idiomTitle": "Wendungen", "idioms": ["a sensible choice", "be sensible", "sensible advice"],
+    "quizQ": "Was bedeutet „a sensible decision“?", "quizA": ["Eine vernünftige Entscheidung", "Eine sensible Entscheidung", "Eine emotionale Entscheidung"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "adjectif", "title": "Que signifie sensible ? (piège courant)",
+    "metaDesc": "Que signifie sensible ? Pas 'sensible (émotif)' — mais 'raisonnable, pratique'. Faux ami — LinguaBattle.",
+    "lede": "<b>sensible</b> est un faux ami : il ne veut PAS dire « sensible (émotif) » ! Il signifie <b>« raisonnable, pratique, sensé »</b>. (Pour « sensible » émotif → sensitive.)",
+    "means": [
+      {"def": "raisonnable, sensé", "en": "That's a sensible decision.", "t": "(raisonnable)"},
+      {"def": "pratique, adapté", "en": "Wear sensible shoes.", "t": "(pratique)"},
+      {"def": "PIÈGE : PAS 'sensible' → sensitive", "en": "She's very sensitive. (NOT sensible)", "t": "(sensible émotif = sensitive)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["sensible vs sensitive", "reasonable", "practical"],
+    "idiomTitle": "Expressions", "idioms": ["a sensible choice", "be sensible", "sensible advice"],
+    "quizQ": "Que veut dire « a sensible decision » ?", "quizA": ["Une décision raisonnable", "Une décision sensible", "Une décision émotive"], "quizOk": 0
+  },
+  "es": {
+    "pos": "adjetivo", "title": "¿Qué significa sensible? (trampa común)",
+    "metaDesc": "¿Qué significa sensible? No 'sensible (emotivo)' — sino 'sensato, práctico'. Falso amigo — LinguaBattle.",
+    "lede": "<b>sensible</b> es un falso amigo: ¡NO significa «sensible (emotivo)»! Significa <b>«sensato, razonable, práctico»</b>. (Para «sensible» emotivo → sensitive.)",
+    "means": [
+      {"def": "sensato, razonable", "en": "That's a sensible decision.", "t": "(sensato)"},
+      {"def": "práctico, adecuado", "en": "Wear sensible shoes.", "t": "(práctico)"},
+      {"def": "TRAMPA: NO 'sensible' → sensitive", "en": "She's very sensitive. (NOT sensible)", "t": "(sensible emotivo = sensitive)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["sensible vs sensitive", "reasonable", "practical"],
+    "idiomTitle": "Expresiones", "idioms": ["a sensible choice", "be sensible", "sensible advice"],
+    "quizQ": "¿Qué significa «a sensible decision»?", "quizA": ["Una decisión sensata", "Una decisión sensible", "Una decisión emotiva"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "صفة", "title": "ماذا تعني sensible؟ (فخّ شائع)",
+    "metaDesc": "ماذا تعني sensible؟ ليست 'حسّاس' — بل 'عاقل، عملي'. خطأ شائع — LinguaBattle.",
+    "lede": "<b>sensible</b> فخّ: لا تعني «حسّاس»! بل تعني <b>«عاقل، معقول، عملي»</b>. (لـ«حسّاس» عاطفيًا → sensitive.)",
+    "means": [
+      {"def": "عاقل، معقول، رشيد", "en": "That's a sensible decision.", "t": "(معقول)"},
+      {"def": "عملي، مناسب", "en": "Wear sensible shoes.", "t": "(عملي)"},
+      {"def": "فخّ: ليست 'حسّاس' → sensitive", "en": "She's very sensitive. (NOT sensible)", "t": "(حسّاس = sensitive)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["sensible vs sensitive", "reasonable", "practical"],
+    "idiomTitle": "عبارات", "idioms": ["a sensible choice", "be sensible", "sensible advice"],
+    "quizQ": "ماذا تعني «a sensible decision»؟", "quizA": ["قرار عاقل", "قرار حسّاس", "قرار عاطفي"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "विशेषण", "title": "sensible का क्या मतलब है? (आम ग़लती)",
+    "metaDesc": "sensible का क्या मतलब है? 'संवेदनशील' नहीं — बल्कि 'समझदार, व्यावहारिक'। आम भ्रम — LinguaBattle.",
+    "lede": "<b>sensible</b> एक जाल है: इसका मतलब 'संवेदनशील' नहीं! इसका मतलब है <b>'समझदार, व्यावहारिक, समझ-बूझ वाला'</b>। ('संवेदनशील' के लिए → sensitive।)",
+    "means": [
+      {"def": "समझदार, व्यावहारिक", "en": "That's a sensible decision.", "t": "(समझदार)"},
+      {"def": "व्यावहारिक, उपयुक्त", "en": "Wear sensible shoes.", "t": "(व्यावहारिक)"},
+      {"def": "जाल: 'संवेदनशील' नहीं → sensitive", "en": "She's very sensitive. (NOT sensible)", "t": "(संवेदनशील = sensitive)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["sensible vs sensitive", "reasonable", "practical"],
+    "idiomTitle": "वाक्यांश", "idioms": ["a sensible choice", "be sensible", "sensible advice"],
+    "quizQ": "“a sensible decision” का क्या अर्थ है?", "quizA": ["एक समझदार फ़ैसला", "एक संवेदनशील फ़ैसला", "एक भावुक फ़ैसला"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "прилагательное", "title": "Что значит sensible? (частая ловушка)",
+    "metaDesc": "Что значит sensible? Не 'чувствительный' — а 'разумный, практичный'. Частая ошибка — LinguaBattle.",
+    "lede": "<b>sensible</b> — ловушка: оно НЕ значит «чувствительный»! Оно значит <b>«разумный, благоразумный, практичный»</b>. (Для «чувствительный» → sensitive.)",
+    "means": [
+      {"def": "разумный, благоразумный", "en": "That's a sensible decision.", "t": "(разумный)"},
+      {"def": "практичный, подходящий", "en": "Wear sensible shoes.", "t": "(практичный)"},
+      {"def": "ЛОВУШКА: НЕ 'чувствительный' → sensitive", "en": "She's very sensitive. (NOT sensible)", "t": "(чувствительный = sensitive)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["sensible vs sensitive", "reasonable", "practical"],
+    "idiomTitle": "Выражения", "idioms": ["a sensible choice", "be sensible", "sensible advice"],
+    "quizQ": "Что значит «a sensible decision»?", "quizA": ["Разумное решение", "Чувствительное решение", "Эмоциональное решение"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "adjetivo", "title": "O que significa sensible? (armadilha comum)",
+    "metaDesc": "O que significa sensible? Não 'sensível' — mas 'sensato, prático'. Falso cognato — LinguaBattle.",
+    "lede": "<b>sensible</b> é um falso cognato: NÃO significa «sensível»! Significa <b>«sensato, razoável, prático»</b>. (Para «sensível» emotivo → sensitive.)",
+    "means": [
+      {"def": "sensato, razoável", "en": "That's a sensible decision.", "t": "(sensato)"},
+      {"def": "prático, adequado", "en": "Wear sensible shoes.", "t": "(prático)"},
+      {"def": "ARMADILHA: NÃO 'sensível' → sensitive", "en": "She's very sensitive. (NOT sensible)", "t": "(sensível = sensitive)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["sensible vs sensitive", "reasonable", "practical"],
+    "idiomTitle": "Expressões", "idioms": ["a sensible choice", "be sensible", "sensible advice"],
+    "quizQ": "O que significa «a sensible decision»?", "quizA": ["Uma decisão sensata", "Uma decisão sensível", "Uma decisão emotiva"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "形容詞", "title": "sensibleの意味は？（よくある罠）",
+    "metaDesc": "sensibleの意味は？「敏感」ではなく「賢明、実用的」。よくある誤用 — LinguaBattle.",
+    "lede": "<b>sensible</b> は罠：「敏感」ではない！意味は<b>「賢明な、分別のある、実用的な」</b>。（「敏感」は sensitive。）",
+    "means": [
+      {"def": "賢明な、分別のある", "en": "That's a sensible decision.", "t": "（賢明）"},
+      {"def": "実用的な、適切な", "en": "Wear sensible shoes.", "t": "（実用的）"},
+      {"def": "罠：「敏感」ではない → sensitive", "en": "She's very sensitive. (NOT sensible)", "t": "（敏感 = sensitive）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["sensible vs sensitive", "reasonable", "practical"],
+    "idiomTitle": "フレーズ", "idioms": ["a sensible choice", "be sensible", "sensible advice"],
+    "quizQ": "「a sensible decision」の意味は？", "quizA": ["賢明な決定", "敏感な決定", "感情的な決定"], "quizOk": 0
+  }
+}

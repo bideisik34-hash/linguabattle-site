@@ -1,0 +1,165 @@
+{
+  "word": "numbers",
+  "pron": "/ˈnʌmbəz/",
+  "category": "basics",
+  "tr": {
+    "pos": "kelime listesi", "title": "İngilizce sayılar",
+    "metaDesc": "İngilizce sayılar: 1'den 20'ye ve onluklar, okunuşu ve Türkçesi. Liste + örnekler — LinguaBattle.",
+    "lede": "İngilizce <b>sayılar</b> (numbers) 1'den 20'ye, sonra onluklar. İpucu: 13–19 arası “-teen”, 20–90 onlukları “-ty” ile biter.",
+    "means": [
+      {"def": "1 one /wʌn/, 2 two /tuː/, 3 three /θriː/", "en": "one, two, three", "t": "bir, iki, üç"},
+      {"def": "4 four, 5 five, 6 six", "en": "four, five, six", "t": "dört, beş, altı"},
+      {"def": "7 seven, 8 eight, 9 nine, 10 ten", "en": "seven, eight, nine, ten", "t": "yedi, sekiz, dokuz, on"},
+      {"def": "11 eleven, 12 twelve, 13 thirteen", "en": "eleven, twelve, thirteen", "t": "on bir, on iki, on üç"},
+      {"def": "Onluklar: 20 twenty, 30 thirty, 40 forty", "en": "twenty, thirty, forty", "t": "yirmi, otuz, kırk"},
+      {"def": "50 fifty, 100 one hundred, 1000 one thousand", "en": "fifty, one hundred, one thousand", "t": "elli, yüz, bin"}
+    ],
+    "relTitle": "İlgili konular", "rel": ["aylar (months)", "günler (days)", "saat (time)"],
+    "idiomTitle": "Kalıplar", "idioms": ["number one (bir numara)", "twenty-one (yirmi bir)", "count to ten"],
+    "quizQ": "“13” İngilizcede nedir?", "quizA": ["thirteen", "thirty", "three"], "quizOk": 0
+  },
+  "en": {
+    "pos": "word list", "title": "Numbers in English",
+    "metaDesc": "Numbers in English: 1 to 20 and the tens, with pronunciation. List + examples — LinguaBattle.",
+    "lede": "<b>Numbers</b> in English from 1 to 20, then the tens. Tip: 13–19 end in “-teen”, and the tens (20–90) end in “-ty”.",
+    "means": [
+      {"def": "1 one /wʌn/, 2 two /tuː/, 3 three /θriː/", "en": "one, two, three", "t": ""},
+      {"def": "4 four, 5 five, 6 six", "en": "four, five, six", "t": ""},
+      {"def": "7 seven, 8 eight, 9 nine, 10 ten", "en": "seven, eight, nine, ten", "t": ""},
+      {"def": "11 eleven, 12 twelve, 13 thirteen", "en": "eleven, twelve, thirteen", "t": "(-teen)"},
+      {"def": "Tens: 20 twenty, 30 thirty, 40 forty", "en": "twenty, thirty, forty", "t": "(-ty)"},
+      {"def": "50 fifty, 100 one hundred, 1000 one thousand", "en": "fifty, one hundred, one thousand", "t": ""}
+    ],
+    "relTitle": "Related topics", "rel": ["months", "days of the week", "telling time"],
+    "idiomTitle": "Phrases", "idioms": ["number one", "twenty-one", "count to ten"],
+    "quizQ": "How do you write “13”?", "quizA": ["thirteen", "thirty", "three"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Wortliste", "title": "Zahlen auf Englisch",
+    "metaDesc": "Zahlen auf Englisch: 1 bis 20 und die Zehner, mit Aussprache. Liste + Beispiele — LinguaBattle.",
+    "lede": "<b>Zahlen</b> auf Englisch von 1 bis 20, dann die Zehner. Tipp: 13–19 enden auf „-teen“, die Zehner (20–90) auf „-ty“.",
+    "means": [
+      {"def": "1 one, 2 two, 3 three", "en": "one, two, three", "t": "eins, zwei, drei"},
+      {"def": "4 four, 5 five, 6 six", "en": "four, five, six", "t": "vier, fünf, sechs"},
+      {"def": "7 seven, 8 eight, 9 nine, 10 ten", "en": "seven, eight, nine, ten", "t": "sieben, acht, neun, zehn"},
+      {"def": "11 eleven, 12 twelve, 13 thirteen", "en": "eleven, twelve, thirteen", "t": "elf, zwölf, dreizehn"},
+      {"def": "Zehner: 20 twenty, 30 thirty, 40 forty", "en": "twenty, thirty, forty", "t": "zwanzig, dreißig, vierzig"},
+      {"def": "50 fifty, 100 one hundred, 1000 one thousand", "en": "fifty, one hundred, one thousand", "t": "fünfzig, hundert, tausend"}
+    ],
+    "relTitle": "Verwandte Themen", "rel": ["Monate", "Wochentage", "Uhrzeit"],
+    "idiomTitle": "Wendungen", "idioms": ["number one", "twenty-one", "count to ten"],
+    "quizQ": "Wie schreibt man „13“?", "quizA": ["thirteen", "thirty", "three"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "liste de mots", "title": "Les nombres en anglais",
+    "metaDesc": "Les nombres en anglais : de 1 à 20 et les dizaines, avec prononciation. Liste + exemples — LinguaBattle.",
+    "lede": "Les <b>nombres</b> en anglais de 1 à 20, puis les dizaines. Astuce : 13–19 se terminent par « -teen », et les dizaines (20–90) par « -ty ».",
+    "means": [
+      {"def": "1 one, 2 two, 3 three", "en": "one, two, three", "t": "un, deux, trois"},
+      {"def": "4 four, 5 five, 6 six", "en": "four, five, six", "t": "quatre, cinq, six"},
+      {"def": "7 seven, 8 eight, 9 nine, 10 ten", "en": "seven, eight, nine, ten", "t": "sept, huit, neuf, dix"},
+      {"def": "11 eleven, 12 twelve, 13 thirteen", "en": "eleven, twelve, thirteen", "t": "onze, douze, treize"},
+      {"def": "Dizaines : 20 twenty, 30 thirty, 40 forty", "en": "twenty, thirty, forty", "t": "vingt, trente, quarante"},
+      {"def": "50 fifty, 100 one hundred, 1000 one thousand", "en": "fifty, one hundred, one thousand", "t": "cinquante, cent, mille"}
+    ],
+    "relTitle": "Sujets liés", "rel": ["mois", "jours de la semaine", "l'heure"],
+    "idiomTitle": "Expressions", "idioms": ["number one", "twenty-one", "count to ten"],
+    "quizQ": "Comment écrit-on « 13 » ?", "quizA": ["thirteen", "thirty", "three"], "quizOk": 0
+  },
+  "es": {
+    "pos": "lista de palabras", "title": "Los números en inglés",
+    "metaDesc": "Los números en inglés: del 1 al 20 y las decenas, con pronunciación. Lista + ejemplos — LinguaBattle.",
+    "lede": "Los <b>números</b> en inglés del 1 al 20, luego las decenas. Consejo: 13–19 terminan en «-teen», y las decenas (20–90) en «-ty».",
+    "means": [
+      {"def": "1 one, 2 two, 3 three", "en": "one, two, three", "t": "uno, dos, tres"},
+      {"def": "4 four, 5 five, 6 six", "en": "four, five, six", "t": "cuatro, cinco, seis"},
+      {"def": "7 seven, 8 eight, 9 nine, 10 ten", "en": "seven, eight, nine, ten", "t": "siete, ocho, nueve, diez"},
+      {"def": "11 eleven, 12 twelve, 13 thirteen", "en": "eleven, twelve, thirteen", "t": "once, doce, trece"},
+      {"def": "Decenas: 20 twenty, 30 thirty, 40 forty", "en": "twenty, thirty, forty", "t": "veinte, treinta, cuarenta"},
+      {"def": "50 fifty, 100 one hundred, 1000 one thousand", "en": "fifty, one hundred, one thousand", "t": "cincuenta, cien, mil"}
+    ],
+    "relTitle": "Temas relacionados", "rel": ["meses", "días de la semana", "la hora"],
+    "idiomTitle": "Expresiones", "idioms": ["number one", "twenty-one", "count to ten"],
+    "quizQ": "¿Cómo se escribe «13»?", "quizA": ["thirteen", "thirty", "three"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "قائمة كلمات", "title": "الأرقام بالإنجليزية",
+    "metaDesc": "الأرقام بالإنجليزية: من 1 إلى 20 والعشرات مع النطق. قائمة + أمثلة — LinguaBattle.",
+    "lede": "<b>الأرقام</b> بالإنجليزية من 1 إلى 20، ثم العشرات. ملاحظة: 13–19 تنتهي بـ «-teen»، والعشرات (20–90) بـ «-ty».",
+    "means": [
+      {"def": "1 one, 2 two, 3 three", "en": "one, two, three", "t": "واحد، اثنان، ثلاثة"},
+      {"def": "4 four, 5 five, 6 six", "en": "four, five, six", "t": "أربعة، خمسة، ستة"},
+      {"def": "7 seven, 8 eight, 9 nine, 10 ten", "en": "seven, eight, nine, ten", "t": "سبعة، ثمانية، تسعة، عشرة"},
+      {"def": "11 eleven, 12 twelve, 13 thirteen", "en": "eleven, twelve, thirteen", "t": "أحد عشر، اثنا عشر، ثلاثة عشر"},
+      {"def": "العشرات: 20 twenty, 30 thirty, 40 forty", "en": "twenty, thirty, forty", "t": "عشرون، ثلاثون، أربعون"},
+      {"def": "50 fifty, 100 one hundred, 1000 one thousand", "en": "fifty, one hundred, one thousand", "t": "خمسون، مئة، ألف"}
+    ],
+    "relTitle": "مواضيع ذات صلة", "rel": ["الأشهر", "أيام الأسبوع", "الوقت"],
+    "idiomTitle": "عبارات", "idioms": ["number one", "twenty-one", "count to ten"],
+    "quizQ": "كيف تُكتب «13»؟", "quizA": ["thirteen", "thirty", "three"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "शब्द सूची", "title": "अंग्रेज़ी में संख्याएँ",
+    "metaDesc": "अंग्रेज़ी में संख्याएँ: 1 से 20 तक और दहाई, उच्चारण के साथ। सूची + उदाहरण — LinguaBattle.",
+    "lede": "अंग्रेज़ी में <b>संख्याएँ</b> 1 से 20 तक, फिर दहाई। टिप: 13–19 “-teen” पर और दहाई (20–90) “-ty” पर खत्म होती हैं।",
+    "means": [
+      {"def": "1 one, 2 two, 3 three", "en": "one, two, three", "t": "एक, दो, तीन"},
+      {"def": "4 four, 5 five, 6 six", "en": "four, five, six", "t": "चार, पाँच, छह"},
+      {"def": "7 seven, 8 eight, 9 nine, 10 ten", "en": "seven, eight, nine, ten", "t": "सात, आठ, नौ, दस"},
+      {"def": "11 eleven, 12 twelve, 13 thirteen", "en": "eleven, twelve, thirteen", "t": "ग्यारह, बारह, तेरह"},
+      {"def": "दहाई: 20 twenty, 30 thirty, 40 forty", "en": "twenty, thirty, forty", "t": "बीस, तीस, चालीस"},
+      {"def": "50 fifty, 100 one hundred, 1000 one thousand", "en": "fifty, one hundred, one thousand", "t": "पचास, सौ, हज़ार"}
+    ],
+    "relTitle": "संबंधित विषय", "rel": ["महीने", "सप्ताह के दिन", "समय"],
+    "idiomTitle": "वाक्यांश", "idioms": ["number one", "twenty-one", "count to ten"],
+    "quizQ": "“13” अंग्रेज़ी में कैसे लिखते हैं?", "quizA": ["thirteen", "thirty", "three"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "список слов", "title": "Числа на английском",
+    "metaDesc": "Числа на английском: от 1 до 20 и десятки, с произношением. Список + примеры — LinguaBattle.",
+    "lede": "<b>Числа</b> на английском от 1 до 20, затем десятки. Совет: 13–19 оканчиваются на «-teen», а десятки (20–90) на «-ty».",
+    "means": [
+      {"def": "1 one, 2 two, 3 three", "en": "one, two, three", "t": "один, два, три"},
+      {"def": "4 four, 5 five, 6 six", "en": "four, five, six", "t": "четыре, пять, шесть"},
+      {"def": "7 seven, 8 eight, 9 nine, 10 ten", "en": "seven, eight, nine, ten", "t": "семь, восемь, девять, десять"},
+      {"def": "11 eleven, 12 twelve, 13 thirteen", "en": "eleven, twelve, thirteen", "t": "одиннадцать, двенадцать, тринадцать"},
+      {"def": "Десятки: 20 twenty, 30 thirty, 40 forty", "en": "twenty, thirty, forty", "t": "двадцать, тридцать, сорок"},
+      {"def": "50 fifty, 100 one hundred, 1000 one thousand", "en": "fifty, one hundred, one thousand", "t": "пятьдесят, сто, тысяча"}
+    ],
+    "relTitle": "Связанные темы", "rel": ["месяцы", "дни недели", "время"],
+    "idiomTitle": "Выражения", "idioms": ["number one", "twenty-one", "count to ten"],
+    "quizQ": "Как пишется «13»?", "quizA": ["thirteen", "thirty", "three"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "lista de palavras", "title": "Os números em inglês",
+    "metaDesc": "Os números em inglês: de 1 a 20 e as dezenas, com pronúncia. Lista + exemplos — LinguaBattle.",
+    "lede": "Os <b>números</b> em inglês de 1 a 20, depois as dezenas. Dica: 13–19 terminam em «-teen», e as dezenas (20–90) em «-ty».",
+    "means": [
+      {"def": "1 one, 2 two, 3 three", "en": "one, two, three", "t": "um, dois, três"},
+      {"def": "4 four, 5 five, 6 six", "en": "four, five, six", "t": "quatro, cinco, seis"},
+      {"def": "7 seven, 8 eight, 9 nine, 10 ten", "en": "seven, eight, nine, ten", "t": "sete, oito, nove, dez"},
+      {"def": "11 eleven, 12 twelve, 13 thirteen", "en": "eleven, twelve, thirteen", "t": "onze, doze, treze"},
+      {"def": "Dezenas: 20 twenty, 30 thirty, 40 forty", "en": "twenty, thirty, forty", "t": "vinte, trinta, quarenta"},
+      {"def": "50 fifty, 100 one hundred, 1000 one thousand", "en": "fifty, one hundred, one thousand", "t": "cinquenta, cem, mil"}
+    ],
+    "relTitle": "Tópicos relacionados", "rel": ["meses", "dias da semana", "as horas"],
+    "idiomTitle": "Expressões", "idioms": ["number one", "twenty-one", "count to ten"],
+    "quizQ": "Como se escreve «13»?", "quizA": ["thirteen", "thirty", "three"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "単語リスト", "title": "英語の数字（numbers）",
+    "metaDesc": "英語の数字：1から20と十の位を発音付きで。リスト＋例文 — LinguaBattle.",
+    "lede": "英語の<b>数字</b>を1から20、そして十の位まで。ヒント：13–19は「-teen」、十の位（20–90）は「-ty」で終わる。",
+    "means": [
+      {"def": "1 one, 2 two, 3 three", "en": "one, two, three", "t": "1, 2, 3"},
+      {"def": "4 four, 5 five, 6 six", "en": "four, five, six", "t": "4, 5, 6"},
+      {"def": "7 seven, 8 eight, 9 nine, 10 ten", "en": "seven, eight, nine, ten", "t": "7, 8, 9, 10"},
+      {"def": "11 eleven, 12 twelve, 13 thirteen", "en": "eleven, twelve, thirteen", "t": "11, 12, 13"},
+      {"def": "十の位: 20 twenty, 30 thirty, 40 forty", "en": "twenty, thirty, forty", "t": "20, 30, 40"},
+      {"def": "50 fifty, 100 one hundred, 1000 one thousand", "en": "fifty, one hundred, one thousand", "t": "50, 100, 1000"}
+    ],
+    "relTitle": "関連トピック", "rel": ["月", "曜日", "時間"],
+    "idiomTitle": "フレーズ", "idioms": ["number one", "twenty-one", "count to ten"],
+    "quizQ": "「13」は英語でどう書く？", "quizA": ["thirteen", "thirty", "three"], "quizOk": 0
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "word": "ghosting",
+  "pron": "/ˈɡoʊstɪŋ/",
+  "category": "genz",
+  "tr": {
+    "pos": "isim / fiil", "title": "ghosting ne demek?",
+    "metaDesc": "ghosting ne demek? Birini aniden, açıklama yapmadan görmezden gelmek. Anlamı ve örnekler — LinguaBattle.",
+    "lede": "<b>ghosting</b>, birini aniden ve hiçbir açıklama yapmadan görmezden gelme, mesajlarına cevap vermeyi bırakma davranışıdır. “ghost” (hayalet) kelimesinden gelir — kişi sanki hayalet gibi ortadan kaybolur.",
+    "means": [
+      {"def": "Birini aniden, açıklama yapmadan görmezden gelmek", "en": "He ghosted me after the second date.", "t": "İkinci buluşmadan sonra beni görmezden geldi (kayboldu)."},
+      {"def": "Mesajlara cevabı tamamen kesmek", "en": "Stop ghosting and just reply!", "t": "Kaybolmayı bırak da cevap ver!"}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["ghosting vs blocking", "left on read", "breadcrumbing"],
+    "idiomTitle": "Kalıplar", "idioms": ["ghost someone", "get ghosted", "left on read"],
+    "quizQ": "“He ghosted me” ne demek?", "quizA": ["Aniden ortadan kayboldu/görmezden geldi", "Beni korkuttu", "Bana yalan söyledi"], "quizOk": 0
+  },
+  "en": {
+    "pos": "noun / verb", "title": "What does ghosting mean?",
+    "metaDesc": "What does ghosting mean? Suddenly ignoring someone with no explanation. Meaning and examples — LinguaBattle.",
+    "lede": "<b>ghosting</b> is the act of suddenly ignoring someone and stopping all contact with no explanation. From “ghost” — the person vanishes like a ghost.",
+    "means": [
+      {"def": "Suddenly ignoring someone with no explanation", "en": "He ghosted me after the second date.", "t": "(vanished)"},
+      {"def": "Cutting off all replies", "en": "Stop ghosting and just reply!", "t": "(stop disappearing)"}
+    ],
+    "relTitle": "Often confused", "rel": ["ghosting vs blocking", "left on read", "breadcrumbing"],
+    "idiomTitle": "Phrases", "idioms": ["ghost someone", "get ghosted", "left on read"],
+    "quizQ": "What does “He ghosted me” mean?", "quizA": ["He suddenly vanished/ignored me", "He scared me", "He lied to me"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Subst. / Verb", "title": "Was bedeutet ghosting?",
+    "metaDesc": "Was bedeutet ghosting? Jemanden plötzlich ohne Erklärung ignorieren. Bedeutung und Beispiele — LinguaBattle.",
+    "lede": "<b>ghosting</b> bedeutet, jemanden plötzlich zu ignorieren und ohne Erklärung jeglichen Kontakt abzubrechen. Von „ghost“ (Geist) — die Person verschwindet wie ein Geist.",
+    "means": [
+      {"def": "Jemanden plötzlich ohne Erklärung ignorieren", "en": "He ghosted me after the second date.", "t": "(verschwand)"},
+      {"def": "Jede Antwort abbrechen", "en": "Stop ghosting and just reply!", "t": "(hör auf zu verschwinden)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["ghosting vs blocking", "left on read", "breadcrumbing"],
+    "idiomTitle": "Redewendungen", "idioms": ["ghost someone", "get ghosted", "left on read"],
+    "quizQ": "Was bedeutet „He ghosted me“?", "quizA": ["Er verschwand plötzlich / ignorierte mich", "Er erschreckte mich", "Er log mich an"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "nom / verbe", "title": "Que signifie ghosting ?",
+    "metaDesc": "Que signifie ghosting ? Ignorer quelqu'un soudainement sans explication. Sens et exemples — LinguaBattle.",
+    "lede": "<b>ghosting</b> consiste à ignorer soudainement quelqu'un et à couper tout contact sans explication. De « ghost » (fantôme) — la personne disparaît comme un fantôme.",
+    "means": [
+      {"def": "Ignorer soudainement quelqu'un sans explication", "en": "He ghosted me after the second date.", "t": "(a disparu)"},
+      {"def": "Couper toute réponse", "en": "Stop ghosting and just reply!", "t": "(arrête de disparaître)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["ghosting vs blocking", "left on read", "breadcrumbing"],
+    "idiomTitle": "Expressions", "idioms": ["ghost someone", "get ghosted", "left on read"],
+    "quizQ": "Que veut dire « He ghosted me » ?", "quizA": ["Il a soudainement disparu / m'a ignoré", "Il m'a fait peur", "Il m'a menti"], "quizOk": 0
+  },
+  "es": {
+    "pos": "sust. / verbo", "title": "¿Qué significa ghosting?",
+    "metaDesc": "¿Qué significa ghosting? Ignorar a alguien de repente sin explicación. Significado y ejemplos — LinguaBattle.",
+    "lede": "<b>ghosting</b> es ignorar de repente a alguien y cortar todo contacto sin explicación. De «ghost» (fantasma) — la persona desaparece como un fantasma.",
+    "means": [
+      {"def": "Ignorar de repente a alguien sin explicación", "en": "He ghosted me after the second date.", "t": "(desapareció)"},
+      {"def": "Cortar toda respuesta", "en": "Stop ghosting and just reply!", "t": "(deja de desaparecer)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["ghosting vs blocking", "left on read", "breadcrumbing"],
+    "idiomTitle": "Expresiones", "idioms": ["ghost someone", "get ghosted", "left on read"],
+    "quizQ": "¿Qué significa «He ghosted me»?", "quizA": ["Desapareció de repente / me ignoró", "Me asustó", "Me mintió"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "اسم / فعل", "title": "ماذا تعني ghosting؟",
+    "metaDesc": "ماذا تعني ghosting؟ تجاهل شخص فجأة دون تفسير. المعنى والأمثلة — LinguaBattle.",
+    "lede": "<b>ghosting</b> هو تجاهل شخص فجأة وقطع كل تواصل معه دون أي تفسير. من «ghost» (شبح) — يختفي الشخص كالشبح.",
+    "means": [
+      {"def": "تجاهل شخص فجأة دون تفسير", "en": "He ghosted me after the second date.", "t": "(اختفى)"},
+      {"def": "قطع كل الردود", "en": "Stop ghosting and just reply!", "t": "(توقف عن الاختفاء)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["ghosting vs blocking", "left on read", "breadcrumbing"],
+    "idiomTitle": "عبارات", "idioms": ["ghost someone", "get ghosted", "left on read"],
+    "quizQ": "ماذا تعني «He ghosted me»؟", "quizA": ["اختفى فجأة / تجاهلني", "أخافني", "كذب عليّ"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "संज्ञा / क्रिया", "title": "ghosting का क्या मतलब है?",
+    "metaDesc": "ghosting का क्या मतलब है? किसी को अचानक बिना बताए नज़रअंदाज़ करना। अर्थ और उदाहरण — LinguaBattle.",
+    "lede": "<b>ghosting</b> का मतलब है किसी को अचानक नज़रअंदाज़ करना और बिना किसी सफ़ाई के सारा संपर्क बंद कर देना। “ghost” (भूत) से — व्यक्ति भूत की तरह गायब हो जाता है।",
+    "means": [
+      {"def": "किसी को अचानक बिना बताए नज़रअंदाज़ करना", "en": "He ghosted me after the second date.", "t": "(गायब हो गया)"},
+      {"def": "सारे जवाब बंद कर देना", "en": "Stop ghosting and just reply!", "t": "(गायब होना बंद करो)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["ghosting vs blocking", "left on read", "breadcrumbing"],
+    "idiomTitle": "वाक्यांश", "idioms": ["ghost someone", "get ghosted", "left on read"],
+    "quizQ": "“He ghosted me” का क्या अर्थ है?", "quizA": ["वह अचानक गायब हो गया / नज़रअंदाज़ किया", "उसने डराया", "उसने झूठ बोला"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "сущ. / глагол", "title": "Что значит ghosting?",
+    "metaDesc": "Что значит ghosting? Внезапно игнорировать кого-то без объяснений. Значение и примеры — LinguaBattle.",
+    "lede": "<b>ghosting</b> — это внезапно игнорировать человека и прекращать любой контакт без объяснений. От «ghost» (призрак) — человек исчезает, как призрак.",
+    "means": [
+      {"def": "Внезапно игнорировать кого-то без объяснений", "en": "He ghosted me after the second date.", "t": "(исчез)"},
+      {"def": "Прекратить все ответы", "en": "Stop ghosting and just reply!", "t": "(перестань исчезать)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["ghosting vs blocking", "left on read", "breadcrumbing"],
+    "idiomTitle": "Выражения", "idioms": ["ghost someone", "get ghosted", "left on read"],
+    "quizQ": "Что значит «He ghosted me»?", "quizA": ["Он внезапно исчез / игнорировал меня", "Он напугал меня", "Он соврал мне"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "subst. / verbo", "title": "O que significa ghosting?",
+    "metaDesc": "O que significa ghosting? Ignorar alguém de repente sem explicação. Significado e exemplos — LinguaBattle.",
+    "lede": "<b>ghosting</b> é ignorar alguém de repente e cortar todo o contato sem explicação. De «ghost» (fantasma) — a pessoa some como um fantasma.",
+    "means": [
+      {"def": "Ignorar alguém de repente sem explicação", "en": "He ghosted me after the second date.", "t": "(sumiu)"},
+      {"def": "Cortar todas as respostas", "en": "Stop ghosting and just reply!", "t": "(pare de sumir)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["ghosting vs blocking", "left on read", "breadcrumbing"],
+    "idiomTitle": "Expressões", "idioms": ["ghost someone", "get ghosted", "left on read"],
+    "quizQ": "O que significa «He ghosted me»?", "quizA": ["Sumiu de repente / me ignorou", "Me assustou", "Mentiu para mim"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "名詞 / 動詞", "title": "ghostingの意味は？",
+    "metaDesc": "ghostingの意味は？突然、説明なしに相手を無視すること。意味と例文 — LinguaBattle.",
+    "lede": "<b>ghosting</b> とは、突然相手を無視し、何の説明もなく一切の連絡を断つこと。「ghost（幽霊）」から — 幽霊のように姿を消す。",
+    "means": [
+      {"def": "突然、説明なしに相手を無視する", "en": "He ghosted me after the second date.", "t": "（姿を消した）"},
+      {"def": "返信を一切やめる", "en": "Stop ghosting and just reply!", "t": "（消えるのをやめて）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["ghosting vs blocking", "left on read", "breadcrumbing"],
+    "idiomTitle": "フレーズ", "idioms": ["ghost someone", "get ghosted", "left on read"],
+    "quizQ": "「He ghosted me」の意味は？", "quizA": ["突然消えた／無視した", "怖がらせた", "嘘をついた"], "quizOk": 0
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "word": "point",
+  "pron": "/pɔɪnt/",
+  "category": "verb",
+  "tr": {
+    "pos": "isim / fiil", "title": "point ne demek? (5 anlamı)",
+    "metaDesc": "point ne demek? 5 anlamı: nokta, puan, amaç, işaret etmek, görüş. Örneklerle — LinguaBattle.",
+    "lede": "<b>point</b> çok anlamlı bir İngilizce kelimedir — isim ve fiil. Noktadan puana, amaçtan işaret etmeye uzanır; işte en sık 5 anlamı.",
+    "means": [
+      {"def": "nokta, uç (isim)", "en": "The pencil has a sharp point.", "t": "Kalemin sivri bir ucu var."},
+      {"def": "puan (oyun/skor)", "en": "They scored three points.", "t": "Üç puan aldılar."},
+      {"def": "amaç, mesele (isim)", "en": "What's the point of this?", "t": "Bunun amacı/anlamı ne?"},
+      {"def": "işaret etmek (fiil)", "en": "She pointed at the door.", "t": "Kapıyı işaret etti."},
+      {"def": "görüş, husus (isim)", "en": "That's a good point.", "t": "İyi bir nokta/görüş bu."}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["point vs dot", "point vs score", "point out vs point at"],
+    "idiomTitle": "Günlük kalıplar", "idioms": ["point out (belirtmek)", "to the point (öz/net)", "miss the point (anlamamak)"],
+    "quizQ": "“What's the point?” ne demek?", "quizA": ["Amacı/anlamı ne?", "Nokta nerede?", "Kaç puan?"], "quizOk": 0
+  },
+  "en": {
+    "pos": "noun / verb", "title": "What does point mean? (5 meanings)",
+    "metaDesc": "What does point mean? 5 meanings: a tip, a score point, purpose, to point, an idea. With examples — LinguaBattle.",
+    "lede": "<b>point</b> is a multi-meaning English word — noun and verb. From a tip to a score, from purpose to pointing; here are the 5 most common.",
+    "means": [
+      {"def": "a point, tip (noun)", "en": "The pencil has a sharp point.", "t": "(tip)"},
+      {"def": "a point (game/score)", "en": "They scored three points.", "t": "(score)"},
+      {"def": "purpose, reason (noun)", "en": "What's the point of this?", "t": "(purpose)"},
+      {"def": "to point (verb)", "en": "She pointed at the door.", "t": "(indicate)"},
+      {"def": "an idea, argument (noun)", "en": "That's a good point.", "t": "(idea)"}
+    ],
+    "relTitle": "Often confused", "rel": ["point vs dot", "point vs score", "point out vs point at"],
+    "idiomTitle": "Phrasal verbs", "idioms": ["point out", "to the point", "miss the point"],
+    "quizQ": "What does “What's the point?” mean?", "quizA": ["What's the purpose?", "Where's the dot?", "What's the score?"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Subst. / Verb", "title": "Was bedeutet point? (5 Bedeutungen)",
+    "metaDesc": "Was bedeutet point? 5 Bedeutungen: Spitze, Punkt, Sinn, zeigen, Argument. Mit Beispielen — LinguaBattle.",
+    "lede": "<b>point</b> ist ein vieldeutiges englisches Wort — Substantiv und Verb. Von der Spitze zum Punkt, vom Sinn zum Zeigen; hier die 5 häufigsten.",
+    "means": [
+      {"def": "Spitze, Punkt (Subst.)", "en": "The pencil has a sharp point.", "t": "(Spitze)"},
+      {"def": "Punkt (Spiel/Punktzahl)", "en": "They scored three points.", "t": "(Punkt)"},
+      {"def": "Sinn, Zweck (Subst.)", "en": "What's the point of this?", "t": "(Sinn)"},
+      {"def": "zeigen (Verb)", "en": "She pointed at the door.", "t": "(zeigen)"},
+      {"def": "Argument, Aspekt (Subst.)", "en": "That's a good point.", "t": "(Argument)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["point vs dot", "point vs score", "point out vs point at"],
+    "idiomTitle": "Phrasal Verbs", "idioms": ["point out", "to the point", "miss the point"],
+    "quizQ": "Was bedeutet „What's the point?“", "quizA": ["Was ist der Sinn?", "Wo ist der Punkt?", "Wie ist der Punktestand?"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "nom / verbe", "title": "Que signifie point ? (5 sens)",
+    "metaDesc": "Que signifie point ? 5 sens : pointe, point (score), but, montrer du doigt, argument. Avec exemples — LinguaBattle.",
+    "lede": "<b>point</b> est un mot anglais à sens multiples — nom et verbe. De la pointe au point, du but à montrer du doigt ; voici les 5 plus courants.",
+    "means": [
+      {"def": "pointe, extrémité (nom)", "en": "The pencil has a sharp point.", "t": "(pointe)"},
+      {"def": "point (jeu/score)", "en": "They scored three points.", "t": "(point)"},
+      {"def": "but, intérêt (nom)", "en": "What's the point of this?", "t": "(but)"},
+      {"def": "montrer du doigt (verbe)", "en": "She pointed at the door.", "t": "(montrer)"},
+      {"def": "argument, remarque (nom)", "en": "That's a good point.", "t": "(argument)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["point vs dot", "point vs score", "point out vs point at"],
+    "idiomTitle": "Verbes à particule", "idioms": ["point out", "to the point", "miss the point"],
+    "quizQ": "Que veut dire « What's the point ? »", "quizA": ["Quel est le but ?", "Où est le point ?", "Quel est le score ?"], "quizOk": 0
+  },
+  "es": {
+    "pos": "sust. / verbo", "title": "¿Qué significa point? (5 significados)",
+    "metaDesc": "¿Qué significa point? 5 significados: punta, punto (marcador), sentido, señalar, idea. Con ejemplos — LinguaBattle.",
+    "lede": "<b>point</b> es una palabra inglesa con varios significados — sustantivo y verbo. De la punta al punto, del sentido a señalar; aquí los 5 más comunes.",
+    "means": [
+      {"def": "punta (sust.)", "en": "The pencil has a sharp point.", "t": "(punta)"},
+      {"def": "punto (juego/marcador)", "en": "They scored three points.", "t": "(punto)"},
+      {"def": "sentido, propósito (sust.)", "en": "What's the point of this?", "t": "(sentido)"},
+      {"def": "señalar (verbo)", "en": "She pointed at the door.", "t": "(señalar)"},
+      {"def": "idea, argumento (sust.)", "en": "That's a good point.", "t": "(idea)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["point vs dot", "point vs score", "point out vs point at"],
+    "idiomTitle": "Verbos compuestos", "idioms": ["point out", "to the point", "miss the point"],
+    "quizQ": "¿Qué significa «What's the point?»", "quizA": ["¿Cuál es el sentido?", "¿Dónde está el punto?", "¿Cuál es el marcador?"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "اسم / فعل", "title": "ماذا تعني point؟ (5 معانٍ)",
+    "metaDesc": "ماذا تعني point؟ 5 معانٍ: طرف مدبّب، نقطة، هدف، يشير، وجهة نظر. مع أمثلة — LinguaBattle.",
+    "lede": "<b>point</b> كلمة إنجليزية متعددة المعاني — اسم وفعل. من الطرف المدبّب إلى النقطة، ومن الهدف إلى الإشارة؛ إليك أكثر 5 معانٍ شيوعًا.",
+    "means": [
+      {"def": "طرف مدبّب (اسم)", "en": "The pencil has a sharp point.", "t": "(طرف)"},
+      {"def": "نقطة (لعبة/نتيجة)", "en": "They scored three points.", "t": "(نقطة)"},
+      {"def": "هدف، مغزى (اسم)", "en": "What's the point of this?", "t": "(مغزى)"},
+      {"def": "يشير (فعل)", "en": "She pointed at the door.", "t": "(يشير)"},
+      {"def": "وجهة نظر، ملاحظة (اسم)", "en": "That's a good point.", "t": "(وجهة نظر)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["point vs dot", "point vs score", "point out vs point at"],
+    "idiomTitle": "أفعال مركّبة", "idioms": ["point out", "to the point", "miss the point"],
+    "quizQ": "ماذا تعني «What's the point?»", "quizA": ["ما المغزى/الهدف؟", "أين النقطة؟", "ما النتيجة؟"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "संज्ञा / क्रिया", "title": "point का क्या मतलब है? (5 अर्थ)",
+    "metaDesc": "point का क्या मतलब है? 5 अर्थ: नोक, अंक, मकसद, इशारा करना, बात। उदाहरणों सहित — LinguaBattle.",
+    "lede": "<b>point</b> कई अर्थों वाला अंग्रेज़ी शब्द है — संज्ञा और क्रिया। नोक से अंक तक, मकसद से इशारे तक; यहाँ 5 सबसे आम अर्थ।",
+    "means": [
+      {"def": "नोक, सिरा (संज्ञा)", "en": "The pencil has a sharp point.", "t": "(नोक)"},
+      {"def": "अंक (खेल/स्कोर)", "en": "They scored three points.", "t": "(अंक)"},
+      {"def": "मकसद, मतलब (संज्ञा)", "en": "What's the point of this?", "t": "(मकसद)"},
+      {"def": "इशारा करना (क्रिया)", "en": "She pointed at the door.", "t": "(इशारा करना)"},
+      {"def": "बात, विचार (संज्ञा)", "en": "That's a good point.", "t": "(बात)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["point vs dot", "point vs score", "point out vs point at"],
+    "idiomTitle": "वाक्यांश क्रिया", "idioms": ["point out", "to the point", "miss the point"],
+    "quizQ": "“What's the point?” का क्या अर्थ है?", "quizA": ["मकसद/मतलब क्या है?", "नोक कहाँ है?", "स्कोर क्या है?"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "сущ. / глагол", "title": "Что значит point? (5 значений)",
+    "metaDesc": "Что значит point? 5 значений: кончик, очко, смысл, указывать, мысль. С примерами — LinguaBattle.",
+    "lede": "<b>point</b> — многозначное английское слово (сущ. и глагол). От кончика до очка, от смысла до указывания; вот 5 самых частых.",
+    "means": [
+      {"def": "кончик, остриё (сущ.)", "en": "The pencil has a sharp point.", "t": "(кончик)"},
+      {"def": "очко (игра/счёт)", "en": "They scored three points.", "t": "(очко)"},
+      {"def": "смысл, цель (сущ.)", "en": "What's the point of this?", "t": "(смысл)"},
+      {"def": "указывать (глагол)", "en": "She pointed at the door.", "t": "(указывать)"},
+      {"def": "мысль, довод (сущ.)", "en": "That's a good point.", "t": "(мысль)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["point vs dot", "point vs score", "point out vs point at"],
+    "idiomTitle": "Фразовые глаголы", "idioms": ["point out", "to the point", "miss the point"],
+    "quizQ": "Что значит «What's the point?»", "quizA": ["В чём смысл/цель?", "Где точка?", "Какой счёт?"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "subst. / verbo", "title": "O que significa point? (5 significados)",
+    "metaDesc": "O que significa point? 5 significados: ponta, ponto (placar), propósito, apontar, argumento. Com exemplos — LinguaBattle.",
+    "lede": "<b>point</b> é uma palavra inglesa com vários significados — substantivo e verbo. Da ponta ao ponto, do propósito a apontar; aqui os 5 mais comuns.",
+    "means": [
+      {"def": "ponta (subst.)", "en": "The pencil has a sharp point.", "t": "(ponta)"},
+      {"def": "ponto (jogo/placar)", "en": "They scored three points.", "t": "(ponto)"},
+      {"def": "propósito, sentido (subst.)", "en": "What's the point of this?", "t": "(propósito)"},
+      {"def": "apontar (verbo)", "en": "She pointed at the door.", "t": "(apontar)"},
+      {"def": "argumento, ideia (subst.)", "en": "That's a good point.", "t": "(argumento)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["point vs dot", "point vs score", "point out vs point at"],
+    "idiomTitle": "Verbos frasais", "idioms": ["point out", "to the point", "miss the point"],
+    "quizQ": "O que significa «What's the point?»", "quizA": ["Qual é o propósito/sentido?", "Onde está o ponto?", "Qual é o placar?"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "名詞 / 動詞", "title": "pointの意味は？（5つの意味）",
+    "metaDesc": "pointの意味は？5つの意味：先端、得点、要点、指さす、論点。例文付き — LinguaBattle.",
+    "lede": "<b>point</b> は多義の英単語 — 名詞でも動詞でも使う。先端から得点、要点から指さしまで；よく使う5つを紹介。",
+    "means": [
+      {"def": "先端、とがった先（名詞）", "en": "The pencil has a sharp point.", "t": "（先端）"},
+      {"def": "得点（ゲーム・スコア）", "en": "They scored three points.", "t": "（得点）"},
+      {"def": "要点、目的（名詞）", "en": "What's the point of this?", "t": "（要点）"},
+      {"def": "指さす（動詞）", "en": "She pointed at the door.", "t": "（指さす）"},
+      {"def": "論点、意見（名詞）", "en": "That's a good point.", "t": "（論点）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["point vs dot", "point vs score", "point out vs point at"],
+    "idiomTitle": "句動詞", "idioms": ["point out", "to the point", "miss the point"],
+    "quizQ": "「What's the point?」の意味は？", "quizA": ["要点・目的は何？", "点はどこ？", "スコアは？"], "quizOk": 0
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "word": "set",
+  "pron": "/set/",
+  "category": "verb",
+  "conj": ["set", "set", "set"],
+  "tr": {
+    "pos": "fiil / isim", "title": "set ne demek? (5 anlamı)",
+    "metaDesc": "set ne demek? 5 anlamı: koymak, ayarlamak, kurmak, takım, batmak (güneş). Örneklerle — LinguaBattle.",
+    "lede": "<b>set</b> çok anlamlı bir İngilizce kelimedir — fiil ve isim. İlginç şekilde üç hâli de aynıdır: set → set → set. İşte en sık 5 anlamı.",
+    "means": [
+      {"def": "koymak, yerleştirmek", "en": "She set the cup on the table.", "t": "Fincanı masaya koydu."},
+      {"def": "ayarlamak, kurmak (alarm, saat)", "en": "I set the alarm for 7.", "t": "Alarmı 7'ye kurdum."},
+      {"def": "belirlemek (hedef, kural)", "en": "They set a new goal.", "t": "Yeni bir hedef belirlediler."},
+      {"def": "takım, set (isim)", "en": "a set of tools", "t": "bir alet takımı"},
+      {"def": "batmak (güneş)", "en": "The sun sets in the west.", "t": "Güneş batıda batar."}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["set vs put", "set up vs setup", "set vs sit"],
+    "idiomTitle": "Günlük kalıplar", "idioms": ["set up (kurmak)", "set off (yola çıkmak)", "all set (hazır)"],
+    "quizQ": "“I set the alarm” ne demek?", "quizA": ["Alarmı kurdum/ayarladım", "Alarmı kırdım", "Alarmı sattım"], "quizOk": 0
+  },
+  "en": {
+    "pos": "verb / noun", "title": "What does set mean? (5 meanings)",
+    "metaDesc": "What does set mean? 5 meanings: to put, to set (alarm), to establish, a set, (sun) to set. With examples — LinguaBattle.",
+    "lede": "<b>set</b> is a multi-meaning English word — verb and noun. Interestingly all three forms are the same: set → set → set. Here are the 5 most common.",
+    "means": [
+      {"def": "to put, place", "en": "She set the cup on the table.", "t": "(place)"},
+      {"def": "to set, adjust (alarm, clock)", "en": "I set the alarm for 7.", "t": "(adjust)"},
+      {"def": "to establish (goal, rule)", "en": "They set a new goal.", "t": "(establish)"},
+      {"def": "a set, group (noun)", "en": "a set of tools", "t": "(group)"},
+      {"def": "(sun) to set, go down", "en": "The sun sets in the west.", "t": "(go down)"}
+    ],
+    "relTitle": "Often confused", "rel": ["set vs put", "set up vs setup", "set vs sit"],
+    "idiomTitle": "Phrasal verbs", "idioms": ["set up", "set off", "all set"],
+    "quizQ": "What does “I set the alarm” mean?", "quizA": ["I adjusted/set the alarm", "I broke the alarm", "I sold the alarm"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Verb / Subst.", "title": "Was bedeutet set? (5 Bedeutungen)",
+    "metaDesc": "Was bedeutet set? 5 Bedeutungen: stellen, einstellen, festlegen, Set, (Sonne) untergehen. Mit Beispielen — LinguaBattle.",
+    "lede": "<b>set</b> ist ein vieldeutiges englisches Wort — Verb und Substantiv. Interessant: alle drei Formen sind gleich: set → set → set. Hier die 5 häufigsten.",
+    "means": [
+      {"def": "stellen, legen", "en": "She set the cup on the table.", "t": "(stellen)"},
+      {"def": "einstellen (Wecker, Uhr)", "en": "I set the alarm for 7.", "t": "(einstellen)"},
+      {"def": "festlegen (Ziel, Regel)", "en": "They set a new goal.", "t": "(festlegen)"},
+      {"def": "Set, Satz (Subst.)", "en": "a set of tools", "t": "(Satz)"},
+      {"def": "(Sonne) untergehen", "en": "The sun sets in the west.", "t": "(untergehen)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["set vs put", "set up vs setup", "set vs sit"],
+    "idiomTitle": "Phrasal Verbs", "idioms": ["set up", "set off", "all set"],
+    "quizQ": "Was bedeutet „I set the alarm“?", "quizA": ["Ich habe den Wecker eingestellt", "Ich habe den Wecker zerbrochen", "Ich habe den Wecker verkauft"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "verbe / nom", "title": "Que signifie set ? (5 sens)",
+    "metaDesc": "Que signifie set ? 5 sens : poser, régler, fixer, un ensemble, (soleil) se coucher. Avec exemples — LinguaBattle.",
+    "lede": "<b>set</b> est un mot anglais à sens multiples — verbe et nom. Curieusement, ses trois formes sont identiques : set → set → set. Voici les 5 plus courants.",
+    "means": [
+      {"def": "poser, mettre", "en": "She set the cup on the table.", "t": "(poser)"},
+      {"def": "régler (réveil, horloge)", "en": "I set the alarm for 7.", "t": "(régler)"},
+      {"def": "fixer (objectif, règle)", "en": "They set a new goal.", "t": "(fixer)"},
+      {"def": "un ensemble, un jeu (nom)", "en": "a set of tools", "t": "(ensemble)"},
+      {"def": "(soleil) se coucher", "en": "The sun sets in the west.", "t": "(se coucher)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["set vs put", "set up vs setup", "set vs sit"],
+    "idiomTitle": "Verbes à particule", "idioms": ["set up", "set off", "all set"],
+    "quizQ": "Que veut dire « I set the alarm » ?", "quizA": ["J'ai réglé le réveil", "J'ai cassé le réveil", "J'ai vendu le réveil"], "quizOk": 0
+  },
+  "es": {
+    "pos": "verbo / sust.", "title": "¿Qué significa set? (5 significados)",
+    "metaDesc": "¿Qué significa set? 5 significados: poner, ajustar, fijar, un conjunto, (sol) ponerse. Con ejemplos — LinguaBattle.",
+    "lede": "<b>set</b> es una palabra inglesa con varios significados — verbo y sustantivo. Curiosamente, sus tres formas son iguales: set → set → set. Aquí los 5 más comunes.",
+    "means": [
+      {"def": "poner, colocar", "en": "She set the cup on the table.", "t": "(poner)"},
+      {"def": "poner, ajustar (alarma, reloj)", "en": "I set the alarm for 7.", "t": "(ajustar)"},
+      {"def": "fijar, establecer (meta, regla)", "en": "They set a new goal.", "t": "(fijar)"},
+      {"def": "un conjunto, juego (sust.)", "en": "a set of tools", "t": "(conjunto)"},
+      {"def": "(sol) ponerse", "en": "The sun sets in the west.", "t": "(ponerse)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["set vs put", "set up vs setup", "set vs sit"],
+    "idiomTitle": "Verbos compuestos", "idioms": ["set up", "set off", "all set"],
+    "quizQ": "¿Qué significa «I set the alarm»?", "quizA": ["Ajusté/puse la alarma", "Rompí la alarma", "Vendí la alarma"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "فعل / اسم", "title": "ماذا تعني set؟ (5 معانٍ)",
+    "metaDesc": "ماذا تعني set؟ 5 معانٍ: يضع، يضبط، يحدّد، مجموعة، (الشمس) تغرب. مع أمثلة — LinguaBattle.",
+    "lede": "<b>set</b> كلمة إنجليزية متعددة المعاني — فعل واسم. والمثير أن صيغها الثلاث متطابقة: set → set → set. إليك أكثر 5 معانٍ شيوعًا.",
+    "means": [
+      {"def": "يضع", "en": "She set the cup on the table.", "t": "(يضع)"},
+      {"def": "يضبط (منبّه، ساعة)", "en": "I set the alarm for 7.", "t": "(يضبط)"},
+      {"def": "يحدّد (هدفًا، قاعدة)", "en": "They set a new goal.", "t": "(يحدّد)"},
+      {"def": "مجموعة، طقم (اسم)", "en": "a set of tools", "t": "(طقم)"},
+      {"def": "(الشمس) تغرب", "en": "The sun sets in the west.", "t": "(تغرب)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["set vs put", "set up vs setup", "set vs sit"],
+    "idiomTitle": "أفعال مركّبة", "idioms": ["set up", "set off", "all set"],
+    "quizQ": "ماذا تعني «I set the alarm»؟", "quizA": ["ضبطتُ المنبّه", "كسرتُ المنبّه", "بعتُ المنبّه"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "क्रिया / संज्ञा", "title": "set का क्या मतलब है? (5 अर्थ)",
+    "metaDesc": "set का क्या मतलब है? 5 अर्थ: रखना, सेट करना, तय करना, सेट, (सूरज) डूबना। उदाहरणों सहित — LinguaBattle.",
+    "lede": "<b>set</b> कई अर्थों वाला अंग्रेज़ी शब्द है — क्रिया और संज्ञा। दिलचस्प बात: इसके तीनों रूप एक जैसे हैं: set → set → set। यहाँ 5 सबसे आम अर्थ।",
+    "means": [
+      {"def": "रखना", "en": "She set the cup on the table.", "t": "(रखना)"},
+      {"def": "सेट करना (अलार्म, घड़ी)", "en": "I set the alarm for 7.", "t": "(सेट करना)"},
+      {"def": "तय करना (लक्ष्य, नियम)", "en": "They set a new goal.", "t": "(तय करना)"},
+      {"def": "सेट, समूह (संज्ञा)", "en": "a set of tools", "t": "(सेट)"},
+      {"def": "(सूरज) डूबना", "en": "The sun sets in the west.", "t": "(डूबना)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["set vs put", "set up vs setup", "set vs sit"],
+    "idiomTitle": "वाक्यांश क्रिया", "idioms": ["set up", "set off", "all set"],
+    "quizQ": "“I set the alarm” का क्या अर्थ है?", "quizA": ["मैंने अलार्म सेट किया", "मैंने अलार्म तोड़ा", "मैंने अलार्म बेचा"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "глагол / сущ.", "title": "Что значит set? (5 значений)",
+    "metaDesc": "Что значит set? 5 значений: класть, ставить (будильник), устанавливать, набор, (солнце) заходить. С примерами — LinguaBattle.",
+    "lede": "<b>set</b> — многозначное английское слово (глагол и существительное). Интересно, что все три формы одинаковы: set → set → set. Вот 5 самых частых.",
+    "means": [
+      {"def": "класть, ставить", "en": "She set the cup on the table.", "t": "(поставить)"},
+      {"def": "ставить, настраивать (будильник)", "en": "I set the alarm for 7.", "t": "(настроить)"},
+      {"def": "устанавливать (цель, правило)", "en": "They set a new goal.", "t": "(установить)"},
+      {"def": "набор, комплект (сущ.)", "en": "a set of tools", "t": "(набор)"},
+      {"def": "(солнце) заходить", "en": "The sun sets in the west.", "t": "(заходить)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["set vs put", "set up vs setup", "set vs sit"],
+    "idiomTitle": "Фразовые глаголы", "idioms": ["set up", "set off", "all set"],
+    "quizQ": "Что значит «I set the alarm»?", "quizA": ["Я поставил будильник", "Я сломал будильник", "Я продал будильник"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "verbo / subst.", "title": "O que significa set? (5 significados)",
+    "metaDesc": "O que significa set? 5 significados: pôr, ajustar, definir, um conjunto, (sol) pôr-se. Com exemplos — LinguaBattle.",
+    "lede": "<b>set</b> é uma palavra inglesa com vários significados — verbo e substantivo. Curiosamente, as três formas são iguais: set → set → set. Aqui os 5 mais comuns.",
+    "means": [
+      {"def": "pôr, colocar", "en": "She set the cup on the table.", "t": "(pôr)"},
+      {"def": "ajustar (alarme, relógio)", "en": "I set the alarm for 7.", "t": "(ajustar)"},
+      {"def": "definir, estabelecer (meta, regra)", "en": "They set a new goal.", "t": "(definir)"},
+      {"def": "um conjunto (subst.)", "en": "a set of tools", "t": "(conjunto)"},
+      {"def": "(sol) pôr-se", "en": "The sun sets in the west.", "t": "(pôr-se)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["set vs put", "set up vs setup", "set vs sit"],
+    "idiomTitle": "Verbos frasais", "idioms": ["set up", "set off", "all set"],
+    "quizQ": "O que significa «I set the alarm»?", "quizA": ["Ajustei/programei o alarme", "Quebrei o alarme", "Vendi o alarme"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "動詞 / 名詞", "title": "setの意味は？（5つの意味）",
+    "metaDesc": "setの意味は？5つの意味：置く、セットする、定める、ひと組、（太陽が）沈む。例文付き — LinguaBattle.",
+    "lede": "<b>set</b> は多義の英単語 — 動詞でも名詞でも使う。面白いことに3つの形がすべて同じ：set → set → set。よく使う5つを紹介。",
+    "means": [
+      {"def": "置く", "en": "She set the cup on the table.", "t": "（置く）"},
+      {"def": "セットする・合わせる（アラーム・時計）", "en": "I set the alarm for 7.", "t": "（セットする）"},
+      {"def": "定める（目標・ルール）", "en": "They set a new goal.", "t": "（定める）"},
+      {"def": "ひと組、セット（名詞）", "en": "a set of tools", "t": "（ひと組）"},
+      {"def": "（太陽が）沈む", "en": "The sun sets in the west.", "t": "（沈む）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["set vs put", "set up vs setup", "set vs sit"],
+    "idiomTitle": "句動詞", "idioms": ["set up", "set off", "all set"],
+    "quizQ": "「I set the alarm」の意味は？", "quizA": ["アラームをセットした", "アラームを壊した", "アラームを売った"], "quizOk": 0
+  }
+}

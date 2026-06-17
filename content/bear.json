@@ -1,0 +1,146 @@
+{
+  "word": "bear",
+  "pron": "/beər/",
+  "category": "verb",
+  "conj": ["bear", "bore", "borne"],
+  "tr": {
+    "pos": "isim / fiil", "title": "bear ne demek? (4 anlamı)",
+    "metaDesc": "bear ne demek? 4 anlamı: ayı, katlanmak, taşımak, akılda tutmak. bear/bore/borne — LinguaBattle.",
+    "lede": "<b>bear</b> ilginç bir kelimedir: hem “ayı” (isim) hem de “katlanmak/taşımak” (fiil) demektir. Bu yüzden çok karıştırılır. Düzensiz: bear → bore → borne.",
+    "means": [
+      {"def": "ayı (hayvan, isim)", "en": "We saw a bear in the forest.", "t": "Ormanda bir ayı gördük."},
+      {"def": "katlanmak, dayanmak (fiil)", "en": "I can't bear the noise.", "t": "Gürültüye katlanamıyorum."},
+      {"def": "taşımak, yüklenmek (fiil)", "en": "The bridge bears heavy trucks.", "t": "Köprü ağır kamyonları taşır."},
+      {"def": "akılda tutmak (bear in mind)", "en": "Bear in mind it's expensive.", "t": "Pahalı olduğunu aklında tut."}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["bear vs bare", "bear vs stand", "bore vs born"],
+    "idiomTitle": "Kalıplar", "idioms": ["bear in mind (aklında tut)", "bear with me (sabret)", "can't bear (katlanamamak)"],
+    "quizQ": "“I can't bear the noise” ne demek?", "quizA": ["Gürültüye katlanamıyorum", "Gürültüyü taşıyamıyorum", "Ayıyı duyamıyorum"], "quizOk": 0
+  },
+  "en": {
+    "pos": "noun / verb", "title": "What does bear mean? (4 meanings)",
+    "metaDesc": "What does bear mean? 4 meanings: a bear, to endure, to carry, to bear in mind. bear/bore/borne — LinguaBattle.",
+    "lede": "<b>bear</b> is a tricky word: it means both “a bear” (animal) and “to endure/carry” (verb). That's why it confuses learners. Irregular: bear → bore → borne.",
+    "means": [
+      {"def": "a bear (animal, noun)", "en": "We saw a bear in the forest.", "t": "(animal)"},
+      {"def": "to endure, stand (verb)", "en": "I can't bear the noise.", "t": "(endure)"},
+      {"def": "to carry, support weight (verb)", "en": "The bridge bears heavy trucks.", "t": "(support)"},
+      {"def": "to keep in mind (bear in mind)", "en": "Bear in mind it's expensive.", "t": "(remember)"}
+    ],
+    "relTitle": "Often confused", "rel": ["bear vs bare", "bear vs stand", "bore vs born"],
+    "idiomTitle": "Phrases", "idioms": ["bear in mind", "bear with me", "can't bear"],
+    "quizQ": "What does “I can't bear the noise” mean?", "quizA": ["I can't endure the noise", "I can't carry the noise", "I can't hear the bear"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Subst. / Verb", "title": "Was bedeutet bear? (4 Bedeutungen)",
+    "metaDesc": "Was bedeutet bear? 4 Bedeutungen: Bär, ertragen, tragen, im Kopf behalten. bear/bore/borne — LinguaBattle.",
+    "lede": "<b>bear</b> ist ein kniffliges Wort: es bedeutet sowohl „Bär“ (Tier) als auch „ertragen/tragen“ (Verb). Deshalb verwirrt es. Unregelmäßig: bear → bore → borne.",
+    "means": [
+      {"def": "Bär (Tier, Subst.)", "en": "We saw a bear in the forest.", "t": "(Tier)"},
+      {"def": "ertragen, aushalten (Verb)", "en": "I can't bear the noise.", "t": "(ertragen)"},
+      {"def": "tragen, Gewicht halten (Verb)", "en": "The bridge bears heavy trucks.", "t": "(tragen)"},
+      {"def": "im Kopf behalten (bear in mind)", "en": "Bear in mind it's expensive.", "t": "(beachten)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["bear vs bare", "bear vs stand", "bore vs born"],
+    "idiomTitle": "Redewendungen", "idioms": ["bear in mind", "bear with me", "can't bear"],
+    "quizQ": "Was bedeutet „I can't bear the noise“?", "quizA": ["Ich kann den Lärm nicht ertragen", "Ich kann den Lärm nicht tragen", "Ich höre den Bären nicht"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "nom / verbe", "title": "Que signifie bear ? (4 sens)",
+    "metaDesc": "Que signifie bear ? 4 sens : ours, supporter, porter, garder à l'esprit. bear/bore/borne — LinguaBattle.",
+    "lede": "<b>bear</b> est un mot délicat : il signifie à la fois « ours » (animal) et « supporter/porter » (verbe). C'est pourquoi il déroute. Irrégulier : bear → bore → borne.",
+    "means": [
+      {"def": "ours (animal, nom)", "en": "We saw a bear in the forest.", "t": "(animal)"},
+      {"def": "supporter, endurer (verbe)", "en": "I can't bear the noise.", "t": "(supporter)"},
+      {"def": "porter, soutenir un poids (verbe)", "en": "The bridge bears heavy trucks.", "t": "(soutenir)"},
+      {"def": "garder à l'esprit (bear in mind)", "en": "Bear in mind it's expensive.", "t": "(retenir)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["bear vs bare", "bear vs stand", "bore vs born"],
+    "idiomTitle": "Expressions", "idioms": ["bear in mind", "bear with me", "can't bear"],
+    "quizQ": "Que veut dire « I can't bear the noise » ?", "quizA": ["Je ne supporte pas le bruit", "Je ne peux pas porter le bruit", "Je n'entends pas l'ours"], "quizOk": 0
+  },
+  "es": {
+    "pos": "sust. / verbo", "title": "¿Qué significa bear? (4 significados)",
+    "metaDesc": "¿Qué significa bear? 4 significados: oso, soportar, llevar, tener en cuenta. bear/bore/borne — LinguaBattle.",
+    "lede": "<b>bear</b> es una palabra engañosa: significa tanto «oso» (animal) como «soportar/llevar» (verbo). Por eso confunde. Irregular: bear → bore → borne.",
+    "means": [
+      {"def": "oso (animal, sust.)", "en": "We saw a bear in the forest.", "t": "(animal)"},
+      {"def": "soportar, aguantar (verbo)", "en": "I can't bear the noise.", "t": "(soportar)"},
+      {"def": "llevar, sostener peso (verbo)", "en": "The bridge bears heavy trucks.", "t": "(sostener)"},
+      {"def": "tener en cuenta (bear in mind)", "en": "Bear in mind it's expensive.", "t": "(recordar)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["bear vs bare", "bear vs stand", "bore vs born"],
+    "idiomTitle": "Expresiones", "idioms": ["bear in mind", "bear with me", "can't bear"],
+    "quizQ": "¿Qué significa «I can't bear the noise»?", "quizA": ["No soporto el ruido", "No puedo llevar el ruido", "No oigo al oso"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "اسم / فعل", "title": "ماذا تعني bear؟ (4 معانٍ)",
+    "metaDesc": "ماذا تعني bear؟ 4 معانٍ: دبّ، يتحمّل، يحمل، يضع في الاعتبار. bear/bore/borne — LinguaBattle.",
+    "lede": "<b>bear</b> كلمة مخادعة: تعني «دبّ» (حيوان) و«يتحمّل/يحمل» (فعل) في آنٍ واحد. لذلك تُربك المتعلّمين. شاذ: bear → bore → borne.",
+    "means": [
+      {"def": "دبّ (حيوان، اسم)", "en": "We saw a bear in the forest.", "t": "(حيوان)"},
+      {"def": "يتحمّل، يطيق (فعل)", "en": "I can't bear the noise.", "t": "(يتحمّل)"},
+      {"def": "يحمل، يتحمّل وزنًا (فعل)", "en": "The bridge bears heavy trucks.", "t": "(يحمل)"},
+      {"def": "يضع في الاعتبار (bear in mind)", "en": "Bear in mind it's expensive.", "t": "(يتذكّر)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["bear vs bare", "bear vs stand", "bore vs born"],
+    "idiomTitle": "عبارات", "idioms": ["bear in mind", "bear with me", "can't bear"],
+    "quizQ": "ماذا تعني «I can't bear the noise»؟", "quizA": ["لا أطيق الضجيج", "لا أستطيع حمل الضجيج", "لا أسمع الدبّ"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "संज्ञा / क्रिया", "title": "bear का क्या मतलब है? (4 अर्थ)",
+    "metaDesc": "bear का क्या मतलब है? 4 अर्थ: भालू, सहना, उठाना, ध्यान रखना। bear/bore/borne — LinguaBattle.",
+    "lede": "<b>bear</b> एक मुश्किल शब्द है: इसका मतलब “भालू” (जानवर) भी है और “सहना/उठाना” (क्रिया) भी। इसीलिए यह उलझन पैदा करता है। अनियमित: bear → bore → borne.",
+    "means": [
+      {"def": "भालू (जानवर, संज्ञा)", "en": "We saw a bear in the forest.", "t": "(जानवर)"},
+      {"def": "सहना, बर्दाश्त करना (क्रिया)", "en": "I can't bear the noise.", "t": "(सहना)"},
+      {"def": "उठाना, वज़न सहना (क्रिया)", "en": "The bridge bears heavy trucks.", "t": "(सहना)"},
+      {"def": "ध्यान में रखना (bear in mind)", "en": "Bear in mind it's expensive.", "t": "(याद रखना)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["bear vs bare", "bear vs stand", "bore vs born"],
+    "idiomTitle": "वाक्यांश", "idioms": ["bear in mind", "bear with me", "can't bear"],
+    "quizQ": "“I can't bear the noise” का क्या अर्थ है?", "quizA": ["मैं शोर सहन नहीं कर सकता", "मैं शोर उठा नहीं सकता", "मैं भालू को सुन नहीं सकता"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "сущ. / глагол", "title": "Что значит bear? (4 значения)",
+    "metaDesc": "Что значит bear? 4 значения: медведь, терпеть, нести, иметь в виду. bear/bore/borne — LinguaBattle.",
+    "lede": "<b>bear</b> — коварное слово: значит и «медведь» (животное), и «терпеть/нести» (глагол). Поэтому путает. Неправильный: bear → bore → borne.",
+    "means": [
+      {"def": "медведь (животное, сущ.)", "en": "We saw a bear in the forest.", "t": "(животное)"},
+      {"def": "терпеть, выносить (глагол)", "en": "I can't bear the noise.", "t": "(терпеть)"},
+      {"def": "нести, выдерживать вес (глагол)", "en": "The bridge bears heavy trucks.", "t": "(выдерживать)"},
+      {"def": "иметь в виду (bear in mind)", "en": "Bear in mind it's expensive.", "t": "(помнить)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["bear vs bare", "bear vs stand", "bore vs born"],
+    "idiomTitle": "Выражения", "idioms": ["bear in mind", "bear with me", "can't bear"],
+    "quizQ": "Что значит «I can't bear the noise»?", "quizA": ["Я не выношу шум", "Я не могу нести шум", "Я не слышу медведя"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "subst. / verbo", "title": "O que significa bear? (4 significados)",
+    "metaDesc": "O que significa bear? 4 significados: urso, suportar, sustentar, ter em mente. bear/bore/borne — LinguaBattle.",
+    "lede": "<b>bear</b> é uma palavra traiçoeira: significa tanto «urso» (animal) quanto «suportar/sustentar» (verbo). Por isso confunde. Irregular: bear → bore → borne.",
+    "means": [
+      {"def": "urso (animal, subst.)", "en": "We saw a bear in the forest.", "t": "(animal)"},
+      {"def": "suportar, aguentar (verbo)", "en": "I can't bear the noise.", "t": "(suportar)"},
+      {"def": "sustentar, aguentar peso (verbo)", "en": "The bridge bears heavy trucks.", "t": "(sustentar)"},
+      {"def": "ter em mente (bear in mind)", "en": "Bear in mind it's expensive.", "t": "(lembrar)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["bear vs bare", "bear vs stand", "bore vs born"],
+    "idiomTitle": "Expressões", "idioms": ["bear in mind", "bear with me", "can't bear"],
+    "quizQ": "O que significa «I can't bear the noise»?", "quizA": ["Não suporto o barulho", "Não consigo carregar o barulho", "Não ouço o urso"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "名詞 / 動詞", "title": "bearの意味は？（4つの意味）",
+    "metaDesc": "bearの意味は？4つの意味：クマ、耐える、支える、心に留める。bear/bore/borne — LinguaBattle.",
+    "lede": "<b>bear</b> は紛らわしい単語：「クマ」（動物）と「耐える／支える」（動詞）の両方の意味がある。だから学習者を混乱させる。不規則：bear → bore → borne。",
+    "means": [
+      {"def": "クマ（動物、名詞）", "en": "We saw a bear in the forest.", "t": "（動物）"},
+      {"def": "耐える、我慢する（動詞）", "en": "I can't bear the noise.", "t": "（耐える）"},
+      {"def": "支える、重さを担う（動詞）", "en": "The bridge bears heavy trucks.", "t": "（支える）"},
+      {"def": "心に留める（bear in mind）", "en": "Bear in mind it's expensive.", "t": "（覚えておく）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["bear vs bare", "bear vs stand", "bore vs born"],
+    "idiomTitle": "フレーズ", "idioms": ["bear in mind", "bear with me", "can't bear"],
+    "quizQ": "「I can't bear the noise」の意味は？", "quizA": ["騒音に耐えられない", "騒音を運べない", "クマが聞こえない"], "quizOk": 0
+  }
+}

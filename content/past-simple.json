@@ -1,0 +1,145 @@
+{
+  "word": "past simple",
+  "pron": "/pɑːst ˈsɪmpl/",
+  "category": "grammar",
+  "tr": {
+    "pos": "gramer (zaman)", "title": "Past Simple nedir? (geçmiş zaman)",
+    "metaDesc": "Past Simple nedir? Geçmiş zaman: V2 / -ed. Kullanımı, present perfect ile farkı — LinguaBattle.",
+    "lede": "<b>Past Simple</b> (geçmiş zaman), geçmişte belirli bir zamanda bitmiş olaylar için kullanılır. Düzenli fiiller <b>-ed</b> alır, düzensizler 2. hâle (V2) geçer.",
+    "means": [
+      {"def": "Düzenli fiil: fiil + -ed", "en": "I worked yesterday.", "t": "Dün çalıştım."},
+      {"def": "Düzensiz fiil: 2. hâl (go→went)", "en": "She went home.", "t": "Eve gitti."},
+      {"def": "Olumsuz/soru: did + yalın fiil", "en": "Did you see it? I didn't.", "t": "Onu gördün mü? Görmedim."},
+      {"def": "Present Perfect farkı: belirli geçmiş zaman", "en": "I saw him yesterday.", "t": "Onu dün gördüm. (belirli zaman → past simple)"}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["past simple vs present perfect", "was vs were", "did kullanımı"],
+    "idiomTitle": "Anahtar kelimeler", "idioms": ["yesterday, ago", "last week/year", "in 2010"],
+    "quizQ": "“go” fiilinin Past Simple hâli?", "quizA": ["went", "goed", "gone"], "quizOk": 0
+  },
+  "en": {
+    "pos": "grammar (tense)", "title": "What is the Past Simple?",
+    "metaDesc": "What is the Past Simple? Past tense: V2 / -ed. Use, and vs present perfect — LinguaBattle.",
+    "lede": "The <b>Past Simple</b> is used for actions finished at a specific time in the past. Regular verbs add <b>-ed</b>; irregular verbs use their past form (V2).",
+    "means": [
+      {"def": "Regular verb: verb + -ed", "en": "I worked yesterday.", "t": "(regular)"},
+      {"def": "Irregular verb: past form (go→went)", "en": "She went home.", "t": "(irregular)"},
+      {"def": "Negative/question: did + base verb", "en": "Did you see it? I didn't.", "t": "(did/didn't)"},
+      {"def": "vs Present Perfect: a specific past time", "en": "I saw him yesterday.", "t": "(specific time → past simple)"}
+    ],
+    "relTitle": "Often confused", "rel": ["past simple vs present perfect", "was vs were", "using did"],
+    "idiomTitle": "Keywords", "idioms": ["yesterday, ago", "last week/year", "in 2010"],
+    "quizQ": "Past Simple of “go”?", "quizA": ["went", "goed", "gone"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Grammatik (Zeitform)", "title": "Was ist das Past Simple?",
+    "metaDesc": "Was ist das Past Simple? Vergangenheit: V2 / -ed. Nutzung, vs Present Perfect — LinguaBattle.",
+    "lede": "Das <b>Past Simple</b> wird für Handlungen verwendet, die zu einem bestimmten Zeitpunkt in der Vergangenheit abgeschlossen wurden. Regelmäßige Verben: <b>-ed</b>; unregelmäßige: Vergangenheitsform (V2).",
+    "means": [
+      {"def": "Regelmäßig: Verb + -ed", "en": "I worked yesterday.", "t": "(regelmäßig)"},
+      {"def": "Unregelmäßig: Vergangenheitsform (go→went)", "en": "She went home.", "t": "(unregelmäßig)"},
+      {"def": "Verneinung/Frage: did + Grundform", "en": "Did you see it? I didn't.", "t": "(did/didn't)"},
+      {"def": "vs Present Perfect: bestimmte Vergangenheit", "en": "I saw him yesterday.", "t": "(feste Zeit → past simple)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["past simple vs present perfect", "was vs were", "did verwenden"],
+    "idiomTitle": "Signalwörter", "idioms": ["yesterday, ago", "last week/year", "in 2010"],
+    "quizQ": "Past Simple von „go“?", "quizA": ["went", "goed", "gone"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "grammaire (temps)", "title": "Qu'est-ce que le Past Simple ?",
+    "metaDesc": "Qu'est-ce que le Past Simple ? Passé : V2 / -ed. Usage, vs present perfect — LinguaBattle.",
+    "lede": "Le <b>Past Simple</b> s'emploie pour des actions terminées à un moment précis du passé. Verbes réguliers : <b>-ed</b> ; irréguliers : forme du passé (V2).",
+    "means": [
+      {"def": "Verbe régulier : verbe + -ed", "en": "I worked yesterday.", "t": "(régulier)"},
+      {"def": "Verbe irrégulier : forme passée (go→went)", "en": "She went home.", "t": "(irrégulier)"},
+      {"def": "Négation/question : did + base verbale", "en": "Did you see it? I didn't.", "t": "(did/didn't)"},
+      {"def": "vs Present Perfect : passé daté précis", "en": "I saw him yesterday.", "t": "(temps précis → past simple)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["past simple vs present perfect", "was vs were", "utiliser did"],
+    "idiomTitle": "Mots-clés", "idioms": ["yesterday, ago", "last week/year", "in 2010"],
+    "quizQ": "Past Simple de « go » ?", "quizA": ["went", "goed", "gone"], "quizOk": 0
+  },
+  "es": {
+    "pos": "gramática (tiempo)", "title": "¿Qué es el Past Simple?",
+    "metaDesc": "¿Qué es el Past Simple? Pasado: V2 / -ed. Uso, vs present perfect — LinguaBattle.",
+    "lede": "El <b>Past Simple</b> se usa para acciones terminadas en un momento concreto del pasado. Verbos regulares: <b>-ed</b>; irregulares: forma de pasado (V2).",
+    "means": [
+      {"def": "Verbo regular: verbo + -ed", "en": "I worked yesterday.", "t": "(regular)"},
+      {"def": "Verbo irregular: forma pasada (go→went)", "en": "She went home.", "t": "(irregular)"},
+      {"def": "Negativo/pregunta: did + verbo base", "en": "Did you see it? I didn't.", "t": "(did/didn't)"},
+      {"def": "vs Present Perfect: pasado concreto", "en": "I saw him yesterday.", "t": "(tiempo concreto → past simple)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["past simple vs present perfect", "was vs were", "usar did"],
+    "idiomTitle": "Palabras clave", "idioms": ["yesterday, ago", "last week/year", "in 2010"],
+    "quizQ": "¿Past Simple de «go»?", "quizA": ["went", "goed", "gone"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "قواعد (زمن)", "title": "ما هو Past Simple؟",
+    "metaDesc": "ما هو Past Simple؟ الماضي البسيط: V2 / -ed. الاستخدام، مقابل present perfect — LinguaBattle.",
+    "lede": "<b>Past Simple</b> يُستخدم للأحداث المنتهية في وقت محدّد في الماضي. الأفعال المنتظمة: <b>-ed</b>؛ الشاذة: صيغة الماضي (V2).",
+    "means": [
+      {"def": "فعل منتظم: الفعل + -ed", "en": "I worked yesterday.", "t": "(منتظم)"},
+      {"def": "فعل شاذ: صيغة الماضي (go→went)", "en": "She went home.", "t": "(شاذ)"},
+      {"def": "النفي/السؤال: did + الفعل المجرّد", "en": "Did you see it? I didn't.", "t": "(did/didn't)"},
+      {"def": "مقابل Present Perfect: زمن ماضٍ محدّد", "en": "I saw him yesterday.", "t": "(زمن محدّد → past simple)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["past simple vs present perfect", "was vs were", "استخدام did"],
+    "idiomTitle": "كلمات مفتاحية", "idioms": ["yesterday, ago", "last week/year", "in 2010"],
+    "quizQ": "صيغة Past Simple للفعل «go»؟", "quizA": ["went", "goed", "gone"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "व्याकरण (काल)", "title": "Past Simple क्या है?",
+    "metaDesc": "Past Simple क्या है? भूतकाल: V2 / -ed। प्रयोग, present perfect से अंतर — LinguaBattle.",
+    "lede": "<b>Past Simple</b> भूत में किसी निश्चित समय पर पूरे हुए कामों के लिए इस्तेमाल होता है। नियमित क्रियाएँ <b>-ed</b> लेती हैं; अनियमित दूसरा रूप (V2)।",
+    "means": [
+      {"def": "नियमित क्रिया: क्रिया + -ed", "en": "I worked yesterday.", "t": "(नियमित)"},
+      {"def": "अनियमित क्रिया: भूत रूप (go→went)", "en": "She went home.", "t": "(अनियमित)"},
+      {"def": "नकार/प्रश्न: did + मूल क्रिया", "en": "Did you see it? I didn't.", "t": "(did/didn't)"},
+      {"def": "Present Perfect से अंतर: निश्चित बीता समय", "en": "I saw him yesterday.", "t": "(निश्चित समय → past simple)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["past simple vs present perfect", "was vs were", "did का प्रयोग"],
+    "idiomTitle": "मुख्य शब्द", "idioms": ["yesterday, ago", "last week/year", "in 2010"],
+    "quizQ": "“go” का Past Simple रूप?", "quizA": ["went", "goed", "gone"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "грамматика (время)", "title": "Что такое Past Simple?",
+    "metaDesc": "Что такое Past Simple? Простое прошедшее: V2 / -ed. Использование, vs present perfect — LinguaBattle.",
+    "lede": "<b>Past Simple</b> используется для действий, завершённых в конкретный момент прошлого. Правильные глаголы: <b>-ed</b>; неправильные: форма прошедшего (V2).",
+    "means": [
+      {"def": "Правильный глагол: глагол + -ed", "en": "I worked yesterday.", "t": "(правильный)"},
+      {"def": "Неправильный: форма прошедшего (go→went)", "en": "She went home.", "t": "(неправильный)"},
+      {"def": "Отрицание/вопрос: did + база", "en": "Did you see it? I didn't.", "t": "(did/didn't)"},
+      {"def": "vs Present Perfect: конкретное прошлое", "en": "I saw him yesterday.", "t": "(конкретное время → past simple)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["past simple vs present perfect", "was vs were", "использование did"],
+    "idiomTitle": "Ключевые слова", "idioms": ["yesterday, ago", "last week/year", "in 2010"],
+    "quizQ": "Past Simple глагола «go»?", "quizA": ["went", "goed", "gone"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "gramática (tempo)", "title": "O que é o Past Simple?",
+    "metaDesc": "O que é o Past Simple? Passado simples: V2 / -ed. Uso, vs present perfect — LinguaBattle.",
+    "lede": "O <b>Past Simple</b> é usado para ações terminadas num momento específico do passado. Verbos regulares: <b>-ed</b>; irregulares: forma do passado (V2).",
+    "means": [
+      {"def": "Verbo regular: verbo + -ed", "en": "I worked yesterday.", "t": "(regular)"},
+      {"def": "Verbo irregular: forma passada (go→went)", "en": "She went home.", "t": "(irregular)"},
+      {"def": "Negativa/pergunta: did + verbo base", "en": "Did you see it? I didn't.", "t": "(did/didn't)"},
+      {"def": "vs Present Perfect: passado específico", "en": "I saw him yesterday.", "t": "(tempo específico → past simple)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["past simple vs present perfect", "was vs were", "usar did"],
+    "idiomTitle": "Palavras-chave", "idioms": ["yesterday, ago", "last week/year", "in 2010"],
+    "quizQ": "Past Simple de «go»?", "quizA": ["went", "goed", "gone"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "文法 (時制)", "title": "Past Simpleとは？",
+    "metaDesc": "Past Simpleとは？過去形：V2 / -ed。使い方、present perfectとの違い — LinguaBattle.",
+    "lede": "<b>Past Simple</b>（過去形）は、過去の特定の時点で終わった動作に使う。規則動詞は<b>-ed</b>、不規則動詞は過去形（V2）。",
+    "means": [
+      {"def": "規則動詞：動詞 + -ed", "en": "I worked yesterday.", "t": "（規則）"},
+      {"def": "不規則動詞：過去形（go→went）", "en": "She went home.", "t": "（不規則）"},
+      {"def": "否定/疑問：did + 原形", "en": "Did you see it? I didn't.", "t": "（did/didn't）"},
+      {"def": "Present Perfectとの違い：明確な過去の時", "en": "I saw him yesterday.", "t": "（明確な時 → past simple）"}
+    ],
+    "relTitle": "混同しやすい点", "rel": ["past simple vs present perfect", "was vs were", "didの使い方"],
+    "idiomTitle": "目印の語", "idioms": ["yesterday, ago", "last week/year", "in 2010"],
+    "quizQ": "「go」のPast Simpleは？", "quizA": ["went", "goed", "gone"], "quizOk": 0
+  }
+}

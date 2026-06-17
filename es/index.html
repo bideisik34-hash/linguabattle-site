@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LinguaBattle — Palabras</title>
+<meta name="description" content="Significados, ejemplos y formas. Luego fíjalas con un duelo en la app.">
+<link rel="canonical" href="https://linguabattle.net/es/">
+<link rel="alternate" hreflang="tr" href="https://linguabattle.net/tr/">
+<link rel="alternate" hreflang="en" href="https://linguabattle.net/en/">
+<link rel="alternate" hreflang="de" href="https://linguabattle.net/de/">
+<link rel="alternate" hreflang="fr" href="https://linguabattle.net/fr/">
+<link rel="alternate" hreflang="es" href="https://linguabattle.net/es/">
+<link rel="alternate" hreflang="ar" href="https://linguabattle.net/ar/">
+<link rel="alternate" hreflang="hi" href="https://linguabattle.net/hi/">
+<link rel="alternate" hreflang="ru" href="https://linguabattle.net/ru/">
+<link rel="alternate" hreflang="pt" href="https://linguabattle.net/pt/">
+<link rel="alternate" hreflang="ja" href="https://linguabattle.net/ja/">
+<link rel="alternate" hreflang="x-default" href="https://linguabattle.net/en/">
+<meta property="og:title" content="LinguaBattle">
+<meta property="og:description" content="Significados, ejemplos y formas. Luego fíjalas con un duelo en la app.">
+<meta property="og:image" content="https://linguabattle.net/assets/logo-icon.png">
+<link rel="icon" type="image/png" href="/assets/logo-icon.png">
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Be+Vietnam+Pro:wght@300;400;500&display=swap" rel="stylesheet">
+<style>*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Be Vietnam Pro',-apple-system,sans-serif;background:#000E23;color:#D9E6FF;line-height:1.6}
+h1,h2,h3,.head{font-family:'Plus Jakarta Sans',sans-serif}
+a{color:#81ECFF;text-decoration:none}
+.topbar{position:sticky;top:0;z-index:20;display:flex;align-items:center;justify-content:space-between;padding:14px 24px;background:rgba(0,14,35,.85);backdrop-filter:blur(12px);border-bottom:1px solid #384962}
+.logo{display:flex;align-items:center;gap:9px;font-family:'Plus Jakarta Sans';font-weight:800;font-size:1.15rem;background:linear-gradient(90deg,#A3FE00,#00E3FD);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.logo img{height:30px;width:auto;display:block;filter:invert(1) brightness(1.6)}
+select{background:#04203E;color:#D9E6FF;border:1px solid #384962;border-radius:8px;padding:7px 10px;font-family:inherit;font-size:.85rem;cursor:pointer}
+.layout{max-width:1080px;margin:0 auto;padding:32px 24px;display:grid;grid-template-columns:1fr 300px;gap:32px;align-items:start}
+@media(max-width:860px){.layout{grid-template-columns:1fr;gap:24px}}
+.content{min-width:0}
+.crumb{font-size:.8rem;color:#9BACCA;margin-bottom:14px}
+h1{font-size:2.3rem;font-weight:800;line-height:1.15;margin-bottom:6px}
+h1 .word{background:linear-gradient(90deg,#A3FE00,#00E3FD);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.pron{display:flex;gap:12px;align-items:center;color:#9BACCA;font-size:.95rem;margin-bottom:18px;flex-wrap:wrap}
+.tag{background:#072647;border:1px solid #384962;border-radius:20px;padding:3px 12px;font-size:.78rem}
+.speak{background:#04203E;border:1px solid #00E3FD;color:#81ECFF;border-radius:20px;padding:4px 13px;font-size:.8rem;cursor:pointer}
+.lede{font-size:1.05rem;color:#9BACCA;margin-bottom:28px;padding-bottom:24px;border-bottom:1px solid #384962}
+.sec{margin-bottom:30px}
+.sec h2{font-size:1.25rem;font-weight:700;margin-bottom:14px;display:flex;align-items:center;gap:8px}
+.mean{background:#011A36;border:1px solid #384962;border-radius:14px;padding:16px 18px;margin-bottom:12px}
+.mean .n{display:inline-block;min-width:24px;height:24px;line-height:24px;text-align:center;border-radius:7px;background:#A3FE00;color:#3F6600;font-weight:700;font-size:.8rem;margin-right:8px}
+.mean .def{font-weight:600;color:#D9E6FF;font-size:1.02rem}
+.mean .ex{margin-top:8px;padding-left:32px;color:#9BACCA}
+.mean .ex .en{color:#DDFFAF;font-style:italic}
+table{width:100%;border-collapse:collapse;background:#011A36;border:1px solid #384962;border-radius:14px;overflow:hidden}
+th,td{padding:11px 14px;text-align:left;border-bottom:1px solid #384962;font-size:.95rem}
+th{background:#072647;font-family:'Plus Jakarta Sans';font-weight:600;color:#81ECFF}
+tr:last-child td{border-bottom:none}
+.warn{color:#FD8B00}
+.chips{display:flex;flex-wrap:wrap;gap:10px}
+.chip{background:#04203E;border:1px solid #384962;border-radius:10px;padding:9px 14px;font-size:.9rem}
+.chip:hover{border-color:#A3FE00;color:#DDFFAF}
+.quiz{background:#011A36;border:1px solid #00E3FD;border-radius:14px;padding:18px}
+.quiz .q{font-weight:600;margin-bottom:12px}
+.quiz button{display:block;width:100%;text-align:left;background:#04203E;border:1px solid #384962;color:#D9E6FF;border-radius:9px;padding:11px 14px;margin-bottom:8px;font-family:inherit;font-size:.92rem;cursor:pointer}
+.quiz button:hover{border-color:#00E3FD}
+.quiz button.ok{background:rgba(163,254,0,.15);border-color:#A3FE00;color:#DDFFAF}
+.quiz button.no{background:rgba(255,113,108,.12);border-color:#FF716C;color:#FF716C}
+.appcol{position:sticky;top:80px}
+@media(max-width:860px){.appcol{position:static}}
+.appcard{background:linear-gradient(160deg,#04203E,#011A36);border:1px solid #384962;border-radius:18px;padding:22px;text-align:center}
+.appcard .badge{font-size:2.4rem}
+.appcard h3{font-family:'Plus Jakarta Sans';font-weight:800;font-size:1.15rem;margin:10px 0 4px}
+.appcard p{color:#9BACCA;font-size:.88rem;margin-bottom:16px}
+.store{display:block;background:#A3FE00;color:#3F6600;font-weight:700;font-family:'Plus Jakarta Sans';border-radius:11px;padding:12px;margin-bottom:9px;box-shadow:0 0 24px rgba(163,254,0,.28)}
+.store.alt{background:#072647;color:#D9E6FF;box-shadow:none;border:1px solid #384962}
+.duel{margin-top:16px;padding-top:16px;border-top:1px solid #384962;font-size:.82rem;color:#9BACCA}
+.duel b{color:#81ECFF}
+footer{max-width:1080px;margin:0 auto;padding:32px 24px;border-top:1px solid #384962;color:#9BACCA;font-size:.82rem}
+.hero{max-width:820px;margin:0 auto;padding:56px 24px 24px;text-align:center}
+.hero h1{font-size:2.4rem;font-weight:800;line-height:1.15;margin-bottom:14px}
+.hero h1 .g{background:linear-gradient(90deg,#A3FE00,#00E3FD);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.hero p{color:#9BACCA;font-size:1.1rem;max-width:540px;margin:0 auto 24px}
+.searchwrap{max-width:540px;margin:0 auto;position:relative;text-align:start}
+#search{width:100%;background:#011A36;border:1px solid #384962;color:#D9E6FF;border-radius:14px;padding:14px 18px;font-family:inherit;font-size:1.05rem}
+#search:focus{outline:none;border-color:#A3FE00}
+#results{position:absolute;left:0;right:0;top:60px;background:#04203E;border:1px solid #384962;border-radius:14px;overflow:hidden;z-index:30;display:none}
+#results a{display:flex;justify-content:space-between;gap:12px;padding:12px 16px;color:#D9E6FF;border-bottom:1px solid #072647}
+#results a:hover{background:#072647}
+#results .rw{font-family:'Plus Jakarta Sans';font-weight:700;color:#DDFFAF}
+#results .rd{color:#9BACCA;font-size:.85rem}
+.section{max-width:1000px;margin:0 auto;padding:32px 24px}
+.section h2{font-size:1.4rem;font-weight:700;margin-bottom:18px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:16px}
+.wcard{display:block;background:#011A36;border:1px solid #384962;border-radius:16px;padding:20px;transition:.18s}
+.wcard:hover{border-color:#A3FE00;transform:translateY(-2px)}
+.wcard .w{font-family:'Plus Jakarta Sans';font-weight:800;font-size:1.4rem;background:linear-gradient(90deg,#A3FE00,#00E3FD);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.wcard .cat{display:inline-block;margin-top:6px;font-size:.72rem;color:#81ECFF;background:#072647;border:1px solid #384962;border-radius:20px;padding:2px 10px}
+.wcard .d{margin-top:10px;color:#9BACCA;font-size:.9rem}
+</style>
+</head>
+<body>
+<div class="topbar">
+  <a class="logo" href="/es/"><img src="/assets/logo.svg" alt="LinguaBattle" width="30" height="30"><span>LinguaBattle</span></a>
+  <select onchange="location.href=this.value"><option value="/tr/">🇹🇷 Türkçe</option><option value="/en/">🇬🇧 English</option><option value="/de/">🇩🇪 Deutsch</option><option value="/fr/">🇫🇷 Français</option><option value="/es/" selected>🇪🇸 Español</option><option value="/ar/">🇸🇦 العربية</option><option value="/hi/">🇮🇳 हिन्दी</option><option value="/ru/">🇷🇺 Русский</option><option value="/pt/">🇵🇹 Português</option><option value="/ja/">🇯🇵 日本語</option></select>
+</div>
+<div class="hero">
+  <h1>Las palabras inglesas más <span class='g'>confusas</span></h1>
+  <p>Significados, ejemplos y formas. Luego fíjalas con un duelo en la app.</p>
+  <div class="searchwrap"><input id="search" type="text" autocomplete="off" placeholder="🔍 Buscar una palabra…"><div id="results"></div></div>
+</div>
+<div class="section">
+  <a href="/es/test-de-nivel-ingles" style="display:block;background:linear-gradient(135deg,#04203E,#011A36);border:1px solid #A3FE00;border-radius:18px;padding:24px;text-align:center;box-shadow:0 0 32px rgba(163,254,0,.12)">
+    <div style="font-family:'Plus Jakarta Sans';font-weight:800;font-size:1.4rem;margin-bottom:6px">📊 Test de Nivel de Inglés</div>
+    <div style="color:#9BACCA;margin-bottom:4px">Descubre tu nivel en 20 preguntas — gratis, sin registro.</div>
+    <div style="color:#A3FE00;font-weight:600">Empezar →</div>
+  </a>
+</div>
+<div class="section">
+  <h2>Todos los temas</h2>
+  <div class="grid"><a class="wcard" href="/es/palabra/a-an-the"><div class="w">a / an / the</div><span class="cat">grammar</span><div class="d">a = singular antes de sonido consonante</div></a><a class="wcard" href="/es/palabra/actually"><div class="w">actually</div><span class="cat">confusing</span><div class="d">en realidad, de hecho (contra lo esperado)</div></a><a class="wcard" href="/es/palabra/align"><div class="w">align</div><span class="cat">work</span><div class="d">ponerse de acuerdo, alinearse (trabajo)</div></a><a class="wcard" href="/es/palabra/assist"><div class="w">assist</div><span class="cat">confusing</span><div class="d">ayudar, asistir (ayudando)</div></a><a class="wcard" href="/es/palabra/async"><div class="w">async</div><span class="cat">work</span><div class="d">Asíncrono (comunicación/trabajo)</div></a><a class="wcard" href="/es/palabra/attend"><div class="w">attend</div><span class="cat">confusing</span><div class="d">asistir a, estar presente en</div></a><a class="wcard" href="/es/palabra/months"><div class="w">months</div><span class="cat">basics</span><div class="d">January /ˈdʒænjuəri/</div></a><a class="wcard" href="/es/palabra/bear"><div class="w">bear</div><span class="cat">verb</span><div class="d">oso (animal, sust.)</div></a><a class="wcard" href="/es/palabra/brain-rot"><div class="w">brain rot</div><span class="cat">genz</span><div class="d">Niebla mental por contenido basura</div></a><a class="wcard" href="/es/palabra/break"><div class="w">break</div><span class="cat">verb</span><div class="d">romper, romperse</div></a><a class="wcard" href="/es/palabra/can-could"><div class="w">can / could</div><span class="cat">grammar</span><div class="d">can = capacidad presente</div></a><a class="wcard" href="/es/palabra/charge"><div class="w">charge</div><span class="cat">verb</span><div class="d">cobrar / tarifa (dinero)</div></a><a class="wcard" href="/es/palabra/colors"><div class="w">colors</div><span class="cat">basics</span><div class="d">red /red/</div></a><a class="wcard" href="/es/palabra/cringe"><div class="w">cringe</div><span class="cat">genz</span><div class="d">vergonzoso, incómodo (adj., jerga)</div></a><a class="wcard" href="/es/palabra/deadline"><div class="w">deadline</div><span class="cat">work</span><div class="d">fecha límite, plazo</div></a><a class="wcard" href="/es/palabra/delulu"><div class="w">delulu</div><span class="cat">genz</span><div class="d">Poco realista, desconectado de la realidad (en broma)</div></a><a class="wcard" href="/es/palabra/draw"><div class="w">draw</div><span class="cat">verb</span><div class="d">dibujar (imagen)</div></a><a class="wcard" href="/es/palabra/embarrassed"><div class="w">embarrassed</div><span class="cat">confusing</span><div class="d">avergonzado, apenado</div></a><a class="wcard" href="/es/palabra/eventually"><div class="w">eventually</div><span class="cat">confusing</span><div class="d">al final, finalmente</div></a><a class="wcard" href="/es/palabra/exit"><div class="w">exit</div><span class="cat">confusing</span><div class="d">salida</div></a><a class="wcard" href="/es/palabra/flex"><div class="w">flex</div><span class="cat">genz</span><div class="d">presumir, alardear (jerga)</div></a><a class="wcard" href="/es/palabra/gatekeeping"><div class="w">gatekeeping</div><span class="cat">genz</span><div class="d">Ocultar información/tendencias a los demás</div></a><a class="wcard" href="/es/palabra/generate"><div class="w">generate</div><span class="cat">ai</span><div class="d">producir, crear (IA: producir contenido)</div></a><a class="wcard" href="/es/palabra/get"><div class="w">get</div><span class="cat">verb</span><div class="d">obtener / recibir</div></a><a class="wcard" href="/es/palabra/ghosting"><div class="w">ghosting</div><span class="cat">genz</span><div class="d">Ignorar de repente a alguien sin explicación</div></a><a class="wcard" href="/es/palabra/good-morning-good-night"><div class="w">good morning / good night</div><span class="cat">phrases</span><div class="d">Good morning. (por la mañana)</div></a><a class="wcard" href="/es/palabra/days"><div class="w">days</div><span class="cat">basics</span><div class="d">Monday /ˈmʌndeɪ/</div></a><a class="wcard" href="/es/palabra/hold"><div class="w">hold</div><span class="cat">verb</span><div class="d">sostener, agarrar (en la mano)</div></a><a class="wcard" href="/es/palabra/how-are-you"><div class="w">how are you</div><span class="cat">phrases</span><div class="d">How are you? (la más común, neutra)</div></a><a class="wcard" href="/es/palabra/how-much-how-many"><div class="w">how much / how many</div><span class="cat">phrases</span><div class="d">How much is it? (preguntar el precio)</div></a><a class="wcard" href="/es/palabra/in-on-at"><div class="w">in / on / at</div><span class="cat">grammar</span><div class="d">TIEMPO — in: mes, año, estación</div></a><a class="wcard" href="/es/palabra/introduce-yourself"><div class="w">introduce yourself</div><span class="cat">phrases</span><div class="d">Nombre: Hi, I&#x27;m... / My name is...</div></a><a class="wcard" href="/es/palabra/library"><div class="w">library</div><span class="cat">confusing</span><div class="d">biblioteca (se prestan libros)</div></a><a class="wcard" href="/es/palabra/light"><div class="w">light</div><span class="cat">verb</span><div class="d">luz (sust.)</div></a><a class="wcard" href="/es/palabra/make"><div class="w">make</div><span class="cat">verb</span><div class="d">make = producir, crear (resulta algo)</div></a><a class="wcard" href="/es/palabra/match"><div class="w">match</div><span class="cat">verb</span><div class="d">partido, encuentro (sust.)</div></a><a class="wcard" href="/es/palabra/much-many"><div class="w">much / many</div><span class="cat">grammar</span><div class="d">many = sustantivos contables (plural)</div></a><a class="wcard" href="/es/palabra/past-simple"><div class="w">past simple</div><span class="cat">grammar</span><div class="d">Verbo regular: verbo + -ed</div></a><a class="wcard" href="/es/palabra/point"><div class="w">point</div><span class="cat">verb</span><div class="d">punta (sust.)</div></a><a class="wcard" href="/es/palabra/pov"><div class="w">POV</div><span class="cat">genz</span><div class="d">punto de vista (la forma completa)</div></a><a class="wcard" href="/es/palabra/present-perfect"><div class="w">present perfect</div><span class="cat">grammar</span><div class="d">Forma: have/has + participio (V3)</div></a><a class="wcard" href="/es/palabra/prompt"><div class="w">prompt</div><span class="cat">ai</span><div class="d">instrucción dada a una IA</div></a><a class="wcard" href="/es/palabra/reach-out"><div class="w">reach out</div><span class="cat">work</span><div class="d">contactar a alguien, ponerse en contacto</div></a><a class="wcard" href="/es/palabra/realize"><div class="w">realize</div><span class="cat">confusing</span><div class="d">darse cuenta, percatarse</div></a><a class="wcard" href="/es/palabra/red-flag"><div class="w">red flag</div><span class="cat">genz</span><div class="d">señal de alarma, advertencia</div></a><a class="wcard" href="/es/palabra/rizz"><div class="w">rizz</div><span class="cat">genz</span><div class="d">Encanto, carisma, capacidad de atraer</div></a><a class="wcard" href="/es/palabra/run"><div class="w">run</div><span class="cat">verb</span><div class="d">correr</div></a><a class="wcard" href="/es/palabra/say"><div class="w">say</div><span class="cat">verb</span><div class="d">say = decir (sin persona)</div></a><a class="wcard" href="/es/palabra/numbers"><div class="w">numbers</div><span class="cat">basics</span><div class="d">1 one, 2 two, 3 three</div></a><a class="wcard" href="/es/palabra/sensible"><div class="w">sensible</div><span class="cat">confusing</span><div class="d">sensato, razonable</div></a><a class="wcard" href="/es/palabra/set"><div class="w">set</div><span class="cat">verb</span><div class="d">poner, colocar</div></a><a class="wcard" href="/es/palabra/since-for"><div class="w">since / for</div><span class="cat">grammar</span><div class="d">for = duración (cuánto tiempo)</div></a><a class="wcard" href="/es/palabra/slay"><div class="w">slay</div><span class="cat">genz</span><div class="d">arrasar, hacerlo genial (jerga)</div></a><a class="wcard" href="/es/palabra/take"><div class="w">take</div><span class="cat">verb</span><div class="d">tomar (en la mano)</div></a><a class="wcard" href="/es/palabra/thank-you"><div class="w">thank you</div><span class="cat">phrases</span><div class="d">Thank you. (la más común)</div></a><a class="wcard" href="/es/palabra/this-that-these-those"><div class="w">this / that / these / those</div><span class="cat">grammar</span><div class="d">this = cerca, singular</div></a><a class="wcard" href="/es/palabra/turn"><div class="w">turn</div><span class="cat">verb</span><div class="d">girar, cambiar de dirección</div></a><a class="wcard" href="/es/palabra/vibe"><div class="w">vibe</div><span class="cat">genz</span><div class="d">ambiente, energía, onda (sust.)</div></a><a class="wcard" href="/es/palabra/will-going-to"><div class="w">will / going to</div><span class="cat">grammar</span><div class="d">will = decisión tomada ahora</div></a></div>
+</div>
+<footer>© 2026 LinguaBattle</footer>
+<script>
+const LANG='es';let WORDS=[];
+fetch('/words-index.json').then(r=>r.json()).then(d=>{WORDS=d;}).catch(()=>{});
+const inp=document.getElementById('search'),box=document.getElementById('results');
+inp.addEventListener('input',()=>{const q=inp.value.trim().toLowerCase();if(!q){box.style.display='none';return;}
+const hits=WORDS.filter(w=>w.word.toLowerCase().includes(q)).slice(0,8);
+if(!hits.length){box.innerHTML='';box.style.display='none';return;}
+box.innerHTML=hits.map(w=>{const p=(w.paths&&w.paths[LANG])||(w.paths&&w.paths.en)||'#';const d=(w.desc&&w.desc[LANG])||'';return `<a href="${p}"><span class="rw">${w.word}</span><span class="rd">${d}</span></a>`;}).join('');
+box.style.display='block';});
+document.addEventListener('click',e=>{if(!e.target.closest('.searchwrap'))box.style.display='none';});
+</script>
+</body>
+</html>

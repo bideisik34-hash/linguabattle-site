@@ -1,0 +1,125 @@
+{
+  "word": "async",
+  "pron": "/ˈeɪsɪŋk/",
+  "category": "work",
+  "tr": {
+    "pos": "kısaltma / sıfat", "title": "async ne demek?",
+    "metaDesc": "async ne demek? Uzaktan çalışmada eş zamanlı olmayan iletişim. Anlamı, örnek cümleler ve iş kalıpları — LinguaBattle.",
+    "lede": "<b>async</b>, “asynchronous” (eş zamansız) kelimesinin kısaltmasıdır. Uzaktan çalışmada, herkesin aynı anda online olmadan, mesajlara sonradan cevap verilen iletişim biçimini anlatır.",
+    "means": [
+      {"def": "Eş zamanlı olmayan (iletişim/çalışma)", "en": "Let's keep it async, no meeting needed.", "t": "Eş zamansız tutalım, toplantıya gerek yok."},
+      {"def": "Anında cevap beklenmeyen (mesaj/iş akışı)", "en": "Our team works async across time zones.", "t": "Ekibimiz farklı saat dilimlerinde eş zamansız çalışır."}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["async vs sync", "real-time", "remote work"],
+    "idiomTitle": "İş kalıpları", "idioms": ["async meeting", "async update", "work async"],
+    "quizQ": "“Let's keep it async” ne demek?", "quizA": ["Eş zamansız (canlı toplantısız) yürütelim", "Hızlı yapalım", "İptal edelim"], "quizOk": 0
+  },
+  "en": {
+    "pos": "abbreviation / adj", "title": "What does async mean?",
+    "metaDesc": "What does async mean? Asynchronous communication in remote work. Meaning, examples and work phrases — LinguaBattle.",
+    "lede": "<b>async</b> is short for “asynchronous”. In remote work, it describes communication where people don't need to be online at the same time — replies come later.",
+    "means": [
+      {"def": "Asynchronous (communication/work)", "en": "Let's keep it async, no meeting needed.", "t": "(no live meeting)"},
+      {"def": "Not requiring instant replies (workflow)", "en": "Our team works async across time zones.", "t": "(across time zones)"}
+    ],
+    "relTitle": "Often confused", "rel": ["async vs sync", "real-time", "remote work"],
+    "idiomTitle": "Work phrases", "idioms": ["async meeting", "async update", "work async"],
+    "quizQ": "What does “Let's keep it async” mean?", "quizA": ["Handle it asynchronously (no live meeting)", "Do it fast", "Cancel it"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Abkürzung / Adj.", "title": "Was bedeutet async?",
+    "metaDesc": "Was bedeutet async? Asynchrone Kommunikation im Remote-Arbeiten. Bedeutung, Beispiele und Ausdrücke — LinguaBattle.",
+    "lede": "<b>async</b> ist die Kurzform von „asynchronous“ (asynchron). Im Remote-Arbeiten beschreibt es Kommunikation, bei der nicht alle gleichzeitig online sein müssen — Antworten kommen später.",
+    "means": [
+      {"def": "Asynchron (Kommunikation/Arbeit)", "en": "Let's keep it async, no meeting needed.", "t": "(kein Live-Meeting)"},
+      {"def": "Ohne sofortige Antwort (Arbeitsablauf)", "en": "Our team works async across time zones.", "t": "(über Zeitzonen hinweg)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["async vs sync", "real-time", "remote work"],
+    "idiomTitle": "Arbeitsausdrücke", "idioms": ["async meeting", "async update", "work async"],
+    "quizQ": "Was bedeutet „Let's keep it async“?", "quizA": ["Asynchron erledigen (ohne Live-Meeting)", "Schnell machen", "Absagen"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "abréviation / adj.", "title": "Que signifie async ?",
+    "metaDesc": "Que signifie async ? Communication asynchrone en télétravail. Sens, exemples et expressions — LinguaBattle.",
+    "lede": "<b>async</b> est l'abréviation de « asynchronous » (asynchrone). En télétravail, cela désigne une communication où chacun n'a pas besoin d'être en ligne en même temps — les réponses viennent plus tard.",
+    "means": [
+      {"def": "Asynchrone (communication/travail)", "en": "Let's keep it async, no meeting needed.", "t": "(pas de réunion en direct)"},
+      {"def": "Sans réponse immédiate (flux de travail)", "en": "Our team works async across time zones.", "t": "(à travers les fuseaux horaires)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["async vs sync", "real-time", "remote work"],
+    "idiomTitle": "Expressions de travail", "idioms": ["async meeting", "async update", "work async"],
+    "quizQ": "Que veut dire « Let's keep it async » ?", "quizA": ["Gérer en asynchrone (sans réunion live)", "Faire vite", "Annuler"], "quizOk": 0
+  },
+  "es": {
+    "pos": "abreviatura / adj.", "title": "¿Qué significa async?",
+    "metaDesc": "¿Qué significa async? Comunicación asíncrona en el trabajo remoto. Significado, ejemplos y expresiones — LinguaBattle.",
+    "lede": "<b>async</b> es la abreviatura de «asynchronous» (asíncrono). En el trabajo remoto, describe una comunicación donde no todos necesitan estar en línea a la vez — las respuestas llegan después.",
+    "means": [
+      {"def": "Asíncrono (comunicación/trabajo)", "en": "Let's keep it async, no meeting needed.", "t": "(sin reunión en vivo)"},
+      {"def": "Sin respuesta inmediata (flujo de trabajo)", "en": "Our team works async across time zones.", "t": "(entre zonas horarias)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["async vs sync", "real-time", "remote work"],
+    "idiomTitle": "Expresiones de trabajo", "idioms": ["async meeting", "async update", "work async"],
+    "quizQ": "¿Qué significa «Let's keep it async»?", "quizA": ["Gestionarlo de forma asíncrona (sin reunión)", "Hacerlo rápido", "Cancelarlo"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "اختصار / صفة", "title": "ماذا تعني async؟",
+    "metaDesc": "ماذا تعني async؟ التواصل غير المتزامن في العمل عن بُعد. المعنى والأمثلة والعبارات — LinguaBattle.",
+    "lede": "<b>async</b> اختصار لكلمة «asynchronous» (غير متزامن). في العمل عن بُعد، تصف تواصلًا لا يحتاج فيه الجميع للاتصال في الوقت نفسه — تأتي الردود لاحقًا.",
+    "means": [
+      {"def": "غير متزامن (تواصل/عمل)", "en": "Let's keep it async, no meeting needed.", "t": "(بدون اجتماع مباشر)"},
+      {"def": "لا يتطلب ردًا فوريًا (سير العمل)", "en": "Our team works async across time zones.", "t": "(عبر المناطق الزمنية)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["async vs sync", "real-time", "remote work"],
+    "idiomTitle": "عبارات العمل", "idioms": ["async meeting", "async update", "work async"],
+    "quizQ": "ماذا تعني «Let's keep it async»؟", "quizA": ["ننجزه بشكل غير متزامن (بدون اجتماع مباشر)", "ننجزه بسرعة", "نلغيه"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "संक्षेप / विशेषण", "title": "async का क्या मतलब है?",
+    "metaDesc": "async का क्या मतलब है? रिमोट वर्क में एसिंक्रोनस संचार। अर्थ, उदाहरण और वाक्यांश — LinguaBattle.",
+    "lede": "<b>async</b> “asynchronous” (एसिंक्रोनस) का संक्षिप्त रूप है। रिमोट वर्क में यह ऐसा संचार बताता है जहाँ सबको एक साथ ऑनलाइन होने की ज़रूरत नहीं — जवाब बाद में आते हैं।",
+    "means": [
+      {"def": "एसिंक्रोनस (संचार/काम)", "en": "Let's keep it async, no meeting needed.", "t": "(कोई लाइव मीटिंग नहीं)"},
+      {"def": "तुरंत जवाब की ज़रूरत नहीं (वर्कफ़्लो)", "en": "Our team works async across time zones.", "t": "(टाइम ज़ोन के पार)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["async vs sync", "real-time", "remote work"],
+    "idiomTitle": "काम के वाक्यांश", "idioms": ["async meeting", "async update", "work async"],
+    "quizQ": "“Let's keep it async” का क्या अर्थ है?", "quizA": ["इसे एसिंक्रोनस तरीके से करें (बिना लाइव मीटिंग)", "जल्दी करें", "रद्द करें"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "сокр. / прил.", "title": "Что значит async?",
+    "metaDesc": "Что значит async? Асинхронное общение в удалённой работе. Значение, примеры и выражения — LinguaBattle.",
+    "lede": "<b>async</b> — сокращение от «asynchronous» (асинхронный). В удалённой работе описывает общение, при котором не нужно быть онлайн одновременно — ответы приходят позже.",
+    "means": [
+      {"def": "Асинхронный (общение/работа)", "en": "Let's keep it async, no meeting needed.", "t": "(без живой встречи)"},
+      {"def": "Не требует мгновенного ответа (рабочий процесс)", "en": "Our team works async across time zones.", "t": "(через часовые пояса)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["async vs sync", "real-time", "remote work"],
+    "idiomTitle": "Рабочие выражения", "idioms": ["async meeting", "async update", "work async"],
+    "quizQ": "Что значит «Let's keep it async»?", "quizA": ["Сделать асинхронно (без живой встречи)", "Сделать быстро", "Отменить"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "abreviatura / adj.", "title": "O que significa async?",
+    "metaDesc": "O que significa async? Comunicação assíncrona no trabalho remoto. Significado, exemplos e expressões — LinguaBattle.",
+    "lede": "<b>async</b> é a abreviação de «asynchronous» (assíncrono). No trabalho remoto, descreve uma comunicação em que nem todos precisam estar online ao mesmo tempo — as respostas vêm depois.",
+    "means": [
+      {"def": "Assíncrono (comunicação/trabalho)", "en": "Let's keep it async, no meeting needed.", "t": "(sem reunião ao vivo)"},
+      {"def": "Sem resposta imediata (fluxo de trabalho)", "en": "Our team works async across time zones.", "t": "(entre fusos horários)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["async vs sync", "real-time", "remote work"],
+    "idiomTitle": "Expressões de trabalho", "idioms": ["async meeting", "async update", "work async"],
+    "quizQ": "O que significa «Let's keep it async»?", "quizA": ["Resolver de forma assíncrona (sem reunião ao vivo)", "Fazer rápido", "Cancelar"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "略語 / 形容詞", "title": "asyncの意味は？",
+    "metaDesc": "asyncの意味は？リモートワークの非同期コミュニケーション。意味・例文・フレーズ — LinguaBattle.",
+    "lede": "<b>async</b> は「asynchronous（非同期）」の略。リモートワークでは、全員が同時にオンラインでなくてもよい、返信が後から来るコミュニケーションを指す。",
+    "means": [
+      {"def": "非同期（コミュニケーション・仕事）", "en": "Let's keep it async, no meeting needed.", "t": "（ライブ会議なし）"},
+      {"def": "即時の返信を求めない（ワークフロー）", "en": "Our team works async across time zones.", "t": "（タイムゾーンをまたいで）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["async vs sync", "real-time", "remote work"],
+    "idiomTitle": "仕事のフレーズ", "idioms": ["async meeting", "async update", "work async"],
+    "quizQ": "「Let's keep it async」の意味は？", "quizA": ["非同期で進める（ライブ会議なし）", "速くやる", "中止する"], "quizOk": 0
+  }
+}

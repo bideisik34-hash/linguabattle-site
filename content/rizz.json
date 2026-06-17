@@ -1,0 +1,125 @@
+{
+  "word": "rizz",
+  "pron": "/rɪz/",
+  "category": "genz",
+  "tr": {
+    "pos": "argo (isim)", "title": "rizz ne demek?",
+    "metaDesc": "rizz ne demek? Gen Z argosu — karizma, etkileme yeteneği. Anlamı, örnek cümleler ve kalıplar — LinguaBattle.",
+    "lede": "<b>rizz</b>, “charisma” (karizma) kelimesinden türeyen Gen Z argosudur. Birinin karşı tarafı, özellikle flört ederken, etkileme/cezbetme yeteneğini anlatır.",
+    "means": [
+      {"def": "Çekicilik, karizma, etkileme yeteneği", "en": "He's got serious rizz.", "t": "Adamda ciddi karizma var."},
+      {"def": "Birini etkilemek / tavlamak (fiil: to rizz up)", "en": "He rizzed her up at the party.", "t": "Partide kızı etkiledi/tavladı."}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["rizz vs charisma", "rizzler", "W rizz / L rizz"],
+    "idiomTitle": "Kalıplar", "idioms": ["unspoken rizz", "rizz someone up", "W rizz (başarılı)"],
+    "quizQ": "“He's got rizz” ne anlama gelir?", "quizA": ["Karizması/çekiciliği var", "Parası var", "Üzgün"], "quizOk": 0
+  },
+  "en": {
+    "pos": "slang (noun)", "title": "What does rizz mean?",
+    "metaDesc": "What does rizz mean? Gen Z slang for charm or charisma. Meaning, examples and phrases — LinguaBattle.",
+    "lede": "<b>rizz</b> is Gen Z slang derived from “charisma”. It refers to someone's ability to attract or charm others, especially when flirting.",
+    "means": [
+      {"def": "Charm, charisma, the ability to attract", "en": "He's got serious rizz.", "t": "(a lot of charm)"},
+      {"def": "To charm / flirt with (verb: to rizz up)", "en": "He rizzed her up at the party.", "t": "(charmed her)"}
+    ],
+    "relTitle": "Often confused", "rel": ["rizz vs charisma", "rizzler", "W rizz / L rizz"],
+    "idiomTitle": "Phrases", "idioms": ["unspoken rizz", "rizz someone up", "W rizz (success)"],
+    "quizQ": "What does “He's got rizz” mean?", "quizA": ["He has charm/charisma", "He has money", "He is sad"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Slang (Subst.)", "title": "Was bedeutet rizz?",
+    "metaDesc": "Was bedeutet rizz? Gen-Z-Slang für Charme oder Charisma. Bedeutung, Beispiele und Redewendungen — LinguaBattle.",
+    "lede": "<b>rizz</b> ist Gen-Z-Slang, abgeleitet von „charisma“. Es beschreibt die Fähigkeit, andere anzuziehen oder zu becircen — besonders beim Flirten.",
+    "means": [
+      {"def": "Charme, Charisma, Anziehungskraft", "en": "He's got serious rizz.", "t": "(viel Charme)"},
+      {"def": "jemanden becircen / anflirten (Verb: to rizz up)", "en": "He rizzed her up at the party.", "t": "(hat sie becirct)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["rizz vs charisma", "rizzler", "W rizz / L rizz"],
+    "idiomTitle": "Redewendungen", "idioms": ["unspoken rizz", "rizz someone up", "W rizz (Erfolg)"],
+    "quizQ": "Was bedeutet „He's got rizz“?", "quizA": ["Er hat Charme/Charisma", "Er hat Geld", "Er ist traurig"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "argot (nom)", "title": "Que signifie rizz ?",
+    "metaDesc": "Que signifie rizz ? Argot Gen Z pour charme ou charisme. Sens, exemples et expressions — LinguaBattle.",
+    "lede": "<b>rizz</b> est de l'argot Gen Z dérivé de « charisma » (charisme). Il désigne la capacité à attirer ou séduire, surtout en draguant.",
+    "means": [
+      {"def": "Charme, charisme, capacité à séduire", "en": "He's got serious rizz.", "t": "(beaucoup de charme)"},
+      {"def": "séduire / draguer (verbe : to rizz up)", "en": "He rizzed her up at the party.", "t": "(l'a séduite)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["rizz vs charisma", "rizzler", "W rizz / L rizz"],
+    "idiomTitle": "Expressions", "idioms": ["unspoken rizz", "rizz someone up", "W rizz (succès)"],
+    "quizQ": "Que veut dire « He's got rizz » ?", "quizA": ["Il a du charme/charisme", "Il a de l'argent", "Il est triste"], "quizOk": 0
+  },
+  "es": {
+    "pos": "jerga (sust.)", "title": "¿Qué significa rizz?",
+    "metaDesc": "¿Qué significa rizz? Jerga Gen Z para encanto o carisma. Significado, ejemplos y expresiones — LinguaBattle.",
+    "lede": "<b>rizz</b> es jerga de la Generación Z derivada de «charisma» (carisma). Se refiere a la capacidad de atraer o seducir a otros, sobre todo al ligar.",
+    "means": [
+      {"def": "Encanto, carisma, capacidad de atraer", "en": "He's got serious rizz.", "t": "(mucho encanto)"},
+      {"def": "seducir / ligar (verbo: to rizz up)", "en": "He rizzed her up at the party.", "t": "(la sedujo)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["rizz vs charisma", "rizzler", "W rizz / L rizz"],
+    "idiomTitle": "Expresiones", "idioms": ["unspoken rizz", "rizz someone up", "W rizz (éxito)"],
+    "quizQ": "¿Qué significa «He's got rizz»?", "quizA": ["Tiene encanto/carisma", "Tiene dinero", "Está triste"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "عامية (اسم)", "title": "ماذا تعني rizz؟",
+    "metaDesc": "ماذا تعني rizz؟ عامية الجيل Z تعني الجاذبية أو الكاريزما. المعنى والأمثلة والعبارات — LinguaBattle.",
+    "lede": "<b>rizz</b> هي عامية الجيل Z مشتقة من «charisma» (كاريزما). تشير إلى قدرة الشخص على جذب الآخرين، خاصة عند المغازلة.",
+    "means": [
+      {"def": "جاذبية، كاريزما، القدرة على الجذب", "en": "He's got serious rizz.", "t": "(جاذبية كبيرة)"},
+      {"def": "يجذب / يغازل (فعل: to rizz up)", "en": "He rizzed her up at the party.", "t": "(جذبها)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["rizz vs charisma", "rizzler", "W rizz / L rizz"],
+    "idiomTitle": "عبارات", "idioms": ["unspoken rizz", "rizz someone up", "W rizz (نجاح)"],
+    "quizQ": "ماذا تعني «He's got rizz»؟", "quizA": ["لديه جاذبية/كاريزما", "لديه مال", "إنه حزين"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "स्लैंग (संज्ञा)", "title": "rizz का क्या मतलब है?",
+    "metaDesc": "rizz का क्या मतलब है? जेन Z स्लैंग — आकर्षण, करिश्मा। अर्थ, उदाहरण और वाक्यांश — LinguaBattle.",
+    "lede": "<b>rizz</b> जेन Z स्लैंग है जो “charisma” (करिश्मा) से बना है। यह किसी को आकर्षित करने की क्षमता बताता है — खासकर फ्लर्ट करते समय।",
+    "means": [
+      {"def": "आकर्षण, करिश्मा, आकर्षित करने की क्षमता", "en": "He's got serious rizz.", "t": "(बहुत आकर्षण)"},
+      {"def": "आकर्षित करना / फ्लर्ट करना (क्रिया: to rizz up)", "en": "He rizzed her up at the party.", "t": "(उसे आकर्षित किया)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["rizz vs charisma", "rizzler", "W rizz / L rizz"],
+    "idiomTitle": "वाक्यांश", "idioms": ["unspoken rizz", "rizz someone up", "W rizz (सफलता)"],
+    "quizQ": "“He's got rizz” का क्या अर्थ है?", "quizA": ["उसमें आकर्षण/करिश्मा है", "उसके पास पैसा है", "वह उदास है"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "сленг (сущ.)", "title": "Что значит rizz?",
+    "metaDesc": "Что значит rizz? Сленг поколения Z — обаяние, харизма. Значение, примеры и выражения — LinguaBattle.",
+    "lede": "<b>rizz</b> — сленг поколения Z, производное от «charisma» (харизма). Обозначает умение привлекать или очаровывать других, особенно при флирте.",
+    "means": [
+      {"def": "Обаяние, харизма, умение привлекать", "en": "He's got serious rizz.", "t": "(много обаяния)"},
+      {"def": "очаровывать / флиртовать (глагол: to rizz up)", "en": "He rizzed her up at the party.", "t": "(очаровал её)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["rizz vs charisma", "rizzler", "W rizz / L rizz"],
+    "idiomTitle": "Выражения", "idioms": ["unspoken rizz", "rizz someone up", "W rizz (успех)"],
+    "quizQ": "Что значит «He's got rizz»?", "quizA": ["У него есть обаяние/харизма", "У него есть деньги", "Ему грустно"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "gíria (subst.)", "title": "O que significa rizz?",
+    "metaDesc": "O que significa rizz? Gíria Gen Z para charme ou carisma. Significado, exemplos e expressões — LinguaBattle.",
+    "lede": "<b>rizz</b> é gíria da Geração Z derivada de «charisma» (carisma). Refere-se à capacidade de atrair ou seduzir os outros, especialmente ao paquerar.",
+    "means": [
+      {"def": "Charme, carisma, capacidade de atrair", "en": "He's got serious rizz.", "t": "(muito charme)"},
+      {"def": "seduzir / paquerar (verbo: to rizz up)", "en": "He rizzed her up at the party.", "t": "(seduziu-a)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["rizz vs charisma", "rizzler", "W rizz / L rizz"],
+    "idiomTitle": "Expressões", "idioms": ["unspoken rizz", "rizz someone up", "W rizz (sucesso)"],
+    "quizQ": "O que significa «He's got rizz»?", "quizA": ["Ele tem charme/carisma", "Ele tem dinheiro", "Ele está triste"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "スラング (名詞)", "title": "rizzの意味は？",
+    "metaDesc": "rizzの意味は？Z世代スラングで、魅力・カリスマのこと。意味・例文・フレーズ — LinguaBattle.",
+    "lede": "<b>rizz</b> は「charisma（カリスマ）」から派生したZ世代スラング。特に口説くときに、人を惹きつける魅力を指す。",
+    "means": [
+      {"def": "魅力、カリスマ、惹きつける力", "en": "He's got serious rizz.", "t": "（かなりの魅力）"},
+      {"def": "口説く / 惹きつける（動詞：to rizz up）", "en": "He rizzed her up at the party.", "t": "（彼女を口説いた）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["rizz vs charisma", "rizzler", "W rizz / L rizz"],
+    "idiomTitle": "フレーズ", "idioms": ["unspoken rizz", "rizz someone up", "W rizz (成功)"],
+    "quizQ": "「He's got rizz」の意味は？", "quizA": ["魅力・カリスマがある", "お金がある", "悲しい"], "quizOk": 0
+  }
+}

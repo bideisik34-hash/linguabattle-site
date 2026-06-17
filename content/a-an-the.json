@@ -1,0 +1,145 @@
+{
+  "word": "a / an / the",
+  "pron": "/ə, æn, ðə/",
+  "category": "grammar",
+  "tr": {
+    "pos": "gramer (artikeller)", "title": "a, an, the farkı nedir?",
+    "metaDesc": "a an the farkı: İngilizce artikeller ne zaman kullanılır? Kurallar ve örneklerle — LinguaBattle.",
+    "lede": "İngilizcede <b>a, an, the</b> en çok karıştırılan gramer konularındandır. Kısaca: <b>a/an</b> belirsiz (herhangi biri), <b>the</b> belirli (o, bilinen) şey için kullanılır.",
+    "means": [
+      {"def": "a = sessiz harfle başlayan tekil (belirsiz)", "en": "a cat, a book", "t": "bir kedi, bir kitap"},
+      {"def": "an = sesli harf sesiyle başlayan tekil", "en": "an apple, an hour", "t": "bir elma, bir saat (h okunmaz)"},
+      {"def": "the = belirli, bilinen şey", "en": "the sun, the book I bought", "t": "güneş, aldığım kitap"},
+      {"def": "artikel yok = genel/çoğul/sayılamaz", "en": "I like music.", "t": "Müziği severim. (genel)"}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["a vs an", "a vs the", "the kullanımı"],
+    "idiomTitle": "Kurallar", "idioms": ["a → ünsüz ses", "an → ünlü ses", "the → belirli"],
+    "quizQ": "Hangisi doğru?", "quizA": ["an apple", "a apple", "the a apple"], "quizOk": 0
+  },
+  "en": {
+    "pos": "grammar (articles)", "title": "A, an, the: what's the difference?",
+    "metaDesc": "A an the difference: when to use English articles? Rules and examples — LinguaBattle.",
+    "lede": "<b>a, an, the</b> are among the most confused grammar points. In short: <b>a/an</b> is indefinite (any one), <b>the</b> is definite (the specific, known one).",
+    "means": [
+      {"def": "a = singular before a consonant sound", "en": "a cat, a book", "t": "(indefinite)"},
+      {"def": "an = singular before a vowel sound", "en": "an apple, an hour", "t": "(silent h)"},
+      {"def": "the = the specific, known one", "en": "the sun, the book I bought", "t": "(definite)"},
+      {"def": "no article = general/plural/uncountable", "en": "I like music.", "t": "(general)"}
+    ],
+    "relTitle": "Often confused", "rel": ["a vs an", "a vs the", "using the"],
+    "idiomTitle": "Rules", "idioms": ["a → consonant sound", "an → vowel sound", "the → specific"],
+    "quizQ": "Which is correct?", "quizA": ["an apple", "a apple", "the a apple"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Grammatik (Artikel)", "title": "A, an, the: Was ist der Unterschied?",
+    "metaDesc": "Unterschied a an the: Wann benutzt man englische Artikel? Regeln und Beispiele — LinguaBattle.",
+    "lede": "<b>a, an, the</b> gehören zu den am häufigsten verwechselten Grammatikpunkten. Kurz: <b>a/an</b> unbestimmt (irgendein), <b>the</b> bestimmt (der bekannte, konkrete).",
+    "means": [
+      {"def": "a = Singular vor Konsonantenlaut", "en": "a cat, a book", "t": "(unbestimmt)"},
+      {"def": "an = Singular vor Vokallaut", "en": "an apple, an hour", "t": "(stummes h)"},
+      {"def": "the = der konkrete, bekannte", "en": "the sun, the book I bought", "t": "(bestimmt)"},
+      {"def": "kein Artikel = allgemein/Plural/unzählbar", "en": "I like music.", "t": "(allgemein)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["a vs an", "a vs the", "the verwenden"],
+    "idiomTitle": "Regeln", "idioms": ["a → Konsonantenlaut", "an → Vokallaut", "the → bestimmt"],
+    "quizQ": "Was ist korrekt?", "quizA": ["an apple", "a apple", "the a apple"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "grammaire (articles)", "title": "A, an, the : quelle différence ?",
+    "metaDesc": "Différence a an the : quand utiliser les articles anglais ? Règles et exemples — LinguaBattle.",
+    "lede": "<b>a, an, the</b> font partie des points de grammaire les plus confondus. En bref : <b>a/an</b> indéfini (un quelconque), <b>the</b> défini (le précis, connu).",
+    "means": [
+      {"def": "a = singulier devant un son consonne", "en": "a cat, a book", "t": "(indéfini)"},
+      {"def": "an = singulier devant un son voyelle", "en": "an apple, an hour", "t": "(h muet)"},
+      {"def": "the = le précis, connu", "en": "the sun, the book I bought", "t": "(défini)"},
+      {"def": "pas d'article = général/pluriel/indénombrable", "en": "I like music.", "t": "(général)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["a vs an", "a vs the", "utiliser the"],
+    "idiomTitle": "Règles", "idioms": ["a → son consonne", "an → son voyelle", "the → précis"],
+    "quizQ": "Lequel est correct ?", "quizA": ["an apple", "a apple", "the a apple"], "quizOk": 0
+  },
+  "es": {
+    "pos": "gramática (artículos)", "title": "A, an, the: ¿cuál es la diferencia?",
+    "metaDesc": "Diferencia a an the: ¿cuándo usar los artículos en inglés? Reglas y ejemplos — LinguaBattle.",
+    "lede": "<b>a, an, the</b> están entre los puntos gramaticales más confundidos. En resumen: <b>a/an</b> indefinido (uno cualquiera), <b>the</b> definido (el concreto, conocido).",
+    "means": [
+      {"def": "a = singular antes de sonido consonante", "en": "a cat, a book", "t": "(indefinido)"},
+      {"def": "an = singular antes de sonido vocal", "en": "an apple, an hour", "t": "(h muda)"},
+      {"def": "the = el concreto, conocido", "en": "the sun, the book I bought", "t": "(definido)"},
+      {"def": "sin artículo = general/plural/incontable", "en": "I like music.", "t": "(general)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["a vs an", "a vs the", "usar the"],
+    "idiomTitle": "Reglas", "idioms": ["a → sonido consonante", "an → sonido vocal", "the → concreto"],
+    "quizQ": "¿Cuál es correcto?", "quizA": ["an apple", "a apple", "the a apple"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "قواعد (أدوات التعريف)", "title": "ما الفرق بين a و an و the؟",
+    "metaDesc": "الفرق بين a an the: متى تُستخدم أدوات التعريف الإنجليزية؟ قواعد وأمثلة — LinguaBattle.",
+    "lede": "<b>a, an, the</b> من أكثر نقاط القواعد التي يُخلط بينها. باختصار: <b>a/an</b> نكرة (أيّ واحد)، <b>the</b> معرفة (الشيء المحدّد المعروف).",
+    "means": [
+      {"def": "a = مفرد قبل صوت ساكن", "en": "a cat, a book", "t": "(نكرة)"},
+      {"def": "an = مفرد قبل صوت متحرّك", "en": "an apple, an hour", "t": "(h صامتة)"},
+      {"def": "the = الشيء المحدّد المعروف", "en": "the sun, the book I bought", "t": "(معرفة)"},
+      {"def": "بدون أداة = عام/جمع/غير معدود", "en": "I like music.", "t": "(عام)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["a vs an", "a vs the", "استخدام the"],
+    "idiomTitle": "قواعد", "idioms": ["a → صوت ساكن", "an → صوت متحرّك", "the → محدّد"],
+    "quizQ": "أيّها صحيح؟", "quizA": ["an apple", "a apple", "the a apple"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "व्याकरण (आर्टिकल)", "title": "a, an, the में क्या अंतर है?",
+    "metaDesc": "a an the अंतर: अंग्रेज़ी आर्टिकल कब इस्तेमाल करें? नियम और उदाहरण — LinguaBattle.",
+    "lede": "<b>a, an, the</b> सबसे ज़्यादा भ्रमित करने वाले व्याकरण बिंदुओं में हैं। संक्षेप में: <b>a/an</b> अनिश्चित (कोई एक), <b>the</b> निश्चित (वह विशेष, ज्ञात)।",
+    "means": [
+      {"def": "a = व्यंजन ध्वनि से पहले एकवचन", "en": "a cat, a book", "t": "(अनिश्चित)"},
+      {"def": "an = स्वर ध्वनि से पहले एकवचन", "en": "an apple, an hour", "t": "(मूक h)"},
+      {"def": "the = विशेष, ज्ञात चीज़", "en": "the sun, the book I bought", "t": "(निश्चित)"},
+      {"def": "कोई आर्टिकल नहीं = सामान्य/बहुवचन/अगणनीय", "en": "I like music.", "t": "(सामान्य)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["a vs an", "a vs the", "the का प्रयोग"],
+    "idiomTitle": "नियम", "idioms": ["a → व्यंजन ध्वनि", "an → स्वर ध्वनि", "the → विशेष"],
+    "quizQ": "कौन सा सही है?", "quizA": ["an apple", "a apple", "the a apple"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "грамматика (артикли)", "title": "A, an, the: в чём разница?",
+    "metaDesc": "Разница a an the: когда использовать английские артикли? Правила и примеры — LinguaBattle.",
+    "lede": "<b>a, an, the</b> — одни из самых путаемых грамматических тем. Коротко: <b>a/an</b> неопределённый (какой-то), <b>the</b> определённый (тот самый, известный).",
+    "means": [
+      {"def": "a = ед. число перед согласным звуком", "en": "a cat, a book", "t": "(неопределённый)"},
+      {"def": "an = ед. число перед гласным звуком", "en": "an apple, an hour", "t": "(немое h)"},
+      {"def": "the = тот самый, известный", "en": "the sun, the book I bought", "t": "(определённый)"},
+      {"def": "без артикля = общее/мн.ч./неисчисляемое", "en": "I like music.", "t": "(общее)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["a vs an", "a vs the", "использование the"],
+    "idiomTitle": "Правила", "idioms": ["a → согласный звук", "an → гласный звук", "the → конкретный"],
+    "quizQ": "Что правильно?", "quizA": ["an apple", "a apple", "the a apple"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "gramática (artigos)", "title": "A, an, the: qual é a diferença?",
+    "metaDesc": "Diferença a an the: quando usar os artigos em inglês? Regras e exemplos — LinguaBattle.",
+    "lede": "<b>a, an, the</b> estão entre os pontos gramaticais mais confundidos. Em resumo: <b>a/an</b> indefinido (um qualquer), <b>the</b> definido (o específico, conhecido).",
+    "means": [
+      {"def": "a = singular antes de som consoante", "en": "a cat, a book", "t": "(indefinido)"},
+      {"def": "an = singular antes de som vogal", "en": "an apple, an hour", "t": "(h mudo)"},
+      {"def": "the = o específico, conhecido", "en": "the sun, the book I bought", "t": "(definido)"},
+      {"def": "sem artigo = geral/plural/incontável", "en": "I like music.", "t": "(geral)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["a vs an", "a vs the", "usar the"],
+    "idiomTitle": "Regras", "idioms": ["a → som consoante", "an → som vogal", "the → específico"],
+    "quizQ": "Qual está correto?", "quizA": ["an apple", "a apple", "the a apple"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "文法 (冠詞)", "title": "a, an, the の違いは？",
+    "metaDesc": "a an the の違い：英語の冠詞はいつ使う？ルールと例文 — LinguaBattle.",
+    "lede": "<b>a, an, the</b> は最も混同されやすい文法項目の一つ。要するに：<b>a/an</b> は不定（どれか一つ）、<b>the</b> は定（その特定の・既知のもの）。",
+    "means": [
+      {"def": "a = 子音の音の前の単数（不定）", "en": "a cat, a book", "t": "（不定）"},
+      {"def": "an = 母音の音の前の単数", "en": "an apple, an hour", "t": "（hは無音）"},
+      {"def": "the = 特定の・既知のもの", "en": "the sun, the book I bought", "t": "（定）"},
+      {"def": "冠詞なし = 一般/複数/不可算", "en": "I like music.", "t": "（一般）"}
+    ],
+    "relTitle": "混同しやすい点", "rel": ["a vs an", "a vs the", "theの使い方"],
+    "idiomTitle": "ルール", "idioms": ["a → 子音の音", "an → 母音の音", "the → 特定"],
+    "quizQ": "正しいのは？", "quizA": ["an apple", "a apple", "the a apple"], "quizOk": 0
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "word": "say",
+  "pron": "/seɪ/",
+  "category": "verb",
+  "conj": ["say", "said", "said"],
+  "tr": {
+    "pos": "fiil", "title": "say ve tell farkı nedir?",
+    "metaDesc": "say vs tell farkı: say ne demek, ne zaman say ne zaman tell? Örneklerle açıklama — LinguaBattle.",
+    "lede": "<b>say</b> ve <b>tell</b> en çok karıştırılan İngilizce fiillerdendir. Kısa kural: <b>tell</b> birine bir şey söylersin (kişi gerekir: tell <u>me</u>), <b>say</b> ise genelde kişisiz kullanılır. Düzensiz: say → said → said.",
+    "means": [
+      {"def": "say = söylemek (kime olduğu belirtilmez)", "en": "She said hello.", "t": "Merhaba dedi."},
+      {"def": "tell = (birine) anlatmak/söylemek (kişi gerekir)", "en": "She told me a secret.", "t": "Bana bir sır anlattı."},
+      {"def": "say + to ile kişi belirtilir", "en": "She said hello to me.", "t": "Bana merhaba dedi."}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["say vs tell", "speak vs talk", "said vs told"],
+    "idiomTitle": "say kalıpları", "idioms": ["say sorry (özür dilemek)", "I'd say (bence)", "say no more (anladım)"],
+    "quizQ": "Hangisi doğru? “She ___ me a story.”", "quizA": ["told", "said", "ikisi de"], "quizOk": 0
+  },
+  "en": {
+    "pos": "verb", "title": "Say vs tell: what's the difference?",
+    "metaDesc": "Say vs tell difference: what does say mean, when to use say vs tell? Explained with examples — LinguaBattle.",
+    "lede": "<b>say</b> and <b>tell</b> are among the most confused English verbs. Quick rule: you <b>tell</b> someone something (needs a person: tell <u>me</u>), while <b>say</b> is usually used without a person. Irregular: say → said → said.",
+    "means": [
+      {"def": "say = to state (no person needed)", "en": "She said hello.", "t": "(no listener stated)"},
+      {"def": "tell = to inform someone (needs a person)", "en": "She told me a secret.", "t": "(needs 'me')"},
+      {"def": "say + to to add the person", "en": "She said hello to me.", "t": "(person added with 'to')"}
+    ],
+    "relTitle": "Often confused", "rel": ["say vs tell", "speak vs talk", "said vs told"],
+    "idiomTitle": "say phrases", "idioms": ["say sorry", "I'd say", "say no more"],
+    "quizQ": "Which is correct? “She ___ me a story.”", "quizA": ["told", "said", "both"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Verb", "title": "Say vs tell: Was ist der Unterschied?",
+    "metaDesc": "Unterschied say vs tell: Was bedeutet say, wann say und wann tell? Mit Beispielen erklärt — LinguaBattle.",
+    "lede": "<b>say</b> und <b>tell</b> gehören zu den am häufigsten verwechselten englischen Verben. Faustregel: man <b>tell</b>t jemandem etwas (braucht eine Person: tell <u>me</u>), während <b>say</b> meist ohne Person steht. Unregelmäßig: say → said → said.",
+    "means": [
+      {"def": "say = sagen (ohne Person)", "en": "She said hello.", "t": "(kein Zuhörer genannt)"},
+      {"def": "tell = jemandem etwas sagen (braucht Person)", "en": "She told me a secret.", "t": "(braucht 'me')"},
+      {"def": "say + to fügt die Person hinzu", "en": "She said hello to me.", "t": "(Person mit 'to')"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["say vs tell", "speak vs talk", "said vs told"],
+    "idiomTitle": "say-Wendungen", "idioms": ["say sorry", "I'd say", "say no more"],
+    "quizQ": "Was ist korrekt? „She ___ me a story.“", "quizA": ["told", "said", "beides"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "verbe", "title": "Say vs tell : quelle différence ?",
+    "metaDesc": "Différence say vs tell : que signifie say, quand utiliser say ou tell ? Expliqué avec des exemples — LinguaBattle.",
+    "lede": "<b>say</b> et <b>tell</b> font partie des verbes anglais les plus confondus. Règle simple : on <b>tell</b> quelque chose à quelqu'un (besoin d'une personne : tell <u>me</u>), alors que <b>say</b> s'emploie généralement sans personne. Irrégulier : say → said → said.",
+    "means": [
+      {"def": "say = dire (sans personne)", "en": "She said hello.", "t": "(aucun destinataire)"},
+      {"def": "tell = dire à quelqu'un (besoin d'une personne)", "en": "She told me a secret.", "t": "(besoin de 'me')"},
+      {"def": "say + to pour ajouter la personne", "en": "She said hello to me.", "t": "(personne avec 'to')"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["say vs tell", "speak vs talk", "said vs told"],
+    "idiomTitle": "expressions say", "idioms": ["say sorry", "I'd say", "say no more"],
+    "quizQ": "Lequel est correct ? « She ___ me a story. »", "quizA": ["told", "said", "les deux"], "quizOk": 0
+  },
+  "es": {
+    "pos": "verbo", "title": "Say vs tell: ¿cuál es la diferencia?",
+    "metaDesc": "Diferencia say vs tell: qué significa say, ¿cuándo usar say o tell? Explicado con ejemplos — LinguaBattle.",
+    "lede": "<b>say</b> y <b>tell</b> están entre los verbos ingleses más confundidos. Regla rápida: <b>tell</b> dices algo a alguien (necesita persona: tell <u>me</u>), mientras que <b>say</b> suele usarse sin persona. Irregular: say → said → said.",
+    "means": [
+      {"def": "say = decir (sin persona)", "en": "She said hello.", "t": "(sin destinatario)"},
+      {"def": "tell = decir a alguien (necesita persona)", "en": "She told me a secret.", "t": "(necesita 'me')"},
+      {"def": "say + to para añadir la persona", "en": "She said hello to me.", "t": "(persona con 'to')"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["say vs tell", "speak vs talk", "said vs told"],
+    "idiomTitle": "frases con say", "idioms": ["say sorry", "I'd say", "say no more"],
+    "quizQ": "¿Cuál es correcto? «She ___ me a story.»", "quizA": ["told", "said", "ambos"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "فعل", "title": "ما الفرق بين say و tell؟",
+    "metaDesc": "الفرق بين say وtell: ماذا تعني say، ومتى نستخدم say أو tell؟ شرح بالأمثلة — LinguaBattle.",
+    "lede": "<b>say</b> و<b>tell</b> من أكثر الأفعال الإنجليزية التي يُخلط بينها. القاعدة: <b>tell</b> تُخبر شخصًا بشيء (تحتاج شخصًا: tell <u>me</u>)، أما <b>say</b> فتُستخدم عادةً بلا شخص. شاذ: say → said → said.",
+    "means": [
+      {"def": "say = يقول (بلا ذكر شخص)", "en": "She said hello.", "t": "(لا مستمع مذكور)"},
+      {"def": "tell = يُخبر شخصًا (يحتاج شخصًا)", "en": "She told me a secret.", "t": "(يحتاج 'me')"},
+      {"def": "say + to لإضافة الشخص", "en": "She said hello to me.", "t": "(الشخص بـ 'to')"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["say vs tell", "speak vs talk", "said vs told"],
+    "idiomTitle": "تعابير say", "idioms": ["say sorry", "I'd say", "say no more"],
+    "quizQ": "أيّها صحيح؟ «She ___ me a story.»", "quizA": ["told", "said", "كلاهما"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "क्रिया", "title": "say और tell में क्या अंतर है?",
+    "metaDesc": "say बनाम tell का अंतर: say का मतलब, कब say और कब tell? उदाहरणों सहित — LinguaBattle.",
+    "lede": "<b>say</b> और <b>tell</b> सबसे ज़्यादा भ्रमित करने वाली अंग्रेज़ी क्रियाओं में हैं। नियम: <b>tell</b> में आप किसी को कुछ बताते हैं (व्यक्ति चाहिए: tell <u>me</u>), जबकि <b>say</b> आमतौर पर बिना व्यक्ति के। अनियमित: say → said → said.",
+    "means": [
+      {"def": "say = कहना (व्यक्ति बताए बिना)", "en": "She said hello.", "t": "(श्रोता नहीं बताया)"},
+      {"def": "tell = किसी को बताना (व्यक्ति चाहिए)", "en": "She told me a secret.", "t": "('me' चाहिए)"},
+      {"def": "say + to से व्यक्ति जोड़ें", "en": "She said hello to me.", "t": "('to' से व्यक्ति)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["say vs tell", "speak vs talk", "said vs told"],
+    "idiomTitle": "say वाक्यांश", "idioms": ["say sorry", "I'd say", "say no more"],
+    "quizQ": "कौन सा सही है? “She ___ me a story.”", "quizA": ["told", "said", "दोनों"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "глагол", "title": "Say и tell: в чём разница?",
+    "metaDesc": "Разница say и tell: что значит say, когда say, а когда tell? С примерами — LinguaBattle.",
+    "lede": "<b>say</b> и <b>tell</b> — одни из самых путаемых английских глаголов. Правило: <b>tell</b> — сообщить кому-то (нужен человек: tell <u>me</u>), а <b>say</b> обычно без человека. Неправильный: say → said → said.",
+    "means": [
+      {"def": "say = сказать (без указания человека)", "en": "She said hello.", "t": "(слушатель не указан)"},
+      {"def": "tell = сообщить кому-то (нужен человек)", "en": "She told me a secret.", "t": "(нужно 'me')"},
+      {"def": "say + to чтобы добавить человека", "en": "She said hello to me.", "t": "(человек через 'to')"}
+    ],
+    "relTitle": "Часто путают", "rel": ["say vs tell", "speak vs talk", "said vs told"],
+    "idiomTitle": "выражения с say", "idioms": ["say sorry", "I'd say", "say no more"],
+    "quizQ": "Что правильно? «She ___ me a story.»", "quizA": ["told", "said", "оба"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "verbo", "title": "Say vs tell: qual é a diferença?",
+    "metaDesc": "Diferença say vs tell: o que significa say, quando usar say ou tell? Explicado com exemplos — LinguaBattle.",
+    "lede": "<b>say</b> e <b>tell</b> estão entre os verbos ingleses mais confundidos. Regra: você <b>tell</b> algo a alguém (precisa de pessoa: tell <u>me</u>), enquanto <b>say</b> costuma ser usado sem pessoa. Irregular: say → said → said.",
+    "means": [
+      {"def": "say = dizer (sem pessoa)", "en": "She said hello.", "t": "(sem destinatário)"},
+      {"def": "tell = contar a alguém (precisa de pessoa)", "en": "She told me a secret.", "t": "(precisa de 'me')"},
+      {"def": "say + to para adicionar a pessoa", "en": "She said hello to me.", "t": "(pessoa com 'to')"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["say vs tell", "speak vs talk", "said vs told"],
+    "idiomTitle": "expressões com say", "idioms": ["say sorry", "I'd say", "say no more"],
+    "quizQ": "Qual está correto? «She ___ me a story.»", "quizA": ["told", "said", "ambos"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "動詞", "title": "sayとtellの違いは？",
+    "metaDesc": "sayとtellの違い：sayの意味、sayとtellの使い分けは？例文で解説 — LinguaBattle.",
+    "lede": "<b>say</b> と <b>tell</b> は最も混同されやすい英語動詞の一つ。ルール：<b>tell</b> は誰かに伝える（人が必要：tell <u>me</u>）、<b>say</b> は普通は人を伴わない。不規則：say → said → said。",
+    "means": [
+      {"def": "say = 言う（相手を示さない）", "en": "She said hello.", "t": "（聞き手を示さない）"},
+      {"def": "tell = 誰かに伝える（人が必要）", "en": "She told me a secret.", "t": "（'me'が必要）"},
+      {"def": "say + to で人を加える", "en": "She said hello to me.", "t": "（'to'で人を追加）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["say vs tell", "speak vs talk", "said vs told"],
+    "idiomTitle": "sayの表現", "idioms": ["say sorry", "I'd say", "say no more"],
+    "quizQ": "正しいのは？「She ___ me a story.」", "quizA": ["told", "said", "両方"], "quizOk": 0
+  }
+}

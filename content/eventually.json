@@ -1,0 +1,135 @@
+{
+  "word": "eventually",
+  "pron": "/ɪˈventʃuəli/",
+  "category": "confusing",
+  "tr": {
+    "pos": "zarf", "title": "eventually ne demek? (yaygın tuzak)",
+    "metaDesc": "eventually ne demek? 'Belki' değil, 'sonunda, eninde sonunda'. Yaygın hata — LinguaBattle.",
+    "lede": "<b>eventually</b> bir tuzaktır: bazı dillerde “belki/olası” sanılır ama aslında <b>“sonunda, eninde sonunda, en sonunda”</b> demektir. (“Belki” = maybe / possibly.)",
+    "means": [
+      {"def": "sonunda, eninde sonunda", "en": "He eventually found a job.", "t": "Sonunda bir iş buldu."},
+      {"def": "zamanla, bir süre sonra", "en": "We'll get there eventually.", "t": "Zamanla oraya varacağız."},
+      {"def": "TUZAK: 'belki' DEĞİL → maybe/possibly", "en": "Maybe he'll come. (NOT eventually)", "t": "Belki gelir. (eventually değil, maybe)"}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["eventually vs maybe", "eventually vs finally", "in the end"],
+    "idiomTitle": "Kalıplar", "idioms": ["eventually,...", "sooner or later", "in the end"],
+    "quizQ": "“He eventually came” ne demek?", "quizA": ["Sonunda geldi", "Belki geldi", "Hemen geldi"], "quizOk": 0
+  },
+  "en": {
+    "pos": "adverb", "title": "What does eventually mean? (common trap)",
+    "metaDesc": "What does eventually mean? Not 'maybe' — it means 'in the end, sooner or later'. A common mistake — LinguaBattle.",
+    "lede": "<b>eventually</b> is a trap: in some languages a similar word means “maybe”, but it means <b>“in the end, sooner or later, finally”</b>. (For “maybe” use maybe / possibly.)",
+    "means": [
+      {"def": "in the end, sooner or later", "en": "He eventually found a job.", "t": "(in the end)"},
+      {"def": "over time, after a while", "en": "We'll get there eventually.", "t": "(over time)"},
+      {"def": "TRAP: NOT 'maybe' → use maybe/possibly", "en": "Maybe he'll come. (NOT eventually)", "t": "(maybe ≠ eventually)"}
+    ],
+    "relTitle": "Often confused", "rel": ["eventually vs maybe", "eventually vs finally", "in the end"],
+    "idiomTitle": "Phrases", "idioms": ["eventually,...", "sooner or later", "in the end"],
+    "quizQ": "What does “He eventually came” mean?", "quizA": ["He came in the end", "Maybe he came", "He came immediately"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Adverb", "title": "Was bedeutet eventually? (häufige Falle)",
+    "metaDesc": "Was bedeutet eventually? Nicht 'eventuell' — sondern 'schließlich, am Ende'. False Friend — LinguaBattle.",
+    "lede": "<b>eventually</b> ist eine Falle: es heißt NICHT „eventuell“! Es bedeutet <b>„schließlich, am Ende, früher oder später“</b>. (Für „eventuell“ → maybe / possibly.)",
+    "means": [
+      {"def": "schließlich, am Ende", "en": "He eventually found a job.", "t": "(schließlich)"},
+      {"def": "mit der Zeit, irgendwann", "en": "We'll get there eventually.", "t": "(irgendwann)"},
+      {"def": "FALLE: NICHT 'eventuell' → maybe", "en": "Maybe he'll come. (NOT eventually)", "t": "(eventuell = maybe)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["eventually vs maybe", "eventually vs finally", "in the end"],
+    "idiomTitle": "Wendungen", "idioms": ["eventually,...", "sooner or later", "in the end"],
+    "quizQ": "Was bedeutet „He eventually came“?", "quizA": ["Er kam schließlich", "Vielleicht kam er", "Er kam sofort"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "adverbe", "title": "Que signifie eventually ? (piège courant)",
+    "metaDesc": "Que signifie eventually ? Pas 'éventuellement' — mais 'finalement, à la fin'. Faux ami — LinguaBattle.",
+    "lede": "<b>eventually</b> est un faux ami : il ne veut PAS dire « éventuellement » ! Il signifie <b>« finalement, à la fin, tôt ou tard »</b>. (Pour « éventuellement » → maybe / possibly.)",
+    "means": [
+      {"def": "finalement, à la fin", "en": "He eventually found a job.", "t": "(finalement)"},
+      {"def": "avec le temps, un jour", "en": "We'll get there eventually.", "t": "(avec le temps)"},
+      {"def": "PIÈGE : PAS 'éventuellement' → maybe", "en": "Maybe he'll come. (NOT eventually)", "t": "(éventuellement = maybe)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["eventually vs maybe", "eventually vs finally", "in the end"],
+    "idiomTitle": "Expressions", "idioms": ["eventually,...", "sooner or later", "in the end"],
+    "quizQ": "Que veut dire « He eventually came » ?", "quizA": ["Il est finalement venu", "Peut-être qu'il est venu", "Il est venu tout de suite"], "quizOk": 0
+  },
+  "es": {
+    "pos": "adverbio", "title": "¿Qué significa eventually? (trampa común)",
+    "metaDesc": "¿Qué significa eventually? No 'eventualmente (quizás)' — sino 'finalmente, al final'. Falso amigo — LinguaBattle.",
+    "lede": "<b>eventually</b> es un falso amigo: NO significa «eventualmente (quizás)». Significa <b>«al final, finalmente, tarde o temprano»</b>. (Para «quizás» → maybe / possibly.)",
+    "means": [
+      {"def": "al final, finalmente", "en": "He eventually found a job.", "t": "(al final)"},
+      {"def": "con el tiempo, algún día", "en": "We'll get there eventually.", "t": "(con el tiempo)"},
+      {"def": "TRAMPA: NO 'quizás' → maybe", "en": "Maybe he'll come. (NOT eventually)", "t": "(quizás = maybe)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["eventually vs maybe", "eventually vs finally", "in the end"],
+    "idiomTitle": "Expresiones", "idioms": ["eventually,...", "sooner or later", "in the end"],
+    "quizQ": "¿Qué significa «He eventually came»?", "quizA": ["Al final vino", "Quizás vino", "Vino enseguida"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "ظرف", "title": "ماذا تعني eventually؟ (فخّ شائع)",
+    "metaDesc": "ماذا تعني eventually؟ ليست 'ربما' — بل 'في النهاية، عاجلًا أم آجلًا'. خطأ شائع — LinguaBattle.",
+    "lede": "<b>eventually</b> فخّ: لا تعني «ربما»! بل تعني <b>«في النهاية، في آخر المطاف، عاجلًا أم آجلًا»</b>. (لـ«ربما» → maybe / possibly.)",
+    "means": [
+      {"def": "في النهاية، في آخر المطاف", "en": "He eventually found a job.", "t": "(في النهاية)"},
+      {"def": "مع الوقت، يومًا ما", "en": "We'll get there eventually.", "t": "(مع الوقت)"},
+      {"def": "فخّ: ليست 'ربما' → maybe", "en": "Maybe he'll come. (NOT eventually)", "t": "(ربما = maybe)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["eventually vs maybe", "eventually vs finally", "in the end"],
+    "idiomTitle": "عبارات", "idioms": ["eventually,...", "sooner or later", "in the end"],
+    "quizQ": "ماذا تعني «He eventually came»؟", "quizA": ["جاء في النهاية", "ربما جاء", "جاء فورًا"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "क्रिया-विशेषण", "title": "eventually का क्या मतलब है? (आम ग़लती)",
+    "metaDesc": "eventually का क्या मतलब है? 'शायद' नहीं — बल्कि 'आख़िरकार, अंततः'। आम भ्रम — LinguaBattle.",
+    "lede": "<b>eventually</b> एक जाल है: इसका मतलब 'शायद' नहीं! इसका मतलब है <b>'आख़िरकार, अंततः, देर-सबेर'</b>। ('शायद' के लिए → maybe / possibly।)",
+    "means": [
+      {"def": "आख़िरकार, अंततः", "en": "He eventually found a job.", "t": "(आख़िरकार)"},
+      {"def": "समय के साथ, किसी दिन", "en": "We'll get there eventually.", "t": "(समय के साथ)"},
+      {"def": "जाल: 'शायद' नहीं → maybe", "en": "Maybe he'll come. (NOT eventually)", "t": "(शायद = maybe)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["eventually vs maybe", "eventually vs finally", "in the end"],
+    "idiomTitle": "वाक्यांश", "idioms": ["eventually,...", "sooner or later", "in the end"],
+    "quizQ": "“He eventually came” का क्या अर्थ है?", "quizA": ["वह आख़िरकार आया", "शायद वह आया", "वह तुरंत आया"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "наречие", "title": "Что значит eventually? (частая ловушка)",
+    "metaDesc": "Что значит eventually? Не 'возможно' — а 'в конце концов, рано или поздно'. Частая ошибка — LinguaBattle.",
+    "lede": "<b>eventually</b> — ловушка: оно НЕ значит «возможно». Оно значит <b>«в конце концов, рано или поздно, в итоге»</b>. (Для «возможно» → maybe / possibly.)",
+    "means": [
+      {"def": "в конце концов, в итоге", "en": "He eventually found a job.", "t": "(в конце концов)"},
+      {"def": "со временем, когда-нибудь", "en": "We'll get there eventually.", "t": "(со временем)"},
+      {"def": "ЛОВУШКА: НЕ 'возможно' → maybe", "en": "Maybe he'll come. (NOT eventually)", "t": "(возможно = maybe)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["eventually vs maybe", "eventually vs finally", "in the end"],
+    "idiomTitle": "Выражения", "idioms": ["eventually,...", "sooner or later", "in the end"],
+    "quizQ": "Что значит «He eventually came»?", "quizA": ["В конце концов он пришёл", "Возможно, он пришёл", "Он пришёл сразу"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "advérbio", "title": "O que significa eventually? (armadilha comum)",
+    "metaDesc": "O que significa eventually? Não 'eventualmente (talvez)' — mas 'no final, mais cedo ou mais tarde'. Falso cognato — LinguaBattle.",
+    "lede": "<b>eventually</b> é um falso cognato: NÃO significa «eventualmente (talvez)». Significa <b>«no final, mais cedo ou mais tarde, por fim»</b>. (Para «talvez» → maybe / possibly.)",
+    "means": [
+      {"def": "no final, por fim", "en": "He eventually found a job.", "t": "(no final)"},
+      {"def": "com o tempo, um dia", "en": "We'll get there eventually.", "t": "(com o tempo)"},
+      {"def": "ARMADILHA: NÃO 'talvez' → maybe", "en": "Maybe he'll come. (NOT eventually)", "t": "(talvez = maybe)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["eventually vs maybe", "eventually vs finally", "in the end"],
+    "idiomTitle": "Expressões", "idioms": ["eventually,...", "sooner or later", "in the end"],
+    "quizQ": "O que significa «He eventually came»?", "quizA": ["Ele veio no final", "Talvez ele tenha vindo", "Ele veio imediatamente"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "副詞", "title": "eventuallyの意味は？（よくある罠）",
+    "metaDesc": "eventuallyの意味は？「たぶん」ではなく「最終的に、いずれ」。よくある誤用 — LinguaBattle.",
+    "lede": "<b>eventually</b> は罠：「たぶん」ではない！意味は<b>「最終的に、いずれ、遅かれ早かれ」</b>。（「たぶん」は maybe / possibly。）",
+    "means": [
+      {"def": "最終的に、結局", "en": "He eventually found a job.", "t": "（最終的に）"},
+      {"def": "そのうち、いずれ", "en": "We'll get there eventually.", "t": "（そのうち）"},
+      {"def": "罠：「たぶん」ではない → maybe", "en": "Maybe he'll come. (NOT eventually)", "t": "（たぶん = maybe）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["eventually vs maybe", "eventually vs finally", "in the end"],
+    "idiomTitle": "フレーズ", "idioms": ["eventually,...", "sooner or later", "in the end"],
+    "quizQ": "「He eventually came」の意味は？", "quizA": ["彼は最終的に来た", "たぶん彼は来た", "彼はすぐ来た"], "quizOk": 0
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "word": "exit",
+  "pron": "/ˈeɡzɪt/",
+  "category": "confusing",
+  "tr": {
+    "pos": "isim / fiil", "title": "exit ne demek? (tuzak)",
+    "metaDesc": "exit ne demek? 'Başarı' değil, 'çıkış'. İspanyolca/İtalyanca éxito ile karıştırılan tuzak — LinguaBattle.",
+    "lede": "<b>exit</b> bir tuzaktır: İspanyolca/İtalyanca <i>éxito</i> (“başarı”) sanılır ama aslında <b>“çıkış, çıkmak”</b> demektir. (“Başarı” = success.)",
+    "means": [
+      {"def": "çıkış (kapı, yol)", "en": "The emergency exit is on the left.", "t": "Acil çıkış solda."},
+      {"def": "çıkmak, ayrılmak", "en": "Please exit through the back door.", "t": "Lütfen arka kapıdan çıkın."},
+      {"def": "(yazılım) programdan çıkış", "en": "Press Ctrl+Q to exit the app.", "t": "Uygulamadan çıkmak için Ctrl+Q'ya bas."},
+      {"def": "(otoyol) çıkış, sapak", "en": "Take exit 5 for the airport.", "t": "Havaalanı için 5. çıkıştan ayrıl."},
+      {"def": "TUZAK: 'başarı' DEĞİL → success", "en": "It was a huge success. (NOT exit)", "t": "Büyük bir başarıydı. (exit değil, success)"}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["exit vs success", "entrance", "way out", "leave"],
+    "idiomTitle": "Kalıplar", "idioms": ["emergency exit", "exit strategy", "no exit"],
+    "quizQ": "“emergency exit” ne demek?", "quizA": ["Acil çıkış", "Acil başarı", "Acil giriş"], "quizOk": 0
+  },
+  "en": {
+    "pos": "noun / verb", "title": "What does exit mean? (trap)",
+    "metaDesc": "What does exit mean? Not 'success' — it means 'way out / to leave'. False friend with Spanish/Italian éxito — LinguaBattle.",
+    "lede": "<b>exit</b> is a trap for Spanish/Italian speakers: it looks like <i>éxito</i> (“success”) but means <b>“way out, to leave”</b>. (For “success” use success.)",
+    "means": [
+      {"def": "way out, door out", "en": "The emergency exit is on the left.", "t": "(way out)"},
+      {"def": "to leave, to go out", "en": "Please exit through the back door.", "t": "(to leave)"},
+      {"def": "(software) to quit", "en": "Press Ctrl+Q to exit the app.", "t": "(to quit)"},
+      {"def": "(highway) off-ramp", "en": "Take exit 5 for the airport.", "t": "(off-ramp)"},
+      {"def": "TRAP: NOT 'success' → use success", "en": "It was a huge success. (NOT exit)", "t": "(success ≠ exit)"}
+    ],
+    "relTitle": "Often confused", "rel": ["exit vs success", "entrance", "way out", "leave"],
+    "idiomTitle": "Phrases", "idioms": ["emergency exit", "exit strategy", "no exit"],
+    "quizQ": "What does “emergency exit” mean?", "quizA": ["Emergency way out", "Emergency success", "Emergency entrance"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Substantiv / Verb", "title": "Was bedeutet exit? (Falle)",
+    "metaDesc": "Was bedeutet exit? Nicht 'Erfolg' — sondern 'Ausgang / verlassen'. False Friend mit éxito — LinguaBattle.",
+    "lede": "<b>exit</b> ist eine Falle: ähnelt dem spanischen/italienischen <i>éxito</i> („Erfolg“), bedeutet aber <b>„Ausgang, verlassen, hinausgehen“</b>. (Für „Erfolg“ → success.)",
+    "means": [
+      {"def": "Ausgang", "en": "The emergency exit is on the left.", "t": "(Ausgang)"},
+      {"def": "hinausgehen, verlassen", "en": "Please exit through the back door.", "t": "(verlassen)"},
+      {"def": "(Software) beenden", "en": "Press Ctrl+Q to exit the app.", "t": "(beenden)"},
+      {"def": "(Autobahn) Abfahrt", "en": "Take exit 5 for the airport.", "t": "(Abfahrt)"},
+      {"def": "FALLE: NICHT 'Erfolg' → success", "en": "It was a huge success. (NOT exit)", "t": "(Erfolg = success)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["exit vs success", "entrance", "way out", "leave"],
+    "idiomTitle": "Wendungen", "idioms": ["emergency exit", "exit strategy", "no exit"],
+    "quizQ": "Was bedeutet „emergency exit“?", "quizA": ["Notausgang", "Großer Erfolg", "Eingang"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "nom / verbe", "title": "Que signifie exit ? (piège)",
+    "metaDesc": "Que signifie exit ? Pas 'succès' — mais 'sortie / sortir'. Faux ami avec éxito — LinguaBattle.",
+    "lede": "<b>exit</b> est un piège : il ressemble à l'espagnol/italien <i>éxito</i> (« succès ») mais signifie <b>« sortie, sortir, quitter »</b>. (Pour « succès » → success.)",
+    "means": [
+      {"def": "sortie", "en": "The emergency exit is on the left.", "t": "(sortie)"},
+      {"def": "sortir, quitter", "en": "Please exit through the back door.", "t": "(sortir)"},
+      {"def": "(logiciel) quitter", "en": "Press Ctrl+Q to exit the app.", "t": "(quitter)"},
+      {"def": "(autoroute) sortie", "en": "Take exit 5 for the airport.", "t": "(sortie d'autoroute)"},
+      {"def": "PIÈGE : PAS 'succès' → success", "en": "It was a huge success. (NOT exit)", "t": "(succès = success)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["exit vs success", "entrance", "way out", "leave"],
+    "idiomTitle": "Expressions", "idioms": ["emergency exit", "exit strategy", "no exit"],
+    "quizQ": "Que veut dire « emergency exit » ?", "quizA": ["Sortie de secours", "Grand succès", "Entrée"], "quizOk": 0
+  },
+  "es": {
+    "pos": "sustantivo / verbo", "title": "¿Qué significa exit? (falso amigo)",
+    "metaDesc": "¿Qué significa exit? ¡No 'éxito'! Significa 'salida'. Falso amigo clásico con éxito — LinguaBattle.",
+    "lede": "<b>exit</b> es un falso amigo: parece <i>éxito</i> pero significa <b>«salida, salir»</b>. (Para «éxito» → success.)",
+    "means": [
+      {"def": "salida", "en": "The emergency exit is on the left.", "t": "(salida)"},
+      {"def": "salir, abandonar", "en": "Please exit through the back door.", "t": "(salir)"},
+      {"def": "(software) salir/cerrar", "en": "Press Ctrl+Q to exit the app.", "t": "(cerrar)"},
+      {"def": "(autopista) salida", "en": "Take exit 5 for the airport.", "t": "(salida de autopista)"},
+      {"def": "TRAMPA: NO 'éxito' → success", "en": "It was a huge success. (NOT exit)", "t": "(éxito = success)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["exit vs success", "entrance", "way out", "leave"],
+    "idiomTitle": "Expresiones", "idioms": ["emergency exit", "exit strategy", "no exit"],
+    "quizQ": "¿Qué significa «emergency exit»?", "quizA": ["Salida de emergencia", "Gran éxito", "Entrada"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "اسم / فعل", "title": "ماذا تعني exit؟ (فخّ)",
+    "metaDesc": "ماذا تعني exit؟ ليست 'نجاح' — بل 'مخرَج / يخرج'. خطأ شائع مع الإسبانية éxito — LinguaBattle.",
+    "lede": "<b>exit</b> فخّ: تشبه الإسبانية/الإيطالية <i>éxito</i> («نجاح») لكنها تعني <b>«مخرَج، يخرج، يغادر»</b>. (لـ«نجاح» → success.)",
+    "means": [
+      {"def": "مخرَج، باب الخروج", "en": "The emergency exit is on the left.", "t": "(مخرَج)"},
+      {"def": "يخرج، يغادر", "en": "Please exit through the back door.", "t": "(يغادر)"},
+      {"def": "(برمجيات) يُغلق البرنامج", "en": "Press Ctrl+Q to exit the app.", "t": "(يُغلق)"},
+      {"def": "(طريق سريع) مخرَج", "en": "Take exit 5 for the airport.", "t": "(مخرَج الطريق)"},
+      {"def": "فخّ: ليست 'نجاح' → success", "en": "It was a huge success. (NOT exit)", "t": "(نجاح = success)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["exit vs success", "entrance", "way out", "leave"],
+    "idiomTitle": "عبارات", "idioms": ["emergency exit", "exit strategy", "no exit"],
+    "quizQ": "ماذا تعني «emergency exit»؟", "quizA": ["مخرَج الطوارئ", "نجاح كبير", "مدخل"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "संज्ञा / क्रिया", "title": "exit का क्या मतलब है? (ग़लती)",
+    "metaDesc": "exit का क्या मतलब है? 'सफलता' नहीं — बल्कि 'निकास / बाहर जाना'। स्पैनिश éxito से जुड़ी ग़लती — LinguaBattle.",
+    "lede": "<b>exit</b> एक जाल है: यह स्पैनिश/इतालवी <i>éxito</i> ('सफलता') जैसा दिखता है पर इसका मतलब है <b>'निकास, बाहर जाना'</b>। ('सफलता' के लिए → success।)",
+    "means": [
+      {"def": "निकास, बाहर जाने का रास्ता", "en": "The emergency exit is on the left.", "t": "(निकास)"},
+      {"def": "बाहर जाना, छोड़ना", "en": "Please exit through the back door.", "t": "(बाहर जाना)"},
+      {"def": "(सॉफ़्टवेयर) बंद करना", "en": "Press Ctrl+Q to exit the app.", "t": "(बंद करना)"},
+      {"def": "(हाईवे) निकास", "en": "Take exit 5 for the airport.", "t": "(हाईवे निकास)"},
+      {"def": "जाल: 'सफलता' नहीं → success", "en": "It was a huge success. (NOT exit)", "t": "(सफलता = success)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["exit vs success", "entrance", "way out", "leave"],
+    "idiomTitle": "वाक्यांश", "idioms": ["emergency exit", "exit strategy", "no exit"],
+    "quizQ": "“emergency exit” का क्या अर्थ है?", "quizA": ["आपातकालीन निकास", "बड़ी सफलता", "प्रवेश"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "существительное / глагол", "title": "Что значит exit? (ловушка)",
+    "metaDesc": "Что значит exit? Не 'успех' — а 'выход / выходить'. Ложный друг с испанским éxito — LinguaBattle.",
+    "lede": "<b>exit</b> — ловушка: похоже на испанское/итальянское <i>éxito</i> («успех»), но значит <b>«выход, выходить, покидать»</b>. (Для «успех» → success.)",
+    "means": [
+      {"def": "выход", "en": "The emergency exit is on the left.", "t": "(выход)"},
+      {"def": "выходить, покидать", "en": "Please exit through the back door.", "t": "(выходить)"},
+      {"def": "(ПО) выйти, закрыть", "en": "Press Ctrl+Q to exit the app.", "t": "(выйти)"},
+      {"def": "(шоссе) съезд", "en": "Take exit 5 for the airport.", "t": "(съезд)"},
+      {"def": "ЛОВУШКА: НЕ 'успех' → success", "en": "It was a huge success. (NOT exit)", "t": "(успех = success)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["exit vs success", "entrance", "way out", "leave"],
+    "idiomTitle": "Выражения", "idioms": ["emergency exit", "exit strategy", "no exit"],
+    "quizQ": "Что значит «emergency exit»?", "quizA": ["Запасной выход", "Большой успех", "Вход"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "substantivo / verbo", "title": "O que significa exit? (armadilha)",
+    "metaDesc": "O que significa exit? Não 'sucesso' — mas 'saída / sair'. Falso cognato com éxito — LinguaBattle.",
+    "lede": "<b>exit</b> é uma armadilha: parece o espanhol/italiano <i>éxito</i> («sucesso»), mas significa <b>«saída, sair»</b>. (Para «sucesso» → success.)",
+    "means": [
+      {"def": "saída", "en": "The emergency exit is on the left.", "t": "(saída)"},
+      {"def": "sair, deixar", "en": "Please exit through the back door.", "t": "(sair)"},
+      {"def": "(software) sair/fechar", "en": "Press Ctrl+Q to exit the app.", "t": "(sair)"},
+      {"def": "(rodovia) saída", "en": "Take exit 5 for the airport.", "t": "(saída da rodovia)"},
+      {"def": "ARMADILHA: NÃO 'sucesso' → success", "en": "It was a huge success. (NOT exit)", "t": "(sucesso = success)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["exit vs success", "entrance", "way out", "leave"],
+    "idiomTitle": "Expressões", "idioms": ["emergency exit", "exit strategy", "no exit"],
+    "quizQ": "O que significa «emergency exit»?", "quizA": ["Saída de emergência", "Grande sucesso", "Entrada"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "名詞 / 動詞", "title": "exitの意味は？（罠）",
+    "metaDesc": "exitの意味は？「成功」ではなく「出口・出る」。スペイン語éxitoと混同される誤用 — LinguaBattle.",
+    "lede": "<b>exit</b> は罠：スペイン語/イタリア語の <i>éxito</i>（「成功」）に似ているが、意味は<b>「出口、出る、退出する」</b>。（「成功」は success。）",
+    "means": [
+      {"def": "出口", "en": "The emergency exit is on the left.", "t": "（出口）"},
+      {"def": "出る、退出する", "en": "Please exit through the back door.", "t": "（出る）"},
+      {"def": "（ソフト）終了する", "en": "Press Ctrl+Q to exit the app.", "t": "（終了）"},
+      {"def": "（高速）出口・降り口", "en": "Take exit 5 for the airport.", "t": "（高速の出口）"},
+      {"def": "罠：「成功」ではない → success", "en": "It was a huge success. (NOT exit)", "t": "（成功 = success）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["exit vs success", "entrance", "way out", "leave"],
+    "idiomTitle": "フレーズ", "idioms": ["emergency exit", "exit strategy", "no exit"],
+    "quizQ": "「emergency exit」の意味は？", "quizA": ["非常口", "大成功", "入口"], "quizOk": 0
+  }
+}

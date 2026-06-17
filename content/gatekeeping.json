@@ -1,0 +1,125 @@
+{
+  "word": "gatekeeping",
+  "pron": "/ˈɡeɪtkiːpɪŋ/",
+  "category": "genz",
+  "tr": {
+    "pos": "isim / fiil", "title": "gatekeeping ne demek?",
+    "metaDesc": "gatekeeping ne demek? Bir bilgiyi/trendi başkalarından saklamak. Anlamı ve örnekler — LinguaBattle.",
+    "lede": "<b>gatekeeping</b>, bir bilgiyi, ürünü, trendi ya da topluluğu başkalarından kıskanarak saklama, “sadece bana ait” gibi davranma anlamındadır. “gate” (kapı) + “keep” (tutmak) — kapıyı tutup başkalarını sokmamak gibi.",
+    "means": [
+      {"def": "Bir bilgiyi/trendi başkalarından saklamak", "en": "Stop gatekeeping, just tell me the brand!", "t": "Saklamayı bırak, markayı söyle artık!"},
+      {"def": "Kimin “gerçek” hayran olduğuna karar verme", "en": "Music gatekeeping is so annoying.", "t": "Müzikte 'gerçek hayran' ayrımcılığı çok sinir bozucu."}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["gatekeeping vs gatekeeper", "elitism", "exclusivity"],
+    "idiomTitle": "Kalıplar", "idioms": ["stop gatekeeping", "gatekeep a brand", "no gatekeeping"],
+    "quizQ": "“Stop gatekeeping” ne demek?", "quizA": ["Bilgiyi saklamayı bırak (paylaş)", "Kapıyı kapat", "Bekle"], "quizOk": 0
+  },
+  "en": {
+    "pos": "noun / verb", "title": "What does gatekeeping mean?",
+    "metaDesc": "What does gatekeeping mean? Hiding info or trends from others. Meaning and examples — LinguaBattle.",
+    "lede": "<b>gatekeeping</b> means selfishly hiding information, products, trends or communities from others, acting like it's “only yours”. From “gate” + “keep” — holding the gate to keep others out.",
+    "means": [
+      {"def": "Hiding info/trends from others", "en": "Stop gatekeeping, just tell me the brand!", "t": "(stop hiding it)"},
+      {"def": "Deciding who is a 'real' fan", "en": "Music gatekeeping is so annoying.", "t": "(fan elitism)"}
+    ],
+    "relTitle": "Often confused", "rel": ["gatekeeping vs gatekeeper", "elitism", "exclusivity"],
+    "idiomTitle": "Phrases", "idioms": ["stop gatekeeping", "gatekeep a brand", "no gatekeeping"],
+    "quizQ": "What does “Stop gatekeeping” mean?", "quizA": ["Stop hiding the info (share it)", "Close the gate", "Wait"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Subst. / Verb", "title": "Was bedeutet gatekeeping?",
+    "metaDesc": "Was bedeutet gatekeeping? Infos oder Trends vor anderen verstecken. Bedeutung und Beispiele — LinguaBattle.",
+    "lede": "<b>gatekeeping</b> bedeutet, Informationen, Produkte, Trends oder Communities egoistisch vor anderen zu verbergen, als gehörten sie „nur dir“. Von „gate“ + „keep“ — das Tor halten, um andere fernzuhalten.",
+    "means": [
+      {"def": "Infos/Trends vor anderen verstecken", "en": "Stop gatekeeping, just tell me the brand!", "t": "(hör auf zu verstecken)"},
+      {"def": "Entscheiden, wer ein 'echter' Fan ist", "en": "Music gatekeeping is so annoying.", "t": "(Fan-Elitismus)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["gatekeeping vs gatekeeper", "elitism", "exclusivity"],
+    "idiomTitle": "Redewendungen", "idioms": ["stop gatekeeping", "gatekeep a brand", "no gatekeeping"],
+    "quizQ": "Was bedeutet „Stop gatekeeping“?", "quizA": ["Hör auf, die Info zu verstecken (teile sie)", "Schließ das Tor", "Warte"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "nom / verbe", "title": "Que signifie gatekeeping ?",
+    "metaDesc": "Que signifie gatekeeping ? Cacher des infos ou tendances aux autres. Sens et exemples — LinguaBattle.",
+    "lede": "<b>gatekeeping</b> signifie cacher égoïstement des informations, produits, tendances ou communautés aux autres, comme si c'était « réservé à soi ». De « gate » + « keep » — garder la porte pour exclure les autres.",
+    "means": [
+      {"def": "Cacher des infos/tendances aux autres", "en": "Stop gatekeeping, just tell me the brand!", "t": "(arrête de cacher)"},
+      {"def": "Décider qui est un 'vrai' fan", "en": "Music gatekeeping is so annoying.", "t": "(élitisme de fans)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["gatekeeping vs gatekeeper", "elitism", "exclusivity"],
+    "idiomTitle": "Expressions", "idioms": ["stop gatekeeping", "gatekeep a brand", "no gatekeeping"],
+    "quizQ": "Que veut dire « Stop gatekeeping » ?", "quizA": ["Arrête de cacher l'info (partage-la)", "Ferme la porte", "Attends"], "quizOk": 0
+  },
+  "es": {
+    "pos": "sust. / verbo", "title": "¿Qué significa gatekeeping?",
+    "metaDesc": "¿Qué significa gatekeeping? Ocultar información o tendencias a los demás. Significado y ejemplos — LinguaBattle.",
+    "lede": "<b>gatekeeping</b> significa ocultar egoístamente información, productos, tendencias o comunidades a los demás, como si fueran «solo tuyos». De «gate» + «keep» — guardar la puerta para dejar fuera a otros.",
+    "means": [
+      {"def": "Ocultar información/tendencias a los demás", "en": "Stop gatekeeping, just tell me the brand!", "t": "(deja de ocultarlo)"},
+      {"def": "Decidir quién es un fan 'de verdad'", "en": "Music gatekeeping is so annoying.", "t": "(elitismo de fans)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["gatekeeping vs gatekeeper", "elitism", "exclusivity"],
+    "idiomTitle": "Expresiones", "idioms": ["stop gatekeeping", "gatekeep a brand", "no gatekeeping"],
+    "quizQ": "¿Qué significa «Stop gatekeeping»?", "quizA": ["Deja de ocultar la info (compártela)", "Cierra la puerta", "Espera"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "اسم / فعل", "title": "ماذا تعني gatekeeping؟",
+    "metaDesc": "ماذا تعني gatekeeping؟ إخفاء المعلومات أو الصيحات عن الآخرين. المعنى والأمثلة — LinguaBattle.",
+    "lede": "<b>gatekeeping</b> تعني إخفاء المعلومات أو المنتجات أو الصيحات أو المجتمعات عن الآخرين بأنانية، وكأنها «ملكك وحدك». من «gate» (بوابة) + «keep» (يحرس) — حراسة البوابة لمنع الآخرين.",
+    "means": [
+      {"def": "إخفاء المعلومات/الصيحات عن الآخرين", "en": "Stop gatekeeping, just tell me the brand!", "t": "(توقف عن الإخفاء)"},
+      {"def": "تحديد من هو المعجب 'الحقيقي'", "en": "Music gatekeeping is so annoying.", "t": "(نخبوية المعجبين)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["gatekeeping vs gatekeeper", "elitism", "exclusivity"],
+    "idiomTitle": "عبارات", "idioms": ["stop gatekeeping", "gatekeep a brand", "no gatekeeping"],
+    "quizQ": "ماذا تعني «Stop gatekeeping»؟", "quizA": ["توقف عن إخفاء المعلومة (شاركها)", "أغلق البوابة", "انتظر"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "संज्ञा / क्रिया", "title": "gatekeeping का क्या मतलब है?",
+    "metaDesc": "gatekeeping का क्या मतलब है? जानकारी या ट्रेंड दूसरों से छिपाना। अर्थ और उदाहरण — LinguaBattle.",
+    "lede": "<b>gatekeeping</b> का मतलब है जानकारी, प्रोडक्ट, ट्रेंड या समुदाय को स्वार्थवश दूसरों से छिपाना, मानो वह “सिर्फ़ आपका” हो। “gate” (द्वार) + “keep” (रोकना) से — दरवाज़ा थामकर दूसरों को बाहर रखना।",
+    "means": [
+      {"def": "जानकारी/ट्रेंड दूसरों से छिपाना", "en": "Stop gatekeeping, just tell me the brand!", "t": "(छिपाना बंद करो)"},
+      {"def": "तय करना कि कौन 'असली' फ़ैन है", "en": "Music gatekeeping is so annoying.", "t": "(फ़ैन एलीटिज़्म)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["gatekeeping vs gatekeeper", "elitism", "exclusivity"],
+    "idiomTitle": "वाक्यांश", "idioms": ["stop gatekeeping", "gatekeep a brand", "no gatekeeping"],
+    "quizQ": "“Stop gatekeeping” का क्या अर्थ है?", "quizA": ["जानकारी छिपाना बंद करो (शेयर करो)", "गेट बंद करो", "रुको"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "сущ. / глагол", "title": "Что значит gatekeeping?",
+    "metaDesc": "Что значит gatekeeping? Скрывать информацию или тренды от других. Значение и примеры — LinguaBattle.",
+    "lede": "<b>gatekeeping</b> — это эгоистично скрывать информацию, продукты, тренды или сообщества от других, будто это «только твоё». От «gate» (ворота) + «keep» (держать) — держать ворота, чтобы не пускать других.",
+    "means": [
+      {"def": "Скрывать информацию/тренды от других", "en": "Stop gatekeeping, just tell me the brand!", "t": "(хватит скрывать)"},
+      {"def": "Решать, кто 'настоящий' фанат", "en": "Music gatekeeping is so annoying.", "t": "(фанатский элитизм)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["gatekeeping vs gatekeeper", "elitism", "exclusivity"],
+    "idiomTitle": "Выражения", "idioms": ["stop gatekeeping", "gatekeep a brand", "no gatekeeping"],
+    "quizQ": "Что значит «Stop gatekeeping»?", "quizA": ["Перестань скрывать инфу (поделись)", "Закрой ворота", "Подожди"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "subst. / verbo", "title": "O que significa gatekeeping?",
+    "metaDesc": "O que significa gatekeeping? Esconder informações ou tendências dos outros. Significado e exemplos — LinguaBattle.",
+    "lede": "<b>gatekeeping</b> significa esconder egoistamente informações, produtos, tendências ou comunidades dos outros, como se fossem «só seus». De «gate» + «keep» — guardar o portão para manter os outros de fora.",
+    "means": [
+      {"def": "Esconder informações/tendências dos outros", "en": "Stop gatekeeping, just tell me the brand!", "t": "(pare de esconder)"},
+      {"def": "Decidir quem é um fã 'de verdade'", "en": "Music gatekeeping is so annoying.", "t": "(elitismo de fãs)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["gatekeeping vs gatekeeper", "elitism", "exclusivity"],
+    "idiomTitle": "Expressões", "idioms": ["stop gatekeeping", "gatekeep a brand", "no gatekeeping"],
+    "quizQ": "O que significa «Stop gatekeeping»?", "quizA": ["Pare de esconder a info (compartilhe)", "Feche o portão", "Espere"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "名詞 / 動詞", "title": "gatekeepingの意味は？",
+    "metaDesc": "gatekeepingの意味は？情報やトレンドを他人に隠すこと。意味と例文 — LinguaBattle.",
+    "lede": "<b>gatekeeping</b> とは、情報・商品・トレンド・コミュニティを「自分だけのもの」のように、利己的に他人に隠すこと。「gate（門）」＋「keep（守る）」から — 門を守って他人を入れない。",
+    "means": [
+      {"def": "情報・トレンドを他人に隠す", "en": "Stop gatekeeping, just tell me the brand!", "t": "（隠さないで）"},
+      {"def": "誰が'本物'のファンか決めつける", "en": "Music gatekeeping is so annoying.", "t": "（ファンのエリート主義）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["gatekeeping vs gatekeeper", "elitism", "exclusivity"],
+    "idiomTitle": "フレーズ", "idioms": ["stop gatekeeping", "gatekeep a brand", "no gatekeeping"],
+    "quizQ": "「Stop gatekeeping」の意味は？", "quizA": ["情報を隠すのをやめて（共有して）", "門を閉めて", "待って"], "quizOk": 0
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "word": "turn",
+  "pron": "/tɜːn/",
+  "category": "verb",
+  "tr": {
+    "pos": "fiil / isim", "title": "turn ne demek? (5 anlamı)",
+    "metaDesc": "turn ne demek? 5 anlamı: dönmek, çevirmek, sıra, (yaş) doldurmak, -leşmek. Örneklerle — LinguaBattle.",
+    "lede": "<b>turn</b> çok anlamlı bir İngilizce kelimedir — fiil ve isim. Dönmekten sıraya, yaş doldurmaktan duruma uzanır; işte en sık 5 anlamı.",
+    "means": [
+      {"def": "dönmek, yön değiştirmek", "en": "Turn left at the corner.", "t": "Köşeden sola dön."},
+      {"def": "çevirmek, döndürmek", "en": "Turn the key.", "t": "Anahtarı çevir."},
+      {"def": "sıra (isim)", "en": "It's your turn.", "t": "Sıra sende."},
+      {"def": "(yaş) doldurmak", "en": "She just turned 18.", "t": "Daha yeni 18 oldu."},
+      {"def": "-leşmek, dönüşmek (durum)", "en": "The leaves turn red in autumn.", "t": "Yapraklar sonbaharda kızarır."}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["turn vs rotate", "turn vs become", "turn on vs turn off"],
+    "idiomTitle": "Günlük kalıplar", "idioms": ["turn on/off (açmak/kapamak)", "turn up (gelmek)", "turn into (-e dönüşmek)"],
+    "quizQ": "“It's your turn” ne demek?", "quizA": ["Sıra sende", "Sen dön", "Geri dön"], "quizOk": 0
+  },
+  "en": {
+    "pos": "verb / noun", "title": "What does turn mean? (5 meanings)",
+    "metaDesc": "What does turn mean? 5 meanings: to turn, to rotate, a turn, to turn (age), to become. With examples — LinguaBattle.",
+    "lede": "<b>turn</b> is a multi-meaning English word — verb and noun. From turning to taking turns, from age to becoming; here are the 5 most common.",
+    "means": [
+      {"def": "to turn, change direction", "en": "Turn left at the corner.", "t": "(change direction)"},
+      {"def": "to rotate, twist", "en": "Turn the key.", "t": "(rotate)"},
+      {"def": "a turn (noun)", "en": "It's your turn.", "t": "(your go)"},
+      {"def": "to turn (a certain age)", "en": "She just turned 18.", "t": "(reach an age)"},
+      {"def": "to become (change of state)", "en": "The leaves turn red in autumn.", "t": "(become)"}
+    ],
+    "relTitle": "Often confused", "rel": ["turn vs rotate", "turn vs become", "turn on vs turn off"],
+    "idiomTitle": "Phrasal verbs", "idioms": ["turn on/off", "turn up", "turn into"],
+    "quizQ": "What does “It's your turn” mean?", "quizA": ["It's your go", "You rotate", "Go back"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Verb / Subst.", "title": "Was bedeutet turn? (5 Bedeutungen)",
+    "metaDesc": "Was bedeutet turn? 5 Bedeutungen: abbiegen, drehen, Reihe, (Alter) werden, werden. Mit Beispielen — LinguaBattle.",
+    "lede": "<b>turn</b> ist ein vieldeutiges englisches Wort — Verb und Substantiv. Vom Abbiegen zur Reihe, vom Alter zum Werden; hier die 5 häufigsten.",
+    "means": [
+      {"def": "abbiegen, Richtung ändern", "en": "Turn left at the corner.", "t": "(abbiegen)"},
+      {"def": "drehen", "en": "Turn the key.", "t": "(drehen)"},
+      {"def": "Reihe, das Drankommen (Subst.)", "en": "It's your turn.", "t": "(du bist dran)"},
+      {"def": "(ein Alter) werden", "en": "She just turned 18.", "t": "(Alter erreichen)"},
+      {"def": "werden (Zustandsänderung)", "en": "The leaves turn red in autumn.", "t": "(werden)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["turn vs rotate", "turn vs become", "turn on vs turn off"],
+    "idiomTitle": "Phrasal Verbs", "idioms": ["turn on/off", "turn up", "turn into"],
+    "quizQ": "Was bedeutet „It's your turn“?", "quizA": ["Du bist dran", "Du drehst dich", "Geh zurück"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "verbe / nom", "title": "Que signifie turn ? (5 sens)",
+    "metaDesc": "Que signifie turn ? 5 sens : tourner, faire tourner, le tour, (âge) avoir, devenir. Avec exemples — LinguaBattle.",
+    "lede": "<b>turn</b> est un mot anglais à sens multiples — verbe et nom. De tourner au tour de rôle, de l'âge à devenir ; voici les 5 plus courants.",
+    "means": [
+      {"def": "tourner, changer de direction", "en": "Turn left at the corner.", "t": "(tourner)"},
+      {"def": "faire tourner", "en": "Turn the key.", "t": "(faire tourner)"},
+      {"def": "le tour (nom)", "en": "It's your turn.", "t": "(c'est ton tour)"},
+      {"def": "(un âge) avoir, fêter", "en": "She just turned 18.", "t": "(atteindre un âge)"},
+      {"def": "devenir (changement d'état)", "en": "The leaves turn red in autumn.", "t": "(devenir)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["turn vs rotate", "turn vs become", "turn on vs turn off"],
+    "idiomTitle": "Verbes à particule", "idioms": ["turn on/off", "turn up", "turn into"],
+    "quizQ": "Que veut dire « It's your turn » ?", "quizA": ["C'est ton tour", "Tu tournes", "Reviens"], "quizOk": 0
+  },
+  "es": {
+    "pos": "verbo / sust.", "title": "¿Qué significa turn? (5 significados)",
+    "metaDesc": "¿Qué significa turn? 5 significados: girar, dar vuelta, turno, cumplir (años), volverse. Con ejemplos — LinguaBattle.",
+    "lede": "<b>turn</b> es una palabra inglesa con varios significados — verbo y sustantivo. De girar al turno, de la edad a volverse; aquí los 5 más comunes.",
+    "means": [
+      {"def": "girar, cambiar de dirección", "en": "Turn left at the corner.", "t": "(girar)"},
+      {"def": "dar vuelta, girar (algo)", "en": "Turn the key.", "t": "(girar)"},
+      {"def": "turno (sust.)", "en": "It's your turn.", "t": "(tu turno)"},
+      {"def": "cumplir (cierta edad)", "en": "She just turned 18.", "t": "(cumplir años)"},
+      {"def": "volverse (cambio de estado)", "en": "The leaves turn red in autumn.", "t": "(volverse)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["turn vs rotate", "turn vs become", "turn on vs turn off"],
+    "idiomTitle": "Verbos compuestos", "idioms": ["turn on/off", "turn up", "turn into"],
+    "quizQ": "¿Qué significa «It's your turn»?", "quizA": ["Es tu turno", "Tú giras", "Vuelve"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "فعل / اسم", "title": "ماذا تعني turn؟ (5 معانٍ)",
+    "metaDesc": "ماذا تعني turn؟ 5 معانٍ: ينعطف، يُدير، دور، يُتمّ (عمرًا)، يتحوّل. مع أمثلة — LinguaBattle.",
+    "lede": "<b>turn</b> كلمة إنجليزية متعددة المعاني — فعل واسم. من الانعطاف إلى الدور، ومن العمر إلى التحوّل؛ إليك أكثر 5 معانٍ شيوعًا.",
+    "means": [
+      {"def": "ينعطف، يغيّر الاتجاه", "en": "Turn left at the corner.", "t": "(ينعطف)"},
+      {"def": "يُدير، يلفّ", "en": "Turn the key.", "t": "(يُدير)"},
+      {"def": "دور (اسم)", "en": "It's your turn.", "t": "(دورك)"},
+      {"def": "يُتمّ (عمرًا معيّنًا)", "en": "She just turned 18.", "t": "(يبلغ عمرًا)"},
+      {"def": "يتحوّل (تغيّر حالة)", "en": "The leaves turn red in autumn.", "t": "(يتحوّل)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["turn vs rotate", "turn vs become", "turn on vs turn off"],
+    "idiomTitle": "أفعال مركّبة", "idioms": ["turn on/off", "turn up", "turn into"],
+    "quizQ": "ماذا تعني «It's your turn»؟", "quizA": ["دورك", "أنت تدور", "ارجع"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "क्रिया / संज्ञा", "title": "turn का क्या मतलब है? (5 अर्थ)",
+    "metaDesc": "turn का क्या मतलब है? 5 अर्थ: मुड़ना, घुमाना, बारी, (उम्र) पूरी होना, बनना। उदाहरणों सहित — LinguaBattle.",
+    "lede": "<b>turn</b> कई अर्थों वाला अंग्रेज़ी शब्द है — क्रिया और संज्ञा। मुड़ने से बारी तक, उम्र से बदलने तक; यहाँ 5 सबसे आम अर्थ।",
+    "means": [
+      {"def": "मुड़ना, दिशा बदलना", "en": "Turn left at the corner.", "t": "(मुड़ना)"},
+      {"def": "घुमाना", "en": "Turn the key.", "t": "(घुमाना)"},
+      {"def": "बारी (संज्ञा)", "en": "It's your turn.", "t": "(तुम्हारी बारी)"},
+      {"def": "(उम्र) पूरी होना", "en": "She just turned 18.", "t": "(उम्र होना)"},
+      {"def": "बनना, बदलना (स्थिति)", "en": "The leaves turn red in autumn.", "t": "(बनना)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["turn vs rotate", "turn vs become", "turn on vs turn off"],
+    "idiomTitle": "वाक्यांश क्रिया", "idioms": ["turn on/off", "turn up", "turn into"],
+    "quizQ": "“It's your turn” का क्या अर्थ है?", "quizA": ["तुम्हारी बारी है", "तुम घूमो", "वापस जाओ"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "глагол / сущ.", "title": "Что значит turn? (5 значений)",
+    "metaDesc": "Что значит turn? 5 значений: поворачивать, крутить, очередь, исполниться (возраст), становиться. С примерами — LinguaBattle.",
+    "lede": "<b>turn</b> — многозначное английское слово (глагол и существительное). От поворота до очереди, от возраста до превращения; вот 5 самых частых.",
+    "means": [
+      {"def": "поворачивать, менять направление", "en": "Turn left at the corner.", "t": "(повернуть)"},
+      {"def": "крутить, поворачивать (что-то)", "en": "Turn the key.", "t": "(крутить)"},
+      {"def": "очередь, ход (сущ.)", "en": "It's your turn.", "t": "(твой ход)"},
+      {"def": "исполниться (о возрасте)", "en": "She just turned 18.", "t": "(достичь возраста)"},
+      {"def": "становиться (изменение состояния)", "en": "The leaves turn red in autumn.", "t": "(становиться)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["turn vs rotate", "turn vs become", "turn on vs turn off"],
+    "idiomTitle": "Фразовые глаголы", "idioms": ["turn on/off", "turn up", "turn into"],
+    "quizQ": "Что значит «It's your turn»?", "quizA": ["Твоя очередь", "Ты крутишься", "Вернись"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "verbo / subst.", "title": "O que significa turn? (5 significados)",
+    "metaDesc": "O que significa turn? 5 significados: virar, girar, vez, fazer (anos), tornar-se. Com exemplos — LinguaBattle.",
+    "lede": "<b>turn</b> é uma palavra inglesa com vários significados — verbo e substantivo. De virar à vez, da idade a tornar-se; aqui os 5 mais comuns.",
+    "means": [
+      {"def": "virar, mudar de direção", "en": "Turn left at the corner.", "t": "(virar)"},
+      {"def": "girar (algo)", "en": "Turn the key.", "t": "(girar)"},
+      {"def": "vez (subst.)", "en": "It's your turn.", "t": "(sua vez)"},
+      {"def": "fazer (certa idade)", "en": "She just turned 18.", "t": "(fazer anos)"},
+      {"def": "tornar-se (mudança de estado)", "en": "The leaves turn red in autumn.", "t": "(tornar-se)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["turn vs rotate", "turn vs become", "turn on vs turn off"],
+    "idiomTitle": "Verbos frasais", "idioms": ["turn on/off", "turn up", "turn into"],
+    "quizQ": "O que significa «It's your turn»?", "quizA": ["É a sua vez", "Você gira", "Volte"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "動詞 / 名詞", "title": "turnの意味は？（5つの意味）",
+    "metaDesc": "turnの意味は？5つの意味：曲がる、回す、順番、（年齢に）なる、変わる。例文付き — LinguaBattle.",
+    "lede": "<b>turn</b> は多義の英単語 — 動詞でも名詞でも使う。曲がるから順番、年齢から変化まで；よく使う5つを紹介。",
+    "means": [
+      {"def": "曲がる、方向を変える", "en": "Turn left at the corner.", "t": "（曲がる）"},
+      {"def": "回す", "en": "Turn the key.", "t": "（回す）"},
+      {"def": "順番（名詞）", "en": "It's your turn.", "t": "（あなたの番）"},
+      {"def": "（ある年齢に）なる", "en": "She just turned 18.", "t": "（年齢になる）"},
+      {"def": "〜になる（状態変化）", "en": "The leaves turn red in autumn.", "t": "（〜になる）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["turn vs rotate", "turn vs become", "turn on vs turn off"],
+    "idiomTitle": "句動詞", "idioms": ["turn on/off", "turn up", "turn into"],
+    "quizQ": "「It's your turn」の意味は？", "quizA": ["あなたの番です", "あなたが回る", "戻って"], "quizOk": 0
+  }
+}

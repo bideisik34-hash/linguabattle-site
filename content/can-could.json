@@ -1,0 +1,145 @@
+{
+  "word": "can / could",
+  "pron": "/kæn, kʊd/",
+  "category": "grammar",
+  "tr": {
+    "pos": "gramer (modal)", "title": "can ve could farkı nedir?",
+    "metaDesc": "can vs could farkı: yetenek, izin, rica. Ne zaman can ne zaman could? Örneklerle — LinguaBattle.",
+    "lede": "<b>can</b> ve <b>could</b> modal fiillerdir. <b>can</b> şimdiki yetenek/izin, <b>could</b> geçmiş yetenek veya daha kibar rica için kullanılır.",
+    "means": [
+      {"def": "can = şimdiki yetenek", "en": "I can swim.", "t": "Yüzebilirim."},
+      {"def": "could = geçmiş yetenek", "en": "I could swim at age 5.", "t": "5 yaşında yüzebiliyordum."},
+      {"def": "could = daha kibar rica", "en": "Could you help me?", "t": "Bana yardım eder misiniz? (kibar)"},
+      {"def": "can = izin (günlük)", "en": "Can I go now?", "t": "Şimdi gidebilir miyim?"}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["can vs could", "could vs would", "can vs may"],
+    "idiomTitle": "Kalıplar", "idioms": ["Can you...?", "Could you...? (kibar)", "I can't"],
+    "quizQ": "Daha kibar rica hangisi?", "quizA": ["Could you help me?", "Can you help?", "You help me."], "quizOk": 0
+  },
+  "en": {
+    "pos": "grammar (modal)", "title": "Can vs could: what's the difference?",
+    "metaDesc": "Can vs could difference: ability, permission, requests. When to use each? With examples — LinguaBattle.",
+    "lede": "<b>can</b> and <b>could</b> are modal verbs. <b>can</b> = present ability/permission; <b>could</b> = past ability or a more polite request.",
+    "means": [
+      {"def": "can = present ability", "en": "I can swim.", "t": "(ability now)"},
+      {"def": "could = past ability", "en": "I could swim at age 5.", "t": "(past ability)"},
+      {"def": "could = more polite request", "en": "Could you help me?", "t": "(polite)"},
+      {"def": "can = permission (casual)", "en": "Can I go now?", "t": "(permission)"}
+    ],
+    "relTitle": "Often confused", "rel": ["can vs could", "could vs would", "can vs may"],
+    "idiomTitle": "Phrases", "idioms": ["Can you...?", "Could you...? (polite)", "I can't"],
+    "quizQ": "Which is more polite?", "quizA": ["Could you help me?", "Can you help?", "You help me."], "quizOk": 0
+  },
+  "de": {
+    "pos": "Grammatik (Modal)", "title": "Can vs could: Was ist der Unterschied?",
+    "metaDesc": "Unterschied can vs could: Fähigkeit, Erlaubnis, Bitten. Wann welches? Mit Beispielen — LinguaBattle.",
+    "lede": "<b>can</b> und <b>could</b> sind Modalverben. <b>can</b> = gegenwärtige Fähigkeit/Erlaubnis; <b>could</b> = vergangene Fähigkeit oder höflichere Bitte.",
+    "means": [
+      {"def": "can = gegenwärtige Fähigkeit", "en": "I can swim.", "t": "(jetzt)"},
+      {"def": "could = vergangene Fähigkeit", "en": "I could swim at age 5.", "t": "(früher)"},
+      {"def": "could = höflichere Bitte", "en": "Could you help me?", "t": "(höflich)"},
+      {"def": "can = Erlaubnis (locker)", "en": "Can I go now?", "t": "(Erlaubnis)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["can vs could", "could vs would", "can vs may"],
+    "idiomTitle": "Wendungen", "idioms": ["Can you...?", "Could you...? (höflich)", "I can't"],
+    "quizQ": "Was ist höflicher?", "quizA": ["Could you help me?", "Can you help?", "You help me."], "quizOk": 0
+  },
+  "fr": {
+    "pos": "grammaire (modal)", "title": "Can vs could : quelle différence ?",
+    "metaDesc": "Différence can vs could : capacité, permission, demandes. Quand utiliser ? Avec exemples — LinguaBattle.",
+    "lede": "<b>can</b> et <b>could</b> sont des modaux. <b>can</b> = capacité/permission au présent ; <b>could</b> = capacité passée ou demande plus polie.",
+    "means": [
+      {"def": "can = capacité présente", "en": "I can swim.", "t": "(maintenant)"},
+      {"def": "could = capacité passée", "en": "I could swim at age 5.", "t": "(passé)"},
+      {"def": "could = demande plus polie", "en": "Could you help me?", "t": "(poli)"},
+      {"def": "can = permission (familier)", "en": "Can I go now?", "t": "(permission)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["can vs could", "could vs would", "can vs may"],
+    "idiomTitle": "Expressions", "idioms": ["Can you...?", "Could you...? (poli)", "I can't"],
+    "quizQ": "Lequel est plus poli ?", "quizA": ["Could you help me?", "Can you help?", "You help me."], "quizOk": 0
+  },
+  "es": {
+    "pos": "gramática (modal)", "title": "Can vs could: ¿cuál es la diferencia?",
+    "metaDesc": "Diferencia can vs could: capacidad, permiso, peticiones. ¿Cuándo usar cada uno? Con ejemplos — LinguaBattle.",
+    "lede": "<b>can</b> y <b>could</b> son verbos modales. <b>can</b> = capacidad/permiso presente; <b>could</b> = capacidad pasada o petición más cortés.",
+    "means": [
+      {"def": "can = capacidad presente", "en": "I can swim.", "t": "(ahora)"},
+      {"def": "could = capacidad pasada", "en": "I could swim at age 5.", "t": "(pasado)"},
+      {"def": "could = petición más cortés", "en": "Could you help me?", "t": "(cortés)"},
+      {"def": "can = permiso (informal)", "en": "Can I go now?", "t": "(permiso)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["can vs could", "could vs would", "can vs may"],
+    "idiomTitle": "Expresiones", "idioms": ["Can you...?", "Could you...? (cortés)", "I can't"],
+    "quizQ": "¿Cuál es más cortés?", "quizA": ["Could you help me?", "Can you help?", "You help me."], "quizOk": 0
+  },
+  "ar": {
+    "pos": "قواعد (فعل ناقص)", "title": "ما الفرق بين can و could؟",
+    "metaDesc": "الفرق بين can vs could: القدرة، الإذن، الطلبات. متى نستخدم كلًّا؟ مع أمثلة — LinguaBattle.",
+    "lede": "<b>can</b> و<b>could</b> فعلان ناقصان. <b>can</b> = قدرة/إذن في الحاضر؛ <b>could</b> = قدرة في الماضي أو طلب أكثر تهذيبًا.",
+    "means": [
+      {"def": "can = قدرة حالية", "en": "I can swim.", "t": "(الآن)"},
+      {"def": "could = قدرة ماضية", "en": "I could swim at age 5.", "t": "(الماضي)"},
+      {"def": "could = طلب أكثر تهذيبًا", "en": "Could you help me?", "t": "(مهذّب)"},
+      {"def": "can = إذن (عادي)", "en": "Can I go now?", "t": "(إذن)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["can vs could", "could vs would", "can vs may"],
+    "idiomTitle": "عبارات", "idioms": ["Can you...?", "Could you...? (مهذّب)", "I can't"],
+    "quizQ": "أيّها أكثر تهذيبًا؟", "quizA": ["Could you help me?", "Can you help?", "You help me."], "quizOk": 0
+  },
+  "hi": {
+    "pos": "व्याकरण (मोडल)", "title": "can और could में क्या अंतर है?",
+    "metaDesc": "can बनाम could अंतर: योग्यता, अनुमति, अनुरोध। कब कौन सा? उदाहरणों सहित — LinguaBattle.",
+    "lede": "<b>can</b> और <b>could</b> मोडल क्रियाएँ हैं। <b>can</b> = वर्तमान योग्यता/अनुमति; <b>could</b> = बीती योग्यता या अधिक विनम्र अनुरोध।",
+    "means": [
+      {"def": "can = वर्तमान योग्यता", "en": "I can swim.", "t": "(अभी)"},
+      {"def": "could = बीती योग्यता", "en": "I could swim at age 5.", "t": "(अतीत)"},
+      {"def": "could = अधिक विनम्र अनुरोध", "en": "Could you help me?", "t": "(विनम्र)"},
+      {"def": "can = अनुमति (अनौपचारिक)", "en": "Can I go now?", "t": "(अनुमति)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["can vs could", "could vs would", "can vs may"],
+    "idiomTitle": "वाक्यांश", "idioms": ["Can you...?", "Could you...? (विनम्र)", "I can't"],
+    "quizQ": "अधिक विनम्र कौन सा है?", "quizA": ["Could you help me?", "Can you help?", "You help me."], "quizOk": 0
+  },
+  "ru": {
+    "pos": "грамматика (модал.)", "title": "Can vs could: в чём разница?",
+    "metaDesc": "Разница can vs could: способность, разрешение, просьбы. Когда что? С примерами — LinguaBattle.",
+    "lede": "<b>can</b> и <b>could</b> — модальные глаголы. <b>can</b> = способность/разрешение в настоящем; <b>could</b> = способность в прошлом или более вежливая просьба.",
+    "means": [
+      {"def": "can = способность сейчас", "en": "I can swim.", "t": "(сейчас)"},
+      {"def": "could = способность в прошлом", "en": "I could swim at age 5.", "t": "(прошлое)"},
+      {"def": "could = более вежливая просьба", "en": "Could you help me?", "t": "(вежливо)"},
+      {"def": "can = разрешение (разговорно)", "en": "Can I go now?", "t": "(разрешение)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["can vs could", "could vs would", "can vs may"],
+    "idiomTitle": "Выражения", "idioms": ["Can you...?", "Could you...? (вежливо)", "I can't"],
+    "quizQ": "Что вежливее?", "quizA": ["Could you help me?", "Can you help?", "You help me."], "quizOk": 0
+  },
+  "pt": {
+    "pos": "gramática (modal)", "title": "Can vs could: qual é a diferença?",
+    "metaDesc": "Diferença can vs could: capacidade, permissão, pedidos. Quando usar cada um? Com exemplos — LinguaBattle.",
+    "lede": "<b>can</b> e <b>could</b> são verbos modais. <b>can</b> = capacidade/permissão no presente; <b>could</b> = capacidade no passado ou pedido mais educado.",
+    "means": [
+      {"def": "can = capacidade presente", "en": "I can swim.", "t": "(agora)"},
+      {"def": "could = capacidade passada", "en": "I could swim at age 5.", "t": "(passado)"},
+      {"def": "could = pedido mais educado", "en": "Could you help me?", "t": "(educado)"},
+      {"def": "can = permissão (informal)", "en": "Can I go now?", "t": "(permissão)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["can vs could", "could vs would", "can vs may"],
+    "idiomTitle": "Expressões", "idioms": ["Can you...?", "Could you...? (educado)", "I can't"],
+    "quizQ": "Qual é mais educado?", "quizA": ["Could you help me?", "Can you help?", "You help me."], "quizOk": 0
+  },
+  "ja": {
+    "pos": "文法 (助動詞)", "title": "can と could の違いは？",
+    "metaDesc": "can と could の違い：能力、許可、依頼。いつどちら？例文付き — LinguaBattle.",
+    "lede": "<b>can</b> と <b>could</b> は助動詞。<b>can</b> = 現在の能力・許可；<b>could</b> = 過去の能力、またはより丁寧な依頼。",
+    "means": [
+      {"def": "can = 現在の能力", "en": "I can swim.", "t": "（今）"},
+      {"def": "could = 過去の能力", "en": "I could swim at age 5.", "t": "（過去）"},
+      {"def": "could = より丁寧な依頼", "en": "Could you help me?", "t": "（丁寧）"},
+      {"def": "can = 許可（カジュアル）", "en": "Can I go now?", "t": "（許可）"}
+    ],
+    "relTitle": "混同しやすい点", "rel": ["can vs could", "could vs would", "can vs may"],
+    "idiomTitle": "フレーズ", "idioms": ["Can you...?", "Could you...? (丁寧)", "I can't"],
+    "quizQ": "より丁寧なのは？", "quizA": ["Could you help me?", "Can you help?", "You help me."], "quizOk": 0
+  }
+}

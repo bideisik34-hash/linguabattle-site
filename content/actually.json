@@ -1,0 +1,135 @@
+{
+  "word": "actually",
+  "pron": "/ˈæktʃuəli/",
+  "category": "confusing",
+  "tr": {
+    "pos": "zarf", "title": "actually ne demek? (yaygın tuzak)",
+    "metaDesc": "actually ne demek? 'Şu anda' değil, 'aslında/gerçekten' demek. En çok karıştırılan kelime — LinguaBattle.",
+    "lede": "<b>actually</b> İngilizce öğrenenlerin en çok yanlış kullandığı kelimelerdendir. “Şu anda” sanılır ama aslında <b>“aslında, gerçekten, gerçekte”</b> demektir. (“Şu anda” = currently / right now.)",
+    "means": [
+      {"def": "aslında, gerçekte (beklenenin aksine)", "en": "It's actually quite easy.", "t": "Aslında oldukça kolay."},
+      {"def": "gerçekten, hakikaten (vurgu)", "en": "Did you actually finish it?", "t": "Onu gerçekten bitirdin mi?"},
+      {"def": "TUZAK: 'şu anda' DEĞİL → currently", "en": "I'm currently busy. (NOT actually)", "t": "Şu anda meşgulüm. (actually değil, currently)"}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["actually vs currently", "actual vs current", "really vs actually"],
+    "idiomTitle": "Kalıplar", "idioms": ["actually,... (aslında)", "not actually", "actually mean"],
+    "quizQ": "“It's actually easy” ne demek?", "quizA": ["Aslında kolay", "Şu anda kolay", "Sonunda kolay"], "quizOk": 0
+  },
+  "en": {
+    "pos": "adverb", "title": "What does actually mean? (common trap)",
+    "metaDesc": "What does actually mean? Not 'currently' — it means 'in fact, really'. A top false-friend mistake — LinguaBattle.",
+    "lede": "<b>actually</b> is one of the most misused English words by learners. It does NOT mean “currently”; it means <b>“in fact, really, in reality”</b>. (For “now” use currently / right now.)",
+    "means": [
+      {"def": "in fact, in reality (contrary to expectation)", "en": "It's actually quite easy.", "t": "(in fact)"},
+      {"def": "really, truly (emphasis)", "en": "Did you actually finish it?", "t": "(really)"},
+      {"def": "TRAP: NOT 'currently' → use currently", "en": "I'm currently busy. (NOT actually)", "t": "(currently ≠ actually)"}
+    ],
+    "relTitle": "Often confused", "rel": ["actually vs currently", "actual vs current", "really vs actually"],
+    "idiomTitle": "Phrases", "idioms": ["actually,...", "not actually", "actually mean"],
+    "quizQ": "What does “It's actually easy” mean?", "quizA": ["It's in fact easy", "It's currently easy", "It's finally easy"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Adverb", "title": "Was bedeutet actually? (häufige Falle)",
+    "metaDesc": "Was bedeutet actually? Nicht 'aktuell' — sondern 'eigentlich, tatsächlich'. Typischer False Friend — LinguaBattle.",
+    "lede": "<b>actually</b> ist ein klassischer False Friend: es heißt NICHT „aktuell“! Es bedeutet <b>„eigentlich, tatsächlich, in Wirklichkeit“</b>. (Für „aktuell/jetzt“ → currently.)",
+    "means": [
+      {"def": "eigentlich, tatsächlich (entgegen der Erwartung)", "en": "It's actually quite easy.", "t": "(eigentlich)"},
+      {"def": "wirklich, echt (Betonung)", "en": "Did you actually finish it?", "t": "(wirklich)"},
+      {"def": "FALLE: NICHT 'aktuell' → currently", "en": "I'm currently busy. (NOT actually)", "t": "(aktuell = currently)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["actually vs currently", "actual vs current", "really vs actually"],
+    "idiomTitle": "Wendungen", "idioms": ["actually,...", "not actually", "actually mean"],
+    "quizQ": "Was bedeutet „It's actually easy“?", "quizA": ["Es ist eigentlich einfach", "Es ist aktuell einfach", "Es ist endlich einfach"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "adverbe", "title": "Que signifie actually ? (piège courant)",
+    "metaDesc": "Que signifie actually ? Pas 'actuellement' — mais 'en fait, vraiment'. Un faux ami classique — LinguaBattle.",
+    "lede": "<b>actually</b> est un faux ami classique : il ne veut PAS dire « actuellement » ! Il signifie <b>« en fait, vraiment, en réalité »</b>. (Pour « actuellement » → currently.)",
+    "means": [
+      {"def": "en fait, en réalité (contre l'attente)", "en": "It's actually quite easy.", "t": "(en fait)"},
+      {"def": "vraiment, réellement (insistance)", "en": "Did you actually finish it?", "t": "(vraiment)"},
+      {"def": "PIÈGE : PAS 'actuellement' → currently", "en": "I'm currently busy. (NOT actually)", "t": "(actuellement = currently)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["actually vs currently", "actual vs current", "really vs actually"],
+    "idiomTitle": "Expressions", "idioms": ["actually,...", "not actually", "actually mean"],
+    "quizQ": "Que veut dire « It's actually easy » ?", "quizA": ["C'est en fait facile", "C'est actuellement facile", "C'est enfin facile"], "quizOk": 0
+  },
+  "es": {
+    "pos": "adverbio", "title": "¿Qué significa actually? (trampa común)",
+    "metaDesc": "¿Qué significa actually? No 'actualmente' — sino 'en realidad, de hecho'. Un falso amigo clásico — LinguaBattle.",
+    "lede": "<b>actually</b> es un falso amigo clásico: ¡NO significa «actualmente»! Significa <b>«en realidad, de hecho, verdaderamente»</b>. (Para «actualmente» → currently.)",
+    "means": [
+      {"def": "en realidad, de hecho (contra lo esperado)", "en": "It's actually quite easy.", "t": "(en realidad)"},
+      {"def": "realmente, de verdad (énfasis)", "en": "Did you actually finish it?", "t": "(de verdad)"},
+      {"def": "TRAMPA: NO 'actualmente' → currently", "en": "I'm currently busy. (NOT actually)", "t": "(actualmente = currently)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["actually vs currently", "actual vs current", "really vs actually"],
+    "idiomTitle": "Expresiones", "idioms": ["actually,...", "not actually", "actually mean"],
+    "quizQ": "¿Qué significa «It's actually easy»?", "quizA": ["En realidad es fácil", "Actualmente es fácil", "Por fin es fácil"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "ظرف", "title": "ماذا تعني actually؟ (فخّ شائع)",
+    "metaDesc": "ماذا تعني actually؟ ليست 'حاليًا' — بل 'في الواقع، فعلًا'. خطأ شائع — LinguaBattle.",
+    "lede": "<b>actually</b> من أكثر الكلمات التي يُساء استخدامها. لا تعني «حاليًا»! بل تعني <b>«في الواقع، فعلًا، حقيقةً»</b>. (لـ«حاليًا» استخدم currently.)",
+    "means": [
+      {"def": "في الواقع، حقيقةً (عكس المتوقّع)", "en": "It's actually quite easy.", "t": "(في الواقع)"},
+      {"def": "فعلًا، حقًا (للتوكيد)", "en": "Did you actually finish it?", "t": "(فعلًا)"},
+      {"def": "فخّ: ليست 'حاليًا' → currently", "en": "I'm currently busy. (NOT actually)", "t": "(حاليًا = currently)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["actually vs currently", "actual vs current", "really vs actually"],
+    "idiomTitle": "عبارات", "idioms": ["actually,...", "not actually", "actually mean"],
+    "quizQ": "ماذا تعني «It's actually easy»؟", "quizA": ["إنها في الواقع سهلة", "إنها حاليًا سهلة", "إنها أخيرًا سهلة"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "क्रिया-विशेषण", "title": "actually का क्या मतलब है? (आम ग़लती)",
+    "metaDesc": "actually का क्या मतलब है? 'अभी' नहीं — बल्कि 'असल में, सच में'। आम भ्रम — LinguaBattle.",
+    "lede": "<b>actually</b> सबसे ज़्यादा ग़लत इस्तेमाल होने वाले शब्दों में है। इसका मतलब 'अभी' नहीं! इसका मतलब है <b>'असल में, सच में, हक़ीक़त में'</b>। ('अभी' के लिए → currently।)",
+    "means": [
+      {"def": "असल में, हक़ीक़त में (उम्मीद के विपरीत)", "en": "It's actually quite easy.", "t": "(असल में)"},
+      {"def": "सच में, वाक़ई (ज़ोर)", "en": "Did you actually finish it?", "t": "(सच में)"},
+      {"def": "जाल: 'अभी' नहीं → currently", "en": "I'm currently busy. (NOT actually)", "t": "(अभी = currently)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["actually vs currently", "actual vs current", "really vs actually"],
+    "idiomTitle": "वाक्यांश", "idioms": ["actually,...", "not actually", "actually mean"],
+    "quizQ": "“It's actually easy” का क्या अर्थ है?", "quizA": ["असल में यह आसान है", "अभी यह आसान है", "आख़िरकार यह आसान है"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "наречие", "title": "Что значит actually? (частая ловушка)",
+    "metaDesc": "Что значит actually? Не 'сейчас' — а 'на самом деле, действительно'. Частая ошибка — LinguaBattle.",
+    "lede": "<b>actually</b> — одно из самых неправильно используемых слов. Оно НЕ значит «сейчас»! Оно значит <b>«на самом деле, в действительности, реально»</b>. (Для «сейчас» → currently.)",
+    "means": [
+      {"def": "на самом деле, в действительности (вопреки ожиданию)", "en": "It's actually quite easy.", "t": "(на самом деле)"},
+      {"def": "действительно, реально (усиление)", "en": "Did you actually finish it?", "t": "(действительно)"},
+      {"def": "ЛОВУШКА: НЕ 'сейчас' → currently", "en": "I'm currently busy. (NOT actually)", "t": "(сейчас = currently)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["actually vs currently", "actual vs current", "really vs actually"],
+    "idiomTitle": "Выражения", "idioms": ["actually,...", "not actually", "actually mean"],
+    "quizQ": "Что значит «It's actually easy»?", "quizA": ["На самом деле это легко", "Сейчас это легко", "Наконец это легко"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "advérbio", "title": "O que significa actually? (armadilha comum)",
+    "metaDesc": "O que significa actually? Não 'atualmente' — mas 'na verdade, realmente'. Falso cognato clássico — LinguaBattle.",
+    "lede": "<b>actually</b> é um falso cognato clássico: NÃO significa «atualmente»! Significa <b>«na verdade, realmente, de fato»</b>. (Para «atualmente» → currently.)",
+    "means": [
+      {"def": "na verdade, de fato (contrário do esperado)", "en": "It's actually quite easy.", "t": "(na verdade)"},
+      {"def": "realmente, de verdade (ênfase)", "en": "Did you actually finish it?", "t": "(realmente)"},
+      {"def": "ARMADILHA: NÃO 'atualmente' → currently", "en": "I'm currently busy. (NOT actually)", "t": "(atualmente = currently)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["actually vs currently", "actual vs current", "really vs actually"],
+    "idiomTitle": "Expressões", "idioms": ["actually,...", "not actually", "actually mean"],
+    "quizQ": "O que significa «It's actually easy»?", "quizA": ["Na verdade é fácil", "Atualmente é fácil", "Finalmente é fácil"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "副詞", "title": "actuallyの意味は？（よくある罠）",
+    "metaDesc": "actuallyの意味は？「現在」ではなく「実は、本当に」。よくある誤用 — LinguaBattle.",
+    "lede": "<b>actually</b> は誤用されやすい単語。「現在」ではない！意味は<b>「実は、本当に、実際は」</b>。（「現在」は currently。）",
+    "means": [
+      {"def": "実は、実際は（予想に反して）", "en": "It's actually quite easy.", "t": "（実は）"},
+      {"def": "本当に、実際に（強調）", "en": "Did you actually finish it?", "t": "（本当に）"},
+      {"def": "罠：「現在」ではない → currently", "en": "I'm currently busy. (NOT actually)", "t": "（現在 = currently）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["actually vs currently", "actual vs current", "really vs actually"],
+    "idiomTitle": "フレーズ", "idioms": ["actually,...", "not actually", "actually mean"],
+    "quizQ": "「It's actually easy」の意味は？", "quizA": ["実は簡単だ", "現在は簡単だ", "ついに簡単だ"], "quizOk": 0
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "word": "make",
+  "pron": "/meɪk/",
+  "category": "verb",
+  "conj": ["make", "made", "made"],
+  "tr": {
+    "pos": "fiil", "title": "make ve do farkı nedir?",
+    "metaDesc": "make vs do farkı: make ne demek, ne zaman make ne zaman do kullanılır? Örneklerle açıklama — LinguaBattle.",
+    "lede": "<b>make</b> ve <b>do</b> İngilizce öğrenenlerin en çok karıştırdığı iki fiildir. Kısa kural: <b>make</b> = bir şey üretmek/yaratmak, <b>do</b> = bir eylem/görev yapmak. Düzensiz: make → made → made.",
+    "means": [
+      {"def": "make = üretmek, yaratmak (ortaya bir şey çıkar)", "en": "I made a cake.", "t": "Bir kek yaptım. (ortaya kek çıktı)"},
+      {"def": "do = bir iş/görev yapmak (eylem)", "en": "I do my homework.", "t": "Ödevimi yaparım. (eylem)"},
+      {"def": "make ile sabit kalıplar", "en": "make a decision, make a mistake, make money", "t": "karar vermek, hata yapmak, para kazanmak"}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["make vs do", "make vs build", "made of vs made from"],
+    "idiomTitle": "make kalıpları", "idioms": ["make sense (mantıklı olmak)", "make sure (emin olmak)", "make up (uydurmak)"],
+    "quizQ": "Hangisi doğru? “___ a mistake”", "quizA": ["make a mistake", "do a mistake", "ikisi de"], "quizOk": 0
+  },
+  "en": {
+    "pos": "verb", "title": "Make vs do: what's the difference?",
+    "metaDesc": "Make vs do difference: what does make mean, when to use make vs do? Explained with examples — LinguaBattle.",
+    "lede": "<b>make</b> and <b>do</b> are the two most confused English verbs. Quick rule: <b>make</b> = produce/create something, <b>do</b> = perform an action/task. Irregular: make → made → made.",
+    "means": [
+      {"def": "make = produce, create (something results)", "en": "I made a cake.", "t": "(a cake results)"},
+      {"def": "do = perform a task/action", "en": "I do my homework.", "t": "(an action)"},
+      {"def": "fixed phrases with make", "en": "make a decision, make a mistake, make money", "t": "(set collocations)"}
+    ],
+    "relTitle": "Often confused", "rel": ["make vs do", "make vs build", "made of vs made from"],
+    "idiomTitle": "make phrases", "idioms": ["make sense", "make sure", "make up"],
+    "quizQ": "Which is correct? “___ a mistake”", "quizA": ["make a mistake", "do a mistake", "both"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Verb", "title": "Make vs do: Was ist der Unterschied?",
+    "metaDesc": "Unterschied make vs do: Was bedeutet make, wann make und wann do? Mit Beispielen erklärt — LinguaBattle.",
+    "lede": "<b>make</b> und <b>do</b> sind die zwei am häufigsten verwechselten englischen Verben. Faustregel: <b>make</b> = etwas herstellen/erschaffen, <b>do</b> = eine Handlung/Aufgabe ausführen. Unregelmäßig: make → made → made.",
+    "means": [
+      {"def": "make = herstellen, erschaffen (etwas entsteht)", "en": "I made a cake.", "t": "(ein Kuchen entsteht)"},
+      {"def": "do = eine Aufgabe/Handlung ausführen", "en": "I do my homework.", "t": "(eine Handlung)"},
+      {"def": "feste Wendungen mit make", "en": "make a decision, make a mistake, make money", "t": "(feste Kollokationen)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["make vs do", "make vs build", "made of vs made from"],
+    "idiomTitle": "make-Wendungen", "idioms": ["make sense", "make sure", "make up"],
+    "quizQ": "Was ist korrekt? „___ a mistake“", "quizA": ["make a mistake", "do a mistake", "beides"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "verbe", "title": "Make vs do : quelle différence ?",
+    "metaDesc": "Différence make vs do : que signifie make, quand utiliser make ou do ? Expliqué avec des exemples — LinguaBattle.",
+    "lede": "<b>make</b> et <b>do</b> sont les deux verbes anglais les plus confondus. Règle simple : <b>make</b> = produire/créer quelque chose, <b>do</b> = effectuer une action/tâche. Irrégulier : make → made → made.",
+    "means": [
+      {"def": "make = produire, créer (quelque chose en résulte)", "en": "I made a cake.", "t": "(un gâteau en résulte)"},
+      {"def": "do = effectuer une tâche/action", "en": "I do my homework.", "t": "(une action)"},
+      {"def": "expressions figées avec make", "en": "make a decision, make a mistake, make money", "t": "(collocations figées)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["make vs do", "make vs build", "made of vs made from"],
+    "idiomTitle": "expressions make", "idioms": ["make sense", "make sure", "make up"],
+    "quizQ": "Lequel est correct ? « ___ a mistake »", "quizA": ["make a mistake", "do a mistake", "les deux"], "quizOk": 0
+  },
+  "es": {
+    "pos": "verbo", "title": "Make vs do: ¿cuál es la diferencia?",
+    "metaDesc": "Diferencia make vs do: qué significa make, ¿cuándo usar make o do? Explicado con ejemplos — LinguaBattle.",
+    "lede": "<b>make</b> y <b>do</b> son los dos verbos ingleses más confundidos. Regla rápida: <b>make</b> = producir/crear algo, <b>do</b> = realizar una acción/tarea. Irregular: make → made → made.",
+    "means": [
+      {"def": "make = producir, crear (resulta algo)", "en": "I made a cake.", "t": "(resulta un pastel)"},
+      {"def": "do = realizar una tarea/acción", "en": "I do my homework.", "t": "(una acción)"},
+      {"def": "frases fijas con make", "en": "make a decision, make a mistake, make money", "t": "(colocaciones fijas)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["make vs do", "make vs build", "made of vs made from"],
+    "idiomTitle": "frases con make", "idioms": ["make sense", "make sure", "make up"],
+    "quizQ": "¿Cuál es correcto? «___ a mistake»", "quizA": ["make a mistake", "do a mistake", "ambos"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "فعل", "title": "ما الفرق بين make و do؟",
+    "metaDesc": "الفرق بين make وdo: ماذا تعني make، ومتى نستخدم make أو do؟ شرح بالأمثلة — LinguaBattle.",
+    "lede": "<b>make</b> و<b>do</b> من أكثر الأفعال الإنجليزية التي يُخلط بينها. القاعدة المبسطة: <b>make</b> = تصنع/تنتج شيئًا، <b>do</b> = تؤدّي فعلًا/مهمة. شاذ: make → made → made.",
+    "means": [
+      {"def": "make = يصنع، ينتج (ينتج عنه شيء)", "en": "I made a cake.", "t": "(ينتج كعكة)"},
+      {"def": "do = يؤدّي مهمة/فعلًا", "en": "I do my homework.", "t": "(فعل)"},
+      {"def": "تعابير ثابتة مع make", "en": "make a decision, make a mistake, make money", "t": "(تلازمات ثابتة)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["make vs do", "make vs build", "made of vs made from"],
+    "idiomTitle": "تعابير make", "idioms": ["make sense", "make sure", "make up"],
+    "quizQ": "أيّها صحيح؟ «___ a mistake»", "quizA": ["make a mistake", "do a mistake", "كلاهما"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "क्रिया", "title": "make और do में क्या अंतर है?",
+    "metaDesc": "make बनाम do का अंतर: make का मतलब, कब make और कब do? उदाहरणों सहित समझाया — LinguaBattle.",
+    "lede": "<b>make</b> और <b>do</b> सबसे ज़्यादा भ्रमित करने वाली दो अंग्रेज़ी क्रियाएँ हैं। आसान नियम: <b>make</b> = कुछ बनाना/उत्पन्न करना, <b>do</b> = कोई काम/क्रिया करना। अनियमित: make → made → made.",
+    "means": [
+      {"def": "make = बनाना, उत्पन्न करना (कुछ बनता है)", "en": "I made a cake.", "t": "(केक बनता है)"},
+      {"def": "do = कोई काम/क्रिया करना", "en": "I do my homework.", "t": "(एक क्रिया)"},
+      {"def": "make के साथ तय वाक्यांश", "en": "make a decision, make a mistake, make money", "t": "(तय संयोजन)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["make vs do", "make vs build", "made of vs made from"],
+    "idiomTitle": "make वाक्यांश", "idioms": ["make sense", "make sure", "make up"],
+    "quizQ": "कौन सा सही है? “___ a mistake”", "quizA": ["make a mistake", "do a mistake", "दोनों"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "глагол", "title": "Make и do: в чём разница?",
+    "metaDesc": "Разница make и do: что значит make, когда make, а когда do? С примерами — LinguaBattle.",
+    "lede": "<b>make</b> и <b>do</b> — два самых путаемых английских глагола. Простое правило: <b>make</b> = создавать/производить что-то, <b>do</b> = выполнять действие/задачу. Неправильный: make → made → made.",
+    "means": [
+      {"def": "make = создавать, производить (что-то получается)", "en": "I made a cake.", "t": "(получается торт)"},
+      {"def": "do = выполнять задачу/действие", "en": "I do my homework.", "t": "(действие)"},
+      {"def": "устойчивые выражения с make", "en": "make a decision, make a mistake, make money", "t": "(устойчивые сочетания)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["make vs do", "make vs build", "made of vs made from"],
+    "idiomTitle": "выражения с make", "idioms": ["make sense", "make sure", "make up"],
+    "quizQ": "Что правильно? «___ a mistake»", "quizA": ["make a mistake", "do a mistake", "оба"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "verbo", "title": "Make vs do: qual é a diferença?",
+    "metaDesc": "Diferença make vs do: o que significa make, quando usar make ou do? Explicado com exemplos — LinguaBattle.",
+    "lede": "<b>make</b> e <b>do</b> são os dois verbos ingleses mais confundidos. Regra rápida: <b>make</b> = produzir/criar algo, <b>do</b> = realizar uma ação/tarefa. Irregular: make → made → made.",
+    "means": [
+      {"def": "make = produzir, criar (algo resulta)", "en": "I made a cake.", "t": "(resulta um bolo)"},
+      {"def": "do = realizar uma tarefa/ação", "en": "I do my homework.", "t": "(uma ação)"},
+      {"def": "expressões fixas com make", "en": "make a decision, make a mistake, make money", "t": "(colocações fixas)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["make vs do", "make vs build", "made of vs made from"],
+    "idiomTitle": "expressões com make", "idioms": ["make sense", "make sure", "make up"],
+    "quizQ": "Qual está correto? «___ a mistake»", "quizA": ["make a mistake", "do a mistake", "ambos"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "動詞", "title": "makeとdoの違いは？",
+    "metaDesc": "makeとdoの違い：makeの意味、makeとdoの使い分けは？例文で解説 — LinguaBattle.",
+    "lede": "<b>make</b> と <b>do</b> は最も混同されやすい2つの英語動詞。簡単なルール：<b>make</b> = 何かを作り出す、<b>do</b> = 行動・作業をする。不規則：make → made → made。",
+    "means": [
+      {"def": "make = 作る、生み出す（何かができる）", "en": "I made a cake.", "t": "（ケーキができる）"},
+      {"def": "do = 作業・行動をする", "en": "I do my homework.", "t": "（行動）"},
+      {"def": "makeの定型表現", "en": "make a decision, make a mistake, make money", "t": "（定型コロケーション）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["make vs do", "make vs build", "made of vs made from"],
+    "idiomTitle": "makeの表現", "idioms": ["make sense", "make sure", "make up"],
+    "quizQ": "正しいのは？「___ a mistake」", "quizA": ["make a mistake", "do a mistake", "両方"], "quizOk": 0
+  }
+}

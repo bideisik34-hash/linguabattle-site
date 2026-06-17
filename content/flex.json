@@ -1,0 +1,135 @@
+{
+  "word": "flex",
+  "pron": "/fleks/",
+  "category": "genz",
+  "tr": {
+    "pos": "fiil / isim (argo)", "title": "flex ne demek?",
+    "metaDesc": "flex ne demek? Gen Z argosu: hava atmak, gösteriş yapmak. Anlamı ve örnekler — LinguaBattle.",
+    "lede": "<b>flex</b> klasik anlamda “bükmek, kas germek” demektir; ama Gen Z argosunda <b>hava atmak, gösteriş yapmak</b> anlamında kullanılır.",
+    "means": [
+      {"def": "hava atmak, gösteriş yapmak (argo)", "en": "He's always flexing his new car.", "t": "Sürekli yeni arabasıyla hava atıyor."},
+      {"def": "gösteriş, övünme (isim)", "en": "That watch is a flex.", "t": "O saat tam bir gösteriş (hava atma aracı)."},
+      {"def": "kas germek, bükmek (asıl anlam)", "en": "Flex your arm.", "t": "Kolunu ger/bük."}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["flex vs brag", "flex vs show off", "weird flex"],
+    "idiomTitle": "Kalıplar", "idioms": ["flex on someone", "weird flex but ok", "humble brag"],
+    "quizQ": "“He's flexing his new car” ne demek?", "quizA": ["Yeni arabasıyla hava atıyor", "Arabasını büküyor", "Arabasını satıyor"], "quizOk": 0
+  },
+  "en": {
+    "pos": "verb / noun (slang)", "title": "What does flex mean?",
+    "metaDesc": "What does flex mean? Gen Z slang: to show off, to brag. Meaning and examples — LinguaBattle.",
+    "lede": "<b>flex</b> literally means “to bend or tense a muscle”; but in Gen Z slang it means <b>to show off, to brag</b>.",
+    "means": [
+      {"def": "to show off, to brag (slang)", "en": "He's always flexing his new car.", "t": "(showing off)"},
+      {"def": "a show-off, a brag (noun)", "en": "That watch is a flex.", "t": "(a brag)"},
+      {"def": "to flex, tense (literal)", "en": "Flex your arm.", "t": "(tense)"}
+    ],
+    "relTitle": "Often confused", "rel": ["flex vs brag", "flex vs show off", "weird flex"],
+    "idiomTitle": "Phrases", "idioms": ["flex on someone", "weird flex but ok", "humble brag"],
+    "quizQ": "What does “He's flexing his new car” mean?", "quizA": ["He's showing off his car", "He's bending his car", "He's selling his car"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Verb / Subst. (Slang)", "title": "Was bedeutet flex?",
+    "metaDesc": "Was bedeutet flex? Gen-Z-Slang: angeben, prahlen. Bedeutung und Beispiele — LinguaBattle.",
+    "lede": "<b>flex</b> bedeutet wörtlich „einen Muskel beugen oder anspannen“; im Gen-Z-Slang aber <b>angeben, prahlen</b>.",
+    "means": [
+      {"def": "angeben, prahlen (Slang)", "en": "He's always flexing his new car.", "t": "(angeben)"},
+      {"def": "das Angeben, die Prahlerei (Subst.)", "en": "That watch is a flex.", "t": "(Prahlerei)"},
+      {"def": "anspannen, beugen (wörtlich)", "en": "Flex your arm.", "t": "(anspannen)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["flex vs brag", "flex vs show off", "weird flex"],
+    "idiomTitle": "Redewendungen", "idioms": ["flex on someone", "weird flex but ok", "humble brag"],
+    "quizQ": "Was bedeutet „He's flexing his new car“?", "quizA": ["Er gibt mit seinem Auto an", "Er biegt sein Auto", "Er verkauft sein Auto"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "verbe / nom (argot)", "title": "Que signifie flex ?",
+    "metaDesc": "Que signifie flex ? Argot Gen Z : frimer, se vanter. Sens et exemples — LinguaBattle.",
+    "lede": "<b>flex</b> signifie littéralement « plier ou contracter un muscle » ; mais dans l'argot Gen Z, cela veut dire <b>frimer, se vanter</b>.",
+    "means": [
+      {"def": "frimer, se vanter (argot)", "en": "He's always flexing his new car.", "t": "(frimer)"},
+      {"def": "de la frime, une vantardise (nom)", "en": "That watch is a flex.", "t": "(frime)"},
+      {"def": "contracter, plier (littéral)", "en": "Flex your arm.", "t": "(contracter)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["flex vs brag", "flex vs show off", "weird flex"],
+    "idiomTitle": "Expressions", "idioms": ["flex on someone", "weird flex but ok", "humble brag"],
+    "quizQ": "Que veut dire « He's flexing his new car » ?", "quizA": ["Il frime avec sa voiture", "Il plie sa voiture", "Il vend sa voiture"], "quizOk": 0
+  },
+  "es": {
+    "pos": "verbo / sust. (jerga)", "title": "¿Qué significa flex?",
+    "metaDesc": "¿Qué significa flex? Jerga Gen Z: presumir, alardear. Significado y ejemplos — LinguaBattle.",
+    "lede": "<b>flex</b> significa literalmente «doblar o tensar un músculo»; pero en la jerga Gen Z significa <b>presumir, alardear</b>.",
+    "means": [
+      {"def": "presumir, alardear (jerga)", "en": "He's always flexing his new car.", "t": "(presumir)"},
+      {"def": "un alarde, presunción (sust.)", "en": "That watch is a flex.", "t": "(alarde)"},
+      {"def": "tensar, doblar (literal)", "en": "Flex your arm.", "t": "(tensar)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["flex vs brag", "flex vs show off", "weird flex"],
+    "idiomTitle": "Expresiones", "idioms": ["flex on someone", "weird flex but ok", "humble brag"],
+    "quizQ": "¿Qué significa «He's flexing his new car»?", "quizA": ["Presume de su coche", "Dobla su coche", "Vende su coche"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "فعل / اسم (عامية)", "title": "ماذا تعني flex؟",
+    "metaDesc": "ماذا تعني flex؟ عامية الجيل Z: يتباهى، يستعرض. المعنى والأمثلة — LinguaBattle.",
+    "lede": "<b>flex</b> تعني حرفيًا «يثني أو يشدّ عضلة»؛ لكن في عامية الجيل Z تعني <b>يتباهى، يستعرض</b>.",
+    "means": [
+      {"def": "يتباهى، يستعرض (عامية)", "en": "He's always flexing his new car.", "t": "(يتباهى)"},
+      {"def": "تباهٍ، استعراض (اسم)", "en": "That watch is a flex.", "t": "(تباهٍ)"},
+      {"def": "يشدّ، يثني (حرفي)", "en": "Flex your arm.", "t": "(يشدّ)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["flex vs brag", "flex vs show off", "weird flex"],
+    "idiomTitle": "عبارات", "idioms": ["flex on someone", "weird flex but ok", "humble brag"],
+    "quizQ": "ماذا تعني «He's flexing his new car»؟", "quizA": ["يتباهى بسيارته", "يثني سيارته", "يبيع سيارته"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "क्रिया / संज्ञा (स्लैंग)", "title": "flex का क्या मतलब है?",
+    "metaDesc": "flex का क्या मतलब है? जेन Z स्लैंग: शेखी बघारना, दिखावा करना। अर्थ और उदाहरण — LinguaBattle.",
+    "lede": "<b>flex</b> का शाब्दिक अर्थ है “मांसपेशी मोड़ना या कसना”; पर जेन Z स्लैंग में इसका मतलब है <b>दिखावा करना, शेखी बघारना</b>।",
+    "means": [
+      {"def": "दिखावा करना, शेखी बघारना (स्लैंग)", "en": "He's always flexing his new car.", "t": "(दिखावा)"},
+      {"def": "दिखावा, शेखी (संज्ञा)", "en": "That watch is a flex.", "t": "(दिखावा)"},
+      {"def": "कसना, मोड़ना (शाब्दिक)", "en": "Flex your arm.", "t": "(कसना)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["flex vs brag", "flex vs show off", "weird flex"],
+    "idiomTitle": "वाक्यांश", "idioms": ["flex on someone", "weird flex but ok", "humble brag"],
+    "quizQ": "“He's flexing his new car” का क्या अर्थ है?", "quizA": ["वह अपनी कार का दिखावा कर रहा है", "वह कार मोड़ रहा है", "वह कार बेच रहा है"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "глагол / сущ. (сленг)", "title": "Что значит flex?",
+    "metaDesc": "Что значит flex? Сленг поколения Z: хвастаться, понтоваться. Значение и примеры — LinguaBattle.",
+    "lede": "<b>flex</b> буквально значит «сгибать или напрягать мышцу»; но в сленге поколения Z это <b>хвастаться, понтоваться</b>.",
+    "means": [
+      {"def": "хвастаться, понтоваться (сленг)", "en": "He's always flexing his new car.", "t": "(хвастаться)"},
+      {"def": "понты, хвастовство (сущ.)", "en": "That watch is a flex.", "t": "(понты)"},
+      {"def": "напрягать, сгибать (букв.)", "en": "Flex your arm.", "t": "(напрячь)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["flex vs brag", "flex vs show off", "weird flex"],
+    "idiomTitle": "Выражения", "idioms": ["flex on someone", "weird flex but ok", "humble brag"],
+    "quizQ": "Что значит «He's flexing his new car»?", "quizA": ["Он хвастается машиной", "Он сгибает машину", "Он продаёт машину"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "verbo / subst. (gíria)", "title": "O que significa flex?",
+    "metaDesc": "O que significa flex? Gíria Gen Z: ostentar, se gabar. Significado e exemplos — LinguaBattle.",
+    "lede": "<b>flex</b> significa literalmente «dobrar ou contrair um músculo»; mas na gíria Gen Z significa <b>ostentar, se gabar</b>.",
+    "means": [
+      {"def": "ostentar, se gabar (gíria)", "en": "He's always flexing his new car.", "t": "(ostentar)"},
+      {"def": "ostentação, gabação (subst.)", "en": "That watch is a flex.", "t": "(ostentação)"},
+      {"def": "contrair, dobrar (literal)", "en": "Flex your arm.", "t": "(contrair)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["flex vs brag", "flex vs show off", "weird flex"],
+    "idiomTitle": "Expressões", "idioms": ["flex on someone", "weird flex but ok", "humble brag"],
+    "quizQ": "O que significa «He's flexing his new car»?", "quizA": ["Ele ostenta o carro novo", "Ele dobra o carro", "Ele vende o carro"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "動詞 / 名詞 (スラング)", "title": "flexの意味は？",
+    "metaDesc": "flexの意味は？Z世代スラング：自慢する、見せびらかす。意味と例文 — LinguaBattle.",
+    "lede": "<b>flex</b> は本来「筋肉を曲げる・力こぶを作る」だが、Z世代スラングでは<b>自慢する、見せびらかす</b>という意味。",
+    "means": [
+      {"def": "自慢する、見せびらかす（スラング）", "en": "He's always flexing his new car.", "t": "（見せびらかす）"},
+      {"def": "自慢の種、見せびらかし（名詞）", "en": "That watch is a flex.", "t": "（自慢）"},
+      {"def": "力こぶを作る、曲げる（本来）", "en": "Flex your arm.", "t": "（力を入れる）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["flex vs brag", "flex vs show off", "weird flex"],
+    "idiomTitle": "フレーズ", "idioms": ["flex on someone", "weird flex but ok", "humble brag"],
+    "quizQ": "「He's flexing his new car」の意味は？", "quizA": ["新車を見せびらかしている", "車を曲げている", "車を売っている"], "quizOk": 0
+  }
+}

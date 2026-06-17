@@ -1,0 +1,125 @@
+{
+  "word": "reach out",
+  "pron": "/riːtʃ aʊt/",
+  "category": "work",
+  "tr": {
+    "pos": "phrasal verb", "title": "reach out ne demek?",
+    "metaDesc": "reach out ne demek? Birine ulaşmak, iletişime geçmek — iş İngilizcesinde çok kullanılır. Anlamı ve örnekler — LinguaBattle.",
+    "lede": "<b>reach out</b>, “birine ulaşmak, iletişime geçmek” anlamında bir phrasal verb'dür. İş hayatında ve e-postalarda çok sık kullanılır; kibar ve girişken bir tonu vardır.",
+    "means": [
+      {"def": "birine ulaşmak, iletişime geçmek", "en": "Feel free to reach out if you have questions.", "t": "Sorun olursa bana ulaşmaktan çekinme."},
+      {"def": "yardım/destek için başvurmak", "en": "She reached out to support.", "t": "Destek ekibine başvurdu."}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["reach out vs contact", "follow up", "get in touch"],
+    "idiomTitle": "İş kalıpları", "idioms": ["reach out to someone", "feel free to reach out", "I'll reach out"],
+    "quizQ": "“Feel free to reach out” ne demek?", "quizA": ["Bana ulaşmaktan çekinme", "Dışarı uzan", "Bekle"], "quizOk": 0
+  },
+  "en": {
+    "pos": "phrasal verb", "title": "What does reach out mean?",
+    "metaDesc": "What does reach out mean? To contact someone — very common in work English. Meaning and examples — LinguaBattle.",
+    "lede": "<b>reach out</b> is a phrasal verb meaning “to contact someone, get in touch”. Very common in business and emails, with a polite, proactive tone.",
+    "means": [
+      {"def": "to contact someone, get in touch", "en": "Feel free to reach out if you have questions.", "t": "(contact me)"},
+      {"def": "to ask for help/support", "en": "She reached out to support.", "t": "(asked support)"}
+    ],
+    "relTitle": "Often confused", "rel": ["reach out vs contact", "follow up", "get in touch"],
+    "idiomTitle": "Work phrases", "idioms": ["reach out to someone", "feel free to reach out", "I'll reach out"],
+    "quizQ": "What does “Feel free to reach out” mean?", "quizA": ["Feel free to contact me", "Stretch your arm out", "Please wait"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Phrasal Verb", "title": "Was bedeutet reach out?",
+    "metaDesc": "Was bedeutet reach out? Jemanden kontaktieren — sehr häufig im Business-Englisch. Bedeutung und Beispiele — LinguaBattle.",
+    "lede": "<b>reach out</b> ist ein Phrasal Verb mit der Bedeutung „jemanden kontaktieren, sich melden“. Sehr häufig im Geschäft und in E-Mails, mit höflichem, proaktivem Ton.",
+    "means": [
+      {"def": "jemanden kontaktieren, sich melden", "en": "Feel free to reach out if you have questions.", "t": "(melde dich)"},
+      {"def": "um Hilfe/Unterstützung bitten", "en": "She reached out to support.", "t": "(bat um Support)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["reach out vs contact", "follow up", "get in touch"],
+    "idiomTitle": "Arbeitsausdrücke", "idioms": ["reach out to someone", "feel free to reach out", "I'll reach out"],
+    "quizQ": "Was bedeutet „Feel free to reach out“?", "quizA": ["Melde dich gern bei mir", "Streck den Arm aus", "Bitte warten"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "phrasal verb", "title": "Que signifie reach out ?",
+    "metaDesc": "Que signifie reach out ? Contacter quelqu'un — très courant en anglais professionnel. Sens et exemples — LinguaBattle.",
+    "lede": "<b>reach out</b> est un phrasal verb signifiant « contacter quelqu'un, prendre contact ». Très courant en milieu professionnel et dans les e-mails, avec un ton poli et proactif.",
+    "means": [
+      {"def": "contacter quelqu'un, prendre contact", "en": "Feel free to reach out if you have questions.", "t": "(contactez-moi)"},
+      {"def": "demander de l'aide/du soutien", "en": "She reached out to support.", "t": "(a contacté le support)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["reach out vs contact", "follow up", "get in touch"],
+    "idiomTitle": "Expressions de travail", "idioms": ["reach out to someone", "feel free to reach out", "I'll reach out"],
+    "quizQ": "Que veut dire « Feel free to reach out » ?", "quizA": ["N'hésitez pas à me contacter", "Tendez le bras", "Veuillez patienter"], "quizOk": 0
+  },
+  "es": {
+    "pos": "phrasal verb", "title": "¿Qué significa reach out?",
+    "metaDesc": "¿Qué significa reach out? Contactar a alguien — muy común en inglés laboral. Significado y ejemplos — LinguaBattle.",
+    "lede": "<b>reach out</b> es un phrasal verb que significa «contactar a alguien, ponerse en contacto». Muy común en el trabajo y los correos, con un tono cortés y proactivo.",
+    "means": [
+      {"def": "contactar a alguien, ponerse en contacto", "en": "Feel free to reach out if you have questions.", "t": "(contáctame)"},
+      {"def": "pedir ayuda/soporte", "en": "She reached out to support.", "t": "(contactó al soporte)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["reach out vs contact", "follow up", "get in touch"],
+    "idiomTitle": "Expresiones de trabajo", "idioms": ["reach out to someone", "feel free to reach out", "I'll reach out"],
+    "quizQ": "¿Qué significa «Feel free to reach out»?", "quizA": ["No dudes en contactarme", "Estira el brazo", "Por favor espera"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "فعل مركّب", "title": "ماذا تعني reach out؟",
+    "metaDesc": "ماذا تعني reach out؟ التواصل مع شخص — شائعة جدًا في إنجليزية العمل. المعنى والأمثلة — LinguaBattle.",
+    "lede": "<b>reach out</b> فعل مركّب يعني «التواصل مع شخص، الاتصال به». شائع جدًا في العمل والبريد الإلكتروني، بنبرة مهذّبة ومبادِرة.",
+    "means": [
+      {"def": "التواصل مع شخص، الاتصال به", "en": "Feel free to reach out if you have questions.", "t": "(تواصل معي)"},
+      {"def": "طلب المساعدة/الدعم", "en": "She reached out to support.", "t": "(تواصلت مع الدعم)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["reach out vs contact", "follow up", "get in touch"],
+    "idiomTitle": "عبارات العمل", "idioms": ["reach out to someone", "feel free to reach out", "I'll reach out"],
+    "quizQ": "ماذا تعني «Feel free to reach out»؟", "quizA": ["لا تتردد في التواصل معي", "مُدّ ذراعك", "يرجى الانتظار"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "phrasal verb", "title": "reach out का क्या मतलब है?",
+    "metaDesc": "reach out का क्या मतलब है? किसी से संपर्क करना — ऑफिस इंग्लिश में आम। अर्थ और उदाहरण — LinguaBattle.",
+    "lede": "<b>reach out</b> एक phrasal verb है जिसका मतलब है “किसी से संपर्क करना, संपर्क में आना”। काम और ईमेल में बहुत आम, विनम्र और सक्रिय लहजे के साथ।",
+    "means": [
+      {"def": "किसी से संपर्क करना, संपर्क में आना", "en": "Feel free to reach out if you have questions.", "t": "(मुझसे संपर्क करें)"},
+      {"def": "मदद/सपोर्ट माँगना", "en": "She reached out to support.", "t": "(सपोर्ट से संपर्क किया)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["reach out vs contact", "follow up", "get in touch"],
+    "idiomTitle": "काम के वाक्यांश", "idioms": ["reach out to someone", "feel free to reach out", "I'll reach out"],
+    "quizQ": "“Feel free to reach out” का क्या अर्थ है?", "quizA": ["बेझिझक मुझसे संपर्क करें", "हाथ बाहर फैलाएँ", "कृपया प्रतीक्षा करें"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "фразовый глагол", "title": "Что значит reach out?",
+    "metaDesc": "Что значит reach out? Связаться с кем-то — очень частое в деловом английском. Значение и примеры — LinguaBattle.",
+    "lede": "<b>reach out</b> — фразовый глагол со значением «связаться с кем-то, выйти на контакт». Очень частый в бизнесе и письмах, с вежливым, проактивным тоном.",
+    "means": [
+      {"def": "связаться с кем-то, выйти на контакт", "en": "Feel free to reach out if you have questions.", "t": "(свяжитесь со мной)"},
+      {"def": "обратиться за помощью/поддержкой", "en": "She reached out to support.", "t": "(обратилась в поддержку)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["reach out vs contact", "follow up", "get in touch"],
+    "idiomTitle": "Рабочие выражения", "idioms": ["reach out to someone", "feel free to reach out", "I'll reach out"],
+    "quizQ": "Что значит «Feel free to reach out»?", "quizA": ["Не стесняйтесь связаться со мной", "Вытяните руку", "Пожалуйста, подождите"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "phrasal verb", "title": "O que significa reach out?",
+    "metaDesc": "O que significa reach out? Contatar alguém — muito comum no inglês de trabalho. Significado e exemplos — LinguaBattle.",
+    "lede": "<b>reach out</b> é um phrasal verb que significa «contatar alguém, entrar em contato». Muito comum no trabalho e em e-mails, com tom educado e proativo.",
+    "means": [
+      {"def": "contatar alguém, entrar em contato", "en": "Feel free to reach out if you have questions.", "t": "(entre em contato comigo)"},
+      {"def": "pedir ajuda/suporte", "en": "She reached out to support.", "t": "(contatou o suporte)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["reach out vs contact", "follow up", "get in touch"],
+    "idiomTitle": "Expressões de trabalho", "idioms": ["reach out to someone", "feel free to reach out", "I'll reach out"],
+    "quizQ": "O que significa «Feel free to reach out»?", "quizA": ["Fique à vontade para me contatar", "Estique o braço", "Por favor, aguarde"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "句動詞", "title": "reach outの意味は？",
+    "metaDesc": "reach outの意味は？誰かに連絡する — ビジネス英語で頻出。意味と例文 — LinguaBattle.",
+    "lede": "<b>reach out</b> は「誰かに連絡する、コンタクトを取る」という意味の句動詞。ビジネスやメールで非常によく使われ、丁寧で積極的な響きがある。",
+    "means": [
+      {"def": "誰かに連絡する、コンタクトを取る", "en": "Feel free to reach out if you have questions.", "t": "（連絡してください）"},
+      {"def": "助け・サポートを求める", "en": "She reached out to support.", "t": "（サポートに連絡した）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["reach out vs contact", "follow up", "get in touch"],
+    "idiomTitle": "仕事のフレーズ", "idioms": ["reach out to someone", "feel free to reach out", "I'll reach out"],
+    "quizQ": "「Feel free to reach out」の意味は？", "quizA": ["気軽に連絡してください", "腕を伸ばして", "お待ちください"], "quizOk": 0
+  }
+}

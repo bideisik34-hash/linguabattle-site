@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LinguaBattle — Слова</title>
+<meta name="description" content="Значения, примеры и формы. Затем закрепите их в дуэли в приложении.">
+<link rel="canonical" href="https://linguabattle.net/ru/">
+<link rel="alternate" hreflang="tr" href="https://linguabattle.net/tr/">
+<link rel="alternate" hreflang="en" href="https://linguabattle.net/en/">
+<link rel="alternate" hreflang="de" href="https://linguabattle.net/de/">
+<link rel="alternate" hreflang="fr" href="https://linguabattle.net/fr/">
+<link rel="alternate" hreflang="es" href="https://linguabattle.net/es/">
+<link rel="alternate" hreflang="ar" href="https://linguabattle.net/ar/">
+<link rel="alternate" hreflang="hi" href="https://linguabattle.net/hi/">
+<link rel="alternate" hreflang="ru" href="https://linguabattle.net/ru/">
+<link rel="alternate" hreflang="pt" href="https://linguabattle.net/pt/">
+<link rel="alternate" hreflang="ja" href="https://linguabattle.net/ja/">
+<link rel="alternate" hreflang="x-default" href="https://linguabattle.net/en/">
+<meta property="og:title" content="LinguaBattle">
+<meta property="og:description" content="Значения, примеры и формы. Затем закрепите их в дуэли в приложении.">
+<meta property="og:image" content="https://linguabattle.net/assets/logo-icon.png">
+<link rel="icon" type="image/png" href="/assets/logo-icon.png">
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Be+Vietnam+Pro:wght@300;400;500&display=swap" rel="stylesheet">
+<style>*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Be Vietnam Pro',-apple-system,sans-serif;background:#000E23;color:#D9E6FF;line-height:1.6}
+h1,h2,h3,.head{font-family:'Plus Jakarta Sans',sans-serif}
+a{color:#81ECFF;text-decoration:none}
+.topbar{position:sticky;top:0;z-index:20;display:flex;align-items:center;justify-content:space-between;padding:14px 24px;background:rgba(0,14,35,.85);backdrop-filter:blur(12px);border-bottom:1px solid #384962}
+.logo{display:flex;align-items:center;gap:9px;font-family:'Plus Jakarta Sans';font-weight:800;font-size:1.15rem;background:linear-gradient(90deg,#A3FE00,#00E3FD);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.logo img{height:30px;width:auto;display:block;filter:invert(1) brightness(1.6)}
+select{background:#04203E;color:#D9E6FF;border:1px solid #384962;border-radius:8px;padding:7px 10px;font-family:inherit;font-size:.85rem;cursor:pointer}
+.layout{max-width:1080px;margin:0 auto;padding:32px 24px;display:grid;grid-template-columns:1fr 300px;gap:32px;align-items:start}
+@media(max-width:860px){.layout{grid-template-columns:1fr;gap:24px}}
+.content{min-width:0}
+.crumb{font-size:.8rem;color:#9BACCA;margin-bottom:14px}
+h1{font-size:2.3rem;font-weight:800;line-height:1.15;margin-bottom:6px}
+h1 .word{background:linear-gradient(90deg,#A3FE00,#00E3FD);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.pron{display:flex;gap:12px;align-items:center;color:#9BACCA;font-size:.95rem;margin-bottom:18px;flex-wrap:wrap}
+.tag{background:#072647;border:1px solid #384962;border-radius:20px;padding:3px 12px;font-size:.78rem}
+.speak{background:#04203E;border:1px solid #00E3FD;color:#81ECFF;border-radius:20px;padding:4px 13px;font-size:.8rem;cursor:pointer}
+.lede{font-size:1.05rem;color:#9BACCA;margin-bottom:28px;padding-bottom:24px;border-bottom:1px solid #384962}
+.sec{margin-bottom:30px}
+.sec h2{font-size:1.25rem;font-weight:700;margin-bottom:14px;display:flex;align-items:center;gap:8px}
+.mean{background:#011A36;border:1px solid #384962;border-radius:14px;padding:16px 18px;margin-bottom:12px}
+.mean .n{display:inline-block;min-width:24px;height:24px;line-height:24px;text-align:center;border-radius:7px;background:#A3FE00;color:#3F6600;font-weight:700;font-size:.8rem;margin-right:8px}
+.mean .def{font-weight:600;color:#D9E6FF;font-size:1.02rem}
+.mean .ex{margin-top:8px;padding-left:32px;color:#9BACCA}
+.mean .ex .en{color:#DDFFAF;font-style:italic}
+table{width:100%;border-collapse:collapse;background:#011A36;border:1px solid #384962;border-radius:14px;overflow:hidden}
+th,td{padding:11px 14px;text-align:left;border-bottom:1px solid #384962;font-size:.95rem}
+th{background:#072647;font-family:'Plus Jakarta Sans';font-weight:600;color:#81ECFF}
+tr:last-child td{border-bottom:none}
+.warn{color:#FD8B00}
+.chips{display:flex;flex-wrap:wrap;gap:10px}
+.chip{background:#04203E;border:1px solid #384962;border-radius:10px;padding:9px 14px;font-size:.9rem}
+.chip:hover{border-color:#A3FE00;color:#DDFFAF}
+.quiz{background:#011A36;border:1px solid #00E3FD;border-radius:14px;padding:18px}
+.quiz .q{font-weight:600;margin-bottom:12px}
+.quiz button{display:block;width:100%;text-align:left;background:#04203E;border:1px solid #384962;color:#D9E6FF;border-radius:9px;padding:11px 14px;margin-bottom:8px;font-family:inherit;font-size:.92rem;cursor:pointer}
+.quiz button:hover{border-color:#00E3FD}
+.quiz button.ok{background:rgba(163,254,0,.15);border-color:#A3FE00;color:#DDFFAF}
+.quiz button.no{background:rgba(255,113,108,.12);border-color:#FF716C;color:#FF716C}
+.appcol{position:sticky;top:80px}
+@media(max-width:860px){.appcol{position:static}}
+.appcard{background:linear-gradient(160deg,#04203E,#011A36);border:1px solid #384962;border-radius:18px;padding:22px;text-align:center}
+.appcard .badge{font-size:2.4rem}
+.appcard h3{font-family:'Plus Jakarta Sans';font-weight:800;font-size:1.15rem;margin:10px 0 4px}
+.appcard p{color:#9BACCA;font-size:.88rem;margin-bottom:16px}
+.store{display:block;background:#A3FE00;color:#3F6600;font-weight:700;font-family:'Plus Jakarta Sans';border-radius:11px;padding:12px;margin-bottom:9px;box-shadow:0 0 24px rgba(163,254,0,.28)}
+.store.alt{background:#072647;color:#D9E6FF;box-shadow:none;border:1px solid #384962}
+.duel{margin-top:16px;padding-top:16px;border-top:1px solid #384962;font-size:.82rem;color:#9BACCA}
+.duel b{color:#81ECFF}
+footer{max-width:1080px;margin:0 auto;padding:32px 24px;border-top:1px solid #384962;color:#9BACCA;font-size:.82rem}
+.hero{max-width:820px;margin:0 auto;padding:56px 24px 24px;text-align:center}
+.hero h1{font-size:2.4rem;font-weight:800;line-height:1.15;margin-bottom:14px}
+.hero h1 .g{background:linear-gradient(90deg,#A3FE00,#00E3FD);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.hero p{color:#9BACCA;font-size:1.1rem;max-width:540px;margin:0 auto 24px}
+.searchwrap{max-width:540px;margin:0 auto;position:relative;text-align:start}
+#search{width:100%;background:#011A36;border:1px solid #384962;color:#D9E6FF;border-radius:14px;padding:14px 18px;font-family:inherit;font-size:1.05rem}
+#search:focus{outline:none;border-color:#A3FE00}
+#results{position:absolute;left:0;right:0;top:60px;background:#04203E;border:1px solid #384962;border-radius:14px;overflow:hidden;z-index:30;display:none}
+#results a{display:flex;justify-content:space-between;gap:12px;padding:12px 16px;color:#D9E6FF;border-bottom:1px solid #072647}
+#results a:hover{background:#072647}
+#results .rw{font-family:'Plus Jakarta Sans';font-weight:700;color:#DDFFAF}
+#results .rd{color:#9BACCA;font-size:.85rem}
+.section{max-width:1000px;margin:0 auto;padding:32px 24px}
+.section h2{font-size:1.4rem;font-weight:700;margin-bottom:18px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:16px}
+.wcard{display:block;background:#011A36;border:1px solid #384962;border-radius:16px;padding:20px;transition:.18s}
+.wcard:hover{border-color:#A3FE00;transform:translateY(-2px)}
+.wcard .w{font-family:'Plus Jakarta Sans';font-weight:800;font-size:1.4rem;background:linear-gradient(90deg,#A3FE00,#00E3FD);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.wcard .cat{display:inline-block;margin-top:6px;font-size:.72rem;color:#81ECFF;background:#072647;border:1px solid #384962;border-radius:20px;padding:2px 10px}
+.wcard .d{margin-top:10px;color:#9BACCA;font-size:.9rem}
+</style>
+</head>
+<body>
+<div class="topbar">
+  <a class="logo" href="/ru/"><img src="/assets/logo.svg" alt="LinguaBattle" width="30" height="30"><span>LinguaBattle</span></a>
+  <select onchange="location.href=this.value"><option value="/tr/">🇹🇷 Türkçe</option><option value="/en/">🇬🇧 English</option><option value="/de/">🇩🇪 Deutsch</option><option value="/fr/">🇫🇷 Français</option><option value="/es/">🇪🇸 Español</option><option value="/ar/">🇸🇦 العربية</option><option value="/hi/">🇮🇳 हिन्दी</option><option value="/ru/" selected>🇷🇺 Русский</option><option value="/pt/">🇵🇹 Português</option><option value="/ja/">🇯🇵 日本語</option></select>
+</div>
+<div class="hero">
+  <h1>Самые <span class='g'>путаемые</span> английские слова</h1>
+  <p>Значения, примеры и формы. Затем закрепите их в дуэли в приложении.</p>
+  <div class="searchwrap"><input id="search" type="text" autocomplete="off" placeholder="🔍 Найти слово…"><div id="results"></div></div>
+</div>
+<div class="section">
+  <a href="/ru/test-urovnya" style="display:block;background:linear-gradient(135deg,#04203E,#011A36);border:1px solid #A3FE00;border-radius:18px;padding:24px;text-align:center;box-shadow:0 0 32px rgba(163,254,0,.12)">
+    <div style="font-family:'Plus Jakarta Sans';font-weight:800;font-size:1.4rem;margin-bottom:6px">📊 Тест на уровень английского</div>
+    <div style="color:#9BACCA;margin-bottom:4px">Узнай свой уровень за 20 вопросов — бесплатно, без регистрации.</div>
+    <div style="color:#A3FE00;font-weight:600">Начать тест →</div>
+  </a>
+</div>
+<div class="section">
+  <h2>Все темы</h2>
+  <div class="grid"><a class="wcard" href="/ru/slovo/a-an-the"><div class="w">a / an / the</div><span class="cat">grammar</span><div class="d">a = ед. число перед согласным звуком</div></a><a class="wcard" href="/ru/slovo/actually"><div class="w">actually</div><span class="cat">confusing</span><div class="d">на самом деле, в действительности (вопреки ожиданию)</div></a><a class="wcard" href="/ru/slovo/align"><div class="w">align</div><span class="cat">work</span><div class="d">договориться, согласовать (работа)</div></a><a class="wcard" href="/ru/slovo/assist"><div class="w">assist</div><span class="cat">confusing</span><div class="d">помогать, содействовать</div></a><a class="wcard" href="/ru/slovo/async"><div class="w">async</div><span class="cat">work</span><div class="d">Асинхронный (общение/работа)</div></a><a class="wcard" href="/ru/slovo/attend"><div class="w">attend</div><span class="cat">confusing</span><div class="d">присутствовать, посещать</div></a><a class="wcard" href="/ru/slovo/months"><div class="w">months</div><span class="cat">basics</span><div class="d">January /ˈdʒænjuəri/</div></a><a class="wcard" href="/ru/slovo/bear"><div class="w">bear</div><span class="cat">verb</span><div class="d">медведь (животное, сущ.)</div></a><a class="wcard" href="/ru/slovo/brain-rot"><div class="w">brain rot</div><span class="cat">genz</span><div class="d">Туман в голове от мусорного контента</div></a><a class="wcard" href="/ru/slovo/break"><div class="w">break</div><span class="cat">verb</span><div class="d">ломать, разбивать</div></a><a class="wcard" href="/ru/slovo/can-could"><div class="w">can / could</div><span class="cat">grammar</span><div class="d">can = способность сейчас</div></a><a class="wcard" href="/ru/slovo/charge"><div class="w">charge</div><span class="cat">verb</span><div class="d">брать плату / плата (деньги)</div></a><a class="wcard" href="/ru/slovo/colors"><div class="w">colors</div><span class="cat">basics</span><div class="d">red /red/</div></a><a class="wcard" href="/ru/slovo/cringe"><div class="w">cringe</div><span class="cat">genz</span><div class="d">неловкий, стыдный (прил., сленг)</div></a><a class="wcard" href="/ru/slovo/deadline"><div class="w">deadline</div><span class="cat">work</span><div class="d">крайний срок</div></a><a class="wcard" href="/ru/slovo/delulu"><div class="w">delulu</div><span class="cat">genz</span><div class="d">Нереалистичный, оторванный от реальности (в шутку)</div></a><a class="wcard" href="/ru/slovo/draw"><div class="w">draw</div><span class="cat">verb</span><div class="d">рисовать (картину)</div></a><a class="wcard" href="/ru/slovo/embarrassed"><div class="w">embarrassed</div><span class="cat">confusing</span><div class="d">смущённый, сконфуженный</div></a><a class="wcard" href="/ru/slovo/eventually"><div class="w">eventually</div><span class="cat">confusing</span><div class="d">в конце концов, в итоге</div></a><a class="wcard" href="/ru/slovo/exit"><div class="w">exit</div><span class="cat">confusing</span><div class="d">выход</div></a><a class="wcard" href="/ru/slovo/flex"><div class="w">flex</div><span class="cat">genz</span><div class="d">хвастаться, понтоваться (сленг)</div></a><a class="wcard" href="/ru/slovo/gatekeeping"><div class="w">gatekeeping</div><span class="cat">genz</span><div class="d">Скрывать информацию/тренды от других</div></a><a class="wcard" href="/ru/slovo/generate"><div class="w">generate</div><span class="cat">ai</span><div class="d">создавать, производить (ИИ: создавать контент)</div></a><a class="wcard" href="/ru/slovo/get"><div class="w">get</div><span class="cat">verb</span><div class="d">получать / доставать</div></a><a class="wcard" href="/ru/slovo/ghosting"><div class="w">ghosting</div><span class="cat">genz</span><div class="d">Внезапно игнорировать кого-то без объяснений</div></a><a class="wcard" href="/ru/slovo/good-morning-good-night"><div class="w">good morning / good night</div><span class="cat">phrases</span><div class="d">Good morning. (утром)</div></a><a class="wcard" href="/ru/slovo/days"><div class="w">days</div><span class="cat">basics</span><div class="d">Monday /ˈmʌndeɪ/</div></a><a class="wcard" href="/ru/slovo/hold"><div class="w">hold</div><span class="cat">verb</span><div class="d">держать (в руке)</div></a><a class="wcard" href="/ru/slovo/how-are-you"><div class="w">how are you</div><span class="cat">phrases</span><div class="d">How are you? (самое частое, нейтральное)</div></a><a class="wcard" href="/ru/slovo/how-much-how-many"><div class="w">how much / how many</div><span class="cat">phrases</span><div class="d">How much is it? (спросить цену)</div></a><a class="wcard" href="/ru/slovo/in-on-at"><div class="w">in / on / at</div><span class="cat">grammar</span><div class="d">ВРЕМЯ — in: месяц, год, сезон</div></a><a class="wcard" href="/ru/slovo/introduce-yourself"><div class="w">introduce yourself</div><span class="cat">phrases</span><div class="d">Имя: Hi, I&#x27;m... / My name is...</div></a><a class="wcard" href="/ru/slovo/library"><div class="w">library</div><span class="cat">confusing</span><div class="d">библиотека (книги берут на время)</div></a><a class="wcard" href="/ru/slovo/light"><div class="w">light</div><span class="cat">verb</span><div class="d">свет (сущ.)</div></a><a class="wcard" href="/ru/slovo/make"><div class="w">make</div><span class="cat">verb</span><div class="d">make = создавать, производить (что-то получается)</div></a><a class="wcard" href="/ru/slovo/match"><div class="w">match</div><span class="cat">verb</span><div class="d">матч, состязание (сущ.)</div></a><a class="wcard" href="/ru/slovo/much-many"><div class="w">much / many</div><span class="cat">grammar</span><div class="d">many = исчисляемые сущ. (мн.ч.)</div></a><a class="wcard" href="/ru/slovo/past-simple"><div class="w">past simple</div><span class="cat">grammar</span><div class="d">Правильный глагол: глагол + -ed</div></a><a class="wcard" href="/ru/slovo/point"><div class="w">point</div><span class="cat">verb</span><div class="d">кончик, остриё (сущ.)</div></a><a class="wcard" href="/ru/slovo/pov"><div class="w">POV</div><span class="cat">genz</span><div class="d">точка зрения (полная форма)</div></a><a class="wcard" href="/ru/slovo/present-perfect"><div class="w">present perfect</div><span class="cat">grammar</span><div class="d">Форма: have/has + причастие (V3)</div></a><a class="wcard" href="/ru/slovo/prompt"><div class="w">prompt</div><span class="cat">ai</span><div class="d">инструкция, даваемая ИИ</div></a><a class="wcard" href="/ru/slovo/reach-out"><div class="w">reach out</div><span class="cat">work</span><div class="d">связаться с кем-то, выйти на контакт</div></a><a class="wcard" href="/ru/slovo/realize"><div class="w">realize</div><span class="cat">confusing</span><div class="d">осознать, заметить</div></a><a class="wcard" href="/ru/slovo/red-flag"><div class="w">red flag</div><span class="cat">genz</span><div class="d">тревожный знак, сигнал опасности</div></a><a class="wcard" href="/ru/slovo/rizz"><div class="w">rizz</div><span class="cat">genz</span><div class="d">Обаяние, харизма, умение привлекать</div></a><a class="wcard" href="/ru/slovo/run"><div class="w">run</div><span class="cat">verb</span><div class="d">бежать</div></a><a class="wcard" href="/ru/slovo/say"><div class="w">say</div><span class="cat">verb</span><div class="d">say = сказать (без указания человека)</div></a><a class="wcard" href="/ru/slovo/numbers"><div class="w">numbers</div><span class="cat">basics</span><div class="d">1 one, 2 two, 3 three</div></a><a class="wcard" href="/ru/slovo/sensible"><div class="w">sensible</div><span class="cat">confusing</span><div class="d">разумный, благоразумный</div></a><a class="wcard" href="/ru/slovo/set"><div class="w">set</div><span class="cat">verb</span><div class="d">класть, ставить</div></a><a class="wcard" href="/ru/slovo/since-for"><div class="w">since / for</div><span class="cat">grammar</span><div class="d">for = длительность (как долго)</div></a><a class="wcard" href="/ru/slovo/slay"><div class="w">slay</div><span class="cat">genz</span><div class="d">сделать круто, зажечь (сленг)</div></a><a class="wcard" href="/ru/slovo/take"><div class="w">take</div><span class="cat">verb</span><div class="d">брать (в руку)</div></a><a class="wcard" href="/ru/slovo/thank-you"><div class="w">thank you</div><span class="cat">phrases</span><div class="d">Thank you. (самое частое)</div></a><a class="wcard" href="/ru/slovo/this-that-these-those"><div class="w">this / that / these / those</div><span class="cat">grammar</span><div class="d">this = близко, ед.ч.</div></a><a class="wcard" href="/ru/slovo/turn"><div class="w">turn</div><span class="cat">verb</span><div class="d">поворачивать, менять направление</div></a><a class="wcard" href="/ru/slovo/vibe"><div class="w">vibe</div><span class="cat">genz</span><div class="d">атмосфера, энергия, настрой (сущ.)</div></a><a class="wcard" href="/ru/slovo/will-going-to"><div class="w">will / going to</div><span class="cat">grammar</span><div class="d">will = решение, принятое сейчас</div></a></div>
+</div>
+<footer>© 2026 LinguaBattle</footer>
+<script>
+const LANG='ru';let WORDS=[];
+fetch('/words-index.json').then(r=>r.json()).then(d=>{WORDS=d;}).catch(()=>{});
+const inp=document.getElementById('search'),box=document.getElementById('results');
+inp.addEventListener('input',()=>{const q=inp.value.trim().toLowerCase();if(!q){box.style.display='none';return;}
+const hits=WORDS.filter(w=>w.word.toLowerCase().includes(q)).slice(0,8);
+if(!hits.length){box.innerHTML='';box.style.display='none';return;}
+box.innerHTML=hits.map(w=>{const p=(w.paths&&w.paths[LANG])||(w.paths&&w.paths.en)||'#';const d=(w.desc&&w.desc[LANG])||'';return `<a href="${p}"><span class="rw">${w.word}</span><span class="rd">${d}</span></a>`;}).join('');
+box.style.display='block';});
+document.addEventListener('click',e=>{if(!e.target.closest('.searchwrap'))box.style.display='none';});
+</script>
+</body>
+</html>

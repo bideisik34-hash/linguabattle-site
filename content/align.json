@@ -1,0 +1,135 @@
+{
+  "word": "align",
+  "pron": "/əˈlaɪn/",
+  "category": "work",
+  "tr": {
+    "pos": "fiil", "title": "align ne demek?",
+    "metaDesc": "align ne demek? Hizalamak, mutabık kalmak — iş İngilizcesinde çok kullanılır. Anlamı ve örnekler — LinguaBattle.",
+    "lede": "<b>align</b> temelde “hizalamak, aynı çizgiye getirmek” demektir. İş hayatında çok sık “aynı fikirde olmak, mutabık kalmak” anlamında kullanılır.",
+    "means": [
+      {"def": "aynı fikirde olmak, mutabık kalmak (iş)", "en": "Let's align on the plan before the call.", "t": "Görüşmeden önce plan üzerinde mutabık kalalım."},
+      {"def": "hizalamak, aynı çizgiye getirmek", "en": "Align the text to the left.", "t": "Metni sola hizala."},
+      {"def": "uyumlu olmak (with ile)", "en": "This aligns with our goals.", "t": "Bu, hedeflerimizle uyumlu."}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["align vs agree", "on the same page", "sync up"],
+    "idiomTitle": "İş kalıpları", "idioms": ["align on something", "get aligned", "aligned with goals"],
+    "quizQ": "“Let's align” (iş toplantısında) ne demek?", "quizA": ["Mutabık kalalım / aynı fikre gelelim", "Hizaya geçelim", "Bekleyelim"], "quizOk": 0
+  },
+  "en": {
+    "pos": "verb", "title": "What does align mean?",
+    "metaDesc": "What does align mean? To line up or agree — common in work English. Meaning and examples — LinguaBattle.",
+    "lede": "<b>align</b> basically means “to line up, put in a straight line”. In business it's very often used to mean “to agree, be on the same page”.",
+    "means": [
+      {"def": "to agree, be on the same page (work)", "en": "Let's align on the plan before the call.", "t": "(reach agreement)"},
+      {"def": "to line up, arrange in a line", "en": "Align the text to the left.", "t": "(line up)"},
+      {"def": "to match, be consistent (with)", "en": "This aligns with our goals.", "t": "(matches)"}
+    ],
+    "relTitle": "Often confused", "rel": ["align vs agree", "on the same page", "sync up"],
+    "idiomTitle": "Work phrases", "idioms": ["align on something", "get aligned", "aligned with goals"],
+    "quizQ": "In a work meeting, what does “Let's align” mean?", "quizA": ["Let's agree / get on the same page", "Let's stand in line", "Let's wait"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Verb", "title": "Was bedeutet align?",
+    "metaDesc": "Was bedeutet align? Ausrichten oder übereinstimmen — häufig im Business-Englisch. Bedeutung und Beispiele — LinguaBattle.",
+    "lede": "<b>align</b> bedeutet grundsätzlich „ausrichten, in eine Linie bringen“. Im Geschäft wird es sehr oft im Sinne von „übereinstimmen, auf einer Linie sein“ verwendet.",
+    "means": [
+      {"def": "übereinstimmen, sich abstimmen (Arbeit)", "en": "Let's align on the plan before the call.", "t": "(sich einigen)"},
+      {"def": "ausrichten, in einer Linie anordnen", "en": "Align the text to the left.", "t": "(ausrichten)"},
+      {"def": "übereinstimmen mit (with)", "en": "This aligns with our goals.", "t": "(passt zu)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["align vs agree", "on the same page", "sync up"],
+    "idiomTitle": "Arbeitsausdrücke", "idioms": ["align on something", "get aligned", "aligned with goals"],
+    "quizQ": "Was bedeutet „Let's align“ in einem Meeting?", "quizA": ["Lass uns übereinstimmen / abstimmen", "Lass uns Schlange stehen", "Lass uns warten"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "verbe", "title": "Que signifie align ?",
+    "metaDesc": "Que signifie align ? Aligner ou se mettre d'accord — courant en anglais pro. Sens et exemples — LinguaBattle.",
+    "lede": "<b>align</b> signifie de base « aligner, mettre en ligne droite ». En entreprise, il est très souvent employé au sens de « se mettre d'accord, être sur la même longueur d'onde ».",
+    "means": [
+      {"def": "se mettre d'accord, s'aligner (travail)", "en": "Let's align on the plan before the call.", "t": "(se mettre d'accord)"},
+      {"def": "aligner, mettre en ligne", "en": "Align the text to the left.", "t": "(aligner)"},
+      {"def": "correspondre à (with)", "en": "This aligns with our goals.", "t": "(correspond à)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["align vs agree", "on the same page", "sync up"],
+    "idiomTitle": "Expressions de travail", "idioms": ["align on something", "get aligned", "aligned with goals"],
+    "quizQ": "En réunion, que veut dire « Let's align » ?", "quizA": ["Mettons-nous d'accord", "Faisons la queue", "Attendons"], "quizOk": 0
+  },
+  "es": {
+    "pos": "verbo", "title": "¿Qué significa align?",
+    "metaDesc": "¿Qué significa align? Alinear o ponerse de acuerdo — común en inglés laboral. Significado y ejemplos — LinguaBattle.",
+    "lede": "<b>align</b> significa básicamente «alinear, poner en línea recta». En el trabajo se usa muy a menudo para decir «ponerse de acuerdo, estar en la misma página».",
+    "means": [
+      {"def": "ponerse de acuerdo, alinearse (trabajo)", "en": "Let's align on the plan before the call.", "t": "(ponerse de acuerdo)"},
+      {"def": "alinear, poner en línea", "en": "Align the text to the left.", "t": "(alinear)"},
+      {"def": "coincidir con (with)", "en": "This aligns with our goals.", "t": "(coincide con)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["align vs agree", "on the same page", "sync up"],
+    "idiomTitle": "Expresiones de trabajo", "idioms": ["align on something", "get aligned", "aligned with goals"],
+    "quizQ": "En una reunión, ¿qué significa «Let's align»?", "quizA": ["Pongámonos de acuerdo", "Hagamos fila", "Esperemos"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "فعل", "title": "ماذا تعني align؟",
+    "metaDesc": "ماذا تعني align؟ يحاذي أو يتفق — شائعة في إنجليزية العمل. المعنى والأمثلة — LinguaBattle.",
+    "lede": "<b>align</b> تعني أساسًا «يحاذي، يصفّ في خط مستقيم». في العمل تُستخدم كثيرًا بمعنى «يتفق، يكون على نفس الصفحة».",
+    "means": [
+      {"def": "يتفق، يتوافق (في العمل)", "en": "Let's align on the plan before the call.", "t": "(نتفق)"},
+      {"def": "يحاذي، يصفّ في خط", "en": "Align the text to the left.", "t": "(يحاذي)"},
+      {"def": "يتوافق مع (with)", "en": "This aligns with our goals.", "t": "(يتوافق مع)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["align vs agree", "on the same page", "sync up"],
+    "idiomTitle": "عبارات العمل", "idioms": ["align on something", "get aligned", "aligned with goals"],
+    "quizQ": "في اجتماع، ماذا تعني «Let's align»؟", "quizA": ["لنتفق / نكون على نفس الصفحة", "لنصطف في طابور", "لننتظر"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "क्रिया", "title": "align का क्या मतलब है?",
+    "metaDesc": "align का क्या मतलब है? पंक्ति में लाना या सहमत होना — ऑफिस इंग्लिश में आम। अर्थ और उदाहरण — LinguaBattle.",
+    "lede": "<b>align</b> का मूल अर्थ है “एक सीध में लाना, पंक्तिबद्ध करना”। काम में इसे अक्सर “सहमत होना, एक ही पेज पर होना” के अर्थ में इस्तेमाल किया जाता है।",
+    "means": [
+      {"def": "सहमत होना, तालमेल बैठाना (काम)", "en": "Let's align on the plan before the call.", "t": "(सहमत हों)"},
+      {"def": "पंक्ति में लाना, सीध में करना", "en": "Align the text to the left.", "t": "(सीध में करें)"},
+      {"def": "मेल खाना (with)", "en": "This aligns with our goals.", "t": "(मेल खाता है)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["align vs agree", "on the same page", "sync up"],
+    "idiomTitle": "काम के वाक्यांश", "idioms": ["align on something", "get aligned", "aligned with goals"],
+    "quizQ": "मीटिंग में “Let's align” का क्या अर्थ है?", "quizA": ["आओ सहमत हों / एक पेज पर आएँ", "आओ कतार में खड़े हों", "आओ इंतज़ार करें"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "глагол", "title": "Что значит align?",
+    "metaDesc": "Что значит align? Выравнивать или договариваться — частое в деловом английском. Значение и примеры — LinguaBattle.",
+    "lede": "<b>align</b> в основе значит «выравнивать, ставить в одну линию». В бизнесе очень часто используется в значении «договориться, быть на одной волне».",
+    "means": [
+      {"def": "договориться, согласовать (работа)", "en": "Let's align on the plan before the call.", "t": "(договориться)"},
+      {"def": "выравнивать, ставить в линию", "en": "Align the text to the left.", "t": "(выровнять)"},
+      {"def": "соответствовать (with)", "en": "This aligns with our goals.", "t": "(соответствует)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["align vs agree", "on the same page", "sync up"],
+    "idiomTitle": "Рабочие выражения", "idioms": ["align on something", "get aligned", "aligned with goals"],
+    "quizQ": "На встрече что значит «Let's align»?", "quizA": ["Давайте договоримся / будем на одной волне", "Давайте встанем в очередь", "Давайте подождём"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "verbo", "title": "O que significa align?",
+    "metaDesc": "O que significa align? Alinhar ou concordar — comum no inglês de trabalho. Significado e exemplos — LinguaBattle.",
+    "lede": "<b>align</b> significa basicamente «alinhar, pôr em linha reta». No trabalho é muito usado no sentido de «concordar, estar na mesma página».",
+    "means": [
+      {"def": "concordar, alinhar-se (trabalho)", "en": "Let's align on the plan before the call.", "t": "(chegar a acordo)"},
+      {"def": "alinhar, pôr em linha", "en": "Align the text to the left.", "t": "(alinhar)"},
+      {"def": "estar de acordo com (with)", "en": "This aligns with our goals.", "t": "(corresponde a)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["align vs agree", "on the same page", "sync up"],
+    "idiomTitle": "Expressões de trabalho", "idioms": ["align on something", "get aligned", "aligned with goals"],
+    "quizQ": "Numa reunião, o que significa «Let's align»?", "quizA": ["Vamos concordar / ficar na mesma página", "Vamos fazer fila", "Vamos esperar"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "動詞", "title": "alignの意味は？",
+    "metaDesc": "alignの意味は？揃える、合意する — ビジネス英語で頻出。意味と例文 — LinguaBattle.",
+    "lede": "<b>align</b> は基本的に「揃える、一直線に並べる」という意味。ビジネスでは「合意する、認識を合わせる」の意味で非常によく使われる。",
+    "means": [
+      {"def": "合意する、認識を合わせる（仕事）", "en": "Let's align on the plan before the call.", "t": "（合意する）"},
+      {"def": "揃える、一列に並べる", "en": "Align the text to the left.", "t": "（揃える）"},
+      {"def": "一致する（with）", "en": "This aligns with our goals.", "t": "（一致する）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["align vs agree", "on the same page", "sync up"],
+    "idiomTitle": "仕事のフレーズ", "idioms": ["align on something", "get aligned", "aligned with goals"],
+    "quizQ": "会議で「Let's align」の意味は？", "quizA": ["認識を合わせよう／合意しよう", "列に並ぼう", "待とう"], "quizOk": 0
+  }
+}

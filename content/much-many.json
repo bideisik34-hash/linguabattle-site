@@ -1,0 +1,145 @@
+{
+  "word": "much / many",
+  "pron": "/mʌtʃ, ˈmeni/",
+  "category": "grammar",
+  "tr": {
+    "pos": "gramer (miktar)", "title": "much ve many farkı nedir?",
+    "metaDesc": "much vs many farkı: ne zaman much, ne zaman many? Sayılabilen/sayılamayan, örneklerle — LinguaBattle.",
+    "lede": "<b>much</b> ve <b>many</b> ikisi de “çok” demektir ama farklı isimlerle kullanılır: <b>many</b> sayılabilen (çoğul), <b>much</b> sayılamayan isimlerle.",
+    "means": [
+      {"def": "many = sayılabilen çoğul isim", "en": "many books, many people", "t": "çok kitap, çok insan"},
+      {"def": "much = sayılamayan isim", "en": "much water, much time", "t": "çok su, çok zaman"},
+      {"def": "İpucu: çoğul ekiyle sayılıyorsa → many", "en": "How many cars? How much money?", "t": "Kaç araba? Ne kadar para?"},
+      {"def": "a lot of = ikisinde de güvenli", "en": "a lot of books / a lot of water", "t": "çok kitap / çok su (ikisinde de olur)"}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["much vs many", "few vs little", "countable vs uncountable"],
+    "idiomTitle": "Kurallar", "idioms": ["many → sayılabilen", "much → sayılamayan", "a lot of → her ikisi"],
+    "quizQ": "Hangisi doğru?", "quizA": ["many books", "much books", "many water"], "quizOk": 0
+  },
+  "en": {
+    "pos": "grammar (quantity)", "title": "Much vs many: what's the difference?",
+    "metaDesc": "Much vs many difference: when to use much or many? Countable/uncountable, with examples — LinguaBattle.",
+    "lede": "<b>much</b> and <b>many</b> both mean “a lot”, but go with different nouns: <b>many</b> with countable (plural), <b>much</b> with uncountable nouns.",
+    "means": [
+      {"def": "many = countable plural nouns", "en": "many books, many people", "t": "(countable)"},
+      {"def": "much = uncountable nouns", "en": "much water, much time", "t": "(uncountable)"},
+      {"def": "Tip: if you can count it → many", "en": "How many cars? How much money?", "t": "(count → many)"},
+      {"def": "a lot of = safe with both", "en": "a lot of books / a lot of water", "t": "(works for both)"}
+    ],
+    "relTitle": "Often confused", "rel": ["much vs many", "few vs little", "countable vs uncountable"],
+    "idiomTitle": "Rules", "idioms": ["many → countable", "much → uncountable", "a lot of → both"],
+    "quizQ": "Which is correct?", "quizA": ["many books", "much books", "many water"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Grammatik (Menge)", "title": "Much vs many: Was ist der Unterschied?",
+    "metaDesc": "Unterschied much vs many: Wann much oder many? Zählbar/unzählbar, mit Beispielen — LinguaBattle.",
+    "lede": "<b>much</b> und <b>many</b> bedeuten beide „viel“, stehen aber mit verschiedenen Nomen: <b>many</b> mit zählbaren (Plural), <b>much</b> mit unzählbaren Nomen.",
+    "means": [
+      {"def": "many = zählbare Pluralnomen", "en": "many books, many people", "t": "(zählbar)"},
+      {"def": "much = unzählbare Nomen", "en": "much water, much time", "t": "(unzählbar)"},
+      {"def": "Tipp: zählbar → many", "en": "How many cars? How much money?", "t": "(zählbar → many)"},
+      {"def": "a lot of = bei beiden sicher", "en": "a lot of books / a lot of water", "t": "(für beide)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["much vs many", "few vs little", "countable vs uncountable"],
+    "idiomTitle": "Regeln", "idioms": ["many → zählbar", "much → unzählbar", "a lot of → beide"],
+    "quizQ": "Was ist korrekt?", "quizA": ["many books", "much books", "many water"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "grammaire (quantité)", "title": "Much vs many : quelle différence ?",
+    "metaDesc": "Différence much vs many : quand utiliser much ou many ? Dénombrable/indénombrable, exemples — LinguaBattle.",
+    "lede": "<b>much</b> et <b>many</b> signifient tous deux « beaucoup », mais avec des noms différents : <b>many</b> avec les dénombrables (pluriel), <b>much</b> avec les indénombrables.",
+    "means": [
+      {"def": "many = noms dénombrables (pluriel)", "en": "many books, many people", "t": "(dénombrable)"},
+      {"def": "much = noms indénombrables", "en": "much water, much time", "t": "(indénombrable)"},
+      {"def": "Astuce : si ça se compte → many", "en": "How many cars? How much money?", "t": "(compte → many)"},
+      {"def": "a lot of = sûr pour les deux", "en": "a lot of books / a lot of water", "t": "(pour les deux)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["much vs many", "few vs little", "countable vs uncountable"],
+    "idiomTitle": "Règles", "idioms": ["many → dénombrable", "much → indénombrable", "a lot of → les deux"],
+    "quizQ": "Lequel est correct ?", "quizA": ["many books", "much books", "many water"], "quizOk": 0
+  },
+  "es": {
+    "pos": "gramática (cantidad)", "title": "Much vs many: ¿cuál es la diferencia?",
+    "metaDesc": "Diferencia much vs many: ¿cuándo usar much o many? Contable/incontable, con ejemplos — LinguaBattle.",
+    "lede": "<b>much</b> y <b>many</b> significan «mucho», pero van con sustantivos distintos: <b>many</b> con contables (plural), <b>much</b> con incontables.",
+    "means": [
+      {"def": "many = sustantivos contables (plural)", "en": "many books, many people", "t": "(contable)"},
+      {"def": "much = sustantivos incontables", "en": "much water, much time", "t": "(incontable)"},
+      {"def": "Truco: si se cuenta → many", "en": "How many cars? How much money?", "t": "(contar → many)"},
+      {"def": "a lot of = seguro con ambos", "en": "a lot of books / a lot of water", "t": "(para ambos)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["much vs many", "few vs little", "countable vs uncountable"],
+    "idiomTitle": "Reglas", "idioms": ["many → contable", "much → incontable", "a lot of → ambos"],
+    "quizQ": "¿Cuál es correcto?", "quizA": ["many books", "much books", "many water"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "قواعد (الكمية)", "title": "ما الفرق بين much و many؟",
+    "metaDesc": "الفرق بين much وmany: متى نستخدم much أو many؟ معدود/غير معدود، أمثلة — LinguaBattle.",
+    "lede": "<b>much</b> و<b>many</b> كلاهما يعني «كثير»، لكن مع أسماء مختلفة: <b>many</b> مع المعدود (الجمع)، <b>much</b> مع غير المعدود.",
+    "means": [
+      {"def": "many = أسماء معدودة (جمع)", "en": "many books, many people", "t": "(معدود)"},
+      {"def": "much = أسماء غير معدودة", "en": "much water, much time", "t": "(غير معدود)"},
+      {"def": "نصيحة: إن كان يُعدّ → many", "en": "How many cars? How much money?", "t": "(يُعدّ → many)"},
+      {"def": "a lot of = آمنة مع الاثنين", "en": "a lot of books / a lot of water", "t": "(للاثنين)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["much vs many", "few vs little", "countable vs uncountable"],
+    "idiomTitle": "قواعد", "idioms": ["many → معدود", "much → غير معدود", "a lot of → الاثنان"],
+    "quizQ": "أيّها صحيح؟", "quizA": ["many books", "much books", "many water"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "व्याकरण (मात्रा)", "title": "much और many में क्या अंतर है?",
+    "metaDesc": "much बनाम many अंतर: कब much, कब many? गणनीय/अगणनीय, उदाहरण सहित — LinguaBattle.",
+    "lede": "<b>much</b> और <b>many</b> दोनों का मतलब “बहुत” है, पर अलग संज्ञाओं के साथ: <b>many</b> गणनीय (बहुवचन), <b>much</b> अगणनीय संज्ञाओं के साथ।",
+    "means": [
+      {"def": "many = गणनीय बहुवचन संज्ञा", "en": "many books, many people", "t": "(गणनीय)"},
+      {"def": "much = अगणनीय संज्ञा", "en": "much water, much time", "t": "(अगणनीय)"},
+      {"def": "टिप: गिन सकें → many", "en": "How many cars? How much money?", "t": "(गिनती → many)"},
+      {"def": "a lot of = दोनों के साथ सुरक्षित", "en": "a lot of books / a lot of water", "t": "(दोनों)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["much vs many", "few vs little", "countable vs uncountable"],
+    "idiomTitle": "नियम", "idioms": ["many → गणनीय", "much → अगणनीय", "a lot of → दोनों"],
+    "quizQ": "कौन सा सही है?", "quizA": ["many books", "much books", "many water"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "грамматика (количество)", "title": "Much vs many: в чём разница?",
+    "metaDesc": "Разница much vs many: когда much, когда many? Исчисляемое/неисчисляемое, примеры — LinguaBattle.",
+    "lede": "<b>much</b> и <b>many</b> оба значат «много», но с разными существительными: <b>many</b> с исчисляемыми (мн.ч.), <b>much</b> с неисчисляемыми.",
+    "means": [
+      {"def": "many = исчисляемые сущ. (мн.ч.)", "en": "many books, many people", "t": "(исчисляемое)"},
+      {"def": "much = неисчисляемые сущ.", "en": "much water, much time", "t": "(неисчисляемое)"},
+      {"def": "Подсказка: можно посчитать → many", "en": "How many cars? How much money?", "t": "(счёт → many)"},
+      {"def": "a lot of = безопасно с обоими", "en": "a lot of books / a lot of water", "t": "(для обоих)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["much vs many", "few vs little", "countable vs uncountable"],
+    "idiomTitle": "Правила", "idioms": ["many → исчисляемое", "much → неисчисляемое", "a lot of → оба"],
+    "quizQ": "Что правильно?", "quizA": ["many books", "much books", "many water"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "gramática (quantidade)", "title": "Much vs many: qual é a diferença?",
+    "metaDesc": "Diferença much vs many: quando usar much ou many? Contável/incontável, com exemplos — LinguaBattle.",
+    "lede": "<b>much</b> e <b>many</b> significam «muito», mas vão com substantivos diferentes: <b>many</b> com contáveis (plural), <b>much</b> com incontáveis.",
+    "means": [
+      {"def": "many = substantivos contáveis (plural)", "en": "many books, many people", "t": "(contável)"},
+      {"def": "much = substantivos incontáveis", "en": "much water, much time", "t": "(incontável)"},
+      {"def": "Dica: se dá para contar → many", "en": "How many cars? How much money?", "t": "(contar → many)"},
+      {"def": "a lot of = seguro com ambos", "en": "a lot of books / a lot of water", "t": "(para ambos)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["much vs many", "few vs little", "countable vs uncountable"],
+    "idiomTitle": "Regras", "idioms": ["many → contável", "much → incontável", "a lot of → ambos"],
+    "quizQ": "Qual está correto?", "quizA": ["many books", "much books", "many water"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "文法 (量)", "title": "much と many の違いは？",
+    "metaDesc": "much と many の違い：いつ much、いつ many？可算/不可算、例文付き — LinguaBattle.",
+    "lede": "<b>much</b> と <b>many</b> はどちらも「たくさん」だが、付く名詞が違う：<b>many</b> は可算名詞（複数）、<b>much</b> は不可算名詞。",
+    "means": [
+      {"def": "many = 可算名詞（複数）", "en": "many books, many people", "t": "（可算）"},
+      {"def": "much = 不可算名詞", "en": "much water, much time", "t": "（不可算）"},
+      {"def": "コツ：数えられるなら → many", "en": "How many cars? How much money?", "t": "（数える → many）"},
+      {"def": "a lot of = どちらでも安全", "en": "a lot of books / a lot of water", "t": "（両方OK）"}
+    ],
+    "relTitle": "混同しやすい点", "rel": ["much vs many", "few vs little", "countable vs uncountable"],
+    "idiomTitle": "ルール", "idioms": ["many → 可算", "much → 不可算", "a lot of → 両方"],
+    "quizQ": "正しいのは？", "quizA": ["many books", "much books", "many water"], "quizOk": 0
+  }
+}

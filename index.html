@@ -6,6 +6,12 @@
 <title>LinguaBattle — İngilizce kelimeleri düelloyla öğren</title>
 <meta name="description" content="İngilizcenin en çok karıştırılan kelimelerini öğren: get, delulu, prompt ve daha fazlası. Anlamlar, örnekler, çekimler — sonra uygulamada düelloyla pekiştir.">
 <link rel="canonical" href="https://linguabattle.net/">
+<meta property="og:title" content="LinguaBattle — İngilizce kelimeleri düelloyla öğren">
+<meta property="og:description" content="İngilizcenin en çok karıştırılan kelimelerini öğren: get, delulu, prompt ve daha fazlası.">
+<meta property="og:image" content="https://linguabattle.net/assets/logo-icon.png">
+<meta property="og:url" content="https://linguabattle.net/">
+<link rel="icon" type="image/png" href="/assets/logo-icon.png">
+<link rel="apple-touch-icon" href="/assets/logo-icon.png">
 <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Be+Vietnam+Pro:wght@300;400;500&display=swap" rel="stylesheet">
 <style>
   *{box-sizing:border-box;margin:0;padding:0}
@@ -13,7 +19,8 @@
   h1,h2,h3,.head{font-family:'Plus Jakarta Sans',sans-serif}
   a{color:#81ECFF;text-decoration:none}
   .topbar{position:sticky;top:0;z-index:20;display:flex;align-items:center;justify-content:space-between;padding:14px 24px;background:rgba(0,14,35,.85);backdrop-filter:blur(12px);border-bottom:1px solid #384962}
-  .logo{font-family:'Plus Jakarta Sans';font-weight:800;font-size:1.15rem;background:linear-gradient(90deg,#A3FE00,#00E3FD);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+  .logo{display:flex;align-items:center;gap:9px;font-family:'Plus Jakarta Sans';font-weight:800;font-size:1.15rem;background:linear-gradient(90deg,#A3FE00,#00E3FD);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+  .logo img{height:30px;width:auto;display:block;filter:invert(1) brightness(1.6)}
   select{background:#04203E;color:#D9E6FF;border:1px solid #384962;border-radius:8px;padding:7px 10px;font-family:inherit;font-size:.85rem;cursor:pointer}
   .hero{max-width:820px;margin:0 auto;padding:64px 24px 32px;text-align:center}
   .hero h1{font-size:2.8rem;font-weight:800;line-height:1.12;margin-bottom:16px}
@@ -47,7 +54,7 @@
 </head>
 <body>
 <div class="topbar">
-  <a class="logo" href="/">⚔️ LinguaBattle</a>
+  <a class="logo" href="/"><img src="/assets/logo.svg" alt="LinguaBattle" width="30" height="30"><span>LinguaBattle</span></a>
   <select onchange="if(this.value)location.href=this.value">
     <option value="">🌐 Dil</option>
     <option value="/tr/">🇹🇷 Türkçe</option>
@@ -77,6 +84,14 @@
 </div>
 
 <div class="section">
+  <a href="/tr/seviye-testi" style="display:block;background:linear-gradient(135deg,#04203E,#011A36);border:1px solid #A3FE00;border-radius:18px;padding:24px;text-align:center;box-shadow:0 0 32px rgba(163,254,0,.12)">
+    <div style="font-family:'Plus Jakarta Sans';font-weight:800;font-size:1.4rem;margin-bottom:6px">📊 İngilizce Seviye Testi</div>
+    <div style="color:#9BACCA;margin-bottom:4px">15 soruda seviyeni öğren — ücretsiz, kayıt yok.</div>
+    <div style="color:#A3FE00;font-weight:600">Teste başla →</div>
+  </a>
+</div>
+
+<div class="section">
   <h2>Popüler kelimeler</h2>
   <div class="sub">Tıkla, anlamını öğren.</div>
   <div class="grid">
@@ -89,6 +104,202 @@
     <a class="wcard" href="/tr/kelime/prompt">
       <div class="w">prompt</div><span class="cat">AI / teknoloji</span>
       <div class="d">Yapay zekaya verilen komut — ve diğer anlamları.</div></a>
+    <a class="wcard" href="/tr/kelime/rizz">
+      <div class="w">rizz</div><span class="cat">Gen Z argo</span>
+      <div class="d">Karizma, etkileme yeteneği — “charisma”dan gelir.</div></a>
+    <a class="wcard" href="/tr/kelime/make">
+      <div class="w">make / do</div><span class="cat">fiil farkı</span>
+      <div class="d">En çok karıştırılan ikili: ne zaman make, ne zaman do?</div></a>
+    <a class="wcard" href="/tr/kelime/say">
+      <div class="w">say / tell</div><span class="cat">fiil farkı</span>
+      <div class="d">say mı tell mi? Kişi gerektiğinde hangisi?</div></a>
+    <a class="wcard" href="/tr/kelime/generate">
+      <div class="w">generate</div><span class="cat">AI / teknoloji</span>
+      <div class="d">Üretmek, oluşturmak — yapay zekada çok kullanılır.</div></a>
+    <a class="wcard" href="/tr/kelime/async">
+      <div class="w">async</div><span class="cat">uzaktan çalışma</span>
+      <div class="d">Eş zamansız iletişim — remote work terimi.</div></a>
+    <a class="wcard" href="/tr/kelime/ghosting">
+      <div class="w">ghosting</div><span class="cat">Gen Z argo</span>
+      <div class="d">Birini aniden, açıklama yapmadan görmezden gelmek.</div></a>
+    <a class="wcard" href="/tr/kelime/gatekeeping">
+      <div class="w">gatekeeping</div><span class="cat">Gen Z argo</span>
+      <div class="d">Bir bilgiyi/trendi başkalarından kıskanıp saklamak.</div></a>
+    <a class="wcard" href="/tr/kelime/brain-rot">
+      <div class="w">brain rot</div><span class="cat">Gen Z argo</span>
+      <div class="d">Çöp içerik tüketmekten zihnin uyuşması.</div></a>
+    <a class="wcard" href="/tr/kelime/take">
+      <div class="w">take</div><span class="cat">fiil</span>
+      <div class="d">Almak, götürmek, sürmek — take/took/taken.</div></a>
+    <a class="wcard" href="/tr/kelime/reach-out">
+      <div class="w">reach out</div><span class="cat">iş İngilizcesi</span>
+      <div class="d">Birine ulaşmak, iletişime geçmek.</div></a>
+    <a class="wcard" href="/tr/kelime/match">
+      <div class="w">match</div><span class="cat">5 anlam</span>
+      <div class="d">Maç, kibrit, eşleşme, uymak… tek kelimede 5 anlam.</div></a>
+    <a class="wcard" href="/tr/kelime/charge">
+      <div class="w">charge</div><span class="cat">5 anlam</span>
+      <div class="d">Ücret, şarj, suçlama, hücum, sorumluluk.</div></a>
+    <a class="wcard" href="/tr/kelime/align">
+      <div class="w">align</div><span class="cat">iş İngilizcesi</span>
+      <div class="d">Hizalamak — ve “mutabık kalmak” anlamı.</div></a>
+    <a class="wcard" href="/tr/kelime/run">
+      <div class="w">run</div><span class="cat">6 anlam</span>
+      <div class="d">Koşmak, işletmek, çalışmak, akmak… 6 anlam.</div></a>
+    <a class="wcard" href="/tr/kelime/set">
+      <div class="w">set</div><span class="cat">5 anlam</span>
+      <div class="d">Koymak, ayarlamak, kurmak, takım, batmak.</div></a>
+    <a class="wcard" href="/tr/kelime/break">
+      <div class="w">break</div><span class="cat">5 anlam</span>
+      <div class="d">Kırmak, mola, bozulmak, çiğnemek, duyurmak.</div></a>
+    <a class="wcard" href="/tr/kelime/draw">
+      <div class="w">draw</div><span class="cat">5 anlam</span>
+      <div class="d">Çizmek, çekmek, beraberlik, kura, perde çekmek.</div></a>
+    <a class="wcard" href="/tr/kelime/point">
+      <div class="w">point</div><span class="cat">5 anlam</span>
+      <div class="d">Nokta, puan, amaç, işaret etmek, görüş.</div></a>
+    <a class="wcard" href="/tr/kelime/turn">
+      <div class="w">turn</div><span class="cat">5 anlam</span>
+      <div class="d">Dönmek, çevirmek, sıra, yaş doldurmak, -leşmek.</div></a>
+    <a class="wcard" href="/tr/kelime/light">
+      <div class="w">light</div><span class="cat">4 anlam</span>
+      <div class="d">Işık, hafif, açık (renk), yakmak.</div></a>
+    <a class="wcard" href="/tr/kelime/bear">
+      <div class="w">bear</div><span class="cat">4 anlam</span>
+      <div class="d">Ayı — ama “katlanmak/taşımak” da demek!</div></a>
+    <a class="wcard" href="/tr/kelime/hold">
+      <div class="w">hold</div><span class="cat">4 anlam</span>
+      <div class="d">Tutmak, düzenlemek, beklemek, içine almak.</div></a>
+    <a class="wcard" href="/tr/kelime/flex">
+      <div class="w">flex</div><span class="cat">Gen Z argo</span>
+      <div class="d">Hava atmak, gösteriş yapmak.</div></a>
+    <a class="wcard" href="/tr/kelime/cringe">
+      <div class="w">cringe</div><span class="cat">Gen Z argo</span>
+      <div class="d">Utanç verici, kasıntı, “yerin dibine geçiren”.</div></a>
+    <a class="wcard" href="/tr/kelime/vibe">
+      <div class="w">vibe</div><span class="cat">Gen Z argo</span>
+      <div class="d">Hava, atmosfer, enerji — bir yerin/kişinin havası.</div></a>
+    <a class="wcard" href="/tr/kelime/red-flag">
+      <div class="w">red flag</div><span class="cat">Gen Z argo</span>
+      <div class="d">Uyarı işareti — green flag ile farkı.</div></a>
+    <a class="wcard" href="/tr/kelime/pov">
+      <div class="w">POV</div><span class="cat">Gen Z argo</span>
+      <div class="d">Point of View — bakış açısı, sosyal medya kurgusu.</div></a>
+    <a class="wcard" href="/tr/kelime/deadline">
+      <div class="w">deadline</div><span class="cat">iş İngilizcesi</span>
+      <div class="d">Son teslim tarihi — meet/miss the deadline.</div></a>
+  </div>
+</div>
+
+<div class="section">
+  <h2>Temel İngilizce</h2>
+  <div class="sub">En çok aranan başlangıç konuları.</div>
+  <div class="grid">
+    <a class="wcard" href="/tr/kelime/months">
+      <div class="w">aylar</div><span class="cat">temel</span>
+      <div class="d">İngilizce aylar: January'den December'a, okunuşlarıyla.</div></a>
+    <a class="wcard" href="/tr/kelime/days">
+      <div class="w">günler</div><span class="cat">temel</span>
+      <div class="d">Haftanın günleri İngilizce, okunuş ve Türkçesiyle.</div></a>
+    <a class="wcard" href="/tr/kelime/numbers">
+      <div class="w">sayılar</div><span class="cat">temel</span>
+      <div class="d">İngilizce sayılar: 1'den 20'ye ve onluklar.</div></a>
+    <a class="wcard" href="/tr/kelime/how-are-you">
+      <div class="w">nasılsın?</div><span class="cat">günlük kalıp</span>
+      <div class="d">“How are you?” — sorma ve cevap verme yolları.</div></a>
+    <a class="wcard" href="/tr/kelime/thank-you">
+      <div class="w">teşekkür ederim</div><span class="cat">günlük kalıp</span>
+      <div class="d">“Thank you” ve teşekkür/rica etme yolları.</div></a>
+    <a class="wcard" href="/tr/kelime/colors">
+      <div class="w">renkler</div><span class="cat">temel</span>
+      <div class="d">İngilizce renkler, okunuş ve Türkçesiyle.</div></a>
+    <a class="wcard" href="/tr/kelime/introduce-yourself">
+      <div class="w">kendini tanıtma</div><span class="cat">günlük kalıp</span>
+      <div class="d">İsim, nereli, ne iş — kendini İngilizce tanıt.</div></a>
+  </div>
+</div>
+
+<div class="section">
+  <h2>Gramer</h2>
+  <div class="sub">En çok karıştırılan gramer konuları.</div>
+  <div class="grid">
+    <a class="wcard" href="/tr/kelime/a-an-the">
+      <div class="w">a / an / the</div><span class="cat">gramer</span>
+      <div class="d">İngilizce artikeller: ne zaman a, an, the?</div></a>
+    <a class="wcard" href="/tr/kelime/present-perfect">
+      <div class="w">Present Perfect</div><span class="cat">gramer</span>
+      <div class="d">have/has + V3 — ne zaman, past simple farkı.</div></a>
+    <a class="wcard" href="/tr/kelime/past-simple">
+      <div class="w">Past Simple</div><span class="cat">gramer</span>
+      <div class="d">Geçmiş zaman: V2 / -ed. Present perfect farkı.</div></a>
+    <a class="wcard" href="/tr/kelime/much-many">
+      <div class="w">much / many</div><span class="cat">gramer</span>
+      <div class="d">Ne zaman much, ne zaman many? Sayılabilen/sayılamayan.</div></a>
+    <a class="wcard" href="/tr/kelime/in-on-at">
+      <div class="w">in / on / at</div><span class="cat">gramer</span>
+      <div class="d">Yer ve zaman edatları: ne zaman hangisi?</div></a>
+    <a class="wcard" href="/tr/kelime/this-that-these-those">
+      <div class="w">this / that</div><span class="cat">gramer</span>
+      <div class="d">this/that/these/those — yakın/uzak, tekil/çoğul.</div></a>
+    <a class="wcard" href="/tr/kelime/can-could">
+      <div class="w">can / could</div><span class="cat">gramer</span>
+      <div class="d">Yetenek, izin, kibar rica — ne zaman hangisi?</div></a>
+    <a class="wcard" href="/tr/kelime/since-for">
+      <div class="w">since / for</div><span class="cat">gramer</span>
+      <div class="d">Zaman: süre mi (for), başlangıç mı (since)?</div></a>
+    <a class="wcard" href="/tr/kelime/will-going-to">
+      <div class="w">will / going to</div><span class="cat">gramer</span>
+      <div class="d">Gelecek zaman: anlık karar mı, plan mı?</div></a>
+    <a class="wcard" href="/tr/kelime/how-much">
+      <div class="w">how much?</div><span class="cat">günlük kalıp</span>
+      <div class="d">“Ne kadar?” — alışveriş + how much/how many.</div></a>
+  </div>
+</div>
+
+<div class="section">
+  <h2>Sık karıştırılan kelimeler</h2>
+  <div class="sub">Benzer görünüp farklı anlama gelen tuzaklar (false friends).</div>
+  <div class="grid">
+    <a class="wcard" href="/tr/kelime/actually">
+      <div class="w">actually</div><span class="cat">tuzak</span>
+      <div class="d">“Şu anda” değil — “aslında, gerçekten” demek.</div></a>
+    <a class="wcard" href="/tr/kelime/sensible">
+      <div class="w">sensible</div><span class="cat">tuzak</span>
+      <div class="d">“Hassas” değil — “mantıklı, makul” demek.</div></a>
+    <a class="wcard" href="/tr/kelime/library">
+      <div class="w">library</div><span class="cat">tuzak</span>
+      <div class="d">“Kitapçı” değil — “kütüphane” demek.</div></a>
+    <a class="wcard" href="/tr/kelime/realize">
+      <div class="w">realize</div><span class="cat">tuzak</span>
+      <div class="d">“Gerçekleştirmek” değil — “fark etmek” demek.</div></a>
+    <a class="wcard" href="/tr/kelime/eventually">
+      <div class="w">eventually</div><span class="cat">tuzak</span>
+      <div class="d">“Belki” değil — “sonunda, eninde sonunda” demek.</div></a>
+    <a class="wcard" href="/tr/kelime/assist">
+      <div class="w">assist</div><span class="cat">tuzak</span>
+      <div class="d">“Katılmak” değil — “yardım etmek” demek.</div></a>
+    <a class="wcard" href="/tr/kelime/embarrassed">
+      <div class="w">embarrassed</div><span class="cat">tuzak</span>
+      <div class="d">“Hamile” değil — “utanmış, mahcup” demek.</div></a>
+    <a class="wcard" href="/tr/kelime/exit">
+      <div class="w">exit</div><span class="cat">tuzak</span>
+      <div class="d">“Başarı” değil — “çıkış” demek.</div></a>
+    <a class="wcard" href="/tr/kelime/attend">
+      <div class="w">attend</div><span class="cat">tuzak</span>
+      <div class="d">“Beklemek” değil — “katılmak” demek.</div></a>
+  </div>
+</div>
+
+<div class="section">
+  <h2>Günlük kalıplar &amp; argo</h2>
+  <div class="sub">Selamlaşma ve güncel ifadeler.</div>
+  <div class="grid">
+    <a class="wcard" href="/tr/kelime/good-morning-good-night">
+      <div class="w">günaydın / iyi geceler</div><span class="cat">günlük kalıp</span>
+      <div class="d">Good morning, good night — günün selamları.</div></a>
+    <a class="wcard" href="/tr/kelime/slay">
+      <div class="w">slay</div><span class="cat">Gen Z argo</span>
+      <div class="d">Harika yapmak, parçalamak — övgü ifadesi.</div></a>
   </div>
 </div>
 

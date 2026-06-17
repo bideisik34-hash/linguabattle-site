@@ -1,0 +1,146 @@
+{
+  "word": "take",
+  "pron": "/teɪk/",
+  "category": "verb",
+  "conj": ["take", "took", "taken"],
+  "tr": {
+    "pos": "fiil", "title": "take ne demek?",
+    "metaDesc": "take ne demek? Almak, götürmek, sürmek — çok anlamlı fiil. take/took/taken çekimi ve örnekler — LinguaBattle.",
+    "lede": "<b>take</b> İngilizcenin en çok anlamı olan fiillerinden biridir. Temel fikir: bir şeyi “almak/götürmek”. Düzensiz: take → took → taken.",
+    "means": [
+      {"def": "almak (eline/yanına)", "en": "Take this pen.", "t": "Bu kalemi al."},
+      {"def": "götürmek (bir yere)", "en": "I'll take you home.", "t": "Seni eve götüreceğim."},
+      {"def": "(zaman) sürmek/almak", "en": "It takes two hours.", "t": "İki saat sürüyor."},
+      {"def": "(ulaşım) binmek/kullanmak", "en": "I take the bus to work.", "t": "İşe otobüsle giderim."}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["take vs get", "take vs bring", "took vs taken"],
+    "idiomTitle": "Günlük kalıplar", "idioms": ["take off (havalanmak)", "take care (kendine iyi bak)", "take a break (mola vermek)"],
+    "quizQ": "“It takes two hours” ne demek?", "quizA": ["İki saat sürüyor", "İki saat aldı onu", "İki saate var"], "quizOk": 0
+  },
+  "en": {
+    "pos": "verb", "title": "What does take mean?",
+    "metaDesc": "What does take mean? To take, carry, use — a verb with many meanings. take/took/taken and examples — LinguaBattle.",
+    "lede": "<b>take</b> is one of the most multi-meaning English verbs. Core idea: to “take/carry” something. Irregular: take → took → taken.",
+    "means": [
+      {"def": "to take (in your hand)", "en": "Take this pen.", "t": "(grab it)"},
+      {"def": "to take/carry (to a place)", "en": "I'll take you home.", "t": "(carry you)"},
+      {"def": "(time) to require/last", "en": "It takes two hours.", "t": "(requires time)"},
+      {"def": "(transport) to use/catch", "en": "I take the bus to work.", "t": "(use the bus)"}
+    ],
+    "relTitle": "Often confused", "rel": ["take vs get", "take vs bring", "took vs taken"],
+    "idiomTitle": "Phrasal verbs", "idioms": ["take off", "take care", "take a break"],
+    "quizQ": "What does “It takes two hours” mean?", "quizA": ["It lasts/requires two hours", "It took it for two hours", "It arrives in two hours"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Verb", "title": "Was bedeutet take?",
+    "metaDesc": "Was bedeutet take? Nehmen, bringen, brauchen — ein vieldeutiges Verb. take/took/taken und Beispiele — LinguaBattle.",
+    "lede": "<b>take</b> ist eines der vieldeutigsten englischen Verben. Grundidee: etwas „nehmen/bringen“. Unregelmäßig: take → took → taken.",
+    "means": [
+      {"def": "nehmen (in die Hand)", "en": "Take this pen.", "t": "(nimm ihn)"},
+      {"def": "bringen (an einen Ort)", "en": "I'll take you home.", "t": "(bringe dich)"},
+      {"def": "(Zeit) brauchen/dauern", "en": "It takes two hours.", "t": "(dauert)"},
+      {"def": "(Verkehr) nehmen/benutzen", "en": "I take the bus to work.", "t": "(den Bus nehmen)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["take vs get", "take vs bring", "took vs taken"],
+    "idiomTitle": "Phrasal Verbs", "idioms": ["take off", "take care", "take a break"],
+    "quizQ": "Was bedeutet „It takes two hours“?", "quizA": ["Es dauert zwei Stunden", "Es nahm es zwei Stunden", "Es kommt in zwei Stunden an"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "verbe", "title": "Que signifie take ?",
+    "metaDesc": "Que signifie take ? Prendre, amener, durer — un verbe à sens multiples. take/took/taken et exemples — LinguaBattle.",
+    "lede": "<b>take</b> est l'un des verbes anglais aux sens les plus multiples. Idée de base : « prendre/amener » quelque chose. Irrégulier : take → took → taken.",
+    "means": [
+      {"def": "prendre (en main)", "en": "Take this pen.", "t": "(prends-le)"},
+      {"def": "amener (à un endroit)", "en": "I'll take you home.", "t": "(je t'amène)"},
+      {"def": "(temps) durer/prendre", "en": "It takes two hours.", "t": "(ça dure)"},
+      {"def": "(transport) prendre/utiliser", "en": "I take the bus to work.", "t": "(prendre le bus)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["take vs get", "take vs bring", "took vs taken"],
+    "idiomTitle": "Verbes à particule", "idioms": ["take off", "take care", "take a break"],
+    "quizQ": "Que veut dire « It takes two hours » ?", "quizA": ["Ça dure deux heures", "Ça l'a pris deux heures", "Ça arrive dans deux heures"], "quizOk": 0
+  },
+  "es": {
+    "pos": "verbo", "title": "¿Qué significa take?",
+    "metaDesc": "¿Qué significa take? Tomar, llevar, tardar — un verbo con muchos significados. take/took/taken y ejemplos — LinguaBattle.",
+    "lede": "<b>take</b> es uno de los verbos ingleses con más significados. Idea base: «tomar/llevar» algo. Irregular: take → took → taken.",
+    "means": [
+      {"def": "tomar (en la mano)", "en": "Take this pen.", "t": "(tómalo)"},
+      {"def": "llevar (a un lugar)", "en": "I'll take you home.", "t": "(te llevo)"},
+      {"def": "(tiempo) tardar/llevar", "en": "It takes two hours.", "t": "(tarda)"},
+      {"def": "(transporte) tomar/coger", "en": "I take the bus to work.", "t": "(tomo el bus)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["take vs get", "take vs bring", "took vs taken"],
+    "idiomTitle": "Verbos compuestos", "idioms": ["take off", "take care", "take a break"],
+    "quizQ": "¿Qué significa «It takes two hours»?", "quizA": ["Tarda dos horas", "Lo tomó por dos horas", "Llega en dos horas"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "فعل", "title": "ماذا تعني take؟",
+    "metaDesc": "ماذا تعني take؟ يأخذ، يصطحب، يستغرق — فعل متعدد المعاني. take/took/taken وأمثلة — LinguaBattle.",
+    "lede": "<b>take</b> من أكثر الأفعال الإنجليزية تعدّدًا في المعنى. الفكرة الأساسية: «يأخذ/يحمل» شيئًا. شاذ: take → took → taken.",
+    "means": [
+      {"def": "يأخذ (باليد)", "en": "Take this pen.", "t": "(خذه)"},
+      {"def": "يصطحب (إلى مكان)", "en": "I'll take you home.", "t": "(سأصطحبك)"},
+      {"def": "(وقت) يستغرق", "en": "It takes two hours.", "t": "(يستغرق)"},
+      {"def": "(مواصلات) يستقلّ", "en": "I take the bus to work.", "t": "(أستقلّ الحافلة)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["take vs get", "take vs bring", "took vs taken"],
+    "idiomTitle": "أفعال مركّبة", "idioms": ["take off", "take care", "take a break"],
+    "quizQ": "ماذا تعني «It takes two hours»؟", "quizA": ["يستغرق ساعتين", "أخذه لساعتين", "يصل خلال ساعتين"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "क्रिया", "title": "take का क्या मतलब है?",
+    "metaDesc": "take का क्या मतलब है? लेना, ले जाना, लगना — कई अर्थों वाली क्रिया। take/took/taken और उदाहरण — LinguaBattle.",
+    "lede": "<b>take</b> सबसे अधिक अर्थों वाली अंग्रेज़ी क्रियाओं में से एक है। मूल विचार: कुछ “लेना/ले जाना”। अनियमित: take → took → taken.",
+    "means": [
+      {"def": "लेना (हाथ में)", "en": "Take this pen.", "t": "(इसे लो)"},
+      {"def": "ले जाना (किसी जगह)", "en": "I'll take you home.", "t": "(तुम्हें ले जाऊँगा)"},
+      {"def": "(समय) लगना", "en": "It takes two hours.", "t": "(लगता है)"},
+      {"def": "(परिवहन) लेना/पकड़ना", "en": "I take the bus to work.", "t": "(बस लेता हूँ)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["take vs get", "take vs bring", "took vs taken"],
+    "idiomTitle": "वाक्यांश क्रिया", "idioms": ["take off", "take care", "take a break"],
+    "quizQ": "“It takes two hours” का क्या अर्थ है?", "quizA": ["दो घंटे लगते हैं", "इसने दो घंटे लिया", "दो घंटे में आता है"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "глагол", "title": "Что значит take?",
+    "metaDesc": "Что значит take? Брать, отвозить, занимать — многозначный глагол. take/took/taken и примеры — LinguaBattle.",
+    "lede": "<b>take</b> — один из самых многозначных английских глаголов. Основная идея: «брать/нести» что-то. Неправильный: take → took → taken.",
+    "means": [
+      {"def": "брать (в руку)", "en": "Take this pen.", "t": "(возьми)"},
+      {"def": "отвозить (куда-то)", "en": "I'll take you home.", "t": "(отвезу тебя)"},
+      {"def": "(время) занимать/длиться", "en": "It takes two hours.", "t": "(занимает)"},
+      {"def": "(транспорт) садиться/ездить", "en": "I take the bus to work.", "t": "(езжу на автобусе)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["take vs get", "take vs bring", "took vs taken"],
+    "idiomTitle": "Фразовые глаголы", "idioms": ["take off", "take care", "take a break"],
+    "quizQ": "Что значит «It takes two hours»?", "quizA": ["Это занимает два часа", "Это взяло его на два часа", "Это придёт через два часа"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "verbo", "title": "O que significa take?",
+    "metaDesc": "O que significa take? Pegar, levar, demorar — um verbo com muitos significados. take/took/taken e exemplos — LinguaBattle.",
+    "lede": "<b>take</b> é um dos verbos ingleses com mais significados. Ideia central: «pegar/levar» algo. Irregular: take → took → taken.",
+    "means": [
+      {"def": "pegar (na mão)", "en": "Take this pen.", "t": "(pegue)"},
+      {"def": "levar (a um lugar)", "en": "I'll take you home.", "t": "(te levo)"},
+      {"def": "(tempo) demorar/levar", "en": "It takes two hours.", "t": "(demora)"},
+      {"def": "(transporte) pegar/tomar", "en": "I take the bus to work.", "t": "(pego o ônibus)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["take vs get", "take vs bring", "took vs taken"],
+    "idiomTitle": "Verbos frasais", "idioms": ["take off", "take care", "take a break"],
+    "quizQ": "O que significa «It takes two hours»?", "quizA": ["Demora duas horas", "Pegou-o por duas horas", "Chega em duas horas"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "動詞", "title": "takeの意味は？",
+    "metaDesc": "takeの意味は？取る、連れて行く、（時間が）かかる — 多義語。take/took/takenと例文 — LinguaBattle.",
+    "lede": "<b>take</b> は最も意味の多い英語動詞の一つ。基本の発想：何かを「取る／持っていく」。不規則：take → took → taken。",
+    "means": [
+      {"def": "取る（手に）", "en": "Take this pen.", "t": "（取って）"},
+      {"def": "連れて行く（場所へ）", "en": "I'll take you home.", "t": "（送るよ）"},
+      {"def": "（時間が）かかる", "en": "It takes two hours.", "t": "（かかる）"},
+      {"def": "（交通）利用する", "en": "I take the bus to work.", "t": "（バスに乗る）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["take vs get", "take vs bring", "took vs taken"],
+    "idiomTitle": "句動詞", "idioms": ["take off", "take care", "take a break"],
+    "quizQ": "「It takes two hours」の意味は？", "quizA": ["2時間かかる", "2時間それを取った", "2時間後に着く"], "quizOk": 0
+  }
+}

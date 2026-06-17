@@ -1,0 +1,156 @@
+{
+  "word": "draw",
+  "pron": "/drɔː/",
+  "category": "verb",
+  "conj": ["draw", "drew", "drawn"],
+  "tr": {
+    "pos": "fiil / isim", "title": "draw ne demek? (5 anlamı)",
+    "metaDesc": "draw ne demek? 5 anlamı: çizmek, çekmek, beraberlik, kura, (perde) çekmek. draw/drew/drawn — LinguaBattle.",
+    "lede": "<b>draw</b> çok anlamlı bir İngilizce kelimedir. “Çizmek” en bilinen anlamı ama çekmekten beraberliğe uzanır. Düzensiz: draw → drew → drawn.",
+    "means": [
+      {"def": "çizmek (resim)", "en": "She can draw really well.", "t": "Gerçekten iyi çizebiliyor."},
+      {"def": "çekmek (içeri/dışarı)", "en": "He drew a card from the deck.", "t": "Desteden bir kart çekti."},
+      {"def": "beraberlik (spor, isim)", "en": "The match ended in a draw.", "t": "Maç beraberlikle bitti."},
+      {"def": "kura, çekiliş (isim)", "en": "the lucky draw", "t": "şans çekilişi"},
+      {"def": "(perde) çekmek", "en": "Draw the curtains, please.", "t": "Perdeleri çek lütfen."}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["draw vs paint", "draw vs tie", "drew vs drawn"],
+    "idiomTitle": "Günlük kalıplar", "idioms": ["draw a line (sınır çekmek)", "draw attention (dikkat çekmek)", "draw up (hazırlamak)"],
+    "quizQ": "“The match ended in a draw” ne demek?", "quizA": ["Maç beraberlikle bitti", "Maç çizimle bitti", "Maç iptal oldu"], "quizOk": 0
+  },
+  "en": {
+    "pos": "verb / noun", "title": "What does draw mean? (5 meanings)",
+    "metaDesc": "What does draw mean? 5 meanings: to draw, to pull, a tie, a raffle, to draw curtains. draw/drew/drawn — LinguaBattle.",
+    "lede": "<b>draw</b> is a multi-meaning English word. “To sketch” is the best-known, but it ranges from pulling to a tie. Irregular: draw → drew → drawn.",
+    "means": [
+      {"def": "to draw, sketch (picture)", "en": "She can draw really well.", "t": "(sketch)"},
+      {"def": "to pull (in/out)", "en": "He drew a card from the deck.", "t": "(pull)"},
+      {"def": "a tie (sport, noun)", "en": "The match ended in a draw.", "t": "(tie)"},
+      {"def": "a raffle, lottery (noun)", "en": "the lucky draw", "t": "(raffle)"},
+      {"def": "to draw (curtains)", "en": "Draw the curtains, please.", "t": "(pull closed)"}
+    ],
+    "relTitle": "Often confused", "rel": ["draw vs paint", "draw vs tie", "drew vs drawn"],
+    "idiomTitle": "Phrasal verbs", "idioms": ["draw a line", "draw attention", "draw up"],
+    "quizQ": "What does “The match ended in a draw” mean?", "quizA": ["The match ended in a tie", "The match ended with a sketch", "The match was cancelled"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Verb / Subst.", "title": "Was bedeutet draw? (5 Bedeutungen)",
+    "metaDesc": "Was bedeutet draw? 5 Bedeutungen: zeichnen, ziehen, Unentschieden, Verlosung, (Vorhang) zuziehen. draw/drew/drawn — LinguaBattle.",
+    "lede": "<b>draw</b> ist ein vieldeutiges englisches Wort. „Zeichnen“ ist am bekanntesten, reicht aber von ziehen bis Unentschieden. Unregelmäßig: draw → drew → drawn.",
+    "means": [
+      {"def": "zeichnen (Bild)", "en": "She can draw really well.", "t": "(zeichnen)"},
+      {"def": "ziehen (heraus/herein)", "en": "He drew a card from the deck.", "t": "(ziehen)"},
+      {"def": "Unentschieden (Sport, Subst.)", "en": "The match ended in a draw.", "t": "(Unentschieden)"},
+      {"def": "Verlosung (Subst.)", "en": "the lucky draw", "t": "(Verlosung)"},
+      {"def": "(Vorhang) zuziehen", "en": "Draw the curtains, please.", "t": "(zuziehen)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["draw vs paint", "draw vs tie", "drew vs drawn"],
+    "idiomTitle": "Phrasal Verbs", "idioms": ["draw a line", "draw attention", "draw up"],
+    "quizQ": "Was bedeutet „The match ended in a draw“?", "quizA": ["Das Spiel endete unentschieden", "Das Spiel endete mit einer Zeichnung", "Das Spiel wurde abgesagt"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "verbe / nom", "title": "Que signifie draw ? (5 sens)",
+    "metaDesc": "Que signifie draw ? 5 sens : dessiner, tirer, match nul, tirage, (rideaux) tirer. draw/drew/drawn — LinguaBattle.",
+    "lede": "<b>draw</b> est un mot anglais à sens multiples. « Dessiner » est le plus connu, mais cela va de tirer au match nul. Irrégulier : draw → drew → drawn.",
+    "means": [
+      {"def": "dessiner (image)", "en": "She can draw really well.", "t": "(dessiner)"},
+      {"def": "tirer (dedans/dehors)", "en": "He drew a card from the deck.", "t": "(tirer)"},
+      {"def": "match nul (sport, nom)", "en": "The match ended in a draw.", "t": "(match nul)"},
+      {"def": "tirage au sort (nom)", "en": "the lucky draw", "t": "(tirage)"},
+      {"def": "(rideaux) tirer", "en": "Draw the curtains, please.", "t": "(tirer)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["draw vs paint", "draw vs tie", "drew vs drawn"],
+    "idiomTitle": "Verbes à particule", "idioms": ["draw a line", "draw attention", "draw up"],
+    "quizQ": "Que veut dire « The match ended in a draw » ?", "quizA": ["Le match s'est terminé par un nul", "Le match s'est terminé par un dessin", "Le match a été annulé"], "quizOk": 0
+  },
+  "es": {
+    "pos": "verbo / sust.", "title": "¿Qué significa draw? (5 significados)",
+    "metaDesc": "¿Qué significa draw? 5 significados: dibujar, sacar, empate, sorteo, (cortinas) correr. draw/drew/drawn — LinguaBattle.",
+    "lede": "<b>draw</b> es una palabra inglesa con varios significados. «Dibujar» es la más conocida, pero va de sacar a empate. Irregular: draw → drew → drawn.",
+    "means": [
+      {"def": "dibujar (imagen)", "en": "She can draw really well.", "t": "(dibujar)"},
+      {"def": "sacar, tirar (de dentro/fuera)", "en": "He drew a card from the deck.", "t": "(sacar)"},
+      {"def": "empate (deporte, sust.)", "en": "The match ended in a draw.", "t": "(empate)"},
+      {"def": "sorteo (sust.)", "en": "the lucky draw", "t": "(sorteo)"},
+      {"def": "(cortinas) correr", "en": "Draw the curtains, please.", "t": "(correr)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["draw vs paint", "draw vs tie", "drew vs drawn"],
+    "idiomTitle": "Verbos compuestos", "idioms": ["draw a line", "draw attention", "draw up"],
+    "quizQ": "¿Qué significa «The match ended in a draw»?", "quizA": ["El partido terminó en empate", "El partido terminó con un dibujo", "El partido se canceló"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "فعل / اسم", "title": "ماذا تعني draw؟ (5 معانٍ)",
+    "metaDesc": "ماذا تعني draw؟ 5 معانٍ: يرسم، يسحب، تعادل، سحب قرعة، (ستارة) يسحب. draw/drew/drawn — LinguaBattle.",
+    "lede": "<b>draw</b> كلمة إنجليزية متعددة المعاني. «يرسم» أشهرها، لكنه يمتد من السحب إلى التعادل. شاذ: draw → drew → drawn.",
+    "means": [
+      {"def": "يرسم (صورة)", "en": "She can draw really well.", "t": "(يرسم)"},
+      {"def": "يسحب (للداخل/الخارج)", "en": "He drew a card from the deck.", "t": "(يسحب)"},
+      {"def": "تعادل (رياضة، اسم)", "en": "The match ended in a draw.", "t": "(تعادل)"},
+      {"def": "سحب قرعة (اسم)", "en": "the lucky draw", "t": "(قرعة)"},
+      {"def": "(ستارة) يسحب", "en": "Draw the curtains, please.", "t": "(يسحب)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["draw vs paint", "draw vs tie", "drew vs drawn"],
+    "idiomTitle": "أفعال مركّبة", "idioms": ["draw a line", "draw attention", "draw up"],
+    "quizQ": "ماذا تعني «The match ended in a draw»؟", "quizA": ["انتهت المباراة بالتعادل", "انتهت المباراة برسمة", "أُلغيت المباراة"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "क्रिया / संज्ञा", "title": "draw का क्या मतलब है? (5 अर्थ)",
+    "metaDesc": "draw का क्या मतलब है? 5 अर्थ: चित्र बनाना, खींचना, बराबरी, लकी ड्रॉ, (परदा) खींचना। draw/drew/drawn — LinguaBattle.",
+    "lede": "<b>draw</b> कई अर्थों वाला अंग्रेज़ी शब्द है। “चित्र बनाना” सबसे प्रसिद्ध है, पर यह खींचने से बराबरी तक फैला है। अनियमित: draw → drew → drawn.",
+    "means": [
+      {"def": "चित्र बनाना (तस्वीर)", "en": "She can draw really well.", "t": "(चित्र बनाना)"},
+      {"def": "खींचना (अंदर/बाहर)", "en": "He drew a card from the deck.", "t": "(खींचना)"},
+      {"def": "बराबरी, ड्रॉ (खेल, संज्ञा)", "en": "The match ended in a draw.", "t": "(बराबरी)"},
+      {"def": "लकी ड्रॉ, लॉटरी (संज्ञा)", "en": "the lucky draw", "t": "(लकी ड्रॉ)"},
+      {"def": "(परदा) खींचना", "en": "Draw the curtains, please.", "t": "(खींचना)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["draw vs paint", "draw vs tie", "drew vs drawn"],
+    "idiomTitle": "वाक्यांश क्रिया", "idioms": ["draw a line", "draw attention", "draw up"],
+    "quizQ": "“The match ended in a draw” का क्या अर्थ है?", "quizA": ["मैच बराबरी पर खत्म हुआ", "मैच चित्र के साथ खत्म हुआ", "मैच रद्द हुआ"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "глагол / сущ.", "title": "Что значит draw? (5 значений)",
+    "metaDesc": "Что значит draw? 5 значений: рисовать, тянуть, ничья, розыгрыш, задёрнуть (шторы). draw/drew/drawn — LinguaBattle.",
+    "lede": "<b>draw</b> — многозначное английское слово. «Рисовать» — самое известное, но значения от тянуть до ничьей. Неправильный: draw → drew → drawn.",
+    "means": [
+      {"def": "рисовать (картину)", "en": "She can draw really well.", "t": "(рисовать)"},
+      {"def": "тянуть, вытаскивать", "en": "He drew a card from the deck.", "t": "(вытащить)"},
+      {"def": "ничья (спорт, сущ.)", "en": "The match ended in a draw.", "t": "(ничья)"},
+      {"def": "розыгрыш, лотерея (сущ.)", "en": "the lucky draw", "t": "(розыгрыш)"},
+      {"def": "задёрнуть (шторы)", "en": "Draw the curtains, please.", "t": "(задёрнуть)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["draw vs paint", "draw vs tie", "drew vs drawn"],
+    "idiomTitle": "Фразовые глаголы", "idioms": ["draw a line", "draw attention", "draw up"],
+    "quizQ": "Что значит «The match ended in a draw»?", "quizA": ["Матч закончился вничью", "Матч закончился рисунком", "Матч отменили"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "verbo / subst.", "title": "O que significa draw? (5 significados)",
+    "metaDesc": "O que significa draw? 5 significados: desenhar, puxar, empate, sorteio, (cortinas) fechar. draw/drew/drawn — LinguaBattle.",
+    "lede": "<b>draw</b> é uma palavra inglesa com vários significados. «Desenhar» é a mais conhecida, mas vai de puxar a empate. Irregular: draw → drew → drawn.",
+    "means": [
+      {"def": "desenhar (imagem)", "en": "She can draw really well.", "t": "(desenhar)"},
+      {"def": "puxar, sacar (de dentro/fora)", "en": "He drew a card from the deck.", "t": "(sacar)"},
+      {"def": "empate (esporte, subst.)", "en": "The match ended in a draw.", "t": "(empate)"},
+      {"def": "sorteio (subst.)", "en": "the lucky draw", "t": "(sorteio)"},
+      {"def": "(cortinas) fechar, correr", "en": "Draw the curtains, please.", "t": "(fechar)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["draw vs paint", "draw vs tie", "drew vs drawn"],
+    "idiomTitle": "Verbos frasais", "idioms": ["draw a line", "draw attention", "draw up"],
+    "quizQ": "O que significa «The match ended in a draw»?", "quizA": ["O jogo terminou em empate", "O jogo terminou com um desenho", "O jogo foi cancelado"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "動詞 / 名詞", "title": "drawの意味は？（5つの意味）",
+    "metaDesc": "drawの意味は？5つの意味：描く、引く、引き分け、抽選、（カーテンを）引く。draw/drew/drawn — LinguaBattle.",
+    "lede": "<b>draw</b> は多義の英単語。「描く」が最も有名だが、引く・引き分けまで幅広い。不規則：draw → drew → drawn。",
+    "means": [
+      {"def": "描く（絵）", "en": "She can draw really well.", "t": "（描く）"},
+      {"def": "引く（中／外へ）", "en": "He drew a card from the deck.", "t": "（引く）"},
+      {"def": "引き分け（スポーツ、名詞）", "en": "The match ended in a draw.", "t": "（引き分け）"},
+      {"def": "抽選（名詞）", "en": "the lucky draw", "t": "（抽選）"},
+      {"def": "（カーテンを）引く", "en": "Draw the curtains, please.", "t": "（引く）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["draw vs paint", "draw vs tie", "drew vs drawn"],
+    "idiomTitle": "句動詞", "idioms": ["draw a line", "draw attention", "draw up"],
+    "quizQ": "「The match ended in a draw」の意味は？", "quizA": ["試合は引き分けに終わった", "試合は絵で終わった", "試合は中止された"], "quizOk": 0
+  }
+}

@@ -1,5 +1,425 @@
 [
   {
+    "word": "a / an / the",
+    "category": "grammar",
+    "paths": {
+      "tr": "/tr/kelime/a-an-the",
+      "en": "/en/word/a-an-the",
+      "de": "/de/wort/a-an-the",
+      "fr": "/fr/mot/a-an-the",
+      "es": "/es/palabra/a-an-the",
+      "ar": "/ar/kalima/a-an-the",
+      "hi": "/hi/shabd/a-an-the",
+      "ru": "/ru/slovo/a-an-the",
+      "pt": "/pt/palavra/a-an-the",
+      "ja": "/ja/tango/a-an-the"
+    },
+    "desc": {
+      "tr": "a = sessiz harfle başlayan tekil (belirsiz)",
+      "en": "a = singular before a consonant sound",
+      "de": "a = Singular vor Konsonantenlaut",
+      "fr": "a = singulier devant un son consonne",
+      "es": "a = singular antes de sonido consonante",
+      "ar": "a = مفرد قبل صوت ساكن",
+      "hi": "a = व्यंजन ध्वनि से पहले एकवचन",
+      "ru": "a = ед. число перед согласным звуком",
+      "pt": "a = singular antes de som consoante",
+      "ja": "a = 子音の音の前の単数（不定）"
+    }
+  },
+  {
+    "word": "actually",
+    "category": "confusing",
+    "paths": {
+      "tr": "/tr/kelime/actually",
+      "en": "/en/word/actually",
+      "de": "/de/wort/actually",
+      "fr": "/fr/mot/actually",
+      "es": "/es/palabra/actually",
+      "ar": "/ar/kalima/actually",
+      "hi": "/hi/shabd/actually",
+      "ru": "/ru/slovo/actually",
+      "pt": "/pt/palavra/actually",
+      "ja": "/ja/tango/actually"
+    },
+    "desc": {
+      "tr": "aslında, gerçekte (beklenenin aksine)",
+      "en": "in fact, in reality (contrary to expectation)",
+      "de": "eigentlich, tatsächlich (entgegen der Erwartung)",
+      "fr": "en fait, en réalité (contre l'attente)",
+      "es": "en realidad, de hecho (contra lo esperado)",
+      "ar": "في الواقع، حقيقةً (عكس المتوقّع)",
+      "hi": "असल में, हक़ीक़त में (उम्मीद के विपरीत)",
+      "ru": "на самом деле, в действительности (вопреки ожиданию)",
+      "pt": "na verdade, de fato (contrário do esperado)",
+      "ja": "実は、実際は（予想に反して）"
+    }
+  },
+  {
+    "word": "align",
+    "category": "work",
+    "paths": {
+      "tr": "/tr/kelime/align",
+      "en": "/en/word/align",
+      "de": "/de/wort/align",
+      "fr": "/fr/mot/align",
+      "es": "/es/palabra/align",
+      "ar": "/ar/kalima/align",
+      "hi": "/hi/shabd/align",
+      "ru": "/ru/slovo/align",
+      "pt": "/pt/palavra/align",
+      "ja": "/ja/tango/align"
+    },
+    "desc": {
+      "tr": "aynı fikirde olmak, mutabık kalmak (iş)",
+      "en": "to agree, be on the same page (work)",
+      "de": "übereinstimmen, sich abstimmen (Arbeit)",
+      "fr": "se mettre d'accord, s'aligner (travail)",
+      "es": "ponerse de acuerdo, alinearse (trabajo)",
+      "ar": "يتفق، يتوافق (في العمل)",
+      "hi": "सहमत होना, तालमेल बैठाना (काम)",
+      "ru": "договориться, согласовать (работа)",
+      "pt": "concordar, alinhar-se (trabalho)",
+      "ja": "合意する、認識を合わせる（仕事）"
+    }
+  },
+  {
+    "word": "assist",
+    "category": "confusing",
+    "paths": {
+      "tr": "/tr/kelime/assist",
+      "en": "/en/word/assist",
+      "de": "/de/wort/assist",
+      "fr": "/fr/mot/assist",
+      "es": "/es/palabra/assist",
+      "ar": "/ar/kalima/assist",
+      "hi": "/hi/shabd/assist",
+      "ru": "/ru/slovo/assist",
+      "pt": "/pt/palavra/assist",
+      "ja": "/ja/tango/assist"
+    },
+    "desc": {
+      "tr": "yardım etmek, destek olmak",
+      "en": "to help, support",
+      "de": "helfen, unterstützen",
+      "fr": "aider, soutenir",
+      "es": "ayudar, asistir (ayudando)",
+      "ar": "يساعد، يدعم",
+      "hi": "मदद करना, सहायता करना",
+      "ru": "помогать, содействовать",
+      "pt": "ajudar, auxiliar",
+      "ja": "手伝う、助ける"
+    }
+  },
+  {
+    "word": "async",
+    "category": "work",
+    "paths": {
+      "tr": "/tr/kelime/async",
+      "en": "/en/word/async",
+      "de": "/de/wort/async",
+      "fr": "/fr/mot/async",
+      "es": "/es/palabra/async",
+      "ar": "/ar/kalima/async",
+      "hi": "/hi/shabd/async",
+      "ru": "/ru/slovo/async",
+      "pt": "/pt/palavra/async",
+      "ja": "/ja/tango/async"
+    },
+    "desc": {
+      "tr": "Eş zamanlı olmayan (iletişim/çalışma)",
+      "en": "Asynchronous (communication/work)",
+      "de": "Asynchron (Kommunikation/Arbeit)",
+      "fr": "Asynchrone (communication/travail)",
+      "es": "Asíncrono (comunicación/trabajo)",
+      "ar": "غير متزامن (تواصل/عمل)",
+      "hi": "एसिंक्रोनस (संचार/काम)",
+      "ru": "Асинхронный (общение/работа)",
+      "pt": "Assíncrono (comunicação/trabalho)",
+      "ja": "非同期（コミュニケーション・仕事）"
+    }
+  },
+  {
+    "word": "attend",
+    "category": "confusing",
+    "paths": {
+      "tr": "/tr/kelime/attend",
+      "en": "/en/word/attend",
+      "de": "/de/wort/attend",
+      "fr": "/fr/mot/attend",
+      "es": "/es/palabra/attend",
+      "ar": "/ar/kalima/attend",
+      "hi": "/hi/shabd/attend",
+      "ru": "/ru/slovo/attend",
+      "pt": "/pt/palavra/attend",
+      "ja": "/ja/tango/attend"
+    },
+    "desc": {
+      "tr": "katılmak (toplantı, ders, etkinlik)",
+      "en": "to be present at, go to",
+      "de": "teilnehmen, besuchen",
+      "fr": "assister à, être présent à",
+      "es": "asistir a, estar presente en",
+      "ar": "يحضر، يكون حاضرًا",
+      "hi": "उपस्थित होना, शामिल होना",
+      "ru": "присутствовать, посещать",
+      "pt": "comparecer a, estar presente",
+      "ja": "出席する、参加する"
+    }
+  },
+  {
+    "word": "months",
+    "category": "basics",
+    "paths": {
+      "tr": "/tr/kelime/months",
+      "en": "/en/word/months",
+      "de": "/de/wort/months",
+      "fr": "/fr/mot/months",
+      "es": "/es/palabra/months",
+      "ar": "/ar/kalima/months",
+      "hi": "/hi/shabd/months",
+      "ru": "/ru/slovo/months",
+      "pt": "/pt/palavra/months",
+      "ja": "/ja/tango/months"
+    },
+    "desc": {
+      "tr": "January /ˈdʒænjuəri/",
+      "en": "January /ˈdʒænjuəri/ — 1st month",
+      "de": "January /ˈdʒænjuəri/",
+      "fr": "January /ˈdʒænjuəri/",
+      "es": "January /ˈdʒænjuəri/",
+      "ar": "January /ˈdʒænjuəri/",
+      "hi": "January /ˈdʒænjuəri/",
+      "ru": "January /ˈdʒænjuəri/",
+      "pt": "January /ˈdʒænjuəri/",
+      "ja": "January /ˈdʒænjuəri/"
+    }
+  },
+  {
+    "word": "bear",
+    "category": "verb",
+    "paths": {
+      "tr": "/tr/kelime/bear",
+      "en": "/en/word/bear",
+      "de": "/de/wort/bear",
+      "fr": "/fr/mot/bear",
+      "es": "/es/palabra/bear",
+      "ar": "/ar/kalima/bear",
+      "hi": "/hi/shabd/bear",
+      "ru": "/ru/slovo/bear",
+      "pt": "/pt/palavra/bear",
+      "ja": "/ja/tango/bear"
+    },
+    "desc": {
+      "tr": "ayı (hayvan, isim)",
+      "en": "a bear (animal, noun)",
+      "de": "Bär (Tier, Subst.)",
+      "fr": "ours (animal, nom)",
+      "es": "oso (animal, sust.)",
+      "ar": "دبّ (حيوان، اسم)",
+      "hi": "भालू (जानवर, संज्ञा)",
+      "ru": "медведь (животное, сущ.)",
+      "pt": "urso (animal, subst.)",
+      "ja": "クマ（動物、名詞）"
+    }
+  },
+  {
+    "word": "brain rot",
+    "category": "genz",
+    "paths": {
+      "tr": "/tr/kelime/brain-rot",
+      "en": "/en/word/brain-rot",
+      "de": "/de/wort/brain-rot",
+      "fr": "/fr/mot/brain-rot",
+      "es": "/es/palabra/brain-rot",
+      "ar": "/ar/kalima/brain-rot",
+      "hi": "/hi/shabd/brain-rot",
+      "ru": "/ru/slovo/brain-rot",
+      "pt": "/pt/palavra/brain-rot",
+      "ja": "/ja/tango/brain-rot"
+    },
+    "desc": {
+      "tr": "Çöp içerik tüketmekten zihnin uyuşması",
+      "en": "Mental fog from junk content",
+      "de": "Geistige Benebelung durch Junk-Content",
+      "fr": "Brouillard mental dû au contenu médiocre",
+      "es": "Niebla mental por contenido basura",
+      "ar": "تبلّد ذهني من المحتوى الرديء",
+      "hi": "घटिया कंटेंट से दिमाग़ का सुन्न होना",
+      "ru": "Туман в голове от мусорного контента",
+      "pt": "Névoa mental por conteúdo lixo",
+      "ja": "くだらない動画で頭がぼんやり"
+    }
+  },
+  {
+    "word": "break",
+    "category": "verb",
+    "paths": {
+      "tr": "/tr/kelime/break",
+      "en": "/en/word/break",
+      "de": "/de/wort/break",
+      "fr": "/fr/mot/break",
+      "es": "/es/palabra/break",
+      "ar": "/ar/kalima/break",
+      "hi": "/hi/shabd/break",
+      "ru": "/ru/slovo/break",
+      "pt": "/pt/palavra/break",
+      "ja": "/ja/tango/break"
+    },
+    "desc": {
+      "tr": "kırmak, kırılmak",
+      "en": "to break, smash",
+      "de": "brechen, zerbrechen",
+      "fr": "casser, briser",
+      "es": "romper, romperse",
+      "ar": "يكسر، ينكسر",
+      "hi": "तोड़ना, टूटना",
+      "ru": "ломать, разбивать",
+      "pt": "quebrar, partir",
+      "ja": "壊す、割れる"
+    }
+  },
+  {
+    "word": "can / could",
+    "category": "grammar",
+    "paths": {
+      "tr": "/tr/kelime/can-could",
+      "en": "/en/word/can-could",
+      "de": "/de/wort/can-could",
+      "fr": "/fr/mot/can-could",
+      "es": "/es/palabra/can-could",
+      "ar": "/ar/kalima/can-could",
+      "hi": "/hi/shabd/can-could",
+      "ru": "/ru/slovo/can-could",
+      "pt": "/pt/palavra/can-could",
+      "ja": "/ja/tango/can-could"
+    },
+    "desc": {
+      "tr": "can = şimdiki yetenek",
+      "en": "can = present ability",
+      "de": "can = gegenwärtige Fähigkeit",
+      "fr": "can = capacité présente",
+      "es": "can = capacidad presente",
+      "ar": "can = قدرة حالية",
+      "hi": "can = वर्तमान योग्यता",
+      "ru": "can = способность сейчас",
+      "pt": "can = capacidade presente",
+      "ja": "can = 現在の能力"
+    }
+  },
+  {
+    "word": "charge",
+    "category": "verb",
+    "paths": {
+      "tr": "/tr/kelime/charge",
+      "en": "/en/word/charge",
+      "de": "/de/wort/charge",
+      "fr": "/fr/mot/charge",
+      "es": "/es/palabra/charge",
+      "ar": "/ar/kalima/charge",
+      "hi": "/hi/shabd/charge",
+      "ru": "/ru/slovo/charge",
+      "pt": "/pt/palavra/charge",
+      "ja": "/ja/tango/charge"
+    },
+    "desc": {
+      "tr": "ücret almak / ücret (para)",
+      "en": "to bill / a fee (money)",
+      "de": "berechnen / Gebühr (Geld)",
+      "fr": "facturer / frais (argent)",
+      "es": "cobrar / tarifa (dinero)",
+      "ar": "يتقاضى رسمًا / رسوم (مال)",
+      "hi": "शुल्क लेना / शुल्क (पैसा)",
+      "ru": "брать плату / плата (деньги)",
+      "pt": "cobrar / taxa (dinheiro)",
+      "ja": "料金を取る／料金（お金）"
+    }
+  },
+  {
+    "word": "colors",
+    "category": "basics",
+    "paths": {
+      "tr": "/tr/kelime/colors",
+      "en": "/en/word/colors",
+      "de": "/de/wort/colors",
+      "fr": "/fr/mot/colors",
+      "es": "/es/palabra/colors",
+      "ar": "/ar/kalima/colors",
+      "hi": "/hi/shabd/colors",
+      "ru": "/ru/slovo/colors",
+      "pt": "/pt/palavra/colors",
+      "ja": "/ja/tango/colors"
+    },
+    "desc": {
+      "tr": "red /red/",
+      "en": "red /red/",
+      "de": "red /red/",
+      "fr": "red /red/",
+      "es": "red /red/",
+      "ar": "red /red/",
+      "hi": "red /red/",
+      "ru": "red /red/",
+      "pt": "red /red/",
+      "ja": "red /red/"
+    }
+  },
+  {
+    "word": "cringe",
+    "category": "genz",
+    "paths": {
+      "tr": "/tr/kelime/cringe",
+      "en": "/en/word/cringe",
+      "de": "/de/wort/cringe",
+      "fr": "/fr/mot/cringe",
+      "es": "/es/palabra/cringe",
+      "ar": "/ar/kalima/cringe",
+      "hi": "/hi/shabd/cringe",
+      "ru": "/ru/slovo/cringe",
+      "pt": "/pt/palavra/cringe",
+      "ja": "/ja/tango/cringe"
+    },
+    "desc": {
+      "tr": "utanç verici, kasıntı (sıfat, argo)",
+      "en": "embarrassing, awkward (adj, slang)",
+      "de": "peinlich (Adj., Slang)",
+      "fr": "gênant, malaisant (adj., argot)",
+      "es": "vergonzoso, incómodo (adj., jerga)",
+      "ar": "محرج، مثير للحرج (صفة، عامية)",
+      "hi": "शर्मनाक, अटपटा (विशेषण, स्लैंग)",
+      "ru": "неловкий, стыдный (прил., сленг)",
+      "pt": "vergonhoso, constrangedor (adj., gíria)",
+      "ja": "恥ずかしい、痛い（形容詞、スラング）"
+    }
+  },
+  {
+    "word": "deadline",
+    "category": "work",
+    "paths": {
+      "tr": "/tr/kelime/deadline",
+      "en": "/en/word/deadline",
+      "de": "/de/wort/deadline",
+      "fr": "/fr/mot/deadline",
+      "es": "/es/palabra/deadline",
+      "ar": "/ar/kalima/deadline",
+      "hi": "/hi/shabd/deadline",
+      "ru": "/ru/slovo/deadline",
+      "pt": "/pt/palavra/deadline",
+      "ja": "/ja/tango/deadline"
+    },
+    "desc": {
+      "tr": "son teslim tarihi, son süre",
+      "en": "the final due date/time",
+      "de": "Abgabetermin, Frist",
+      "fr": "date limite, échéance",
+      "es": "fecha límite, plazo",
+      "ar": "الموعد النهائي، المهلة",
+      "hi": "अंतिम तिथि, समय-सीमा",
+      "ru": "крайний срок",
+      "pt": "prazo final",
+      "ja": "締め切り、期限"
+    }
+  },
+  {
     "word": "delulu",
     "category": "genz",
     "paths": {
@@ -25,6 +445,202 @@
       "ru": "Нереалистичный, оторванный от реальности (в шутку)",
       "pt": "Irrealista, fora da realidade (de brincadeira)",
       "ja": "非現実的、現実離れ（冗談っぽく）"
+    }
+  },
+  {
+    "word": "draw",
+    "category": "verb",
+    "paths": {
+      "tr": "/tr/kelime/draw",
+      "en": "/en/word/draw",
+      "de": "/de/wort/draw",
+      "fr": "/fr/mot/draw",
+      "es": "/es/palabra/draw",
+      "ar": "/ar/kalima/draw",
+      "hi": "/hi/shabd/draw",
+      "ru": "/ru/slovo/draw",
+      "pt": "/pt/palavra/draw",
+      "ja": "/ja/tango/draw"
+    },
+    "desc": {
+      "tr": "çizmek (resim)",
+      "en": "to draw, sketch (picture)",
+      "de": "zeichnen (Bild)",
+      "fr": "dessiner (image)",
+      "es": "dibujar (imagen)",
+      "ar": "يرسم (صورة)",
+      "hi": "चित्र बनाना (तस्वीर)",
+      "ru": "рисовать (картину)",
+      "pt": "desenhar (imagem)",
+      "ja": "描く（絵）"
+    }
+  },
+  {
+    "word": "embarrassed",
+    "category": "confusing",
+    "paths": {
+      "tr": "/tr/kelime/embarrassed",
+      "en": "/en/word/embarrassed",
+      "de": "/de/wort/embarrassed",
+      "fr": "/fr/mot/embarrassed",
+      "es": "/es/palabra/embarrassed",
+      "ar": "/ar/kalima/embarrassed",
+      "hi": "/hi/shabd/embarrassed",
+      "ru": "/ru/slovo/embarrassed",
+      "pt": "/pt/palavra/embarrassed",
+      "ja": "/ja/tango/embarrassed"
+    },
+    "desc": {
+      "tr": "utanmış, mahcup",
+      "en": "ashamed, self-conscious",
+      "de": "verlegen, beschämt",
+      "fr": "gêné, embarrassé",
+      "es": "avergonzado, apenado",
+      "ar": "محرَج، خجلان",
+      "hi": "शर्मिंदा, लज्जित",
+      "ru": "смущённый, сконфуженный",
+      "pt": "envergonhado, constrangido",
+      "ja": "恥ずかしい、きまり悪い"
+    }
+  },
+  {
+    "word": "eventually",
+    "category": "confusing",
+    "paths": {
+      "tr": "/tr/kelime/eventually",
+      "en": "/en/word/eventually",
+      "de": "/de/wort/eventually",
+      "fr": "/fr/mot/eventually",
+      "es": "/es/palabra/eventually",
+      "ar": "/ar/kalima/eventually",
+      "hi": "/hi/shabd/eventually",
+      "ru": "/ru/slovo/eventually",
+      "pt": "/pt/palavra/eventually",
+      "ja": "/ja/tango/eventually"
+    },
+    "desc": {
+      "tr": "sonunda, eninde sonunda",
+      "en": "in the end, sooner or later",
+      "de": "schließlich, am Ende",
+      "fr": "finalement, à la fin",
+      "es": "al final, finalmente",
+      "ar": "في النهاية، في آخر المطاف",
+      "hi": "आख़िरकार, अंततः",
+      "ru": "в конце концов, в итоге",
+      "pt": "no final, por fim",
+      "ja": "最終的に、結局"
+    }
+  },
+  {
+    "word": "exit",
+    "category": "confusing",
+    "paths": {
+      "tr": "/tr/kelime/exit",
+      "en": "/en/word/exit",
+      "de": "/de/wort/exit",
+      "fr": "/fr/mot/exit",
+      "es": "/es/palabra/exit",
+      "ar": "/ar/kalima/exit",
+      "hi": "/hi/shabd/exit",
+      "ru": "/ru/slovo/exit",
+      "pt": "/pt/palavra/exit",
+      "ja": "/ja/tango/exit"
+    },
+    "desc": {
+      "tr": "çıkış (kapı, yol)",
+      "en": "way out, door out",
+      "de": "Ausgang",
+      "fr": "sortie",
+      "es": "salida",
+      "ar": "مخرَج، باب الخروج",
+      "hi": "निकास, बाहर जाने का रास्ता",
+      "ru": "выход",
+      "pt": "saída",
+      "ja": "出口"
+    }
+  },
+  {
+    "word": "flex",
+    "category": "genz",
+    "paths": {
+      "tr": "/tr/kelime/flex",
+      "en": "/en/word/flex",
+      "de": "/de/wort/flex",
+      "fr": "/fr/mot/flex",
+      "es": "/es/palabra/flex",
+      "ar": "/ar/kalima/flex",
+      "hi": "/hi/shabd/flex",
+      "ru": "/ru/slovo/flex",
+      "pt": "/pt/palavra/flex",
+      "ja": "/ja/tango/flex"
+    },
+    "desc": {
+      "tr": "hava atmak, gösteriş yapmak (argo)",
+      "en": "to show off, to brag (slang)",
+      "de": "angeben, prahlen (Slang)",
+      "fr": "frimer, se vanter (argot)",
+      "es": "presumir, alardear (jerga)",
+      "ar": "يتباهى، يستعرض (عامية)",
+      "hi": "दिखावा करना, शेखी बघारना (स्लैंग)",
+      "ru": "хвастаться, понтоваться (сленг)",
+      "pt": "ostentar, se gabar (gíria)",
+      "ja": "自慢する、見せびらかす（スラング）"
+    }
+  },
+  {
+    "word": "gatekeeping",
+    "category": "genz",
+    "paths": {
+      "tr": "/tr/kelime/gatekeeping",
+      "en": "/en/word/gatekeeping",
+      "de": "/de/wort/gatekeeping",
+      "fr": "/fr/mot/gatekeeping",
+      "es": "/es/palabra/gatekeeping",
+      "ar": "/ar/kalima/gatekeeping",
+      "hi": "/hi/shabd/gatekeeping",
+      "ru": "/ru/slovo/gatekeeping",
+      "pt": "/pt/palavra/gatekeeping",
+      "ja": "/ja/tango/gatekeeping"
+    },
+    "desc": {
+      "tr": "Bir bilgiyi/trendi başkalarından saklamak",
+      "en": "Hiding info/trends from others",
+      "de": "Infos/Trends vor anderen verstecken",
+      "fr": "Cacher des infos/tendances aux autres",
+      "es": "Ocultar información/tendencias a los demás",
+      "ar": "إخفاء المعلومات/الصيحات عن الآخرين",
+      "hi": "जानकारी/ट्रेंड दूसरों से छिपाना",
+      "ru": "Скрывать информацию/тренды от других",
+      "pt": "Esconder informações/tendências dos outros",
+      "ja": "情報・トレンドを他人に隠す"
+    }
+  },
+  {
+    "word": "generate",
+    "category": "ai",
+    "paths": {
+      "tr": "/tr/kelime/generate",
+      "en": "/en/word/generate",
+      "de": "/de/wort/generate",
+      "fr": "/fr/mot/generate",
+      "es": "/es/palabra/generate",
+      "ar": "/ar/kalima/generate",
+      "hi": "/hi/shabd/generate",
+      "ru": "/ru/slovo/generate",
+      "pt": "/pt/palavra/generate",
+      "ja": "/ja/tango/generate"
+    },
+    "desc": {
+      "tr": "üretmek, oluşturmak (AI: içerik üretmek)",
+      "en": "to produce, create (AI: produce content)",
+      "de": "erzeugen, erstellen (KI: Inhalte erzeugen)",
+      "fr": "produire, créer (IA : produire du contenu)",
+      "es": "producir, crear (IA: producir contenido)",
+      "ar": "يُنتج، يُنشئ (AI: إنتاج محتوى)",
+      "hi": "उत्पन्न करना, बनाना (AI: कंटेंट बनाना)",
+      "ru": "создавать, производить (ИИ: создавать контент)",
+      "pt": "produzir, criar (IA: produzir conteúdo)",
+      "ja": "生成する、作り出す（AI：コンテンツを生成）"
     }
   },
   {
@@ -56,6 +672,482 @@
     }
   },
   {
+    "word": "ghosting",
+    "category": "genz",
+    "paths": {
+      "tr": "/tr/kelime/ghosting",
+      "en": "/en/word/ghosting",
+      "de": "/de/wort/ghosting",
+      "fr": "/fr/mot/ghosting",
+      "es": "/es/palabra/ghosting",
+      "ar": "/ar/kalima/ghosting",
+      "hi": "/hi/shabd/ghosting",
+      "ru": "/ru/slovo/ghosting",
+      "pt": "/pt/palavra/ghosting",
+      "ja": "/ja/tango/ghosting"
+    },
+    "desc": {
+      "tr": "Birini aniden, açıklama yapmadan görmezden gelmek",
+      "en": "Suddenly ignoring someone with no explanation",
+      "de": "Jemanden plötzlich ohne Erklärung ignorieren",
+      "fr": "Ignorer soudainement quelqu'un sans explication",
+      "es": "Ignorar de repente a alguien sin explicación",
+      "ar": "تجاهل شخص فجأة دون تفسير",
+      "hi": "किसी को अचानक बिना बताए नज़रअंदाज़ करना",
+      "ru": "Внезапно игнорировать кого-то без объяснений",
+      "pt": "Ignorar alguém de repente sem explicação",
+      "ja": "突然、説明なしに相手を無視する"
+    }
+  },
+  {
+    "word": "good morning / good night",
+    "category": "phrases",
+    "paths": {
+      "tr": "/tr/kelime/good-morning-good-night",
+      "en": "/en/word/good-morning-good-night",
+      "de": "/de/wort/good-morning-good-night",
+      "fr": "/fr/mot/good-morning-good-night",
+      "es": "/es/palabra/good-morning-good-night",
+      "ar": "/ar/kalima/good-morning-good-night",
+      "hi": "/hi/shabd/good-morning-good-night",
+      "ru": "/ru/slovo/good-morning-good-night",
+      "pt": "/pt/palavra/good-morning-good-night",
+      "ja": "/ja/tango/good-morning-good-night"
+    },
+    "desc": {
+      "tr": "Good morning. (günaydın — sabah)",
+      "en": "Good morning. (in the morning)",
+      "de": "Good morning. (morgens)",
+      "fr": "Good morning. (le matin)",
+      "es": "Good morning. (por la mañana)",
+      "ar": "Good morning. (صباحًا)",
+      "hi": "Good morning. (सुबह)",
+      "ru": "Good morning. (утром)",
+      "pt": "Good morning. (de manhã)",
+      "ja": "Good morning.（朝）"
+    }
+  },
+  {
+    "word": "days",
+    "category": "basics",
+    "paths": {
+      "tr": "/tr/kelime/days",
+      "en": "/en/word/days",
+      "de": "/de/wort/days",
+      "fr": "/fr/mot/days",
+      "es": "/es/palabra/days",
+      "ar": "/ar/kalima/days",
+      "hi": "/hi/shabd/days",
+      "ru": "/ru/slovo/days",
+      "pt": "/pt/palavra/days",
+      "ja": "/ja/tango/days"
+    },
+    "desc": {
+      "tr": "Monday /ˈmʌndeɪ/",
+      "en": "Monday /ˈmʌndeɪ/",
+      "de": "Monday /ˈmʌndeɪ/",
+      "fr": "Monday /ˈmʌndeɪ/",
+      "es": "Monday /ˈmʌndeɪ/",
+      "ar": "Monday /ˈmʌndeɪ/",
+      "hi": "Monday /ˈmʌndeɪ/",
+      "ru": "Monday /ˈmʌndeɪ/",
+      "pt": "Monday /ˈmʌndeɪ/",
+      "ja": "Monday /ˈmʌndeɪ/"
+    }
+  },
+  {
+    "word": "hold",
+    "category": "verb",
+    "paths": {
+      "tr": "/tr/kelime/hold",
+      "en": "/en/word/hold",
+      "de": "/de/wort/hold",
+      "fr": "/fr/mot/hold",
+      "es": "/es/palabra/hold",
+      "ar": "/ar/kalima/hold",
+      "hi": "/hi/shabd/hold",
+      "ru": "/ru/slovo/hold",
+      "pt": "/pt/palavra/hold",
+      "ja": "/ja/tango/hold"
+    },
+    "desc": {
+      "tr": "tutmak (elinde)",
+      "en": "to hold, grip (in your hand)",
+      "de": "halten (in der Hand)",
+      "fr": "tenir (dans la main)",
+      "es": "sostener, agarrar (en la mano)",
+      "ar": "يمسك (باليد)",
+      "hi": "पकड़ना (हाथ में)",
+      "ru": "держать (в руке)",
+      "pt": "segurar (na mão)",
+      "ja": "持つ、握る（手で）"
+    }
+  },
+  {
+    "word": "how are you",
+    "category": "phrases",
+    "paths": {
+      "tr": "/tr/kelime/how-are-you",
+      "en": "/en/word/how-are-you",
+      "de": "/de/wort/how-are-you",
+      "fr": "/fr/mot/how-are-you",
+      "es": "/es/palabra/how-are-you",
+      "ar": "/ar/kalima/how-are-you",
+      "hi": "/hi/shabd/how-are-you",
+      "ru": "/ru/slovo/how-are-you",
+      "pt": "/pt/palavra/how-are-you",
+      "ja": "/ja/tango/how-are-you"
+    },
+    "desc": {
+      "tr": "How are you? (en yaygın, nötr)",
+      "en": "How are you? (most common, neutral)",
+      "de": "How are you? (am häufigsten, neutral)",
+      "fr": "How are you? (le plus courant, neutre)",
+      "es": "How are you? (la más común, neutra)",
+      "ar": "How are you? (الأكثر شيوعًا، محايدة)",
+      "hi": "How are you? (सबसे आम, तटस्थ)",
+      "ru": "How are you? (самое частое, нейтральное)",
+      "pt": "How are you? (a mais comum, neutra)",
+      "ja": "How are you?（最も一般的・中立）"
+    }
+  },
+  {
+    "word": "how much / how many",
+    "category": "phrases",
+    "paths": {
+      "tr": "/tr/kelime/how-much-how-many",
+      "en": "/en/word/how-much-how-many",
+      "de": "/de/wort/how-much-how-many",
+      "fr": "/fr/mot/how-much-how-many",
+      "es": "/es/palabra/how-much-how-many",
+      "ar": "/ar/kalima/how-much-how-many",
+      "hi": "/hi/shabd/how-much-how-many",
+      "ru": "/ru/slovo/how-much-how-many",
+      "pt": "/pt/palavra/how-much-how-many",
+      "ja": "/ja/tango/how-much-how-many"
+    },
+    "desc": {
+      "tr": "How much is it? (Bu ne kadar? — fiyat)",
+      "en": "How much is it? (asking the price)",
+      "de": "How much is it? (nach dem Preis)",
+      "fr": "How much is it? (demander le prix)",
+      "es": "How much is it? (preguntar el precio)",
+      "ar": "How much is it? (السؤال عن السعر)",
+      "hi": "How much is it? (कीमत पूछना)",
+      "ru": "How much is it? (спросить цену)",
+      "pt": "How much is it? (perguntar o preço)",
+      "ja": "How much is it?（値段を尋ねる）"
+    }
+  },
+  {
+    "word": "in / on / at",
+    "category": "grammar",
+    "paths": {
+      "tr": "/tr/kelime/in-on-at",
+      "en": "/en/word/in-on-at",
+      "de": "/de/wort/in-on-at",
+      "fr": "/fr/mot/in-on-at",
+      "es": "/es/palabra/in-on-at",
+      "ar": "/ar/kalima/in-on-at",
+      "hi": "/hi/shabd/in-on-at",
+      "ru": "/ru/slovo/in-on-at",
+      "pt": "/pt/palavra/in-on-at",
+      "ja": "/ja/tango/in-on-at"
+    },
+    "desc": {
+      "tr": "ZAMAN — in: ay, yıl, mevsim",
+      "en": "TIME — in: month, year, season",
+      "de": "ZEIT — in: Monat, Jahr, Jahreszeit",
+      "fr": "TEMPS — in : mois, année, saison",
+      "es": "TIEMPO — in: mes, año, estación",
+      "ar": "الزمان — in: شهر، سنة، فصل",
+      "hi": "समय — in: महीना, साल, मौसम",
+      "ru": "ВРЕМЯ — in: месяц, год, сезон",
+      "pt": "TEMPO — in: mês, ano, estação",
+      "ja": "時間 — in：月・年・季節"
+    }
+  },
+  {
+    "word": "introduce yourself",
+    "category": "phrases",
+    "paths": {
+      "tr": "/tr/kelime/introduce-yourself",
+      "en": "/en/word/introduce-yourself",
+      "de": "/de/wort/introduce-yourself",
+      "fr": "/fr/mot/introduce-yourself",
+      "es": "/es/palabra/introduce-yourself",
+      "ar": "/ar/kalima/introduce-yourself",
+      "hi": "/hi/shabd/introduce-yourself",
+      "ru": "/ru/slovo/introduce-yourself",
+      "pt": "/pt/palavra/introduce-yourself",
+      "ja": "/ja/tango/introduce-yourself"
+    },
+    "desc": {
+      "tr": "İsim: Hi, I'm... / My name is...",
+      "en": "Name: Hi, I'm... / My name is...",
+      "de": "Name: Hi, I'm... / My name is...",
+      "fr": "Nom : Hi, I'm... / My name is...",
+      "es": "Nombre: Hi, I'm... / My name is...",
+      "ar": "الاسم: Hi, I'm... / My name is...",
+      "hi": "नाम: Hi, I'm... / My name is...",
+      "ru": "Имя: Hi, I'm... / My name is...",
+      "pt": "Nome: Hi, I'm... / My name is...",
+      "ja": "名前: Hi, I'm... / My name is..."
+    }
+  },
+  {
+    "word": "library",
+    "category": "confusing",
+    "paths": {
+      "tr": "/tr/kelime/library",
+      "en": "/en/word/library",
+      "de": "/de/wort/library",
+      "fr": "/fr/mot/library",
+      "es": "/es/palabra/library",
+      "ar": "/ar/kalima/library",
+      "hi": "/hi/shabd/library",
+      "ru": "/ru/slovo/library",
+      "pt": "/pt/palavra/library",
+      "ja": "/ja/tango/library"
+    },
+    "desc": {
+      "tr": "kütüphane (kitap ödünç alınan yer)",
+      "en": "a library (you borrow books)",
+      "de": "Bibliothek (Bücher ausleihen)",
+      "fr": "bibliothèque (on emprunte des livres)",
+      "es": "biblioteca (se prestan libros)",
+      "ar": "مكتبة عامة (للإعارة)",
+      "hi": "पुस्तकालय (किताबें उधार लेना)",
+      "ru": "библиотека (книги берут на время)",
+      "pt": "biblioteca (emprestam-se livros)",
+      "ja": "図書館（本を借りる）"
+    }
+  },
+  {
+    "word": "light",
+    "category": "verb",
+    "paths": {
+      "tr": "/tr/kelime/light",
+      "en": "/en/word/light",
+      "de": "/de/wort/light",
+      "fr": "/fr/mot/light",
+      "es": "/es/palabra/light",
+      "ar": "/ar/kalima/light",
+      "hi": "/hi/shabd/light",
+      "ru": "/ru/slovo/light",
+      "pt": "/pt/palavra/light",
+      "ja": "/ja/tango/light"
+    },
+    "desc": {
+      "tr": "ışık (isim)",
+      "en": "light (noun)",
+      "de": "Licht (Subst.)",
+      "fr": "lumière (nom)",
+      "es": "luz (sust.)",
+      "ar": "ضوء (اسم)",
+      "hi": "रोशनी, प्रकाश (संज्ञा)",
+      "ru": "свет (сущ.)",
+      "pt": "luz (subst.)",
+      "ja": "光、明かり（名詞）"
+    }
+  },
+  {
+    "word": "make",
+    "category": "verb",
+    "paths": {
+      "tr": "/tr/kelime/make",
+      "en": "/en/word/make",
+      "de": "/de/wort/make",
+      "fr": "/fr/mot/make",
+      "es": "/es/palabra/make",
+      "ar": "/ar/kalima/make",
+      "hi": "/hi/shabd/make",
+      "ru": "/ru/slovo/make",
+      "pt": "/pt/palavra/make",
+      "ja": "/ja/tango/make"
+    },
+    "desc": {
+      "tr": "make = üretmek, yaratmak (ortaya bir şey çıkar)",
+      "en": "make = produce, create (something results)",
+      "de": "make = herstellen, erschaffen (etwas entsteht)",
+      "fr": "make = produire, créer (quelque chose en résulte)",
+      "es": "make = producir, crear (resulta algo)",
+      "ar": "make = يصنع، ينتج (ينتج عنه شيء)",
+      "hi": "make = बनाना, उत्पन्न करना (कुछ बनता है)",
+      "ru": "make = создавать, производить (что-то получается)",
+      "pt": "make = produzir, criar (algo resulta)",
+      "ja": "make = 作る、生み出す（何かができる）"
+    }
+  },
+  {
+    "word": "match",
+    "category": "verb",
+    "paths": {
+      "tr": "/tr/kelime/match",
+      "en": "/en/word/match",
+      "de": "/de/wort/match",
+      "fr": "/fr/mot/match",
+      "es": "/es/palabra/match",
+      "ar": "/ar/kalima/match",
+      "hi": "/hi/shabd/match",
+      "ru": "/ru/slovo/match",
+      "pt": "/pt/palavra/match",
+      "ja": "/ja/tango/match"
+    },
+    "desc": {
+      "tr": "maç, müsabaka (isim)",
+      "en": "a game, contest (noun)",
+      "de": "Spiel, Wettkampf (Subst.)",
+      "fr": "match, rencontre (nom)",
+      "es": "partido, encuentro (sust.)",
+      "ar": "مباراة (اسم)",
+      "hi": "मैच, मुक़ाबला (संज्ञा)",
+      "ru": "матч, состязание (сущ.)",
+      "pt": "jogo, partida (subst.)",
+      "ja": "試合（名詞）"
+    }
+  },
+  {
+    "word": "much / many",
+    "category": "grammar",
+    "paths": {
+      "tr": "/tr/kelime/much-many",
+      "en": "/en/word/much-many",
+      "de": "/de/wort/much-many",
+      "fr": "/fr/mot/much-many",
+      "es": "/es/palabra/much-many",
+      "ar": "/ar/kalima/much-many",
+      "hi": "/hi/shabd/much-many",
+      "ru": "/ru/slovo/much-many",
+      "pt": "/pt/palavra/much-many",
+      "ja": "/ja/tango/much-many"
+    },
+    "desc": {
+      "tr": "many = sayılabilen çoğul isim",
+      "en": "many = countable plural nouns",
+      "de": "many = zählbare Pluralnomen",
+      "fr": "many = noms dénombrables (pluriel)",
+      "es": "many = sustantivos contables (plural)",
+      "ar": "many = أسماء معدودة (جمع)",
+      "hi": "many = गणनीय बहुवचन संज्ञा",
+      "ru": "many = исчисляемые сущ. (мн.ч.)",
+      "pt": "many = substantivos contáveis (plural)",
+      "ja": "many = 可算名詞（複数）"
+    }
+  },
+  {
+    "word": "past simple",
+    "category": "grammar",
+    "paths": {
+      "tr": "/tr/kelime/past-simple",
+      "en": "/en/word/past-simple",
+      "de": "/de/wort/past-simple",
+      "fr": "/fr/mot/past-simple",
+      "es": "/es/palabra/past-simple",
+      "ar": "/ar/kalima/past-simple",
+      "hi": "/hi/shabd/past-simple",
+      "ru": "/ru/slovo/past-simple",
+      "pt": "/pt/palavra/past-simple",
+      "ja": "/ja/tango/past-simple"
+    },
+    "desc": {
+      "tr": "Düzenli fiil: fiil + -ed",
+      "en": "Regular verb: verb + -ed",
+      "de": "Regelmäßig: Verb + -ed",
+      "fr": "Verbe régulier : verbe + -ed",
+      "es": "Verbo regular: verbo + -ed",
+      "ar": "فعل منتظم: الفعل + -ed",
+      "hi": "नियमित क्रिया: क्रिया + -ed",
+      "ru": "Правильный глагол: глагол + -ed",
+      "pt": "Verbo regular: verbo + -ed",
+      "ja": "規則動詞：動詞 + -ed"
+    }
+  },
+  {
+    "word": "point",
+    "category": "verb",
+    "paths": {
+      "tr": "/tr/kelime/point",
+      "en": "/en/word/point",
+      "de": "/de/wort/point",
+      "fr": "/fr/mot/point",
+      "es": "/es/palabra/point",
+      "ar": "/ar/kalima/point",
+      "hi": "/hi/shabd/point",
+      "ru": "/ru/slovo/point",
+      "pt": "/pt/palavra/point",
+      "ja": "/ja/tango/point"
+    },
+    "desc": {
+      "tr": "nokta, uç (isim)",
+      "en": "a point, tip (noun)",
+      "de": "Spitze, Punkt (Subst.)",
+      "fr": "pointe, extrémité (nom)",
+      "es": "punta (sust.)",
+      "ar": "طرف مدبّب (اسم)",
+      "hi": "नोक, सिरा (संज्ञा)",
+      "ru": "кончик, остриё (сущ.)",
+      "pt": "ponta (subst.)",
+      "ja": "先端、とがった先（名詞）"
+    }
+  },
+  {
+    "word": "POV",
+    "category": "genz",
+    "paths": {
+      "tr": "/tr/kelime/pov",
+      "en": "/en/word/pov",
+      "de": "/de/wort/pov",
+      "fr": "/fr/mot/pov",
+      "es": "/es/palabra/pov",
+      "ar": "/ar/kalima/pov",
+      "hi": "/hi/shabd/pov",
+      "ru": "/ru/slovo/pov",
+      "pt": "/pt/palavra/pov",
+      "ja": "/ja/tango/pov"
+    },
+    "desc": {
+      "tr": "bakış açısı (Point of View açılımı)",
+      "en": "point of view (the full form)",
+      "de": "Perspektive (die volle Form)",
+      "fr": "point de vue (la forme complète)",
+      "es": "punto de vista (la forma completa)",
+      "ar": "وجهة نظر (الصيغة الكاملة)",
+      "hi": "नज़रिया (पूरा रूप)",
+      "ru": "точка зрения (полная форма)",
+      "pt": "ponto de vista (a forma completa)",
+      "ja": "視点（正式な形）"
+    }
+  },
+  {
+    "word": "present perfect",
+    "category": "grammar",
+    "paths": {
+      "tr": "/tr/kelime/present-perfect",
+      "en": "/en/word/present-perfect",
+      "de": "/de/wort/present-perfect",
+      "fr": "/fr/mot/present-perfect",
+      "es": "/es/palabra/present-perfect",
+      "ar": "/ar/kalima/present-perfect",
+      "hi": "/hi/shabd/present-perfect",
+      "ru": "/ru/slovo/present-perfect",
+      "pt": "/pt/palavra/present-perfect",
+      "ja": "/ja/tango/present-perfect"
+    },
+    "desc": {
+      "tr": "Yapı: have/has + fiilin 3. hali (V3)",
+      "en": "Form: have/has + past participle (V3)",
+      "de": "Form: have/has + Partizip II (V3)",
+      "fr": "Forme : have/has + participe passé (V3)",
+      "es": "Forma: have/has + participio (V3)",
+      "ar": "الصيغة: have/has + التصريف الثالث (V3)",
+      "hi": "रूप: have/has + तीसरा रूप (V3)",
+      "ru": "Форма: have/has + причастие (V3)",
+      "pt": "Forma: have/has + particípio (V3)",
+      "ja": "形：have/has + 過去分詞（V3）"
+    }
+  },
+  {
     "word": "prompt",
     "category": "ai",
     "paths": {
@@ -81,6 +1173,482 @@
       "ru": "инструкция, даваемая ИИ",
       "pt": "instrução dada a uma IA",
       "ja": "AIに与える指示"
+    }
+  },
+  {
+    "word": "reach out",
+    "category": "work",
+    "paths": {
+      "tr": "/tr/kelime/reach-out",
+      "en": "/en/word/reach-out",
+      "de": "/de/wort/reach-out",
+      "fr": "/fr/mot/reach-out",
+      "es": "/es/palabra/reach-out",
+      "ar": "/ar/kalima/reach-out",
+      "hi": "/hi/shabd/reach-out",
+      "ru": "/ru/slovo/reach-out",
+      "pt": "/pt/palavra/reach-out",
+      "ja": "/ja/tango/reach-out"
+    },
+    "desc": {
+      "tr": "birine ulaşmak, iletişime geçmek",
+      "en": "to contact someone, get in touch",
+      "de": "jemanden kontaktieren, sich melden",
+      "fr": "contacter quelqu'un, prendre contact",
+      "es": "contactar a alguien, ponerse en contacto",
+      "ar": "التواصل مع شخص، الاتصال به",
+      "hi": "किसी से संपर्क करना, संपर्क में आना",
+      "ru": "связаться с кем-то, выйти на контакт",
+      "pt": "contatar alguém, entrar em contato",
+      "ja": "誰かに連絡する、コンタクトを取る"
+    }
+  },
+  {
+    "word": "realize",
+    "category": "confusing",
+    "paths": {
+      "tr": "/tr/kelime/realize",
+      "en": "/en/word/realize",
+      "de": "/de/wort/realize",
+      "fr": "/fr/mot/realize",
+      "es": "/es/palabra/realize",
+      "ar": "/ar/kalima/realize",
+      "hi": "/hi/shabd/realize",
+      "ru": "/ru/slovo/realize",
+      "pt": "/pt/palavra/realize",
+      "ja": "/ja/tango/realize"
+    },
+    "desc": {
+      "tr": "fark etmek, farkına varmak",
+      "en": "to become aware of, notice",
+      "de": "bemerken, sich bewusst werden",
+      "fr": "se rendre compte, remarquer",
+      "es": "darse cuenta, percatarse",
+      "ar": "يدرك، ينتبه إلى",
+      "hi": "एहसास होना, महसूस करना",
+      "ru": "осознать, заметить",
+      "pt": "perceber, dar-se conta",
+      "ja": "気づく、自覚する"
+    }
+  },
+  {
+    "word": "red flag",
+    "category": "genz",
+    "paths": {
+      "tr": "/tr/kelime/red-flag",
+      "en": "/en/word/red-flag",
+      "de": "/de/wort/red-flag",
+      "fr": "/fr/mot/red-flag",
+      "es": "/es/palabra/red-flag",
+      "ar": "/ar/kalima/red-flag",
+      "hi": "/hi/shabd/red-flag",
+      "ru": "/ru/slovo/red-flag",
+      "pt": "/pt/palavra/red-flag",
+      "ja": "/ja/tango/red-flag"
+    },
+    "desc": {
+      "tr": "uyarı işareti, tehlike sinyali",
+      "en": "a warning sign, danger signal",
+      "de": "Warnsignal, Alarmzeichen",
+      "fr": "signal d'alarme, avertissement",
+      "es": "señal de alarma, advertencia",
+      "ar": "إشارة تحذير، علامة خطر",
+      "hi": "चेतावनी संकेत, खतरे का इशारा",
+      "ru": "тревожный знак, сигнал опасности",
+      "pt": "sinal de alerta, aviso",
+      "ja": "警告サイン、危険信号"
+    }
+  },
+  {
+    "word": "rizz",
+    "category": "genz",
+    "paths": {
+      "tr": "/tr/kelime/rizz",
+      "en": "/en/word/rizz",
+      "de": "/de/wort/rizz",
+      "fr": "/fr/mot/rizz",
+      "es": "/es/palabra/rizz",
+      "ar": "/ar/kalima/rizz",
+      "hi": "/hi/shabd/rizz",
+      "ru": "/ru/slovo/rizz",
+      "pt": "/pt/palavra/rizz",
+      "ja": "/ja/tango/rizz"
+    },
+    "desc": {
+      "tr": "Çekicilik, karizma, etkileme yeteneği",
+      "en": "Charm, charisma, the ability to attract",
+      "de": "Charme, Charisma, Anziehungskraft",
+      "fr": "Charme, charisme, capacité à séduire",
+      "es": "Encanto, carisma, capacidad de atraer",
+      "ar": "جاذبية، كاريزما، القدرة على الجذب",
+      "hi": "आकर्षण, करिश्मा, आकर्षित करने की क्षमता",
+      "ru": "Обаяние, харизма, умение привлекать",
+      "pt": "Charme, carisma, capacidade de atrair",
+      "ja": "魅力、カリスマ、惹きつける力"
+    }
+  },
+  {
+    "word": "run",
+    "category": "verb",
+    "paths": {
+      "tr": "/tr/kelime/run",
+      "en": "/en/word/run",
+      "de": "/de/wort/run",
+      "fr": "/fr/mot/run",
+      "es": "/es/palabra/run",
+      "ar": "/ar/kalima/run",
+      "hi": "/hi/shabd/run",
+      "ru": "/ru/slovo/run",
+      "pt": "/pt/palavra/run",
+      "ja": "/ja/tango/run"
+    },
+    "desc": {
+      "tr": "koşmak",
+      "en": "to run (on foot)",
+      "de": "laufen, rennen",
+      "fr": "courir",
+      "es": "correr",
+      "ar": "يجري، يركض",
+      "hi": "दौड़ना",
+      "ru": "бежать",
+      "pt": "correr",
+      "ja": "走る"
+    }
+  },
+  {
+    "word": "say",
+    "category": "verb",
+    "paths": {
+      "tr": "/tr/kelime/say",
+      "en": "/en/word/say",
+      "de": "/de/wort/say",
+      "fr": "/fr/mot/say",
+      "es": "/es/palabra/say",
+      "ar": "/ar/kalima/say",
+      "hi": "/hi/shabd/say",
+      "ru": "/ru/slovo/say",
+      "pt": "/pt/palavra/say",
+      "ja": "/ja/tango/say"
+    },
+    "desc": {
+      "tr": "say = söylemek (kime olduğu belirtilmez)",
+      "en": "say = to state (no person needed)",
+      "de": "say = sagen (ohne Person)",
+      "fr": "say = dire (sans personne)",
+      "es": "say = decir (sin persona)",
+      "ar": "say = يقول (بلا ذكر شخص)",
+      "hi": "say = कहना (व्यक्ति बताए बिना)",
+      "ru": "say = сказать (без указания человека)",
+      "pt": "say = dizer (sem pessoa)",
+      "ja": "say = 言う（相手を示さない）"
+    }
+  },
+  {
+    "word": "numbers",
+    "category": "basics",
+    "paths": {
+      "tr": "/tr/kelime/numbers",
+      "en": "/en/word/numbers",
+      "de": "/de/wort/numbers",
+      "fr": "/fr/mot/numbers",
+      "es": "/es/palabra/numbers",
+      "ar": "/ar/kalima/numbers",
+      "hi": "/hi/shabd/numbers",
+      "ru": "/ru/slovo/numbers",
+      "pt": "/pt/palavra/numbers",
+      "ja": "/ja/tango/numbers"
+    },
+    "desc": {
+      "tr": "1 one /wʌn/, 2 two /tuː/, 3 three /θriː/",
+      "en": "1 one /wʌn/, 2 two /tuː/, 3 three /θriː/",
+      "de": "1 one, 2 two, 3 three",
+      "fr": "1 one, 2 two, 3 three",
+      "es": "1 one, 2 two, 3 three",
+      "ar": "1 one, 2 two, 3 three",
+      "hi": "1 one, 2 two, 3 three",
+      "ru": "1 one, 2 two, 3 three",
+      "pt": "1 one, 2 two, 3 three",
+      "ja": "1 one, 2 two, 3 three"
+    }
+  },
+  {
+    "word": "sensible",
+    "category": "confusing",
+    "paths": {
+      "tr": "/tr/kelime/sensible",
+      "en": "/en/word/sensible",
+      "de": "/de/wort/sensible",
+      "fr": "/fr/mot/sensible",
+      "es": "/es/palabra/sensible",
+      "ar": "/ar/kalima/sensible",
+      "hi": "/hi/shabd/sensible",
+      "ru": "/ru/slovo/sensible",
+      "pt": "/pt/palavra/sensible",
+      "ja": "/ja/tango/sensible"
+    },
+    "desc": {
+      "tr": "mantıklı, makul, aklı başında",
+      "en": "reasonable, practical, level-headed",
+      "de": "vernünftig, besonnen",
+      "fr": "raisonnable, sensé",
+      "es": "sensato, razonable",
+      "ar": "عاقل، معقول، رشيد",
+      "hi": "समझदार, व्यावहारिक",
+      "ru": "разумный, благоразумный",
+      "pt": "sensato, razoável",
+      "ja": "賢明な、分別のある"
+    }
+  },
+  {
+    "word": "set",
+    "category": "verb",
+    "paths": {
+      "tr": "/tr/kelime/set",
+      "en": "/en/word/set",
+      "de": "/de/wort/set",
+      "fr": "/fr/mot/set",
+      "es": "/es/palabra/set",
+      "ar": "/ar/kalima/set",
+      "hi": "/hi/shabd/set",
+      "ru": "/ru/slovo/set",
+      "pt": "/pt/palavra/set",
+      "ja": "/ja/tango/set"
+    },
+    "desc": {
+      "tr": "koymak, yerleştirmek",
+      "en": "to put, place",
+      "de": "stellen, legen",
+      "fr": "poser, mettre",
+      "es": "poner, colocar",
+      "ar": "يضع",
+      "hi": "रखना",
+      "ru": "класть, ставить",
+      "pt": "pôr, colocar",
+      "ja": "置く"
+    }
+  },
+  {
+    "word": "since / for",
+    "category": "grammar",
+    "paths": {
+      "tr": "/tr/kelime/since-for",
+      "en": "/en/word/since-for",
+      "de": "/de/wort/since-for",
+      "fr": "/fr/mot/since-for",
+      "es": "/es/palabra/since-for",
+      "ar": "/ar/kalima/since-for",
+      "hi": "/hi/shabd/since-for",
+      "ru": "/ru/slovo/since-for",
+      "pt": "/pt/palavra/since-for",
+      "ja": "/ja/tango/since-for"
+    },
+    "desc": {
+      "tr": "for = süre (ne kadar zaman)",
+      "en": "for = duration (how long)",
+      "de": "for = Dauer (wie lange)",
+      "fr": "for = durée (combien de temps)",
+      "es": "for = duración (cuánto tiempo)",
+      "ar": "for = مدّة (كم من الوقت)",
+      "hi": "for = अवधि (कितना समय)",
+      "ru": "for = длительность (как долго)",
+      "pt": "for = duração (quanto tempo)",
+      "ja": "for = 期間（どれくらい）"
+    }
+  },
+  {
+    "word": "slay",
+    "category": "genz",
+    "paths": {
+      "tr": "/tr/kelime/slay",
+      "en": "/en/word/slay",
+      "de": "/de/wort/slay",
+      "fr": "/fr/mot/slay",
+      "es": "/es/palabra/slay",
+      "ar": "/ar/kalima/slay",
+      "hi": "/hi/shabd/slay",
+      "ru": "/ru/slovo/slay",
+      "pt": "/pt/palavra/slay",
+      "ja": "/ja/tango/slay"
+    },
+    "desc": {
+      "tr": "harika yapmak, parçalamak (argo)",
+      "en": "to do amazingly, to nail it (slang)",
+      "de": "etwas großartig machen, rocken (Slang)",
+      "fr": "assurer, tout déchirer (argot)",
+      "es": "arrasar, hacerlo genial (jerga)",
+      "ar": "يبدع، يتألّق (عامية)",
+      "hi": "कमाल करना, छा जाना (स्लैंग)",
+      "ru": "сделать круто, зажечь (сленг)",
+      "pt": "arrasar, mandar bem (gíria)",
+      "ja": "完璧にこなす、キメる（スラング）"
+    }
+  },
+  {
+    "word": "take",
+    "category": "verb",
+    "paths": {
+      "tr": "/tr/kelime/take",
+      "en": "/en/word/take",
+      "de": "/de/wort/take",
+      "fr": "/fr/mot/take",
+      "es": "/es/palabra/take",
+      "ar": "/ar/kalima/take",
+      "hi": "/hi/shabd/take",
+      "ru": "/ru/slovo/take",
+      "pt": "/pt/palavra/take",
+      "ja": "/ja/tango/take"
+    },
+    "desc": {
+      "tr": "almak (eline/yanına)",
+      "en": "to take (in your hand)",
+      "de": "nehmen (in die Hand)",
+      "fr": "prendre (en main)",
+      "es": "tomar (en la mano)",
+      "ar": "يأخذ (باليد)",
+      "hi": "लेना (हाथ में)",
+      "ru": "брать (в руку)",
+      "pt": "pegar (na mão)",
+      "ja": "取る（手に）"
+    }
+  },
+  {
+    "word": "thank you",
+    "category": "phrases",
+    "paths": {
+      "tr": "/tr/kelime/thank-you",
+      "en": "/en/word/thank-you",
+      "de": "/de/wort/thank-you",
+      "fr": "/fr/mot/thank-you",
+      "es": "/es/palabra/thank-you",
+      "ar": "/ar/kalima/thank-you",
+      "hi": "/hi/shabd/thank-you",
+      "ru": "/ru/slovo/thank-you",
+      "pt": "/pt/palavra/thank-you",
+      "ja": "/ja/tango/thank-you"
+    },
+    "desc": {
+      "tr": "Thank you. (en yaygın)",
+      "en": "Thank you. (most common)",
+      "de": "Thank you. (am häufigsten)",
+      "fr": "Thank you. (le plus courant)",
+      "es": "Thank you. (la más común)",
+      "ar": "Thank you. (الأكثر شيوعًا)",
+      "hi": "Thank you. (सबसे आम)",
+      "ru": "Thank you. (самое частое)",
+      "pt": "Thank you. (a mais comum)",
+      "ja": "Thank you.（最も一般的）"
+    }
+  },
+  {
+    "word": "this / that / these / those",
+    "category": "grammar",
+    "paths": {
+      "tr": "/tr/kelime/this-that-these-those",
+      "en": "/en/word/this-that-these-those",
+      "de": "/de/wort/this-that-these-those",
+      "fr": "/fr/mot/this-that-these-those",
+      "es": "/es/palabra/this-that-these-those",
+      "ar": "/ar/kalima/this-that-these-those",
+      "hi": "/hi/shabd/this-that-these-those",
+      "ru": "/ru/slovo/this-that-these-those",
+      "pt": "/pt/palavra/this-that-these-those",
+      "ja": "/ja/tango/this-that-these-those"
+    },
+    "desc": {
+      "tr": "this = bu (yakın, tekil)",
+      "en": "this = near, singular",
+      "de": "this = nah, Singular",
+      "fr": "this = proche, singulier",
+      "es": "this = cerca, singular",
+      "ar": "this = قريب، مفرد",
+      "hi": "this = पास, एकवचन",
+      "ru": "this = близко, ед.ч.",
+      "pt": "this = perto, singular",
+      "ja": "this = 近い、単数"
+    }
+  },
+  {
+    "word": "turn",
+    "category": "verb",
+    "paths": {
+      "tr": "/tr/kelime/turn",
+      "en": "/en/word/turn",
+      "de": "/de/wort/turn",
+      "fr": "/fr/mot/turn",
+      "es": "/es/palabra/turn",
+      "ar": "/ar/kalima/turn",
+      "hi": "/hi/shabd/turn",
+      "ru": "/ru/slovo/turn",
+      "pt": "/pt/palavra/turn",
+      "ja": "/ja/tango/turn"
+    },
+    "desc": {
+      "tr": "dönmek, yön değiştirmek",
+      "en": "to turn, change direction",
+      "de": "abbiegen, Richtung ändern",
+      "fr": "tourner, changer de direction",
+      "es": "girar, cambiar de dirección",
+      "ar": "ينعطف، يغيّر الاتجاه",
+      "hi": "मुड़ना, दिशा बदलना",
+      "ru": "поворачивать, менять направление",
+      "pt": "virar, mudar de direção",
+      "ja": "曲がる、方向を変える"
+    }
+  },
+  {
+    "word": "vibe",
+    "category": "genz",
+    "paths": {
+      "tr": "/tr/kelime/vibe",
+      "en": "/en/word/vibe",
+      "de": "/de/wort/vibe",
+      "fr": "/fr/mot/vibe",
+      "es": "/es/palabra/vibe",
+      "ar": "/ar/kalima/vibe",
+      "hi": "/hi/shabd/vibe",
+      "ru": "/ru/slovo/vibe",
+      "pt": "/pt/palavra/vibe",
+      "ja": "/ja/tango/vibe"
+    },
+    "desc": {
+      "tr": "hava, atmosfer, enerji (isim)",
+      "en": "atmosphere, energy, mood (noun)",
+      "de": "Atmosphäre, Energie, Stimmung (Subst.)",
+      "fr": "ambiance, énergie (nom)",
+      "es": "ambiente, energía, onda (sust.)",
+      "ar": "أجواء، طاقة، انطباع (اسم)",
+      "hi": "माहौल, एनर्जी, फ़ील (संज्ञा)",
+      "ru": "атмосфера, энергия, настрой (сущ.)",
+      "pt": "clima, energia, atmosfera (subst.)",
+      "ja": "雰囲気、エネルギー、ムード（名詞）"
+    }
+  },
+  {
+    "word": "will / going to",
+    "category": "grammar",
+    "paths": {
+      "tr": "/tr/kelime/will-going-to",
+      "en": "/en/word/will-going-to",
+      "de": "/de/wort/will-going-to",
+      "fr": "/fr/mot/will-going-to",
+      "es": "/es/palabra/will-going-to",
+      "ar": "/ar/kalima/will-going-to",
+      "hi": "/hi/shabd/will-going-to",
+      "ru": "/ru/slovo/will-going-to",
+      "pt": "/pt/palavra/will-going-to",
+      "ja": "/ja/tango/will-going-to"
+    },
+    "desc": {
+      "tr": "will = anlık karar (o an verilen)",
+      "en": "will = a decision made now",
+      "de": "will = jetzt getroffene Entscheidung",
+      "fr": "will = décision prise maintenant",
+      "es": "will = decisión tomada ahora",
+      "ar": "will = قرار يُتّخذ الآن",
+      "hi": "will = अभी लिया गया फ़ैसला",
+      "ru": "will = решение, принятое сейчас",
+      "pt": "will = decisão tomada agora",
+      "ja": "will = 今その場で決めたこと"
     }
   }
 ]

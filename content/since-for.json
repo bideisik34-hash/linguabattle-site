@@ -1,0 +1,145 @@
+{
+  "word": "since / for",
+  "pron": "/sɪns, fɔː/",
+  "category": "grammar",
+  "tr": {
+    "pos": "gramer (zaman)", "title": "since ve for farkı nedir?",
+    "metaDesc": "since vs for farkı: zaman ifadelerinde ne zaman since ne zaman for? Örneklerle — LinguaBattle.",
+    "lede": "<b>since</b> ve <b>for</b> ikisi de zaman için kullanılır ama farklı: <b>for</b> bir süre (ne kadar), <b>since</b> bir başlangıç noktası (ne zamandan beri) belirtir.",
+    "means": [
+      {"def": "for = süre (ne kadar zaman)", "en": "for two years, for an hour", "t": "iki yıldır, bir saattir"},
+      {"def": "since = başlangıç noktası (-den beri)", "en": "since 2020, since Monday", "t": "2020'den beri, Pazartesi'den beri"},
+      {"def": "İpucu: sayı + zaman birimi → for", "en": "I've lived here for 5 years.", "t": "5 yıldır burada yaşıyorum."},
+      {"def": "İpucu: belirli an → since", "en": "I've lived here since 2019.", "t": "2019'dan beri burada yaşıyorum."}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["since vs for", "since vs ago", "present perfect"],
+    "idiomTitle": "Kurallar", "idioms": ["for → süre", "since → başlangıç", "present perfect ile"],
+    "quizQ": "Hangisi doğru: “___ 2020”?", "quizA": ["since 2020", "for 2020", "ago 2020"], "quizOk": 0
+  },
+  "en": {
+    "pos": "grammar (time)", "title": "Since vs for: what's the difference?",
+    "metaDesc": "Since vs for difference: when to use since or for with time? With examples — LinguaBattle.",
+    "lede": "<b>since</b> and <b>for</b> are both used for time, but differently: <b>for</b> = a duration (how long), <b>since</b> = a starting point (from when).",
+    "means": [
+      {"def": "for = duration (how long)", "en": "for two years, for an hour", "t": "(a length of time)"},
+      {"def": "since = starting point (from when)", "en": "since 2020, since Monday", "t": "(a point in time)"},
+      {"def": "Tip: number + time unit → for", "en": "I've lived here for 5 years.", "t": "(duration)"},
+      {"def": "Tip: a specific moment → since", "en": "I've lived here since 2019.", "t": "(starting point)"}
+    ],
+    "relTitle": "Often confused", "rel": ["since vs for", "since vs ago", "present perfect"],
+    "idiomTitle": "Rules", "idioms": ["for → duration", "since → start point", "with present perfect"],
+    "quizQ": "Which is correct: “___ 2020”?", "quizA": ["since 2020", "for 2020", "ago 2020"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Grammatik (Zeit)", "title": "Since vs for: Was ist der Unterschied?",
+    "metaDesc": "Unterschied since vs for: Wann since oder for bei Zeit? Mit Beispielen — LinguaBattle.",
+    "lede": "<b>since</b> und <b>for</b> werden beide für Zeit verwendet, aber anders: <b>for</b> = Dauer (wie lange), <b>since</b> = Startpunkt (seit wann).",
+    "means": [
+      {"def": "for = Dauer (wie lange)", "en": "for two years, for an hour", "t": "(Zeitspanne)"},
+      {"def": "since = Startpunkt (seit wann)", "en": "since 2020, since Monday", "t": "(Zeitpunkt)"},
+      {"def": "Tipp: Zahl + Zeiteinheit → for", "en": "I've lived here for 5 years.", "t": "(Dauer)"},
+      {"def": "Tipp: bestimmter Moment → since", "en": "I've lived here since 2019.", "t": "(Startpunkt)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["since vs for", "since vs ago", "present perfect"],
+    "idiomTitle": "Regeln", "idioms": ["for → Dauer", "since → Startpunkt", "mit Present Perfect"],
+    "quizQ": "Was ist korrekt: „___ 2020“?", "quizA": ["since 2020", "for 2020", "ago 2020"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "grammaire (temps)", "title": "Since vs for : quelle différence ?",
+    "metaDesc": "Différence since vs for : quand utiliser since ou for avec le temps ? Avec exemples — LinguaBattle.",
+    "lede": "<b>since</b> et <b>for</b> servent tous deux pour le temps, mais différemment : <b>for</b> = une durée (combien de temps), <b>since</b> = un point de départ (depuis quand).",
+    "means": [
+      {"def": "for = durée (combien de temps)", "en": "for two years, for an hour", "t": "(durée)"},
+      {"def": "since = point de départ (depuis quand)", "en": "since 2020, since Monday", "t": "(point de départ)"},
+      {"def": "Astuce : nombre + unité → for", "en": "I've lived here for 5 years.", "t": "(durée)"},
+      {"def": "Astuce : moment précis → since", "en": "I've lived here since 2019.", "t": "(point de départ)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["since vs for", "since vs ago", "present perfect"],
+    "idiomTitle": "Règles", "idioms": ["for → durée", "since → point de départ", "avec present perfect"],
+    "quizQ": "Lequel est correct : « ___ 2020 » ?", "quizA": ["since 2020", "for 2020", "ago 2020"], "quizOk": 0
+  },
+  "es": {
+    "pos": "gramática (tiempo)", "title": "Since vs for: ¿cuál es la diferencia?",
+    "metaDesc": "Diferencia since vs for: ¿cuándo usar since o for con el tiempo? Con ejemplos — LinguaBattle.",
+    "lede": "<b>since</b> y <b>for</b> se usan ambos para el tiempo, pero distinto: <b>for</b> = una duración (cuánto tiempo), <b>since</b> = un punto de inicio (desde cuándo).",
+    "means": [
+      {"def": "for = duración (cuánto tiempo)", "en": "for two years, for an hour", "t": "(duración)"},
+      {"def": "since = punto de inicio (desde cuándo)", "en": "since 2020, since Monday", "t": "(punto de inicio)"},
+      {"def": "Truco: número + unidad → for", "en": "I've lived here for 5 years.", "t": "(duración)"},
+      {"def": "Truco: momento concreto → since", "en": "I've lived here since 2019.", "t": "(punto de inicio)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["since vs for", "since vs ago", "present perfect"],
+    "idiomTitle": "Reglas", "idioms": ["for → duración", "since → inicio", "con present perfect"],
+    "quizQ": "¿Cuál es correcto: «___ 2020»?", "quizA": ["since 2020", "for 2020", "ago 2020"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "قواعد (زمن)", "title": "ما الفرق بين since و for؟",
+    "metaDesc": "الفرق بين since vs for: متى نستخدم since أو for مع الزمن؟ مع أمثلة — LinguaBattle.",
+    "lede": "<b>since</b> و<b>for</b> كلاهما للزمن لكن بشكل مختلف: <b>for</b> = مدّة (كم من الوقت)، <b>since</b> = نقطة بداية (منذ متى).",
+    "means": [
+      {"def": "for = مدّة (كم من الوقت)", "en": "for two years, for an hour", "t": "(مدّة)"},
+      {"def": "since = نقطة بداية (منذ متى)", "en": "since 2020, since Monday", "t": "(نقطة بداية)"},
+      {"def": "نصيحة: رقم + وحدة زمن → for", "en": "I've lived here for 5 years.", "t": "(مدّة)"},
+      {"def": "نصيحة: لحظة محدّدة → since", "en": "I've lived here since 2019.", "t": "(نقطة بداية)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["since vs for", "since vs ago", "present perfect"],
+    "idiomTitle": "قواعد", "idioms": ["for → مدّة", "since → بداية", "مع present perfect"],
+    "quizQ": "أيّها صحيح: «___ 2020»؟", "quizA": ["since 2020", "for 2020", "ago 2020"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "व्याकरण (समय)", "title": "since और for में क्या अंतर है?",
+    "metaDesc": "since बनाम for अंतर: समय के साथ कब since, कब for? उदाहरणों सहित — LinguaBattle.",
+    "lede": "<b>since</b> और <b>for</b> दोनों समय के लिए हैं पर अलग तरह: <b>for</b> = अवधि (कितने समय), <b>since</b> = शुरुआती बिंदु (कब से)।",
+    "means": [
+      {"def": "for = अवधि (कितना समय)", "en": "for two years, for an hour", "t": "(अवधि)"},
+      {"def": "since = शुरुआती बिंदु (कब से)", "en": "since 2020, since Monday", "t": "(शुरुआत)"},
+      {"def": "टिप: संख्या + समय इकाई → for", "en": "I've lived here for 5 years.", "t": "(अवधि)"},
+      {"def": "टिप: निश्चित क्षण → since", "en": "I've lived here since 2019.", "t": "(शुरुआत)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["since vs for", "since vs ago", "present perfect"],
+    "idiomTitle": "नियम", "idioms": ["for → अवधि", "since → शुरुआत", "present perfect के साथ"],
+    "quizQ": "कौन सा सही है: “___ 2020”?", "quizA": ["since 2020", "for 2020", "ago 2020"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "грамматика (время)", "title": "Since vs for: в чём разница?",
+    "metaDesc": "Разница since vs for: когда since, когда for со временем? С примерами — LinguaBattle.",
+    "lede": "<b>since</b> и <b>for</b> оба про время, но по-разному: <b>for</b> = длительность (как долго), <b>since</b> = точка отсчёта (с какого момента).",
+    "means": [
+      {"def": "for = длительность (как долго)", "en": "for two years, for an hour", "t": "(длительность)"},
+      {"def": "since = точка отсчёта (с какого момента)", "en": "since 2020, since Monday", "t": "(точка отсчёта)"},
+      {"def": "Подсказка: число + единица → for", "en": "I've lived here for 5 years.", "t": "(длительность)"},
+      {"def": "Подсказка: конкретный момент → since", "en": "I've lived here since 2019.", "t": "(точка отсчёта)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["since vs for", "since vs ago", "present perfect"],
+    "idiomTitle": "Правила", "idioms": ["for → длительность", "since → точка отсчёта", "с present perfect"],
+    "quizQ": "Что правильно: «___ 2020»?", "quizA": ["since 2020", "for 2020", "ago 2020"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "gramática (tempo)", "title": "Since vs for: qual é a diferença?",
+    "metaDesc": "Diferença since vs for: quando usar since ou for com tempo? Com exemplos — LinguaBattle.",
+    "lede": "<b>since</b> e <b>for</b> são ambos para tempo, mas diferentes: <b>for</b> = uma duração (quanto tempo), <b>since</b> = um ponto de início (desde quando).",
+    "means": [
+      {"def": "for = duração (quanto tempo)", "en": "for two years, for an hour", "t": "(duração)"},
+      {"def": "since = ponto de início (desde quando)", "en": "since 2020, since Monday", "t": "(ponto de início)"},
+      {"def": "Dica: número + unidade → for", "en": "I've lived here for 5 years.", "t": "(duração)"},
+      {"def": "Dica: momento específico → since", "en": "I've lived here since 2019.", "t": "(ponto de início)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["since vs for", "since vs ago", "present perfect"],
+    "idiomTitle": "Regras", "idioms": ["for → duração", "since → início", "com present perfect"],
+    "quizQ": "Qual está correto: «___ 2020»?", "quizA": ["since 2020", "for 2020", "ago 2020"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "文法 (時間)", "title": "since と for の違いは？",
+    "metaDesc": "since と for の違い：時間表現でいつ since、いつ for？例文付き — LinguaBattle.",
+    "lede": "<b>since</b> と <b>for</b> はどちらも時間に使うが違う：<b>for</b> = 期間（どれくらい）、<b>since</b> = 起点（いつから）。",
+    "means": [
+      {"def": "for = 期間（どれくらい）", "en": "for two years, for an hour", "t": "（期間）"},
+      {"def": "since = 起点（いつから）", "en": "since 2020, since Monday", "t": "（起点）"},
+      {"def": "コツ：数 + 時間単位 → for", "en": "I've lived here for 5 years.", "t": "（期間）"},
+      {"def": "コツ：特定の時点 → since", "en": "I've lived here since 2019.", "t": "（起点）"}
+    ],
+    "relTitle": "混同しやすい点", "rel": ["since vs for", "since vs ago", "present perfect"],
+    "idiomTitle": "ルール", "idioms": ["for → 期間", "since → 起点", "present perfectと"],
+    "quizQ": "正しいのは：「___ 2020」？", "quizA": ["since 2020", "for 2020", "ago 2020"], "quizOk": 0
+  }
+}

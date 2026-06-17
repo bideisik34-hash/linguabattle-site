@@ -1,0 +1,155 @@
+{
+  "word": "introduce yourself",
+  "pron": "/ˌɪntrəˈdjuːs jɔːˈself/",
+  "category": "phrases",
+  "tr": {
+    "pos": "günlük kalıp", "title": "İngilizce kendini tanıtma",
+    "metaDesc": "İngilizce kendini tanıtma: isim, nereli, ne iş yaptığını söyleme kalıpları. Örneklerle — LinguaBattle.",
+    "lede": "İngilizcede <b>kendini tanıtmak</b> için birkaç basit kalıp yeter: ismini söyle, nereli olduğunu ve ne yaptığını ekle. İşte en sık kullanılanlar.",
+    "means": [
+      {"def": "İsim: Hi, I'm... / My name is...", "en": "Hi, I'm Ali.", "t": "Merhaba, ben Ali."},
+      {"def": "Nereli: I'm from...", "en": "I'm from Turkey.", "t": "Türkiye'denim."},
+      {"def": "İş/öğrenci: I'm a... / I work as...", "en": "I'm a student.", "t": "Öğrenciyim."},
+      {"def": "Yaş: I'm ... years old.", "en": "I'm 25 years old.", "t": "25 yaşındayım."},
+      {"def": "Tanışınca: Nice to meet you.", "en": "Nice to meet you!", "t": "Tanıştığımıza memnun oldum!"}
+    ],
+    "relTitle": "İlgili kalıplar", "rel": ["nasılsın (how are you)", "selamlaşma (greetings)", "teşekkür (thank you)"],
+    "idiomTitle": "Kalıplar", "idioms": ["My name is...", "I'm from...", "Nice to meet you"],
+    "quizQ": "Tanışınca ne denir?", "quizA": ["Nice to meet you!", "Good night!", "You're welcome!"], "quizOk": 0
+  },
+  "en": {
+    "pos": "everyday phrases", "title": "How to introduce yourself in English",
+    "metaDesc": "Introduce yourself in English: phrases for your name, where you're from, your job. With examples — LinguaBattle.",
+    "lede": "To <b>introduce yourself</b> in English, a few simple phrases are enough: say your name, where you're from and what you do. Here are the most common ones.",
+    "means": [
+      {"def": "Name: Hi, I'm... / My name is...", "en": "Hi, I'm Ali.", "t": "(your name)"},
+      {"def": "Origin: I'm from...", "en": "I'm from Turkey.", "t": "(where from)"},
+      {"def": "Job/student: I'm a... / I work as...", "en": "I'm a student.", "t": "(your job)"},
+      {"def": "Age: I'm ... years old.", "en": "I'm 25 years old.", "t": "(your age)"},
+      {"def": "On meeting: Nice to meet you.", "en": "Nice to meet you!", "t": "(greeting)"}
+    ],
+    "relTitle": "Related phrases", "rel": ["how are you", "greetings", "thank you"],
+    "idiomTitle": "Phrases", "idioms": ["My name is...", "I'm from...", "Nice to meet you"],
+    "quizQ": "What do you say when meeting someone?", "quizA": ["Nice to meet you!", "Good night!", "You're welcome!"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Alltagsfloskeln", "title": "Sich auf Englisch vorstellen",
+    "metaDesc": "Sich auf Englisch vorstellen: Floskeln für Name, Herkunft, Beruf. Mit Beispielen — LinguaBattle.",
+    "lede": "Um sich auf Englisch <b>vorzustellen</b>, reichen ein paar einfache Floskeln: Name, Herkunft und was man macht. Hier die häufigsten.",
+    "means": [
+      {"def": "Name: Hi, I'm... / My name is...", "en": "Hi, I'm Ali.", "t": "(Name)"},
+      {"def": "Herkunft: I'm from...", "en": "I'm from Turkey.", "t": "(woher)"},
+      {"def": "Beruf/Student: I'm a... / I work as...", "en": "I'm a student.", "t": "(Beruf)"},
+      {"def": "Alter: I'm ... years old.", "en": "I'm 25 years old.", "t": "(Alter)"},
+      {"def": "Beim Treffen: Nice to meet you.", "en": "Nice to meet you!", "t": "(Begrüßung)"}
+    ],
+    "relTitle": "Verwandte Floskeln", "rel": ["how are you", "Begrüßungen", "thank you"],
+    "idiomTitle": "Wendungen", "idioms": ["My name is...", "I'm from...", "Nice to meet you"],
+    "quizQ": "Was sagt man beim Kennenlernen?", "quizA": ["Nice to meet you!", "Good night!", "You're welcome!"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "expressions courantes", "title": "Se présenter en anglais",
+    "metaDesc": "Se présenter en anglais : phrases pour le nom, l'origine, le métier. Avec exemples — LinguaBattle.",
+    "lede": "Pour <b>se présenter</b> en anglais, quelques phrases simples suffisent : ton nom, d'où tu viens et ce que tu fais. Voici les plus courantes.",
+    "means": [
+      {"def": "Nom : Hi, I'm... / My name is...", "en": "Hi, I'm Ali.", "t": "(nom)"},
+      {"def": "Origine : I'm from...", "en": "I'm from Turkey.", "t": "(d'où)"},
+      {"def": "Métier/étudiant : I'm a... / I work as...", "en": "I'm a student.", "t": "(métier)"},
+      {"def": "Âge : I'm ... years old.", "en": "I'm 25 years old.", "t": "(âge)"},
+      {"def": "En rencontrant : Nice to meet you.", "en": "Nice to meet you!", "t": "(salutation)"}
+    ],
+    "relTitle": "Expressions liées", "rel": ["how are you", "salutations", "thank you"],
+    "idiomTitle": "Expressions", "idioms": ["My name is...", "I'm from...", "Nice to meet you"],
+    "quizQ": "Que dit-on en rencontrant quelqu'un ?", "quizA": ["Nice to meet you!", "Good night!", "You're welcome!"], "quizOk": 0
+  },
+  "es": {
+    "pos": "expresiones cotidianas", "title": "Cómo presentarse en inglés",
+    "metaDesc": "Presentarse en inglés: frases para el nombre, el origen, el trabajo. Con ejemplos — LinguaBattle.",
+    "lede": "Para <b>presentarte</b> en inglés, bastan unas frases simples: tu nombre, de dónde eres y a qué te dedicas. Aquí las más comunes.",
+    "means": [
+      {"def": "Nombre: Hi, I'm... / My name is...", "en": "Hi, I'm Ali.", "t": "(nombre)"},
+      {"def": "Origen: I'm from...", "en": "I'm from Turkey.", "t": "(de dónde)"},
+      {"def": "Trabajo/estudiante: I'm a... / I work as...", "en": "I'm a student.", "t": "(trabajo)"},
+      {"def": "Edad: I'm ... years old.", "en": "I'm 25 years old.", "t": "(edad)"},
+      {"def": "Al conocer: Nice to meet you.", "en": "Nice to meet you!", "t": "(saludo)"}
+    ],
+    "relTitle": "Expresiones relacionadas", "rel": ["how are you", "saludos", "thank you"],
+    "idiomTitle": "Expresiones", "idioms": ["My name is...", "I'm from...", "Nice to meet you"],
+    "quizQ": "¿Qué se dice al conocer a alguien?", "quizA": ["Nice to meet you!", "Good night!", "You're welcome!"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "عبارات يومية", "title": "كيف تُعرّف عن نفسك بالإنجليزية",
+    "metaDesc": "التعريف بالنفس بالإنجليزية: عبارات للاسم والبلد والعمل. مع أمثلة — LinguaBattle.",
+    "lede": "لـ<b>تعرّف عن نفسك</b> بالإنجليزية، تكفي بضع عبارات بسيطة: اسمك، من أين أنت، وماذا تعمل. إليك أكثرها شيوعًا.",
+    "means": [
+      {"def": "الاسم: Hi, I'm... / My name is...", "en": "Hi, I'm Ali.", "t": "(الاسم)"},
+      {"def": "البلد: I'm from...", "en": "I'm from Turkey.", "t": "(من أين)"},
+      {"def": "العمل/طالب: I'm a... / I work as...", "en": "I'm a student.", "t": "(العمل)"},
+      {"def": "العمر: I'm ... years old.", "en": "I'm 25 years old.", "t": "(العمر)"},
+      {"def": "عند اللقاء: Nice to meet you.", "en": "Nice to meet you!", "t": "(تحية)"}
+    ],
+    "relTitle": "عبارات ذات صلة", "rel": ["how are you", "التحيات", "thank you"],
+    "idiomTitle": "عبارات", "idioms": ["My name is...", "I'm from...", "Nice to meet you"],
+    "quizQ": "ماذا تقول عند التعارف؟", "quizA": ["Nice to meet you!", "Good night!", "You're welcome!"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "रोज़मर्रा वाक्यांश", "title": "अंग्रेज़ी में अपना परिचय कैसे दें",
+    "metaDesc": "अंग्रेज़ी में अपना परिचय: नाम, कहाँ से, काम बताने के वाक्यांश। उदाहरणों सहित — LinguaBattle.",
+    "lede": "अंग्रेज़ी में <b>अपना परिचय</b> देने के लिए कुछ आसान वाक्यांश काफ़ी हैं: नाम, कहाँ से हैं और क्या करते हैं। यहाँ सबसे आम वाक्यांश हैं।",
+    "means": [
+      {"def": "नाम: Hi, I'm... / My name is...", "en": "Hi, I'm Ali.", "t": "(नाम)"},
+      {"def": "कहाँ से: I'm from...", "en": "I'm from Turkey.", "t": "(कहाँ से)"},
+      {"def": "काम/छात्र: I'm a... / I work as...", "en": "I'm a student.", "t": "(काम)"},
+      {"def": "उम्र: I'm ... years old.", "en": "I'm 25 years old.", "t": "(उम्र)"},
+      {"def": "मिलने पर: Nice to meet you.", "en": "Nice to meet you!", "t": "(अभिवादन)"}
+    ],
+    "relTitle": "संबंधित वाक्यांश", "rel": ["how are you", "अभिवादन", "thank you"],
+    "idiomTitle": "वाक्यांश", "idioms": ["My name is...", "I'm from...", "Nice to meet you"],
+    "quizQ": "किसी से मिलते समय क्या कहते हैं?", "quizA": ["Nice to meet you!", "Good night!", "You're welcome!"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "повседневные фразы", "title": "Как представить себя по-английски",
+    "metaDesc": "Представить себя по-английски: фразы для имени, откуда вы, профессии. С примерами — LinguaBattle.",
+    "lede": "Чтобы <b>представить себя</b> по-английски, хватит нескольких простых фраз: имя, откуда вы и чем занимаетесь. Вот самые частые.",
+    "means": [
+      {"def": "Имя: Hi, I'm... / My name is...", "en": "Hi, I'm Ali.", "t": "(имя)"},
+      {"def": "Откуда: I'm from...", "en": "I'm from Turkey.", "t": "(откуда)"},
+      {"def": "Работа/студент: I'm a... / I work as...", "en": "I'm a student.", "t": "(работа)"},
+      {"def": "Возраст: I'm ... years old.", "en": "I'm 25 years old.", "t": "(возраст)"},
+      {"def": "При знакомстве: Nice to meet you.", "en": "Nice to meet you!", "t": "(приветствие)"}
+    ],
+    "relTitle": "Связанные фразы", "rel": ["how are you", "приветствия", "thank you"],
+    "idiomTitle": "Выражения", "idioms": ["My name is...", "I'm from...", "Nice to meet you"],
+    "quizQ": "Что говорят при знакомстве?", "quizA": ["Nice to meet you!", "Good night!", "You're welcome!"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "expressões do dia a dia", "title": "Como se apresentar em inglês",
+    "metaDesc": "Apresentar-se em inglês: frases para o nome, de onde é, profissão. Com exemplos — LinguaBattle.",
+    "lede": "Para <b>se apresentar</b> em inglês, bastam algumas frases simples: seu nome, de onde é e o que faz. Aqui as mais comuns.",
+    "means": [
+      {"def": "Nome: Hi, I'm... / My name is...", "en": "Hi, I'm Ali.", "t": "(nome)"},
+      {"def": "Origem: I'm from...", "en": "I'm from Turkey.", "t": "(de onde)"},
+      {"def": "Trabalho/estudante: I'm a... / I work as...", "en": "I'm a student.", "t": "(trabalho)"},
+      {"def": "Idade: I'm ... years old.", "en": "I'm 25 years old.", "t": "(idade)"},
+      {"def": "Ao conhecer: Nice to meet you.", "en": "Nice to meet you!", "t": "(saudação)"}
+    ],
+    "relTitle": "Expressões relacionadas", "rel": ["how are you", "saudações", "thank you"],
+    "idiomTitle": "Expressões", "idioms": ["My name is...", "I'm from...", "Nice to meet you"],
+    "quizQ": "O que se diz ao conhecer alguém?", "quizA": ["Nice to meet you!", "Good night!", "You're welcome!"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "日常フレーズ", "title": "英語での自己紹介",
+    "metaDesc": "英語での自己紹介：名前・出身・仕事を言うフレーズ。例文付き — LinguaBattle.",
+    "lede": "英語で<b>自己紹介</b>するには、いくつかの簡単なフレーズで十分：名前、出身、何をしているか。よく使うものを紹介。",
+    "means": [
+      {"def": "名前: Hi, I'm... / My name is...", "en": "Hi, I'm Ali.", "t": "（名前）"},
+      {"def": "出身: I'm from...", "en": "I'm from Turkey.", "t": "（出身）"},
+      {"def": "仕事/学生: I'm a... / I work as...", "en": "I'm a student.", "t": "（仕事）"},
+      {"def": "年齢: I'm ... years old.", "en": "I'm 25 years old.", "t": "（年齢）"},
+      {"def": "出会ったとき: Nice to meet you.", "en": "Nice to meet you!", "t": "（あいさつ）"}
+    ],
+    "relTitle": "関連フレーズ", "rel": ["how are you", "あいさつ", "thank you"],
+    "idiomTitle": "フレーズ", "idioms": ["My name is...", "I'm from...", "Nice to meet you"],
+    "quizQ": "人と出会ったとき何と言う？", "quizA": ["Nice to meet you!", "Good night!", "You're welcome!"], "quizOk": 0
+  }
+}

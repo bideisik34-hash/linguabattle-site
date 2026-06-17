@@ -1,0 +1,135 @@
+{
+  "word": "library",
+  "pron": "/ˈlaɪbrəri/",
+  "category": "confusing",
+  "tr": {
+    "pos": "isim", "title": "library ne demek? (yaygın tuzak)",
+    "metaDesc": "library ne demek? 'Kitapçı' değil, 'kütüphane'. En çok karıştırılan kelime — LinguaBattle.",
+    "lede": "<b>library</b> bir tuzaktır: birçok dilde “kitapçı” (kitap satılan dükkân) sanılır ama aslında <b>“kütüphane”</b> (kitap ödünç alınan yer) demektir. (“Kitapçı” = bookshop / bookstore.)",
+    "means": [
+      {"def": "kütüphane (kitap ödünç alınan yer)", "en": "I study at the library.", "t": "Kütüphanede ders çalışırım."},
+      {"def": "kitaplık, koleksiyon", "en": "a large music library", "t": "büyük bir müzik kitaplığı"},
+      {"def": "TUZAK: 'kitapçı' DEĞİL → bookshop", "en": "I bought it at a bookshop. (NOT library)", "t": "Onu kitapçıdan aldım. (library değil, bookshop)"}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["library vs bookshop", "borrow vs buy", "library vs bookstore"],
+    "idiomTitle": "Kalıplar", "idioms": ["public library", "at the library", "library card"],
+    "quizQ": "“at the library” ne demek?", "quizA": ["Kütüphanede", "Kitapçıda", "Markette"], "quizOk": 0
+  },
+  "en": {
+    "pos": "noun", "title": "What does library mean? (common trap)",
+    "metaDesc": "What does library mean? Not 'bookshop' — it's where you borrow books. A top false-friend — LinguaBattle.",
+    "lede": "<b>library</b> is a trap: in many languages a similar word means “bookshop”, but a library is <b>where you borrow books</b>, not buy them. (To buy books → bookshop / bookstore.)",
+    "means": [
+      {"def": "a library (you borrow books)", "en": "I study at the library.", "t": "(borrow)"},
+      {"def": "a collection (e.g. of music)", "en": "a large music library", "t": "(collection)"},
+      {"def": "TRAP: NOT 'bookshop' → use bookshop", "en": "I bought it at a bookshop. (NOT library)", "t": "(bookshop = buy)"}
+    ],
+    "relTitle": "Often confused", "rel": ["library vs bookshop", "borrow vs buy", "library vs bookstore"],
+    "idiomTitle": "Phrases", "idioms": ["public library", "at the library", "library card"],
+    "quizQ": "What does “at the library” mean?", "quizA": ["At the (book-borrowing) library", "At the bookshop", "At the market"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Substantiv", "title": "Was bedeutet library? (häufige Falle)",
+    "metaDesc": "Was bedeutet library? Nicht 'Buchhandlung' — sondern 'Bibliothek'. False Friend — LinguaBattle.",
+    "lede": "<b>library</b> ist eine Falle: es heißt NICHT „Buchhandlung“! Es bedeutet <b>„Bibliothek“</b> (wo man Bücher ausleiht). (Buchhandlung → bookshop / bookstore.)",
+    "means": [
+      {"def": "Bibliothek (Bücher ausleihen)", "en": "I study at the library.", "t": "(Bibliothek)"},
+      {"def": "Sammlung (z. B. Musik)", "en": "a large music library", "t": "(Sammlung)"},
+      {"def": "FALLE: NICHT 'Buchhandlung' → bookshop", "en": "I bought it at a bookshop. (NOT library)", "t": "(Buchhandlung = bookshop)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["library vs bookshop", "borrow vs buy", "library vs bookstore"],
+    "idiomTitle": "Wendungen", "idioms": ["public library", "at the library", "library card"],
+    "quizQ": "Was bedeutet „at the library“?", "quizA": ["In der Bibliothek", "In der Buchhandlung", "Auf dem Markt"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "nom", "title": "Que signifie library ? (piège courant)",
+    "metaDesc": "Que signifie library ? Pas 'librairie' — mais 'bibliothèque'. Faux ami classique — LinguaBattle.",
+    "lede": "<b>library</b> est un faux ami célèbre : ce n'est PAS « librairie » ! C'est une <b>« bibliothèque »</b> (où on emprunte des livres). (Librairie → bookshop / bookstore.)",
+    "means": [
+      {"def": "bibliothèque (on emprunte des livres)", "en": "I study at the library.", "t": "(bibliothèque)"},
+      {"def": "collection (ex. de musique)", "en": "a large music library", "t": "(collection)"},
+      {"def": "PIÈGE : PAS 'librairie' → bookshop", "en": "I bought it at a bookshop. (NOT library)", "t": "(librairie = bookshop)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["library vs bookshop", "borrow vs buy", "library vs bookstore"],
+    "idiomTitle": "Expressions", "idioms": ["public library", "at the library", "library card"],
+    "quizQ": "Que veut dire « at the library » ?", "quizA": ["À la bibliothèque", "À la librairie", "Au marché"], "quizOk": 0
+  },
+  "es": {
+    "pos": "sustantivo", "title": "¿Qué significa library? (trampa común)",
+    "metaDesc": "¿Qué significa library? No 'librería' — sino 'biblioteca'. Falso amigo clásico — LinguaBattle.",
+    "lede": "<b>library</b> es un falso amigo famoso: ¡NO es «librería»! Es una <b>«biblioteca»</b> (donde se prestan libros). (Librería → bookshop / bookstore.)",
+    "means": [
+      {"def": "biblioteca (se prestan libros)", "en": "I study at the library.", "t": "(biblioteca)"},
+      {"def": "colección (p. ej. de música)", "en": "a large music library", "t": "(colección)"},
+      {"def": "TRAMPA: NO 'librería' → bookshop", "en": "I bought it at a bookshop. (NOT library)", "t": "(librería = bookshop)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["library vs bookshop", "borrow vs buy", "library vs bookstore"],
+    "idiomTitle": "Expresiones", "idioms": ["public library", "at the library", "library card"],
+    "quizQ": "¿Qué significa «at the library»?", "quizA": ["En la biblioteca", "En la librería", "En el mercado"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "اسم", "title": "ماذا تعني library؟ (فخّ شائع)",
+    "metaDesc": "ماذا تعني library؟ ليست 'مكتبة لبيع الكتب' — بل 'مكتبة للإعارة'. خطأ شائع — LinguaBattle.",
+    "lede": "<b>library</b> فخّ: تعني <b>«مكتبة عامة»</b> (تستعير منها الكتب)، وليست متجرًا لبيع الكتب. (متجر الكتب → bookshop / bookstore.)",
+    "means": [
+      {"def": "مكتبة عامة (للإعارة)", "en": "I study at the library.", "t": "(مكتبة عامة)"},
+      {"def": "مجموعة (مثلًا موسيقية)", "en": "a large music library", "t": "(مجموعة)"},
+      {"def": "فخّ: ليست 'متجر كتب' → bookshop", "en": "I bought it at a bookshop. (NOT library)", "t": "(متجر الكتب = bookshop)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["library vs bookshop", "borrow vs buy", "library vs bookstore"],
+    "idiomTitle": "عبارات", "idioms": ["public library", "at the library", "library card"],
+    "quizQ": "ماذا تعني «at the library»؟", "quizA": ["في المكتبة العامة", "في متجر الكتب", "في السوق"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "संज्ञा", "title": "library का क्या मतलब है? (आम ग़लती)",
+    "metaDesc": "library का क्या मतलब है? 'किताब की दुकान' नहीं — बल्कि 'पुस्तकालय'। आम भ्रम — LinguaBattle.",
+    "lede": "<b>library</b> एक जाल है: इसका मतलब 'किताब की दुकान' नहीं! इसका मतलब है <b>'पुस्तकालय'</b> (जहाँ किताबें उधार ली जाती हैं)। ('किताब की दुकान' → bookshop।)",
+    "means": [
+      {"def": "पुस्तकालय (किताबें उधार लेना)", "en": "I study at the library.", "t": "(पुस्तकालय)"},
+      {"def": "संग्रह (जैसे संगीत का)", "en": "a large music library", "t": "(संग्रह)"},
+      {"def": "जाल: 'किताब की दुकान' नहीं → bookshop", "en": "I bought it at a bookshop. (NOT library)", "t": "(दुकान = bookshop)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["library vs bookshop", "borrow vs buy", "library vs bookstore"],
+    "idiomTitle": "वाक्यांश", "idioms": ["public library", "at the library", "library card"],
+    "quizQ": "“at the library” का क्या अर्थ है?", "quizA": ["पुस्तकालय में", "किताब की दुकान में", "बाज़ार में"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "существительное", "title": "Что значит library? (частая ловушка)",
+    "metaDesc": "Что значит library? Не 'книжный магазин' — а 'библиотека'. Частая ошибка — LinguaBattle.",
+    "lede": "<b>library</b> — ловушка: это <b>«библиотека»</b> (где книги берут на время), а НЕ книжный магазин. (Магазин → bookshop / bookstore.)",
+    "means": [
+      {"def": "библиотека (книги берут на время)", "en": "I study at the library.", "t": "(библиотека)"},
+      {"def": "коллекция (напр. музыки)", "en": "a large music library", "t": "(коллекция)"},
+      {"def": "ЛОВУШКА: НЕ 'магазин' → bookshop", "en": "I bought it at a bookshop. (NOT library)", "t": "(магазин = bookshop)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["library vs bookshop", "borrow vs buy", "library vs bookstore"],
+    "idiomTitle": "Выражения", "idioms": ["public library", "at the library", "library card"],
+    "quizQ": "Что значит «at the library»?", "quizA": ["В библиотеке", "В книжном магазине", "На рынке"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "substantivo", "title": "O que significa library? (armadilha comum)",
+    "metaDesc": "O que significa library? Não 'livraria' — mas 'biblioteca'. Falso cognato clássico — LinguaBattle.",
+    "lede": "<b>library</b> é um falso cognato famoso: NÃO é «livraria»! É uma <b>«biblioteca»</b> (onde se emprestam livros). (Livraria → bookshop / bookstore.)",
+    "means": [
+      {"def": "biblioteca (emprestam-se livros)", "en": "I study at the library.", "t": "(biblioteca)"},
+      {"def": "coleção (ex. de música)", "en": "a large music library", "t": "(coleção)"},
+      {"def": "ARMADILHA: NÃO 'livraria' → bookshop", "en": "I bought it at a bookshop. (NOT library)", "t": "(livraria = bookshop)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["library vs bookshop", "borrow vs buy", "library vs bookstore"],
+    "idiomTitle": "Expressões", "idioms": ["public library", "at the library", "library card"],
+    "quizQ": "O que significa «at the library»?", "quizA": ["Na biblioteca", "Na livraria", "No mercado"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "名詞", "title": "libraryの意味は？（よくある罠）",
+    "metaDesc": "libraryの意味は？「書店」ではなく「図書館」。よくある誤用 — LinguaBattle.",
+    "lede": "<b>library</b> は罠：「書店」ではない！意味は<b>「図書館」</b>（本を借りる場所）。（書店は bookshop / bookstore。）",
+    "means": [
+      {"def": "図書館（本を借りる）", "en": "I study at the library.", "t": "（図書館）"},
+      {"def": "コレクション（例：音楽の）", "en": "a large music library", "t": "（コレクション）"},
+      {"def": "罠：「書店」ではない → bookshop", "en": "I bought it at a bookshop. (NOT library)", "t": "（書店 = bookshop）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["library vs bookshop", "borrow vs buy", "library vs bookstore"],
+    "idiomTitle": "フレーズ", "idioms": ["public library", "at the library", "library card"],
+    "quizQ": "「at the library」の意味は？", "quizA": ["図書館で", "書店で", "市場で"], "quizOk": 0
+  }
+}

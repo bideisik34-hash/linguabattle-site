@@ -1,0 +1,145 @@
+{
+  "word": "good morning / good night",
+  "pron": "/ɡʊd ˈmɔːnɪŋ, ɡʊd naɪt/",
+  "category": "phrases",
+  "tr": {
+    "pos": "günlük kalıp", "title": "Günaydın / iyi geceler İngilizce",
+    "metaDesc": "Günaydın iyi geceler İngilizce: good morning, good night ve günün selamları. Okunuşuyla — LinguaBattle.",
+    "lede": "İngilizcede günün saatine göre selamlar değişir. <b>Good morning</b> (günaydın), <b>good night</b> (iyi geceler) ve aradakiler — işte hepsi.",
+    "means": [
+      {"def": "Good morning. (günaydın — sabah)", "en": "Good morning!", "t": "Günaydın!"},
+      {"def": "Good afternoon. (öğleden sonra)", "en": "Good afternoon!", "t": "İyi günler! (öğleden sonra)"},
+      {"def": "Good evening. (akşam selamı)", "en": "Good evening!", "t": "İyi akşamlar!"},
+      {"def": "Good night. (iyi geceler — vedalaşma/uyku)", "en": "Good night!", "t": "İyi geceler!"}
+    ],
+    "relTitle": "İlgili kalıplar", "rel": ["nasılsın (how are you)", "selamlaşma (greetings)", "hoşça kal (goodbye)"],
+    "idiomTitle": "Kalıplar", "idioms": ["Good morning", "Good night", "Have a nice day"],
+    "quizQ": "Gece yatarken ne denir?", "quizA": ["Good night!", "Good morning!", "Good afternoon!"], "quizOk": 0
+  },
+  "en": {
+    "pos": "everyday phrases", "title": "Good morning / good night in English",
+    "metaDesc": "Good morning, good night and greetings by time of day, with pronunciation — LinguaBattle.",
+    "lede": "English greetings change with the time of day. <b>Good morning</b>, <b>good night</b> and everything in between — here they all are.",
+    "means": [
+      {"def": "Good morning. (in the morning)", "en": "Good morning!", "t": "(morning)"},
+      {"def": "Good afternoon. (after noon)", "en": "Good afternoon!", "t": "(afternoon)"},
+      {"def": "Good evening. (in the evening)", "en": "Good evening!", "t": "(evening)"},
+      {"def": "Good night. (goodbye / before sleep)", "en": "Good night!", "t": "(night/sleep)"}
+    ],
+    "relTitle": "Related phrases", "rel": ["how are you", "greetings", "goodbye"],
+    "idiomTitle": "Phrases", "idioms": ["Good morning", "Good night", "Have a nice day"],
+    "quizQ": "What do you say before sleeping?", "quizA": ["Good night!", "Good morning!", "Good afternoon!"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Alltagsfloskeln", "title": "Good morning / good night auf Englisch",
+    "metaDesc": "Good morning, good night und Begrüßungen nach Tageszeit, mit Aussprache — LinguaBattle.",
+    "lede": "Englische Begrüßungen ändern sich je nach Tageszeit. <b>Good morning</b>, <b>good night</b> und alles dazwischen — hier sind sie alle.",
+    "means": [
+      {"def": "Good morning. (morgens)", "en": "Good morning!", "t": "(morgens)"},
+      {"def": "Good afternoon. (nachmittags)", "en": "Good afternoon!", "t": "(nachmittags)"},
+      {"def": "Good evening. (abends)", "en": "Good evening!", "t": "(abends)"},
+      {"def": "Good night. (Abschied / vor dem Schlafen)", "en": "Good night!", "t": "(nachts)"}
+    ],
+    "relTitle": "Verwandte Floskeln", "rel": ["how are you", "Begrüßungen", "goodbye"],
+    "idiomTitle": "Wendungen", "idioms": ["Good morning", "Good night", "Have a nice day"],
+    "quizQ": "Was sagt man vor dem Schlafen?", "quizA": ["Good night!", "Good morning!", "Good afternoon!"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "expressions courantes", "title": "Good morning / good night en anglais",
+    "metaDesc": "Good morning, good night et salutations selon l'heure, avec prononciation — LinguaBattle.",
+    "lede": "Les salutations anglaises changent selon l'heure de la journée. <b>Good morning</b>, <b>good night</b> et tout le reste — les voici.",
+    "means": [
+      {"def": "Good morning. (le matin)", "en": "Good morning!", "t": "(matin)"},
+      {"def": "Good afternoon. (l'après-midi)", "en": "Good afternoon!", "t": "(après-midi)"},
+      {"def": "Good evening. (le soir)", "en": "Good evening!", "t": "(soir)"},
+      {"def": "Good night. (au revoir / avant de dormir)", "en": "Good night!", "t": "(nuit)"}
+    ],
+    "relTitle": "Expressions liées", "rel": ["how are you", "salutations", "goodbye"],
+    "idiomTitle": "Expressions", "idioms": ["Good morning", "Good night", "Have a nice day"],
+    "quizQ": "Que dit-on avant de dormir ?", "quizA": ["Good night!", "Good morning!", "Good afternoon!"], "quizOk": 0
+  },
+  "es": {
+    "pos": "expresiones cotidianas", "title": "Good morning / good night en inglés",
+    "metaDesc": "Good morning, good night y saludos según la hora, con pronunciación — LinguaBattle.",
+    "lede": "Los saludos en inglés cambian según la hora del día. <b>Good morning</b>, <b>good night</b> y todo lo demás — aquí están.",
+    "means": [
+      {"def": "Good morning. (por la mañana)", "en": "Good morning!", "t": "(mañana)"},
+      {"def": "Good afternoon. (por la tarde)", "en": "Good afternoon!", "t": "(tarde)"},
+      {"def": "Good evening. (al anochecer)", "en": "Good evening!", "t": "(noche temprana)"},
+      {"def": "Good night. (despedida / antes de dormir)", "en": "Good night!", "t": "(noche)"}
+    ],
+    "relTitle": "Expresiones relacionadas", "rel": ["how are you", "saludos", "goodbye"],
+    "idiomTitle": "Expresiones", "idioms": ["Good morning", "Good night", "Have a nice day"],
+    "quizQ": "¿Qué se dice antes de dormir?", "quizA": ["Good night!", "Good morning!", "Good afternoon!"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "عبارات يومية", "title": "صباح الخير / تصبح على خير بالإنجليزية",
+    "metaDesc": "Good morning, good night وتحيات حسب وقت اليوم، مع النطق — LinguaBattle.",
+    "lede": "تتغيّر التحيات الإنجليزية حسب وقت اليوم. <b>Good morning</b>، <b>good night</b> وكل ما بينهما — إليك جميعها.",
+    "means": [
+      {"def": "Good morning. (صباحًا)", "en": "Good morning!", "t": "(صباحًا)"},
+      {"def": "Good afternoon. (بعد الظهر)", "en": "Good afternoon!", "t": "(بعد الظهر)"},
+      {"def": "Good evening. (مساءً)", "en": "Good evening!", "t": "(مساءً)"},
+      {"def": "Good night. (وداعًا / قبل النوم)", "en": "Good night!", "t": "(ليلًا)"}
+    ],
+    "relTitle": "عبارات ذات صلة", "rel": ["how are you", "التحيات", "goodbye"],
+    "idiomTitle": "عبارات", "idioms": ["Good morning", "Good night", "Have a nice day"],
+    "quizQ": "ماذا تقول قبل النوم؟", "quizA": ["Good night!", "Good morning!", "Good afternoon!"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "रोज़मर्रा वाक्यांश", "title": "Good morning / good night अंग्रेज़ी में",
+    "metaDesc": "Good morning, good night और दिन के समय के अनुसार अभिवादन, उच्चारण सहित — LinguaBattle.",
+    "lede": "अंग्रेज़ी अभिवादन दिन के समय के साथ बदलते हैं। <b>Good morning</b>, <b>good night</b> और बीच के सब — यहाँ सब हैं।",
+    "means": [
+      {"def": "Good morning. (सुबह)", "en": "Good morning!", "t": "(सुबह)"},
+      {"def": "Good afternoon. (दोपहर)", "en": "Good afternoon!", "t": "(दोपहर)"},
+      {"def": "Good evening. (शाम)", "en": "Good evening!", "t": "(शाम)"},
+      {"def": "Good night. (विदाई / सोने से पहले)", "en": "Good night!", "t": "(रात)"}
+    ],
+    "relTitle": "संबंधित वाक्यांश", "rel": ["how are you", "अभिवादन", "goodbye"],
+    "idiomTitle": "वाक्यांश", "idioms": ["Good morning", "Good night", "Have a nice day"],
+    "quizQ": "सोने से पहले क्या कहते हैं?", "quizA": ["Good night!", "Good morning!", "Good afternoon!"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "повседневные фразы", "title": "Good morning / good night по-английски",
+    "metaDesc": "Good morning, good night и приветствия по времени суток, с произношением — LinguaBattle.",
+    "lede": "Английские приветствия меняются в зависимости от времени суток. <b>Good morning</b>, <b>good night</b> и всё между ними — вот они все.",
+    "means": [
+      {"def": "Good morning. (утром)", "en": "Good morning!", "t": "(утро)"},
+      {"def": "Good afternoon. (днём)", "en": "Good afternoon!", "t": "(день)"},
+      {"def": "Good evening. (вечером)", "en": "Good evening!", "t": "(вечер)"},
+      {"def": "Good night. (прощание / перед сном)", "en": "Good night!", "t": "(ночь)"}
+    ],
+    "relTitle": "Связанные фразы", "rel": ["how are you", "приветствия", "goodbye"],
+    "idiomTitle": "Выражения", "idioms": ["Good morning", "Good night", "Have a nice day"],
+    "quizQ": "Что говорят перед сном?", "quizA": ["Good night!", "Good morning!", "Good afternoon!"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "expressões do dia a dia", "title": "Good morning / good night em inglês",
+    "metaDesc": "Good morning, good night e saudações por hora do dia, com pronúncia — LinguaBattle.",
+    "lede": "As saudações em inglês mudam conforme a hora do dia. <b>Good morning</b>, <b>good night</b> e tudo no meio — aqui estão todas.",
+    "means": [
+      {"def": "Good morning. (de manhã)", "en": "Good morning!", "t": "(manhã)"},
+      {"def": "Good afternoon. (à tarde)", "en": "Good afternoon!", "t": "(tarde)"},
+      {"def": "Good evening. (à noite, cedo)", "en": "Good evening!", "t": "(início da noite)"},
+      {"def": "Good night. (despedida / antes de dormir)", "en": "Good night!", "t": "(noite)"}
+    ],
+    "relTitle": "Expressões relacionadas", "rel": ["how are you", "saudações", "goodbye"],
+    "idiomTitle": "Expressões", "idioms": ["Good morning", "Good night", "Have a nice day"],
+    "quizQ": "O que se diz antes de dormir?", "quizA": ["Good night!", "Good morning!", "Good afternoon!"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "日常フレーズ", "title": "Good morning / good night（英語のあいさつ）",
+    "metaDesc": "Good morning, good night と時間帯ごとのあいさつを発音付きで — LinguaBattle.",
+    "lede": "英語のあいさつは時間帯で変わる。<b>Good morning</b>、<b>good night</b>、その間のすべてを紹介。",
+    "means": [
+      {"def": "Good morning.（朝）", "en": "Good morning!", "t": "（朝）"},
+      {"def": "Good afternoon.（午後）", "en": "Good afternoon!", "t": "（午後）"},
+      {"def": "Good evening.（夕方・夜）", "en": "Good evening!", "t": "（夕方）"},
+      {"def": "Good night.（別れ / 寝る前）", "en": "Good night!", "t": "（夜・就寝）"}
+    ],
+    "relTitle": "関連フレーズ", "rel": ["how are you", "あいさつ", "goodbye"],
+    "idiomTitle": "フレーズ", "idioms": ["Good morning", "Good night", "Have a nice day"],
+    "quizQ": "寝る前に何と言う？", "quizA": ["Good night!", "Good morning!", "Good afternoon!"], "quizOk": 0
+  }
+}

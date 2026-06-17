@@ -1,0 +1,145 @@
+{
+  "word": "will / going to",
+  "pron": "/wɪl, ˈɡoʊɪŋ tuː/",
+  "category": "grammar",
+  "tr": {
+    "pos": "gramer (gelecek)", "title": "will ve going to farkı (gelecek zaman)",
+    "metaDesc": "will vs going to farkı: gelecek zaman ne zaman will, ne zaman going to? Örneklerle — LinguaBattle.",
+    "lede": "İngilizcede gelecek için iki ana yapı var: <b>will</b> ve <b>be going to</b>. Kısaca: <b>will</b> anlık karar/tahmin, <b>going to</b> önceden planlanmış niyet/belirti için.",
+    "means": [
+      {"def": "will = anlık karar (o an verilen)", "en": "I'll help you.", "t": "Yardım edeyim/edeceğim. (şimdi karar verdim)"},
+      {"def": "going to = önceden plan/niyet", "en": "I'm going to study tonight.", "t": "Bu akşam çalışacağım. (planlıydı)"},
+      {"def": "will = tahmin (genel)", "en": "It will rain tomorrow.", "t": "Yarın yağmur yağacak."},
+      {"def": "going to = belirtiye dayalı tahmin", "en": "Look at those clouds — it's going to rain.", "t": "Şu bulutlara bak — yağmur yağacak."}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["will vs going to", "will vs shall", "present continuous (gelecek)"],
+    "idiomTitle": "Kurallar", "idioms": ["will → anlık karar", "going to → plan", "her ikisi → tahmin"],
+    "quizQ": "“Telefon çalıyor — I'll get it.” neden will?", "quizA": ["Anlık karar olduğu için", "Planlı olduğu için", "Geçmiş olduğu için"], "quizOk": 0
+  },
+  "en": {
+    "pos": "grammar (future)", "title": "Will vs going to: the difference",
+    "metaDesc": "Will vs going to difference: future tense, when to use will or going to? With examples — LinguaBattle.",
+    "lede": "English has two main ways to talk about the future: <b>will</b> and <b>be going to</b>. In short: <b>will</b> = spontaneous decision/prediction; <b>going to</b> = a prior plan/intention or evidence.",
+    "means": [
+      {"def": "will = a decision made now", "en": "I'll help you.", "t": "(decided just now)"},
+      {"def": "going to = a prior plan/intention", "en": "I'm going to study tonight.", "t": "(already planned)"},
+      {"def": "will = a general prediction", "en": "It will rain tomorrow.", "t": "(prediction)"},
+      {"def": "going to = prediction from evidence", "en": "Look at those clouds — it's going to rain.", "t": "(evidence now)"}
+    ],
+    "relTitle": "Often confused", "rel": ["will vs going to", "will vs shall", "present continuous (future)"],
+    "idiomTitle": "Rules", "idioms": ["will → spontaneous", "going to → plan", "both → prediction"],
+    "quizQ": "“The phone's ringing — I'll get it.” Why will?", "quizA": ["It's a spontaneous decision", "It's a plan", "It's past"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Grammatik (Zukunft)", "title": "Will vs going to: der Unterschied",
+    "metaDesc": "Unterschied will vs going to: Zukunft, wann will oder going to? Mit Beispielen — LinguaBattle.",
+    "lede": "Englisch hat zwei Hauptwege für die Zukunft: <b>will</b> und <b>be going to</b>. Kurz: <b>will</b> = spontane Entscheidung/Vorhersage; <b>going to</b> = vorheriger Plan/Absicht oder Anzeichen.",
+    "means": [
+      {"def": "will = jetzt getroffene Entscheidung", "en": "I'll help you.", "t": "(gerade entschieden)"},
+      {"def": "going to = vorheriger Plan/Absicht", "en": "I'm going to study tonight.", "t": "(schon geplant)"},
+      {"def": "will = allgemeine Vorhersage", "en": "It will rain tomorrow.", "t": "(Vorhersage)"},
+      {"def": "going to = Vorhersage aus Anzeichen", "en": "Look at those clouds — it's going to rain.", "t": "(Anzeichen)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["will vs going to", "will vs shall", "present continuous (Zukunft)"],
+    "idiomTitle": "Regeln", "idioms": ["will → spontan", "going to → Plan", "beide → Vorhersage"],
+    "quizQ": "„The phone's ringing — I'll get it.“ Warum will?", "quizA": ["Spontane Entscheidung", "Ein Plan", "Vergangenheit"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "grammaire (futur)", "title": "Will vs going to : la différence",
+    "metaDesc": "Différence will vs going to : futur, quand utiliser will ou going to ? Avec exemples — LinguaBattle.",
+    "lede": "L'anglais a deux façons principales d'exprimer le futur : <b>will</b> et <b>be going to</b>. En bref : <b>will</b> = décision spontanée/prédiction ; <b>going to</b> = plan/intention préalable ou indice.",
+    "means": [
+      {"def": "will = décision prise maintenant", "en": "I'll help you.", "t": "(décidé à l'instant)"},
+      {"def": "going to = plan/intention préalable", "en": "I'm going to study tonight.", "t": "(déjà prévu)"},
+      {"def": "will = prédiction générale", "en": "It will rain tomorrow.", "t": "(prédiction)"},
+      {"def": "going to = prédiction sur indice", "en": "Look at those clouds — it's going to rain.", "t": "(indice)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["will vs going to", "will vs shall", "present continuous (futur)"],
+    "idiomTitle": "Règles", "idioms": ["will → spontané", "going to → plan", "les deux → prédiction"],
+    "quizQ": "« The phone's ringing — I'll get it. » Pourquoi will ?", "quizA": ["Décision spontanée", "Un plan", "Du passé"], "quizOk": 0
+  },
+  "es": {
+    "pos": "gramática (futuro)", "title": "Will vs going to: la diferencia",
+    "metaDesc": "Diferencia will vs going to: futuro, ¿cuándo usar will o going to? Con ejemplos — LinguaBattle.",
+    "lede": "El inglés tiene dos formas principales para el futuro: <b>will</b> y <b>be going to</b>. En resumen: <b>will</b> = decisión espontánea/predicción; <b>going to</b> = plan/intención previa o evidencia.",
+    "means": [
+      {"def": "will = decisión tomada ahora", "en": "I'll help you.", "t": "(decidido ahora)"},
+      {"def": "going to = plan/intención previa", "en": "I'm going to study tonight.", "t": "(ya planeado)"},
+      {"def": "will = predicción general", "en": "It will rain tomorrow.", "t": "(predicción)"},
+      {"def": "going to = predicción con evidencia", "en": "Look at those clouds — it's going to rain.", "t": "(evidencia)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["will vs going to", "will vs shall", "present continuous (futuro)"],
+    "idiomTitle": "Reglas", "idioms": ["will → espontáneo", "going to → plan", "ambos → predicción"],
+    "quizQ": "«The phone's ringing — I'll get it.» ¿Por qué will?", "quizA": ["Decisión espontánea", "Un plan", "Es pasado"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "قواعد (المستقبل)", "title": "الفرق بين will و going to",
+    "metaDesc": "الفرق بين will vs going to: المستقبل، متى نستخدم will أو going to؟ مع أمثلة — LinguaBattle.",
+    "lede": "للإنجليزية طريقتان رئيسيتان للمستقبل: <b>will</b> و<b>be going to</b>. باختصار: <b>will</b> = قرار لحظي/توقّع؛ <b>going to</b> = خطة/نيّة مسبقة أو دليل.",
+    "means": [
+      {"def": "will = قرار يُتّخذ الآن", "en": "I'll help you.", "t": "(قررت للتو)"},
+      {"def": "going to = خطة/نيّة مسبقة", "en": "I'm going to study tonight.", "t": "(مخطّط مسبقًا)"},
+      {"def": "will = توقّع عام", "en": "It will rain tomorrow.", "t": "(توقّع)"},
+      {"def": "going to = توقّع من دليل", "en": "Look at those clouds — it's going to rain.", "t": "(دليل)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["will vs going to", "will vs shall", "present continuous (المستقبل)"],
+    "idiomTitle": "قواعد", "idioms": ["will → لحظي", "going to → خطة", "كلاهما → توقّع"],
+    "quizQ": "«The phone's ringing — I'll get it.» لماذا will؟", "quizA": ["قرار لحظي", "خطة", "ماضٍ"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "व्याकरण (भविष्य)", "title": "will और going to में अंतर",
+    "metaDesc": "will बनाम going to अंतर: भविष्य काल, कब will, कब going to? उदाहरणों सहित — LinguaBattle.",
+    "lede": "अंग्रेज़ी में भविष्य के दो मुख्य तरीके हैं: <b>will</b> और <b>be going to</b>। संक्षेप में: <b>will</b> = तुरंत लिया फ़ैसला/अनुमान; <b>going to</b> = पहले से योजना/इरादा या संकेत।",
+    "means": [
+      {"def": "will = अभी लिया गया फ़ैसला", "en": "I'll help you.", "t": "(अभी तय किया)"},
+      {"def": "going to = पहले से योजना/इरादा", "en": "I'm going to study tonight.", "t": "(पहले से तय)"},
+      {"def": "will = सामान्य अनुमान", "en": "It will rain tomorrow.", "t": "(अनुमान)"},
+      {"def": "going to = संकेत से अनुमान", "en": "Look at those clouds — it's going to rain.", "t": "(संकेत)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["will vs going to", "will vs shall", "present continuous (भविष्य)"],
+    "idiomTitle": "नियम", "idioms": ["will → तुरंत", "going to → योजना", "दोनों → अनुमान"],
+    "quizQ": "“The phone's ringing — I'll get it.” will क्यों?", "quizA": ["तुरंत लिया फ़ैसला", "एक योजना", "अतीत"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "грамматика (будущее)", "title": "Will vs going to: разница",
+    "metaDesc": "Разница will vs going to: будущее время, когда will, когда going to? С примерами — LinguaBattle.",
+    "lede": "В английском два основных способа выразить будущее: <b>will</b> и <b>be going to</b>. Коротко: <b>will</b> = спонтанное решение/прогноз; <b>going to</b> = заранее намеченный план/намерение или признак.",
+    "means": [
+      {"def": "will = решение, принятое сейчас", "en": "I'll help you.", "t": "(решил только что)"},
+      {"def": "going to = заранее намеченный план", "en": "I'm going to study tonight.", "t": "(уже запланировано)"},
+      {"def": "will = общий прогноз", "en": "It will rain tomorrow.", "t": "(прогноз)"},
+      {"def": "going to = прогноз по признакам", "en": "Look at those clouds — it's going to rain.", "t": "(признак)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["will vs going to", "will vs shall", "present continuous (будущее)"],
+    "idiomTitle": "Правила", "idioms": ["will → спонтанно", "going to → план", "оба → прогноз"],
+    "quizQ": "«The phone's ringing — I'll get it.» Почему will?", "quizA": ["Спонтанное решение", "План", "Прошлое"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "gramática (futuro)", "title": "Will vs going to: a diferença",
+    "metaDesc": "Diferença will vs going to: futuro, quando usar will ou going to? Com exemplos — LinguaBattle.",
+    "lede": "O inglês tem duas formas principais para o futuro: <b>will</b> e <b>be going to</b>. Em resumo: <b>will</b> = decisão espontânea/previsão; <b>going to</b> = plano/intenção prévia ou evidência.",
+    "means": [
+      {"def": "will = decisão tomada agora", "en": "I'll help you.", "t": "(decidido agora)"},
+      {"def": "going to = plano/intenção prévia", "en": "I'm going to study tonight.", "t": "(já planejado)"},
+      {"def": "will = previsão geral", "en": "It will rain tomorrow.", "t": "(previsão)"},
+      {"def": "going to = previsão por evidência", "en": "Look at those clouds — it's going to rain.", "t": "(evidência)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["will vs going to", "will vs shall", "present continuous (futuro)"],
+    "idiomTitle": "Regras", "idioms": ["will → espontâneo", "going to → plano", "ambos → previsão"],
+    "quizQ": "«The phone's ringing — I'll get it.» Por que will?", "quizA": ["Decisão espontânea", "Um plano", "É passado"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "文法 (未来)", "title": "will と going to の違い",
+    "metaDesc": "will と going to の違い：未来形、いつ will、いつ going to？例文付き — LinguaBattle.",
+    "lede": "英語の未来表現には主に2つ：<b>will</b> と <b>be going to</b>。要するに：<b>will</b> = その場の決定・予測；<b>going to</b> = 事前の計画・意図、または根拠。",
+    "means": [
+      {"def": "will = 今その場で決めたこと", "en": "I'll help you.", "t": "（今決めた）"},
+      {"def": "going to = 事前の計画・意図", "en": "I'm going to study tonight.", "t": "（前から予定）"},
+      {"def": "will = 一般的な予測", "en": "It will rain tomorrow.", "t": "（予測）"},
+      {"def": "going to = 根拠に基づく予測", "en": "Look at those clouds — it's going to rain.", "t": "（根拠あり）"}
+    ],
+    "relTitle": "混同しやすい点", "rel": ["will vs going to", "will vs shall", "present continuous (未来)"],
+    "idiomTitle": "ルール", "idioms": ["will → その場", "going to → 計画", "両方 → 予測"],
+    "quizQ": "「The phone's ringing — I'll get it.」なぜwill？", "quizA": ["その場の決定だから", "計画だから", "過去だから"], "quizOk": 0
+  }
+}

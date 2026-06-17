@@ -1,0 +1,135 @@
+{
+  "word": "assist",
+  "pron": "/əˈsɪst/",
+  "category": "confusing",
+  "tr": {
+    "pos": "fiil", "title": "assist ne demek? (yaygın tuzak)",
+    "metaDesc": "assist ne demek? 'Katılmak' değil, 'yardım etmek'. Yaygın hata (asistir/assister tuzağı) — LinguaBattle.",
+    "lede": "<b>assist</b> bir tuzaktır: bazı dillerde (İsp. <i>asistir</i>, Fr. <i>assister</i>) “katılmak” sanılır ama İngilizce'de <b>“yardım etmek, destek olmak”</b> demektir. (“Katılmak” = attend.)",
+    "means": [
+      {"def": "yardım etmek, destek olmak", "en": "Can you assist me?", "t": "Bana yardım edebilir misin?"},
+      {"def": "asist (spor: gol pası, isim)", "en": "a great assist", "t": "harika bir asist (gol pası)"},
+      {"def": "TUZAK: 'katılmak' DEĞİL → attend", "en": "I attended the meeting. (NOT assisted)", "t": "Toplantıya katıldım. (assist değil, attend)"}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["assist vs attend", "assist vs help", "attend vs join"],
+    "idiomTitle": "Kalıplar", "idioms": ["assist someone", "assist with", "an assist (spor)"],
+    "quizQ": "“Can you assist me?” ne demek?", "quizA": ["Bana yardım edebilir misin?", "Bana katılır mısın?", "Beni izler misin?"], "quizOk": 0
+  },
+  "en": {
+    "pos": "verb", "title": "What does assist mean? (common trap)",
+    "metaDesc": "What does assist mean? Not 'attend' — it means 'to help'. A common false-friend (asistir/assister) — LinguaBattle.",
+    "lede": "<b>assist</b> is a trap: in some languages a similar word (Sp. <i>asistir</i>, Fr. <i>assister</i>) means “to attend”, but in English it means <b>“to help, to support”</b>. (To attend = attend.)",
+    "means": [
+      {"def": "to help, support", "en": "Can you assist me?", "t": "(help)"},
+      {"def": "an assist (sport: a pass for a goal)", "en": "a great assist", "t": "(sports pass)"},
+      {"def": "TRAP: NOT 'attend' → use attend", "en": "I attended the meeting. (NOT assisted)", "t": "(attend ≠ assist)"}
+    ],
+    "relTitle": "Often confused", "rel": ["assist vs attend", "assist vs help", "attend vs join"],
+    "idiomTitle": "Phrases", "idioms": ["assist someone", "assist with", "an assist (sport)"],
+    "quizQ": "What does “Can you assist me?” mean?", "quizA": ["Can you help me?", "Can you attend me?", "Can you watch me?"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Verb", "title": "Was bedeutet assist? (häufige Falle)",
+    "metaDesc": "Was bedeutet assist? Nicht 'teilnehmen' — sondern 'helfen, unterstützen'. False Friend — LinguaBattle.",
+    "lede": "<b>assist</b> ist eine Falle: in manchen Sprachen heißt ein ähnliches Wort „teilnehmen“, aber im Englischen bedeutet es <b>„helfen, unterstützen“</b>. (Teilnehmen → attend.)",
+    "means": [
+      {"def": "helfen, unterstützen", "en": "Can you assist me?", "t": "(helfen)"},
+      {"def": "Vorlage (Sport: Pass zum Tor)", "en": "a great assist", "t": "(Vorlage)"},
+      {"def": "FALLE: NICHT 'teilnehmen' → attend", "en": "I attended the meeting. (NOT assisted)", "t": "(teilnehmen = attend)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["assist vs attend", "assist vs help", "attend vs join"],
+    "idiomTitle": "Wendungen", "idioms": ["assist someone", "assist with", "an assist (Sport)"],
+    "quizQ": "Was bedeutet „Can you assist me?“", "quizA": ["Kannst du mir helfen?", "Nimmst du an mir teil?", "Schaust du mir zu?"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "verbe", "title": "Que signifie assist ? (piège courant)",
+    "metaDesc": "Que signifie assist ? Pas 'assister (être présent)' — mais 'aider'. Faux ami — LinguaBattle.",
+    "lede": "<b>assist</b> est un faux ami : « assister » en français veut dire « être présent », mais en anglais assist signifie <b>« aider, assister (au sens d'aider) »</b>. (Être présent → attend.)",
+    "means": [
+      {"def": "aider, soutenir", "en": "Can you assist me?", "t": "(aider)"},
+      {"def": "une passe décisive (sport)", "en": "a great assist", "t": "(passe décisive)"},
+      {"def": "PIÈGE : PAS 'assister (présent)' → attend", "en": "I attended the meeting. (NOT assisted)", "t": "(assister = attend)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["assist vs attend", "assist vs help", "attend vs join"],
+    "idiomTitle": "Expressions", "idioms": ["assist someone", "assist with", "an assist (sport)"],
+    "quizQ": "Que veut dire « Can you assist me? »", "quizA": ["Peux-tu m'aider ?", "Peux-tu assister à moi ?", "Peux-tu me regarder ?"], "quizOk": 0
+  },
+  "es": {
+    "pos": "verbo", "title": "¿Qué significa assist? (trampa común)",
+    "metaDesc": "¿Qué significa assist? No 'asistir (acudir)' — sino 'ayudar'. Falso amigo (asistir) — LinguaBattle.",
+    "lede": "<b>assist</b> es un falso amigo: «asistir» en español significa «acudir/estar presente», pero en inglés assist significa <b>«ayudar, asistir (en el sentido de ayudar)»</b>. (Acudir → attend.)",
+    "means": [
+      {"def": "ayudar, asistir (ayudando)", "en": "Can you assist me?", "t": "(ayudar)"},
+      {"def": "una asistencia (deporte: pase de gol)", "en": "a great assist", "t": "(asistencia)"},
+      {"def": "TRAMPA: NO 'acudir' → attend", "en": "I attended the meeting. (NOT assisted)", "t": "(asistir/acudir = attend)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["assist vs attend", "assist vs help", "attend vs join"],
+    "idiomTitle": "Expresiones", "idioms": ["assist someone", "assist with", "an assist (deporte)"],
+    "quizQ": "¿Qué significa «Can you assist me?»", "quizA": ["¿Puedes ayudarme?", "¿Puedes acudir a mí?", "¿Puedes mirarme?"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "فعل", "title": "ماذا تعني assist؟ (فخّ شائع)",
+    "metaDesc": "ماذا تعني assist؟ ليست 'يحضر' — بل 'يساعد'. خطأ شائع — LinguaBattle.",
+    "lede": "<b>assist</b> فخّ: في بعض اللغات تعني كلمة مشابهة «يحضر»، لكن في الإنجليزية تعني <b>«يساعد، يدعم»</b>. (يحضر → attend.)",
+    "means": [
+      {"def": "يساعد، يدعم", "en": "Can you assist me?", "t": "(يساعد)"},
+      {"def": "تمريرة حاسمة (رياضة)", "en": "a great assist", "t": "(تمريرة حاسمة)"},
+      {"def": "فخّ: ليست 'يحضر' → attend", "en": "I attended the meeting. (NOT assisted)", "t": "(يحضر = attend)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["assist vs attend", "assist vs help", "attend vs join"],
+    "idiomTitle": "عبارات", "idioms": ["assist someone", "assist with", "an assist (رياضة)"],
+    "quizQ": "ماذا تعني «Can you assist me?»", "quizA": ["هل يمكنك مساعدتي؟", "هل يمكنك حضوري؟", "هل يمكنك مراقبتي؟"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "क्रिया", "title": "assist का क्या मतलब है? (आम ग़लती)",
+    "metaDesc": "assist का क्या मतलब है? 'उपस्थित होना' नहीं — बल्कि 'मदद करना'। आम भ्रम — LinguaBattle.",
+    "lede": "<b>assist</b> एक जाल है: कुछ भाषाओं में मिलता-जुलता शब्द 'उपस्थित होना' होता है, पर अंग्रेज़ी में इसका मतलब है <b>'मदद करना, सहायता करना'</b>। ('उपस्थित होना' → attend।)",
+    "means": [
+      {"def": "मदद करना, सहायता करना", "en": "Can you assist me?", "t": "(मदद करना)"},
+      {"def": "असिस्ट (खेल: गोल का पास)", "en": "a great assist", "t": "(असिस्ट)"},
+      {"def": "जाल: 'उपस्थित होना' नहीं → attend", "en": "I attended the meeting. (NOT assisted)", "t": "(उपस्थित होना = attend)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["assist vs attend", "assist vs help", "attend vs join"],
+    "idiomTitle": "वाक्यांश", "idioms": ["assist someone", "assist with", "an assist (खेल)"],
+    "quizQ": "“Can you assist me?” का क्या अर्थ है?", "quizA": ["क्या आप मेरी मदद कर सकते हैं?", "क्या आप मुझमें उपस्थित हो सकते हैं?", "क्या आप मुझे देख सकते हैं?"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "глагол", "title": "Что значит assist? (частая ловушка)",
+    "metaDesc": "Что значит assist? Не 'присутствовать' — а 'помогать'. Частая ошибка — LinguaBattle.",
+    "lede": "<b>assist</b> — ловушка: в некоторых языках похожее слово значит «присутствовать», но в английском оно значит <b>«помогать, содействовать»</b>. (Присутствовать → attend.)",
+    "means": [
+      {"def": "помогать, содействовать", "en": "Can you assist me?", "t": "(помогать)"},
+      {"def": "ассист (спорт: голевая передача)", "en": "a great assist", "t": "(ассист)"},
+      {"def": "ЛОВУШКА: НЕ 'присутствовать' → attend", "en": "I attended the meeting. (NOT assisted)", "t": "(присутствовать = attend)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["assist vs attend", "assist vs help", "attend vs join"],
+    "idiomTitle": "Выражения", "idioms": ["assist someone", "assist with", "an assist (спорт)"],
+    "quizQ": "Что значит «Can you assist me?»", "quizA": ["Можешь мне помочь?", "Можешь поприсутствовать?", "Можешь посмотреть на меня?"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "verbo", "title": "O que significa assist? (armadilha comum)",
+    "metaDesc": "O que significa assist? Não 'assistir (ver/comparecer)' — mas 'ajudar'. Falso cognato — LinguaBattle.",
+    "lede": "<b>assist</b> é um falso cognato: «assistir» em português significa «ver/comparecer», mas em inglês assist significa <b>«ajudar, auxiliar»</b>. (Comparecer → attend.)",
+    "means": [
+      {"def": "ajudar, auxiliar", "en": "Can you assist me?", "t": "(ajudar)"},
+      {"def": "uma assistência (esporte: passe de gol)", "en": "a great assist", "t": "(assistência)"},
+      {"def": "ARMADILHA: NÃO 'assistir (ver)' → attend", "en": "I attended the meeting. (NOT assisted)", "t": "(comparecer = attend)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["assist vs attend", "assist vs help", "attend vs join"],
+    "idiomTitle": "Expressões", "idioms": ["assist someone", "assist with", "an assist (esporte)"],
+    "quizQ": "O que significa «Can you assist me?»", "quizA": ["Você pode me ajudar?", "Você pode comparecer a mim?", "Você pode me assistir (ver)?"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "動詞", "title": "assistの意味は？（よくある罠）",
+    "metaDesc": "assistの意味は？「出席する」ではなく「手伝う、助ける」。よくある誤用 — LinguaBattle.",
+    "lede": "<b>assist</b> は罠：一部の言語では似た語が「出席する」を意味するが、英語では<b>「手伝う、助ける」</b>という意味。（出席する → attend。）",
+    "means": [
+      {"def": "手伝う、助ける", "en": "Can you assist me?", "t": "（手伝う）"},
+      {"def": "アシスト（スポーツ：得点の패ス）", "en": "a great assist", "t": "（アシスト）"},
+      {"def": "罠：「出席する」ではない → attend", "en": "I attended the meeting. (NOT assisted)", "t": "（出席する = attend）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["assist vs attend", "assist vs help", "attend vs join"],
+    "idiomTitle": "フレーズ", "idioms": ["assist someone", "assist with", "an assist (スポーツ)"],
+    "quizQ": "「Can you assist me?」の意味は？", "quizA": ["手伝ってくれますか？", "私に出席してくれますか？", "私を見てくれますか？"], "quizOk": 0
+  }
+}

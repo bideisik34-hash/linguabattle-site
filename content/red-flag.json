@@ -1,0 +1,125 @@
+{
+  "word": "red flag",
+  "pron": "/red flæɡ/",
+  "category": "genz",
+  "tr": {
+    "pos": "isim (argo)", "title": "red flag ne demek?",
+    "metaDesc": "red flag ne demek? Uzak durulması gereken uyarı işareti. green flag ile farkı, örneklerle — LinguaBattle.",
+    "lede": "<b>red flag</b> (kırmızı bayrak), bir kişide veya durumda “dikkat, tehlike” diyen <b>uyarı işareti</b> demektir. Tersi <b>green flag</b> (olumlu işaret).",
+    "means": [
+      {"def": "uyarı işareti, tehlike sinyali", "en": "Lying is a big red flag.", "t": "Yalan söylemek büyük bir uyarı işareti."},
+      {"def": "green flag = olumlu işaret (tersi)", "en": "Being kind is a green flag.", "t": "Nazik olmak olumlu bir işaret."}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["red flag vs green flag", "warning sign", "dealbreaker"],
+    "idiomTitle": "Kalıplar", "idioms": ["that's a red flag", "major red flag", "green flag"],
+    "quizQ": "“That's a red flag” ne demek?", "quizA": ["Bu bir uyarı işareti (kötüye işaret)", "Bu çok iyi", "Bu kırmızı bir bayrak"], "quizOk": 0
+  },
+  "en": {
+    "pos": "noun (slang)", "title": "What does red flag mean?",
+    "metaDesc": "What does red flag mean? A warning sign to watch out for. Difference from green flag, with examples — LinguaBattle.",
+    "lede": "<b>red flag</b> is a <b>warning sign</b> that something or someone is trouble. The opposite is a <b>green flag</b> (a positive sign).",
+    "means": [
+      {"def": "a warning sign, danger signal", "en": "Lying is a big red flag.", "t": "(warning)"},
+      {"def": "green flag = a positive sign (opposite)", "en": "Being kind is a green flag.", "t": "(positive sign)"}
+    ],
+    "relTitle": "Often confused", "rel": ["red flag vs green flag", "warning sign", "dealbreaker"],
+    "idiomTitle": "Phrases", "idioms": ["that's a red flag", "major red flag", "green flag"],
+    "quizQ": "What does “That's a red flag” mean?", "quizA": ["It's a warning sign", "It's very good", "It's a red flag fabric"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Subst. (Slang)", "title": "Was bedeutet red flag?",
+    "metaDesc": "Was bedeutet red flag? Ein Warnsignal. Unterschied zu green flag, mit Beispielen — LinguaBattle.",
+    "lede": "<b>red flag</b> ist ein <b>Warnsignal</b>, dass etwas oder jemand problematisch ist. Das Gegenteil ist eine <b>green flag</b> (positives Zeichen).",
+    "means": [
+      {"def": "Warnsignal, Alarmzeichen", "en": "Lying is a big red flag.", "t": "(Warnung)"},
+      {"def": "green flag = positives Zeichen (Gegenteil)", "en": "Being kind is a green flag.", "t": "(positiv)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["red flag vs green flag", "warning sign", "dealbreaker"],
+    "idiomTitle": "Redewendungen", "idioms": ["that's a red flag", "major red flag", "green flag"],
+    "quizQ": "Was bedeutet „That's a red flag“?", "quizA": ["Es ist ein Warnsignal", "Es ist sehr gut", "Es ist eine rote Fahne"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "nom (argot)", "title": "Que signifie red flag ?",
+    "metaDesc": "Que signifie red flag ? Un signal d'alarme. Différence avec green flag, avec exemples — LinguaBattle.",
+    "lede": "<b>red flag</b> est un <b>signal d'alarme</b> indiquant que quelque chose ou quelqu'un pose problème. L'inverse est un <b>green flag</b> (signe positif).",
+    "means": [
+      {"def": "signal d'alarme, avertissement", "en": "Lying is a big red flag.", "t": "(alarme)"},
+      {"def": "green flag = signe positif (inverse)", "en": "Being kind is a green flag.", "t": "(positif)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["red flag vs green flag", "warning sign", "dealbreaker"],
+    "idiomTitle": "Expressions", "idioms": ["that's a red flag", "major red flag", "green flag"],
+    "quizQ": "Que veut dire « That's a red flag » ?", "quizA": ["C'est un signal d'alarme", "C'est très bien", "C'est un drapeau rouge"], "quizOk": 0
+  },
+  "es": {
+    "pos": "sust. (jerga)", "title": "¿Qué significa red flag?",
+    "metaDesc": "¿Qué significa red flag? Una señal de alarma. Diferencia con green flag, con ejemplos — LinguaBattle.",
+    "lede": "<b>red flag</b> es una <b>señal de alarma</b> de que algo o alguien es problemático. Lo contrario es una <b>green flag</b> (señal positiva).",
+    "means": [
+      {"def": "señal de alarma, advertencia", "en": "Lying is a big red flag.", "t": "(alarma)"},
+      {"def": "green flag = señal positiva (lo contrario)", "en": "Being kind is a green flag.", "t": "(positiva)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["red flag vs green flag", "warning sign", "dealbreaker"],
+    "idiomTitle": "Expresiones", "idioms": ["that's a red flag", "major red flag", "green flag"],
+    "quizQ": "¿Qué significa «That's a red flag»?", "quizA": ["Es una señal de alarma", "Es muy bueno", "Es una bandera roja"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "اسم (عامية)", "title": "ماذا تعني red flag؟",
+    "metaDesc": "ماذا تعني red flag؟ إشارة تحذير. الفرق عن green flag، مع أمثلة — LinguaBattle.",
+    "lede": "<b>red flag</b> هي <b>إشارة تحذير</b> بأن شيئًا أو شخصًا فيه مشكلة. العكس هو <b>green flag</b> (إشارة إيجابية).",
+    "means": [
+      {"def": "إشارة تحذير، علامة خطر", "en": "Lying is a big red flag.", "t": "(تحذير)"},
+      {"def": "green flag = إشارة إيجابية (العكس)", "en": "Being kind is a green flag.", "t": "(إيجابية)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["red flag vs green flag", "warning sign", "dealbreaker"],
+    "idiomTitle": "عبارات", "idioms": ["that's a red flag", "major red flag", "green flag"],
+    "quizQ": "ماذا تعني «That's a red flag»؟", "quizA": ["إنها إشارة تحذير", "إنها جيدة جدًا", "إنها راية حمراء"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "संज्ञा (स्लैंग)", "title": "red flag का क्या मतलब है?",
+    "metaDesc": "red flag का क्या मतलब है? चेतावनी का संकेत। green flag से अंतर, उदाहरणों सहित — LinguaBattle.",
+    "lede": "<b>red flag</b> एक <b>चेतावनी संकेत</b> है कि कोई चीज़ या व्यक्ति समस्या वाला है। इसका उल्टा है <b>green flag</b> (सकारात्मक संकेत)।",
+    "means": [
+      {"def": "चेतावनी संकेत, खतरे का इशारा", "en": "Lying is a big red flag.", "t": "(चेतावनी)"},
+      {"def": "green flag = सकारात्मक संकेत (उल्टा)", "en": "Being kind is a green flag.", "t": "(सकारात्मक)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["red flag vs green flag", "warning sign", "dealbreaker"],
+    "idiomTitle": "वाक्यांश", "idioms": ["that's a red flag", "major red flag", "green flag"],
+    "quizQ": "“That's a red flag” का क्या अर्थ है?", "quizA": ["यह चेतावनी संकेत है", "यह बहुत अच्छा है", "यह लाल झंडा है"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "сущ. (сленг)", "title": "Что значит red flag?",
+    "metaDesc": "Что значит red flag? Тревожный знак. Отличие от green flag, с примерами — LinguaBattle.",
+    "lede": "<b>red flag</b> — это <b>тревожный знак</b>, что с чем-то или кем-то есть проблема. Противоположность — <b>green flag</b> (положительный знак).",
+    "means": [
+      {"def": "тревожный знак, сигнал опасности", "en": "Lying is a big red flag.", "t": "(предупреждение)"},
+      {"def": "green flag = положительный знак (наоборот)", "en": "Being kind is a green flag.", "t": "(положительный)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["red flag vs green flag", "warning sign", "dealbreaker"],
+    "idiomTitle": "Выражения", "idioms": ["that's a red flag", "major red flag", "green flag"],
+    "quizQ": "Что значит «That's a red flag»?", "quizA": ["Это тревожный знак", "Это очень хорошо", "Это красный флаг"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "subst. (gíria)", "title": "O que significa red flag?",
+    "metaDesc": "O que significa red flag? Um sinal de alerta. Diferença de green flag, com exemplos — LinguaBattle.",
+    "lede": "<b>red flag</b> é um <b>sinal de alerta</b> de que algo ou alguém é problemático. O oposto é uma <b>green flag</b> (sinal positivo).",
+    "means": [
+      {"def": "sinal de alerta, aviso", "en": "Lying is a big red flag.", "t": "(alerta)"},
+      {"def": "green flag = sinal positivo (oposto)", "en": "Being kind is a green flag.", "t": "(positivo)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["red flag vs green flag", "warning sign", "dealbreaker"],
+    "idiomTitle": "Expressões", "idioms": ["that's a red flag", "major red flag", "green flag"],
+    "quizQ": "O que significa «That's a red flag»?", "quizA": ["É um sinal de alerta", "É muito bom", "É uma bandeira vermelha"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "名詞 (スラング)", "title": "red flagの意味は？",
+    "metaDesc": "red flagの意味は？警告サイン。green flagとの違い、例文付き — LinguaBattle.",
+    "lede": "<b>red flag</b> は、何かや誰かが問題ありという<b>警告サイン</b>。反対は <b>green flag</b>（良いサイン）。",
+    "means": [
+      {"def": "警告サイン、危険信号", "en": "Lying is a big red flag.", "t": "（警告）"},
+      {"def": "green flag = 良いサイン（反対）", "en": "Being kind is a green flag.", "t": "（良いサイン）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["red flag vs green flag", "warning sign", "dealbreaker"],
+    "idiomTitle": "フレーズ", "idioms": ["that's a red flag", "major red flag", "green flag"],
+    "quizQ": "「That's a red flag」の意味は？", "quizA": ["それは警告サインだ", "それはとても良い", "それは赤い旗だ"], "quizOk": 0
+  }
+}

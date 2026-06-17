@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LinguaBattle — كلمات</title>
+<meta name="description" content="المعاني والأمثلة والصيغ. ثم ثبّتها بمبارزة في التطبيق.">
+<link rel="canonical" href="https://linguabattle.net/ar/">
+<link rel="alternate" hreflang="tr" href="https://linguabattle.net/tr/">
+<link rel="alternate" hreflang="en" href="https://linguabattle.net/en/">
+<link rel="alternate" hreflang="de" href="https://linguabattle.net/de/">
+<link rel="alternate" hreflang="fr" href="https://linguabattle.net/fr/">
+<link rel="alternate" hreflang="es" href="https://linguabattle.net/es/">
+<link rel="alternate" hreflang="ar" href="https://linguabattle.net/ar/">
+<link rel="alternate" hreflang="hi" href="https://linguabattle.net/hi/">
+<link rel="alternate" hreflang="ru" href="https://linguabattle.net/ru/">
+<link rel="alternate" hreflang="pt" href="https://linguabattle.net/pt/">
+<link rel="alternate" hreflang="ja" href="https://linguabattle.net/ja/">
+<link rel="alternate" hreflang="x-default" href="https://linguabattle.net/en/">
+<meta property="og:title" content="LinguaBattle">
+<meta property="og:description" content="المعاني والأمثلة والصيغ. ثم ثبّتها بمبارزة في التطبيق.">
+<meta property="og:image" content="https://linguabattle.net/assets/logo-icon.png">
+<link rel="icon" type="image/png" href="/assets/logo-icon.png">
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Be+Vietnam+Pro:wght@300;400;500&display=swap" rel="stylesheet">
+<style>*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Be Vietnam Pro',-apple-system,sans-serif;background:#000E23;color:#D9E6FF;line-height:1.6}
+h1,h2,h3,.head{font-family:'Plus Jakarta Sans',sans-serif}
+a{color:#81ECFF;text-decoration:none}
+.topbar{position:sticky;top:0;z-index:20;display:flex;align-items:center;justify-content:space-between;padding:14px 24px;background:rgba(0,14,35,.85);backdrop-filter:blur(12px);border-bottom:1px solid #384962}
+.logo{display:flex;align-items:center;gap:9px;font-family:'Plus Jakarta Sans';font-weight:800;font-size:1.15rem;background:linear-gradient(90deg,#A3FE00,#00E3FD);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.logo img{height:30px;width:auto;display:block;filter:invert(1) brightness(1.6)}
+select{background:#04203E;color:#D9E6FF;border:1px solid #384962;border-radius:8px;padding:7px 10px;font-family:inherit;font-size:.85rem;cursor:pointer}
+.layout{max-width:1080px;margin:0 auto;padding:32px 24px;display:grid;grid-template-columns:1fr 300px;gap:32px;align-items:start}
+@media(max-width:860px){.layout{grid-template-columns:1fr;gap:24px}}
+.content{min-width:0}
+.crumb{font-size:.8rem;color:#9BACCA;margin-bottom:14px}
+h1{font-size:2.3rem;font-weight:800;line-height:1.15;margin-bottom:6px}
+h1 .word{background:linear-gradient(90deg,#A3FE00,#00E3FD);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.pron{display:flex;gap:12px;align-items:center;color:#9BACCA;font-size:.95rem;margin-bottom:18px;flex-wrap:wrap}
+.tag{background:#072647;border:1px solid #384962;border-radius:20px;padding:3px 12px;font-size:.78rem}
+.speak{background:#04203E;border:1px solid #00E3FD;color:#81ECFF;border-radius:20px;padding:4px 13px;font-size:.8rem;cursor:pointer}
+.lede{font-size:1.05rem;color:#9BACCA;margin-bottom:28px;padding-bottom:24px;border-bottom:1px solid #384962}
+.sec{margin-bottom:30px}
+.sec h2{font-size:1.25rem;font-weight:700;margin-bottom:14px;display:flex;align-items:center;gap:8px}
+.mean{background:#011A36;border:1px solid #384962;border-radius:14px;padding:16px 18px;margin-bottom:12px}
+.mean .n{display:inline-block;min-width:24px;height:24px;line-height:24px;text-align:center;border-radius:7px;background:#A3FE00;color:#3F6600;font-weight:700;font-size:.8rem;margin-right:8px}
+.mean .def{font-weight:600;color:#D9E6FF;font-size:1.02rem}
+.mean .ex{margin-top:8px;padding-left:32px;color:#9BACCA}
+.mean .ex .en{color:#DDFFAF;font-style:italic}
+table{width:100%;border-collapse:collapse;background:#011A36;border:1px solid #384962;border-radius:14px;overflow:hidden}
+th,td{padding:11px 14px;text-align:left;border-bottom:1px solid #384962;font-size:.95rem}
+th{background:#072647;font-family:'Plus Jakarta Sans';font-weight:600;color:#81ECFF}
+tr:last-child td{border-bottom:none}
+.warn{color:#FD8B00}
+.chips{display:flex;flex-wrap:wrap;gap:10px}
+.chip{background:#04203E;border:1px solid #384962;border-radius:10px;padding:9px 14px;font-size:.9rem}
+.chip:hover{border-color:#A3FE00;color:#DDFFAF}
+.quiz{background:#011A36;border:1px solid #00E3FD;border-radius:14px;padding:18px}
+.quiz .q{font-weight:600;margin-bottom:12px}
+.quiz button{display:block;width:100%;text-align:left;background:#04203E;border:1px solid #384962;color:#D9E6FF;border-radius:9px;padding:11px 14px;margin-bottom:8px;font-family:inherit;font-size:.92rem;cursor:pointer}
+.quiz button:hover{border-color:#00E3FD}
+.quiz button.ok{background:rgba(163,254,0,.15);border-color:#A3FE00;color:#DDFFAF}
+.quiz button.no{background:rgba(255,113,108,.12);border-color:#FF716C;color:#FF716C}
+.appcol{position:sticky;top:80px}
+@media(max-width:860px){.appcol{position:static}}
+.appcard{background:linear-gradient(160deg,#04203E,#011A36);border:1px solid #384962;border-radius:18px;padding:22px;text-align:center}
+.appcard .badge{font-size:2.4rem}
+.appcard h3{font-family:'Plus Jakarta Sans';font-weight:800;font-size:1.15rem;margin:10px 0 4px}
+.appcard p{color:#9BACCA;font-size:.88rem;margin-bottom:16px}
+.store{display:block;background:#A3FE00;color:#3F6600;font-weight:700;font-family:'Plus Jakarta Sans';border-radius:11px;padding:12px;margin-bottom:9px;box-shadow:0 0 24px rgba(163,254,0,.28)}
+.store.alt{background:#072647;color:#D9E6FF;box-shadow:none;border:1px solid #384962}
+.duel{margin-top:16px;padding-top:16px;border-top:1px solid #384962;font-size:.82rem;color:#9BACCA}
+.duel b{color:#81ECFF}
+footer{max-width:1080px;margin:0 auto;padding:32px 24px;border-top:1px solid #384962;color:#9BACCA;font-size:.82rem}
+.hero{max-width:820px;margin:0 auto;padding:56px 24px 24px;text-align:center}
+.hero h1{font-size:2.4rem;font-weight:800;line-height:1.15;margin-bottom:14px}
+.hero h1 .g{background:linear-gradient(90deg,#A3FE00,#00E3FD);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.hero p{color:#9BACCA;font-size:1.1rem;max-width:540px;margin:0 auto 24px}
+.searchwrap{max-width:540px;margin:0 auto;position:relative;text-align:start}
+#search{width:100%;background:#011A36;border:1px solid #384962;color:#D9E6FF;border-radius:14px;padding:14px 18px;font-family:inherit;font-size:1.05rem}
+#search:focus{outline:none;border-color:#A3FE00}
+#results{position:absolute;left:0;right:0;top:60px;background:#04203E;border:1px solid #384962;border-radius:14px;overflow:hidden;z-index:30;display:none}
+#results a{display:flex;justify-content:space-between;gap:12px;padding:12px 16px;color:#D9E6FF;border-bottom:1px solid #072647}
+#results a:hover{background:#072647}
+#results .rw{font-family:'Plus Jakarta Sans';font-weight:700;color:#DDFFAF}
+#results .rd{color:#9BACCA;font-size:.85rem}
+.section{max-width:1000px;margin:0 auto;padding:32px 24px}
+.section h2{font-size:1.4rem;font-weight:700;margin-bottom:18px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:16px}
+.wcard{display:block;background:#011A36;border:1px solid #384962;border-radius:16px;padding:20px;transition:.18s}
+.wcard:hover{border-color:#A3FE00;transform:translateY(-2px)}
+.wcard .w{font-family:'Plus Jakarta Sans';font-weight:800;font-size:1.4rem;background:linear-gradient(90deg,#A3FE00,#00E3FD);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.wcard .cat{display:inline-block;margin-top:6px;font-size:.72rem;color:#81ECFF;background:#072647;border:1px solid #384962;border-radius:20px;padding:2px 10px}
+.wcard .d{margin-top:10px;color:#9BACCA;font-size:.9rem}
+</style>
+</head>
+<body>
+<div class="topbar">
+  <a class="logo" href="/ar/"><img src="/assets/logo.svg" alt="LinguaBattle" width="30" height="30"><span>LinguaBattle</span></a>
+  <select onchange="location.href=this.value"><option value="/tr/">🇹🇷 Türkçe</option><option value="/en/">🇬🇧 English</option><option value="/de/">🇩🇪 Deutsch</option><option value="/fr/">🇫🇷 Français</option><option value="/es/">🇪🇸 Español</option><option value="/ar/" selected>🇸🇦 العربية</option><option value="/hi/">🇮🇳 हिन्दी</option><option value="/ru/">🇷🇺 Русский</option><option value="/pt/">🇵🇹 Português</option><option value="/ja/">🇯🇵 日本語</option></select>
+</div>
+<div class="hero">
+  <h1>أكثر الكلمات الإنجليزية <span class='g'>إرباكًا</span></h1>
+  <p>المعاني والأمثلة والصيغ. ثم ثبّتها بمبارزة في التطبيق.</p>
+  <div class="searchwrap"><input id="search" type="text" autocomplete="off" placeholder="🔍 ابحث عن كلمة…"><div id="results"></div></div>
+</div>
+<div class="section">
+  <a href="/ar/ikhtibar-mustawa" style="display:block;background:linear-gradient(135deg,#04203E,#011A36);border:1px solid #A3FE00;border-radius:18px;padding:24px;text-align:center;box-shadow:0 0 32px rgba(163,254,0,.12)">
+    <div style="font-family:'Plus Jakarta Sans';font-weight:800;font-size:1.4rem;margin-bottom:6px">📊 اختبار مستوى الإنجليزية</div>
+    <div style="color:#9BACCA;margin-bottom:4px">اعرف مستواك في 20 سؤالًا — مجاني، بدون تسجيل.</div>
+    <div style="color:#A3FE00;font-weight:600">ابدأ الاختبار →</div>
+  </a>
+</div>
+<div class="section">
+  <h2>كل المواضيع</h2>
+  <div class="grid"><a class="wcard" href="/ar/kalima/a-an-the"><div class="w">a / an / the</div><span class="cat">grammar</span><div class="d">a = مفرد قبل صوت ساكن</div></a><a class="wcard" href="/ar/kalima/actually"><div class="w">actually</div><span class="cat">confusing</span><div class="d">في الواقع، حقيقةً (عكس المتوقّع)</div></a><a class="wcard" href="/ar/kalima/align"><div class="w">align</div><span class="cat">work</span><div class="d">يتفق، يتوافق (في العمل)</div></a><a class="wcard" href="/ar/kalima/assist"><div class="w">assist</div><span class="cat">confusing</span><div class="d">يساعد، يدعم</div></a><a class="wcard" href="/ar/kalima/async"><div class="w">async</div><span class="cat">work</span><div class="d">غير متزامن (تواصل/عمل)</div></a><a class="wcard" href="/ar/kalima/attend"><div class="w">attend</div><span class="cat">confusing</span><div class="d">يحضر، يكون حاضرًا</div></a><a class="wcard" href="/ar/kalima/months"><div class="w">months</div><span class="cat">basics</span><div class="d">January /ˈdʒænjuəri/</div></a><a class="wcard" href="/ar/kalima/bear"><div class="w">bear</div><span class="cat">verb</span><div class="d">دبّ (حيوان، اسم)</div></a><a class="wcard" href="/ar/kalima/brain-rot"><div class="w">brain rot</div><span class="cat">genz</span><div class="d">تبلّد ذهني من المحتوى الرديء</div></a><a class="wcard" href="/ar/kalima/break"><div class="w">break</div><span class="cat">verb</span><div class="d">يكسر، ينكسر</div></a><a class="wcard" href="/ar/kalima/can-could"><div class="w">can / could</div><span class="cat">grammar</span><div class="d">can = قدرة حالية</div></a><a class="wcard" href="/ar/kalima/charge"><div class="w">charge</div><span class="cat">verb</span><div class="d">يتقاضى رسمًا / رسوم (مال)</div></a><a class="wcard" href="/ar/kalima/colors"><div class="w">colors</div><span class="cat">basics</span><div class="d">red /red/</div></a><a class="wcard" href="/ar/kalima/cringe"><div class="w">cringe</div><span class="cat">genz</span><div class="d">محرج، مثير للحرج (صفة، عامية)</div></a><a class="wcard" href="/ar/kalima/deadline"><div class="w">deadline</div><span class="cat">work</span><div class="d">الموعد النهائي، المهلة</div></a><a class="wcard" href="/ar/kalima/delulu"><div class="w">delulu</div><span class="cat">genz</span><div class="d">غير واقعي، منفصل عن الواقع (مزاحًا)</div></a><a class="wcard" href="/ar/kalima/draw"><div class="w">draw</div><span class="cat">verb</span><div class="d">يرسم (صورة)</div></a><a class="wcard" href="/ar/kalima/embarrassed"><div class="w">embarrassed</div><span class="cat">confusing</span><div class="d">محرَج، خجلان</div></a><a class="wcard" href="/ar/kalima/eventually"><div class="w">eventually</div><span class="cat">confusing</span><div class="d">في النهاية، في آخر المطاف</div></a><a class="wcard" href="/ar/kalima/exit"><div class="w">exit</div><span class="cat">confusing</span><div class="d">مخرَج، باب الخروج</div></a><a class="wcard" href="/ar/kalima/flex"><div class="w">flex</div><span class="cat">genz</span><div class="d">يتباهى، يستعرض (عامية)</div></a><a class="wcard" href="/ar/kalima/gatekeeping"><div class="w">gatekeeping</div><span class="cat">genz</span><div class="d">إخفاء المعلومات/الصيحات عن الآخرين</div></a><a class="wcard" href="/ar/kalima/generate"><div class="w">generate</div><span class="cat">ai</span><div class="d">يُنتج، يُنشئ (AI: إنتاج محتوى)</div></a><a class="wcard" href="/ar/kalima/get"><div class="w">get</div><span class="cat">verb</span><div class="d">يحصل على / يستلم</div></a><a class="wcard" href="/ar/kalima/ghosting"><div class="w">ghosting</div><span class="cat">genz</span><div class="d">تجاهل شخص فجأة دون تفسير</div></a><a class="wcard" href="/ar/kalima/good-morning-good-night"><div class="w">good morning / good night</div><span class="cat">phrases</span><div class="d">Good morning. (صباحًا)</div></a><a class="wcard" href="/ar/kalima/days"><div class="w">days</div><span class="cat">basics</span><div class="d">Monday /ˈmʌndeɪ/</div></a><a class="wcard" href="/ar/kalima/hold"><div class="w">hold</div><span class="cat">verb</span><div class="d">يمسك (باليد)</div></a><a class="wcard" href="/ar/kalima/how-are-you"><div class="w">how are you</div><span class="cat">phrases</span><div class="d">How are you? (الأكثر شيوعًا، محايدة)</div></a><a class="wcard" href="/ar/kalima/how-much-how-many"><div class="w">how much / how many</div><span class="cat">phrases</span><div class="d">How much is it? (السؤال عن السعر)</div></a><a class="wcard" href="/ar/kalima/in-on-at"><div class="w">in / on / at</div><span class="cat">grammar</span><div class="d">الزمان — in: شهر، سنة، فصل</div></a><a class="wcard" href="/ar/kalima/introduce-yourself"><div class="w">introduce yourself</div><span class="cat">phrases</span><div class="d">الاسم: Hi, I&#x27;m... / My name is...</div></a><a class="wcard" href="/ar/kalima/library"><div class="w">library</div><span class="cat">confusing</span><div class="d">مكتبة عامة (للإعارة)</div></a><a class="wcard" href="/ar/kalima/light"><div class="w">light</div><span class="cat">verb</span><div class="d">ضوء (اسم)</div></a><a class="wcard" href="/ar/kalima/make"><div class="w">make</div><span class="cat">verb</span><div class="d">make = يصنع، ينتج (ينتج عنه شيء)</div></a><a class="wcard" href="/ar/kalima/match"><div class="w">match</div><span class="cat">verb</span><div class="d">مباراة (اسم)</div></a><a class="wcard" href="/ar/kalima/much-many"><div class="w">much / many</div><span class="cat">grammar</span><div class="d">many = أسماء معدودة (جمع)</div></a><a class="wcard" href="/ar/kalima/past-simple"><div class="w">past simple</div><span class="cat">grammar</span><div class="d">فعل منتظم: الفعل + -ed</div></a><a class="wcard" href="/ar/kalima/point"><div class="w">point</div><span class="cat">verb</span><div class="d">طرف مدبّب (اسم)</div></a><a class="wcard" href="/ar/kalima/pov"><div class="w">POV</div><span class="cat">genz</span><div class="d">وجهة نظر (الصيغة الكاملة)</div></a><a class="wcard" href="/ar/kalima/present-perfect"><div class="w">present perfect</div><span class="cat">grammar</span><div class="d">الصيغة: have/has + التصريف الثالث (V3)</div></a><a class="wcard" href="/ar/kalima/prompt"><div class="w">prompt</div><span class="cat">ai</span><div class="d">تعليمة تُعطى للذكاء الاصطناعي</div></a><a class="wcard" href="/ar/kalima/reach-out"><div class="w">reach out</div><span class="cat">work</span><div class="d">التواصل مع شخص، الاتصال به</div></a><a class="wcard" href="/ar/kalima/realize"><div class="w">realize</div><span class="cat">confusing</span><div class="d">يدرك، ينتبه إلى</div></a><a class="wcard" href="/ar/kalima/red-flag"><div class="w">red flag</div><span class="cat">genz</span><div class="d">إشارة تحذير، علامة خطر</div></a><a class="wcard" href="/ar/kalima/rizz"><div class="w">rizz</div><span class="cat">genz</span><div class="d">جاذبية، كاريزما، القدرة على الجذب</div></a><a class="wcard" href="/ar/kalima/run"><div class="w">run</div><span class="cat">verb</span><div class="d">يجري، يركض</div></a><a class="wcard" href="/ar/kalima/say"><div class="w">say</div><span class="cat">verb</span><div class="d">say = يقول (بلا ذكر شخص)</div></a><a class="wcard" href="/ar/kalima/numbers"><div class="w">numbers</div><span class="cat">basics</span><div class="d">1 one, 2 two, 3 three</div></a><a class="wcard" href="/ar/kalima/sensible"><div class="w">sensible</div><span class="cat">confusing</span><div class="d">عاقل، معقول، رشيد</div></a><a class="wcard" href="/ar/kalima/set"><div class="w">set</div><span class="cat">verb</span><div class="d">يضع</div></a><a class="wcard" href="/ar/kalima/since-for"><div class="w">since / for</div><span class="cat">grammar</span><div class="d">for = مدّة (كم من الوقت)</div></a><a class="wcard" href="/ar/kalima/slay"><div class="w">slay</div><span class="cat">genz</span><div class="d">يبدع، يتألّق (عامية)</div></a><a class="wcard" href="/ar/kalima/take"><div class="w">take</div><span class="cat">verb</span><div class="d">يأخذ (باليد)</div></a><a class="wcard" href="/ar/kalima/thank-you"><div class="w">thank you</div><span class="cat">phrases</span><div class="d">Thank you. (الأكثر شيوعًا)</div></a><a class="wcard" href="/ar/kalima/this-that-these-those"><div class="w">this / that / these / those</div><span class="cat">grammar</span><div class="d">this = قريب، مفرد</div></a><a class="wcard" href="/ar/kalima/turn"><div class="w">turn</div><span class="cat">verb</span><div class="d">ينعطف، يغيّر الاتجاه</div></a><a class="wcard" href="/ar/kalima/vibe"><div class="w">vibe</div><span class="cat">genz</span><div class="d">أجواء، طاقة، انطباع (اسم)</div></a><a class="wcard" href="/ar/kalima/will-going-to"><div class="w">will / going to</div><span class="cat">grammar</span><div class="d">will = قرار يُتّخذ الآن</div></a></div>
+</div>
+<footer>© 2026 LinguaBattle</footer>
+<script>
+const LANG='ar';let WORDS=[];
+fetch('/words-index.json').then(r=>r.json()).then(d=>{WORDS=d;}).catch(()=>{});
+const inp=document.getElementById('search'),box=document.getElementById('results');
+inp.addEventListener('input',()=>{const q=inp.value.trim().toLowerCase();if(!q){box.style.display='none';return;}
+const hits=WORDS.filter(w=>w.word.toLowerCase().includes(q)).slice(0,8);
+if(!hits.length){box.innerHTML='';box.style.display='none';return;}
+box.innerHTML=hits.map(w=>{const p=(w.paths&&w.paths[LANG])||(w.paths&&w.paths.en)||'#';const d=(w.desc&&w.desc[LANG])||'';return `<a href="${p}"><span class="rw">${w.word}</span><span class="rd">${d}</span></a>`;}).join('');
+box.style.display='block';});
+document.addEventListener('click',e=>{if(!e.target.closest('.searchwrap'))box.style.display='none';});
+</script>
+</body>
+</html>

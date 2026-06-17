@@ -1,0 +1,155 @@
+{
+  "word": "match",
+  "pron": "/mætʃ/",
+  "category": "verb",
+  "tr": {
+    "pos": "isim / fiil", "title": "match ne demek? (5 anlamı)",
+    "metaDesc": "match ne demek? 5 anlamı: maç, eşleşme, kibrit, uyum, denk gelmek. Örnek cümlelerle — LinguaBattle.",
+    "lede": "<b>match</b> İngilizcede çok anlamlı bir kelimedir — hem isim hem fiil. Anlamı tamamen cümleye göre değişir; işte en sık 5 anlamı.",
+    "means": [
+      {"def": "maç, müsabaka (isim)", "en": "We watched the football match.", "t": "Futbol maçını izledik."},
+      {"def": "kibrit (isim)", "en": "He lit a match.", "t": "Bir kibrit yaktı."},
+      {"def": "eşleşme, uyum (isim)", "en": "They're a perfect match.", "t": "Birbirlerine çok uygunlar (mükemmel eşleşme)."},
+      {"def": "uymak, denk gelmek (fiil)", "en": "Your shoes match your bag.", "t": "Ayakkabıların çantanla uyuyor."},
+      {"def": "eşleştirmek, denk getirmek (fiil)", "en": "Match the words to the pictures.", "t": "Kelimeleri resimlerle eşleştir."}
+    ],
+    "relTitle": "Sık karıştırılanlar", "rel": ["match vs game", "match vs fit", "matching"],
+    "idiomTitle": "Kalıplar", "idioms": ["a perfect match (tam isabet)", "match up (uyuşmak)", "no match for (boy ölçüşemez)"],
+    "quizQ": "“Your shoes match your bag” ne demek?", "quizA": ["Ayakkabıların çantanla uyuyor", "Ayakkabını çantaya koy", "Maç izliyorsun"], "quizOk": 0
+  },
+  "en": {
+    "pos": "noun / verb", "title": "What does match mean? (5 meanings)",
+    "metaDesc": "What does match mean? 5 meanings: game, pairing, matchstick, to suit, to pair. With examples — LinguaBattle.",
+    "lede": "<b>match</b> is a multi-meaning English word — both noun and verb. Its meaning depends entirely on context; here are the 5 most common.",
+    "means": [
+      {"def": "a game, contest (noun)", "en": "We watched the football match.", "t": "(game)"},
+      {"def": "a matchstick (noun)", "en": "He lit a match.", "t": "(fire stick)"},
+      {"def": "a pairing, good fit (noun)", "en": "They're a perfect match.", "t": "(perfect fit)"},
+      {"def": "to suit, go together (verb)", "en": "Your shoes match your bag.", "t": "(go together)"},
+      {"def": "to pair up, connect (verb)", "en": "Match the words to the pictures.", "t": "(pair up)"}
+    ],
+    "relTitle": "Often confused", "rel": ["match vs game", "match vs fit", "matching"],
+    "idiomTitle": "Phrases", "idioms": ["a perfect match", "match up", "no match for"],
+    "quizQ": "What does “Your shoes match your bag” mean?", "quizA": ["Your shoes go well with your bag", "Put your shoes in the bag", "You watch a match"], "quizOk": 0
+  },
+  "de": {
+    "pos": "Subst. / Verb", "title": "Was bedeutet match? (5 Bedeutungen)",
+    "metaDesc": "Was bedeutet match? 5 Bedeutungen: Spiel, Paar, Streichholz, passen, zuordnen. Mit Beispielen — LinguaBattle.",
+    "lede": "<b>match</b> ist ein vieldeutiges englisches Wort — Substantiv und Verb. Die Bedeutung hängt ganz vom Kontext ab; hier die 5 häufigsten.",
+    "means": [
+      {"def": "Spiel, Wettkampf (Subst.)", "en": "We watched the football match.", "t": "(Spiel)"},
+      {"def": "Streichholz (Subst.)", "en": "He lit a match.", "t": "(Streichholz)"},
+      {"def": "Paar, gute Übereinstimmung (Subst.)", "en": "They're a perfect match.", "t": "(perfektes Paar)"},
+      {"def": "passen, zusammenpassen (Verb)", "en": "Your shoes match your bag.", "t": "(passen zusammen)"},
+      {"def": "zuordnen, verbinden (Verb)", "en": "Match the words to the pictures.", "t": "(zuordnen)"}
+    ],
+    "relTitle": "Oft verwechselt", "rel": ["match vs game", "match vs fit", "matching"],
+    "idiomTitle": "Redewendungen", "idioms": ["a perfect match", "match up", "no match for"],
+    "quizQ": "Was bedeutet „Your shoes match your bag“?", "quizA": ["Deine Schuhe passen zur Tasche", "Leg die Schuhe in die Tasche", "Du schaust ein Spiel"], "quizOk": 0
+  },
+  "fr": {
+    "pos": "nom / verbe", "title": "Que signifie match ? (5 sens)",
+    "metaDesc": "Que signifie match ? 5 sens : match, paire, allumette, aller avec, associer. Avec exemples — LinguaBattle.",
+    "lede": "<b>match</b> est un mot anglais à sens multiples — nom et verbe. Le sens dépend entièrement du contexte ; voici les 5 plus courants.",
+    "means": [
+      {"def": "match, rencontre (nom)", "en": "We watched the football match.", "t": "(match)"},
+      {"def": "allumette (nom)", "en": "He lit a match.", "t": "(allumette)"},
+      {"def": "paire, bonne correspondance (nom)", "en": "They're a perfect match.", "t": "(parfaite paire)"},
+      {"def": "aller avec, assortir (verbe)", "en": "Your shoes match your bag.", "t": "(vont ensemble)"},
+      {"def": "associer, relier (verbe)", "en": "Match the words to the pictures.", "t": "(associer)"}
+    ],
+    "relTitle": "Souvent confondu", "rel": ["match vs game", "match vs fit", "matching"],
+    "idiomTitle": "Expressions", "idioms": ["a perfect match", "match up", "no match for"],
+    "quizQ": "Que veut dire « Your shoes match your bag » ?", "quizA": ["Tes chaussures vont avec ton sac", "Mets les chaussures dans le sac", "Tu regardes un match"], "quizOk": 0
+  },
+  "es": {
+    "pos": "sust. / verbo", "title": "¿Qué significa match? (5 significados)",
+    "metaDesc": "¿Qué significa match? 5 significados: partido, pareja, cerilla, combinar, emparejar. Con ejemplos — LinguaBattle.",
+    "lede": "<b>match</b> es una palabra inglesa con varios significados — sustantivo y verbo. El sentido depende del contexto; aquí los 5 más comunes.",
+    "means": [
+      {"def": "partido, encuentro (sust.)", "en": "We watched the football match.", "t": "(partido)"},
+      {"def": "cerilla, fósforo (sust.)", "en": "He lit a match.", "t": "(cerilla)"},
+      {"def": "pareja, buena combinación (sust.)", "en": "They're a perfect match.", "t": "(pareja perfecta)"},
+      {"def": "combinar, ir con (verbo)", "en": "Your shoes match your bag.", "t": "(van juntos)"},
+      {"def": "emparejar, relacionar (verbo)", "en": "Match the words to the pictures.", "t": "(emparejar)"}
+    ],
+    "relTitle": "Se confunde con", "rel": ["match vs game", "match vs fit", "matching"],
+    "idiomTitle": "Expresiones", "idioms": ["a perfect match", "match up", "no match for"],
+    "quizQ": "¿Qué significa «Your shoes match your bag»?", "quizA": ["Tus zapatos combinan con tu bolso", "Pon los zapatos en el bolso", "Ves un partido"], "quizOk": 0
+  },
+  "ar": {
+    "pos": "اسم / فعل", "title": "ماذا تعني match؟ (5 معانٍ)",
+    "metaDesc": "ماذا تعني match؟ 5 معانٍ: مباراة، توافق، عود ثقاب، يتناسب، يطابق. مع أمثلة — LinguaBattle.",
+    "lede": "<b>match</b> كلمة إنجليزية متعددة المعاني — اسم وفعل. معناها يعتمد كليًا على السياق؛ إليك أكثر 5 معانٍ شيوعًا.",
+    "means": [
+      {"def": "مباراة (اسم)", "en": "We watched the football match.", "t": "(مباراة)"},
+      {"def": "عود ثقاب (اسم)", "en": "He lit a match.", "t": "(عود ثقاب)"},
+      {"def": "توافق، تطابق جيد (اسم)", "en": "They're a perfect match.", "t": "(توافق مثالي)"},
+      {"def": "يتناسب، يتماشى (فعل)", "en": "Your shoes match your bag.", "t": "(يتماشيان)"},
+      {"def": "يطابق، يوصل (فعل)", "en": "Match the words to the pictures.", "t": "(طابِق)"}
+    ],
+    "relTitle": "كثيرًا ما يُخلط", "rel": ["match vs game", "match vs fit", "matching"],
+    "idiomTitle": "عبارات", "idioms": ["a perfect match", "match up", "no match for"],
+    "quizQ": "ماذا تعني «Your shoes match your bag»؟", "quizA": ["حذاؤك يتماشى مع حقيبتك", "ضع الحذاء في الحقيبة", "تشاهد مباراة"], "quizOk": 0
+  },
+  "hi": {
+    "pos": "संज्ञा / क्रिया", "title": "match का क्या मतलब है? (5 अर्थ)",
+    "metaDesc": "match का क्या मतलब है? 5 अर्थ: मैच, जोड़ी, माचिस, मेल खाना, मिलाना। उदाहरणों सहित — LinguaBattle.",
+    "lede": "<b>match</b> कई अर्थों वाला अंग्रेज़ी शब्द है — संज्ञा भी, क्रिया भी। अर्थ पूरी तरह संदर्भ पर निर्भर है; यहाँ 5 सबसे आम अर्थ।",
+    "means": [
+      {"def": "मैच, मुक़ाबला (संज्ञा)", "en": "We watched the football match.", "t": "(मैच)"},
+      {"def": "माचिस की तीली (संज्ञा)", "en": "He lit a match.", "t": "(माचिस)"},
+      {"def": "जोड़ी, बढ़िया मेल (संज्ञा)", "en": "They're a perfect match.", "t": "(बढ़िया जोड़ी)"},
+      {"def": "मेल खाना, साथ जाना (क्रिया)", "en": "Your shoes match your bag.", "t": "(मेल खाते हैं)"},
+      {"def": "मिलाना, जोड़ना (क्रिया)", "en": "Match the words to the pictures.", "t": "(मिलाएँ)"}
+    ],
+    "relTitle": "अक्सर भ्रमित", "rel": ["match vs game", "match vs fit", "matching"],
+    "idiomTitle": "वाक्यांश", "idioms": ["a perfect match", "match up", "no match for"],
+    "quizQ": "“Your shoes match your bag” का क्या अर्थ है?", "quizA": ["तुम्हारे जूते बैग से मेल खाते हैं", "जूते बैग में रखो", "तुम मैच देख रहे हो"], "quizOk": 0
+  },
+  "ru": {
+    "pos": "сущ. / глагол", "title": "Что значит match? (5 значений)",
+    "metaDesc": "Что значит match? 5 значений: матч, пара, спичка, подходить, сопоставлять. С примерами — LinguaBattle.",
+    "lede": "<b>match</b> — многозначное английское слово (и существительное, и глагол). Значение полностью зависит от контекста; вот 5 самых частых.",
+    "means": [
+      {"def": "матч, состязание (сущ.)", "en": "We watched the football match.", "t": "(матч)"},
+      {"def": "спичка (сущ.)", "en": "He lit a match.", "t": "(спичка)"},
+      {"def": "пара, хорошее совпадение (сущ.)", "en": "They're a perfect match.", "t": "(идеальная пара)"},
+      {"def": "подходить, сочетаться (глагол)", "en": "Your shoes match your bag.", "t": "(сочетаются)"},
+      {"def": "сопоставлять, соединять (глагол)", "en": "Match the words to the pictures.", "t": "(сопоставь)"}
+    ],
+    "relTitle": "Часто путают", "rel": ["match vs game", "match vs fit", "matching"],
+    "idiomTitle": "Выражения", "idioms": ["a perfect match", "match up", "no match for"],
+    "quizQ": "Что значит «Your shoes match your bag»?", "quizA": ["Твои туфли сочетаются с сумкой", "Положи туфли в сумку", "Ты смотришь матч"], "quizOk": 0
+  },
+  "pt": {
+    "pos": "subst. / verbo", "title": "O que significa match? (5 significados)",
+    "metaDesc": "O que significa match? 5 significados: jogo, par, fósforo, combinar, parear. Com exemplos — LinguaBattle.",
+    "lede": "<b>match</b> é uma palavra inglesa com vários significados — substantivo e verbo. O sentido depende do contexto; aqui os 5 mais comuns.",
+    "means": [
+      {"def": "jogo, partida (subst.)", "en": "We watched the football match.", "t": "(jogo)"},
+      {"def": "fósforo (subst.)", "en": "He lit a match.", "t": "(fósforo)"},
+      {"def": "par, boa combinação (subst.)", "en": "They're a perfect match.", "t": "(par perfeito)"},
+      {"def": "combinar, ir com (verbo)", "en": "Your shoes match your bag.", "t": "(combinam)"},
+      {"def": "parear, relacionar (verbo)", "en": "Match the words to the pictures.", "t": "(pareie)"}
+    ],
+    "relTitle": "Frequentemente confundido", "rel": ["match vs game", "match vs fit", "matching"],
+    "idiomTitle": "Expressões", "idioms": ["a perfect match", "match up", "no match for"],
+    "quizQ": "O que significa «Your shoes match your bag»?", "quizA": ["Seus sapatos combinam com a bolsa", "Ponha os sapatos na bolsa", "Você assiste a um jogo"], "quizOk": 0
+  },
+  "ja": {
+    "pos": "名詞 / 動詞", "title": "matchの意味は？（5つの意味）",
+    "metaDesc": "matchの意味は？5つの意味：試合、相性、マッチ棒、合う、対応づける。例文付き — LinguaBattle.",
+    "lede": "<b>match</b> は意味の多い英単語 — 名詞でも動詞でも使う。意味は文脈次第；よく使う5つを紹介。",
+    "means": [
+      {"def": "試合（名詞）", "en": "We watched the football match.", "t": "（試合）"},
+      {"def": "マッチ棒（名詞）", "en": "He lit a match.", "t": "（マッチ）"},
+      {"def": "相性・好相性（名詞）", "en": "They're a perfect match.", "t": "（完璧な相性）"},
+      {"def": "合う、調和する（動詞）", "en": "Your shoes match your bag.", "t": "（合う）"},
+      {"def": "対応づける、結びつける（動詞）", "en": "Match the words to the pictures.", "t": "（対応づける）"}
+    ],
+    "relTitle": "混同しやすい語", "rel": ["match vs game", "match vs fit", "matching"],
+    "idiomTitle": "フレーズ", "idioms": ["a perfect match", "match up", "no match for"],
+    "quizQ": "「Your shoes match your bag」の意味は？", "quizA": ["靴がバッグと合っている", "靴をバッグに入れる", "試合を見ている"], "quizOk": 0
+  }
+}
